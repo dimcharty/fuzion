@@ -1,5 +1,36 @@
 [
  {
+  "id": "digest-2026-11-16",
+  "kind": "digest",
+  "category": "digest",
+  "title_uk": "Ранковий дайджест: 16 листопада",
+  "summary_uk": "Три головні події фінансового світу за минулу добу.",
+  "source": "Fuzion Societe",
+  "link": "https://t.me/fuzionsoc",
+  "items": [
+   {
+    "title_uk": "Брюссель готує для України позику на €45 млрд під гарантії бюджету ЄС",
+    "summary_uk": "План, що має допомогти закрити дефіцит фінансування Києва наступного року, представлять країнам ЄС у середу.",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1"
+   },
+   {
+    "title_uk": "Долар сягнув максимуму за 19 місяців",
+    "summary_uk": "Американську валюту підтримують очікування подальшого підвищення ставок Федеральною резервною системою.",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main"
+   },
+   {
+    "title_uk": "Економіка Китаю в жовтні сповільнилася сильніше за прогнози",
+    "summary_uk": "Промислове виробництво, роздрібні продажі та інвестиції виявилися нижчими за оцінки аналітиків.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+   }
+  ],
+  "published": "2026-11-16T15:43:54+00:00",
+  "added": "2026-11-16T15:43:54+00:00"
+ },
+ {
   "id": "51ff637b1133",
   "source": "Financial Times",
   "link": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1",
