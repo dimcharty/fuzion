@@ -33,7 +33,7 @@ jobs:
       - name: Post to Telegram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT: "@finpuls_ua"
+          TELEGRAM_CHAT: "-1004300440703"   # channel id; stays valid if the public link changes
         run: python scripts/post_telegram.py
       - name: Save
         run: |

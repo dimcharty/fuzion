@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 INBOX = ROOT / "data" / "inbox.json"
 KEEP = 300          # newest items kept in the inbox
 TEASER_MAX = 280    # characters of the publisher's teaser we keep
-UA = "FinPulsBot/1.0 (+https://t.me/finpuls_ua; RSS reader)"
+UA = "FinPulsBot/1.0 (+https://t.me/fuzionsoc; RSS reader)"
 
 
 def strip(text):

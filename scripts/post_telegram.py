@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Send every not-yet-posted item in data/posts.json to the Telegram channel.
 
-Needs TELEGRAM_BOT_TOKEN (GitHub secret) and TELEGRAM_CHAT (e.g. @finpuls_ua).
+Needs TELEGRAM_BOT_TOKEN (GitHub secret) and TELEGRAM_CHAT (e.g. @fuzionsoc).
 """
 import html
 import json
