@@ -11,6 +11,17 @@
   "seen": "2026-11-16T15:44:09+00:00"
  },
  {
+  "id": "ecff86a41a1e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Stocks Fall Ahead of Nvidia, Trump-Xi-Putin Summit; Huang’s Potential Return to Nvidia",
+  "teaser": "US equity futures fall ahead of a busy week for markets, including Nvidia earnings, Anthropic’s IPO, and a trilateral meeting between Presidents Trump, Xi and Putin. Jensen Huang is reportedly discussing a possible return as CEO. Airlines scramble to recover from the longest…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-brief-11-16-2026-video",
+  "published": "2026-11-16T15:22:56+00:00",
+  "seen": "2026-11-16T15:45:14+00:00"
+ },
+ {
   "id": "7a1df2698c83",
   "source": "MarketWatch",
   "lang": "en",
@@ -3286,17 +3297,6 @@
   "teaser": "",
   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
   "published": "2026-10-29T13:15:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "517fa132c460",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Christine Lagarde departs at a moment of peril",
-  "teaser": "Her successor as ECB chief will have an unenviable job",
-  "link": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
-  "published": "2026-10-29T11:26:26+00:00",
   "seen": "2026-11-16T00:29:01+00:00"
  }
 ]
