@@ -1,5 +1,5 @@
 // Network first, cache as offline fallback.
-const CACHE = "finpuls-v1";
+const CACHE = "fuzion-v1";
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", e => e.waitUntil(self.clients.claim()));
 self.addEventListener("fetch", e => {
