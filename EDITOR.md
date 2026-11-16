@@ -9,13 +9,18 @@ GitHub Actions does the rest (reads feeds hourly, draws cards, posts to Telegram
    and `data/posts.json` (already published).
 2. Candidates: inbox items from the last 12 hours whose `id` is not in `posts.json`.
 3. Pick 4-6. Prefer, in order:
+   - first, anything that touches Ukraine: its lenders and aid (IMF, World Bank, EBRD, EU, G7),
+     sovereign debt, sanctions on Russia, frozen assets, grain and Black Sea shipping, energy,
+     reconstruction, the hryvnia. Always include such a story when a non-Ukrainian source has one;
    - stories that move money: central-bank decisions, inflation and jobs data, big market moves,
      major corporate or bank events, sovereign debt, energy and commodity prices;
-   - anything touching Ukraine, its lenders, grain, energy, sanctions or reconstruction;
    - higher `weight` sources; the same story reported by several sources (publish it once,
      from the highest-weight source);
-   - at most 2 posts per source per run. Skip opinion columns, lifestyle, live blogs,
-     sponsored items, and anything already covered in the last 24 hours of `posts.json`.
+   - the value of the channel is foreign reporting that is not available in Ukrainian, so take
+     items from Ukrainian-language sources only when nothing else covers an important story;
+   - at most 2 posts per source per run. Skip opinion columns, personal-finance advice letters,
+     lifestyle, live blogs, podcasts and video shows, sponsored items, gossip about executives'
+     private lives, and anything already covered in the last 24 hours of `posts.json`.
    If nothing is worth publishing, publish nothing and stop.
 4. For each pick write:
    - `title_uk`: a Ukrainian headline, 15-110 characters, factual, no clickbait, no final full stop;
