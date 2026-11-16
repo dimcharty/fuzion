@@ -89,8 +89,8 @@ def make(post, out):
     small = font("Inter.ttf", 26, 500)
     d.text((PAD, H - 92), f"Джерело: {post['source']}", font=small, fill=MIST)
     brand = font("PlayfairDisplay.ttf", 34, 700)
-    bw = d.textlength("ФінПульс", font=brand)
-    d.text((W - PAD - bw, H - 98), "ФінПульс", font=brand, fill=GOLD)
+    bw = d.textlength("Fuzion Societe", font=brand)
+    d.text((W - PAD - bw, H - 98), "Fuzion Societe", font=brand, fill=GOLD)
     img.save(out, "PNG", optimize=True)
 
 

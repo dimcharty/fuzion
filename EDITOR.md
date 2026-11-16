@@ -1,4 +1,4 @@
-# ФінПульс: editor's procedure
+# Fuzion Societe: editor's procedure
 
 One editing run turns fresh English-language finance headlines into short Ukrainian posts.
 GitHub Actions does the rest (reads feeds hourly, draws cards, posts to Telegram, serves the site).
