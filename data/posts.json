@@ -1,5 +1,65 @@
 [
  {
+  "id": "38f68c06f957",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
+  "title_uk": "Крипторинок почав тиждень зі зниження після розпродажу",
+  "summary_uk": "Біткоїн та Ethereum знову торгуються нижче ключових рівнів, повідомляє The Wall Street Journal. Апетит інвесторів до ризику залишається стриманим після нещодавнього розпродажу.",
+  "category": "crypto",
+  "published": "2026-11-16T05:37:00+00:00",
+  "added": "2026-11-16T16:30:37+00:00"
+ },
+ {
+  "id": "28748d09363d",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-iron-ore-futures-hit-four-year-low-on-weak-steel-outlook",
+  "title_uk": "Ф'ючерси на залізну руду в Китаї впали до чотирирічного мінімуму",
+  "summary_uk": "Китайські ф'ючерси на залізну руду опустилися до найнижчого рівня за чотири роки. За даними Bloomberg, трейдери дедалі песимістичніше оцінюють зимовий попит на тлі слабких перспектив сталеливарної галузі. Залізна руда є одним із помітних експортних товарів України.",
+  "category": "markets",
+  "published": "2026-11-16T04:33:46+00:00",
+  "added": "2026-11-16T16:30:37+00:00"
+ },
+ {
+  "id": "7a1df2698c83",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+  "title_uk": "Акції Nvidia дешевшають далі після нового правила США щодо доступу Китаю до чипів",
+  "summary_uk": "Міністерство торгівлі США оголосило про нове правило, яке має обмежити віддалений доступ Китаю до передових чипів. Після цього акції Nvidia продовжили зниження, пише MarketWatch.",
+  "category": "companies",
+  "published": "2026-11-16T15:22:00+00:00",
+  "added": "2026-11-16T16:30:37+00:00"
+ },
+ {
+  "id": "8908f147eca0",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/canada-inflation-holds-steady-at-3-1-in-october",
+  "title_uk": "Канадський долар упав до мінімуму з 2025 року після даних про інфляцію 3,1%",
+  "summary_uk": "Річна інфляція в Канаді у жовтні залишилася на рівні 3,1%: споживчі ціни підштовхували вгору дорожчі енергоносії. Водночас подешевшали тарифи мобільного зв'язку, а зростання орендної плати сповільнилося. На цьому тлі курс канадського долара опустився до найнижчого рівня з 2025 року, повідомляє Bloomberg.",
+  "category": "economy",
+  "published": "2026-11-16T13:30:01+00:00",
+  "added": "2026-11-16T16:30:37+00:00"
+ },
+ {
+  "id": "4fb92dcce288",
+  "source": "Економічна правда",
+  "link": "https://epravda.com.ua/biznes/golova-kompaniji-wildberries-potrapila-pid-sankciji-yes-827678/",
+  "title_uk": "ЄС розширив санкції проти Росії: у списках 145 осіб і компаній",
+  "summary_uk": "Міністри закордонних справ країн Євросоюзу погодили оновлення санкційних списків щодо Росії. До них внесли 145 фізичних і юридичних осіб, серед яких керівниця Wildberries Тетяна Кім. Для України це ще один крок у посиленні економічного тиску на державу-агресора.",
+  "category": "ukraine",
+  "published": "2026-11-16T11:13:00+00:00",
+  "added": "2026-11-16T16:30:37+00:00"
+ },
+ {
+  "id": "44127d1efbd0",
+  "source": "Економічна правда",
+  "link": "https://epravda.com.ua/finances/finansuvannya-yes-ukrajina-otrimaye-mayzhe-8-mlrd-yevro-za-programoyu-ukraine-facility-827674/",
+  "title_uk": "Рада ЄС схвалила рекордний транш для України — майже €8 млрд",
+  "summary_uk": "Рада Європейського Союзу погодила виділення Україні майже 8 млрд євро, і цю суму називають рекордною. Подробиці щодо умов і строків надходження коштів — у матеріалі «Економічної правди».",
+  "category": "ukraine",
+  "published": "2026-11-16T10:13:00+00:00",
+  "added": "2026-11-16T16:30:37+00:00"
+ },
+ {
   "id": "digest-2026-11-16",
   "kind": "digest",
   "category": "digest",
