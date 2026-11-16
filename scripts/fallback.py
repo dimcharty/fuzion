@@ -15,7 +15,8 @@ def main():
     inbox = json.loads(INBOX.read_text(encoding="utf-8")) if INBOX.exists() else []
     now = datetime.now(timezone.utc)
     newest = max((p.get("added", "") for p in posts), default="")
-    if newest and now - datetime.fromisoformat(newest) < timedelta(hours=STALE_HOURS):
+    # Nothing published yet (first run) or recent edited posts exist: do nothing.
+    if not newest or now - datetime.fromisoformat(newest) < timedelta(hours=STALE_HOURS):
         return
     have = {p["id"] for p in posts}
     fresh = [i for i in inbox if i["id"] not in have
