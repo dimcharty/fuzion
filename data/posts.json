@@ -1,5 +1,65 @@
 [
  {
+  "id": "380f26cf0a4d",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
+  "title_uk": "Золото трохи подорожчало, але залишається біля річних мінімумів",
+  "summary_uk": "За даними The Wall Street Journal, золото частково відіграло втрати після падіння на 4,5% минулого тижня. Попри це, ціни тримаються поблизу найнижчих рівнів за рік.",
+  "category": "markets",
+  "published": "2026-11-16T03:33:00+00:00",
+  "added": "2026-11-16T12:04:43+00:00"
+ },
+ {
+  "id": "22318de9937e",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
+  "title_uk": "Долар зріс до максимуму за 19 місяців на очікуваннях підвищення ставок ФРС",
+  "summary_uk": "The Wall Street Journal повідомляє, що американська валюта подорожчала до найвищого рівня за 19 місяців. Долар підтримують очікування подальшого підвищення процентних ставок Федеральною резервною системою США.",
+  "category": "markets",
+  "published": "2026-11-16T07:45:00+00:00",
+  "added": "2026-11-16T12:04:43+00:00"
+ },
+ {
+  "id": "1822d018c565",
+  "source": "CNBC",
+  "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+  "title_uk": "Економіка Китаю в жовтні сповільнилася сильніше за прогнози",
+  "summary_uk": "За даними CNBC, промислове виробництво, роздрібні продажі та інвестиції в Китаї в жовтні виявилися нижчими за очікування. Аналітики зазначають, що через згасання внутрішнього попиту країна дедалі більше залежить від зовнішнього і стає вразливішою до потрясінь за кордоном.",
+  "category": "economy",
+  "published": "2026-11-16T03:53:59+00:00",
+  "added": "2026-11-16T12:04:43+00:00"
+ },
+ {
+  "id": "a623f5871763",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e?syn-25a6b1a6=1",
+  "title_uk": "Економіка Японії скоротилася вперше за рік",
+  "summary_uk": "Як пише Financial Times, зростання ВВП Японії стримали слабкі споживчі витрати та рекордні дощі. Спад ускладнює плани щодо процентних ставок у країні.",
+  "category": "economy",
+  "published": "2026-11-16T04:59:28+00:00",
+  "added": "2026-11-16T12:04:43+00:00"
+ },
+ {
+  "id": "f95b8cb7c059",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea",
+  "title_uk": "Пшениця дешевшає на очікуваннях прогресу в переговорах щодо війни в Україні",
+  "summary_uk": "Bloomberg повідомляє, що ф'ючерси на пшеницю в Чикаго знизилися. Трейдери розраховують на поступ у переговорах про завершення російсько-української війни, що могло б вивільнити постачання зерна через Чорне море. Для України це важливо, адже зерно є однією з основних статей її експорту.",
+  "category": "ukraine",
+  "published": "2026-11-16T04:11:22+00:00",
+  "added": "2026-11-16T12:04:43+00:00"
+ },
+ {
+  "id": "0e618c87dc46",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1",
+  "title_uk": "Брюссель запропонує Україні позику на €45 млрд під гарантії бюджету ЄС",
+  "summary_uk": "За даними Financial Times, Єврокомісія готує план позики для України на 45 млрд євро, кошти на яку залучать під бюджет ЄС. Він має допомогти закрити дефіцит фінансування Києва наступного року. Країнам-членам пропозицію планують представити в середу.",
+  "category": "ukraine",
+  "published": "2026-11-16T05:00:22+00:00",
+  "added": "2026-11-16T12:04:43+00:00"
+ },
+ {
   "id": "90b50869c860",
   "source": "Bloomberg",
   "link": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
