@@ -1,5 +1,65 @@
 [
  {
+  "id": "51ff637b1133",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1",
+  "title_uk": "Найбільші IPO цього року принесли інвесторам збитки",
+  "summary_uk": "За підрахунками Financial Times, акції десяти найбільших компаній, що вийшли на біржу у 2026 році, подешевшали в середньому більш ніж на 20%. Видання пов'язує це зі згасанням ажіотажу навколо штучного інтелекту після чотирьох років прибуткових розміщень.",
+  "category": "markets",
+  "published": "2026-11-16T05:00:11+00:00",
+  "added": "2026-11-16T12:30:35+00:00"
+ },
+ {
+  "id": "9f127d7547d0",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/pro/central-banking/ecb-urges-overhauls-to-protect-financial-system-from-ai-government-debt-94eaac4e?mod=rss_markets_main",
+  "title_uk": "ЄЦБ закликає до реформ, щоб захистити фінансову систему від ризиків ШІ та держборгу",
+  "summary_uk": "Віцепрезидент Європейського центрального банку заявив, що прагнення Європи розширити небанківське фінансування бізнесу має супроводжуватися заходами для збереження фінансової стабільності. Серед загроз для системи The Wall Street Journal називає штучний інтелект і державний борг.",
+  "category": "policy",
+  "published": "2026-11-16T09:08:00+00:00",
+  "added": "2026-11-16T12:30:35+00:00"
+ },
+ {
+  "id": "5f965772d21d",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/investing/stock-futures-slip-ahead-of-pivotal-week-for-ai-trade-with-nvidia-anthropic-in-focus-c1768330?mod=rss_markets_main",
+  "title_uk": "Ф'ючерси на акції США знижуються перед звітом Nvidia та розміщенням Anthropic",
+  "summary_uk": "Ф'ючерси на американські фондові індекси пішли вниз після нового послаблення азійських акцій, пов'язаних зі штучним інтелектом. Як пише The Wall Street Journal, інвестори чекають на квартальний звіт Nvidia у вівторок та визначення ціни первинного розміщення акцій Anthropic.",
+  "category": "markets",
+  "published": "2026-11-16T09:43:00+00:00",
+  "added": "2026-11-16T12:30:35+00:00"
+ },
+ {
+  "id": "7bf129cba55f",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/canadian-natural-buys-advantage-energy-to-boost-alberta-assets",
+  "title_uk": "Canadian Natural купує Advantage Energy за 2,255 млрд канадських доларів",
+  "summary_uk": "Canadian Natural Resources погодилася придбати Advantage Energy за 2,255 млрд канадських доларів (близько $1,6 млрд). Bloomberg зазначає, що це продовжує низку угод у нафтогазовій галузі Канади, де конфлікти на Близькому Сході та в Україні підвищують попит на альтернативні джерела постачання.",
+  "category": "energy",
+  "published": "2026-11-16T09:51:07+00:00",
+  "added": "2026-11-16T12:30:35+00:00"
+ },
+ {
+  "id": "be71a52b07bc",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video",
+  "title_uk": "Трамп, Сі та Путін готуються до рідкісної тристоронньої зустрічі на саміті АТЕС",
+  "summary_uk": "За даними Bloomberg, президенти США, Китаю та Росії мають провести тристоронню зустріч у четвер на полях саміту АТЕС у Шеньчжені. Для України такі переговори важливі, адже в них бере участь лідер Росії.",
+  "category": "world",
+  "published": "2026-11-16T00:34:26+00:00",
+  "added": "2026-11-16T12:30:35+00:00"
+ },
+ {
+  "id": "2d13742de793",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
+  "title_uk": "Україна вдарила по Кримському мосту під час рекордної атаки дронів",
+  "summary_uk": "Financial Times повідомляє про удар України по Кримському мосту в межах наймасштабнішої атаки безпілотників. За даними міноборони Росії, за добу було перехоплено або знищено найбільшу кількість дронів від початку війни.",
+  "category": "ukraine",
+  "published": "2026-11-16T10:29:11+00:00",
+  "added": "2026-11-16T12:30:35+00:00"
+ },
+ {
   "id": "380f26cf0a4d",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
