@@ -33,7 +33,7 @@ jobs:
       - name: Post to Telegram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT: ${{ vars.TELEGRAM_CHAT }}
+          TELEGRAM_CHAT: "@finpuls_ua"
         run: python scripts/post_telegram.py
       - name: Save
         run: |
