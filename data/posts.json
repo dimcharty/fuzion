@@ -1,5 +1,55 @@
 [
  {
+  "id": "8f70388f2dbb",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
+  "title_uk": "Diamondback купує активи Double Eagle приблизно за $5 млрд",
+  "summary_uk": "Американська Diamondback Energy домовилася придбати частину дочірніх компаній приватного нафтовидобувника Double Eagle, розрахувавшись грошима та акціями. Як пише Bloomberg, угода зміцнить позиції компанії серед найбільших операторів найпродуктивнішого сланцевого басейну світу.",
+  "category": "companies",
+  "published": "2026-11-16T11:57:49+00:00",
+  "added": "2026-11-16T20:29:54+00:00"
+ },
+ {
+  "id": "5382338fb58f",
+  "source": "CNBC",
+  "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+  "title_uk": "Американська нафта подешевшала до $87 за барель",
+  "summary_uk": "За даними CNBC, ціни на нафту знижуються на тлі відновлення експорту з Близького Сходу. На ринок тиснуть і прогнози, які передбачають надлишок нафти в четвертому кварталі.",
+  "category": "energy",
+  "published": "2026-11-16T16:17:39+00:00",
+  "added": "2026-11-16T20:29:54+00:00"
+ },
+ {
+  "id": "86245ac55376",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
+  "title_uk": "Ворш: ФРС почала моделювати вплив штучного інтелекту на економіку",
+  "summary_uk": "Голова Федеральної резервної системи Кевін Ворш заявив у понеділок, що фахівці регулятора лише починають розробляти сценарії того, як поширення ШІ в бізнесі та повсякденному житті позначиться на економіці США. Про це повідомляє MarketWatch.",
+  "category": "policy",
+  "published": "2026-11-16T17:53:00+00:00",
+  "added": "2026-11-16T20:29:54+00:00"
+ },
+ {
+  "id": "8018632f20d9",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025",
+  "title_uk": "Євро впав нижче $1,10 уперше з квітня 2025 року",
+  "summary_uk": "Єдина європейська валюта оновила мінімум за 19 місяців, пише Bloomberg. Долар підтримують очікування подальшого підвищення процентних ставок у США. Для України курс євро до долара важливий, бо від нього залежить і крос-курс гривні до обох валют.",
+  "category": "markets",
+  "published": "2026-11-16T16:01:02+00:00",
+  "added": "2026-11-16T20:29:54+00:00"
+ },
+ {
+  "id": "18bbcb67cd7e",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
+  "title_uk": "Під санкції ЄС потрапила найбагатша жінка Росії, засновниця Wildberries",
+  "summary_uk": "Financial Times повідомляє, що до нового пакета санкцій Євросоюзу через війну проти України внесли засновницю найбільшого російського онлайн-ритейлера Wildberries. Її називають найбагатшою жінкою Росії. Це ще один приклад того, як обмеження поширюються на великий російський приватний бізнес.",
+  "category": "ukraine",
+  "published": "2026-11-16T17:11:52+00:00",
+  "added": "2026-11-16T20:29:54+00:00"
+ },
+ {
   "id": "38f68c06f957",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
