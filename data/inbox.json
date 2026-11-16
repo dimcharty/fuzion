@@ -1,5 +1,27 @@
 [
  {
+  "id": "be71a52b07bc",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Trump, Xi and Putin Set for Rare APEC Trilateral Talks",
+  "teaser": "US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to hold a rare trilateral meeting Thursday on the sidelines of the APEC summit in Shenzhen. Reporting from Shenzhen, Bloomberg’s Stephen Engle says that while the White House is…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video",
+  "published": "2026-11-16T00:34:26+00:00",
+  "seen": "2026-11-16T00:37:53+00:00"
+ },
+ {
+  "id": "ebfe6689ab8b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces",
+  "teaser": "Goldman Sachs Group Inc. and Morgan Stanley are taking opposing views on the yen, highlighting the increasing difficulty in forecasting a currency being pulled in different directions.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-morgan-stanley-split-on-yen-outlook-on-diverging-forces",
+  "published": "2026-11-16T00:18:05+00:00",
+  "seen": "2026-11-16T00:37:53+00:00"
+ },
+ {
   "id": "d67f5ed4db09",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -3275,28 +3297,6 @@
   "teaser": "Rising oil prices are only part of the problem",
   "link": "https://www.economist.com/finance-and-economics/2026/07/14/americas-hormuz-brinkmanship-is-worsening-a-global-fuel-crunch",
   "published": "2026-07-14T18:22:01+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "9d8078019b96",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "What investment gurus get wrong",
-  "teaser": "To see a country’s financial follies, look to its celebrity advisers",
-  "link": "https://www.economist.com/finance-and-economics/2026/07/14/what-investment-gurus-get-wrong",
-  "published": "2026-07-14T17:21:18+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "97971687c52f",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "The stubborn scarcity of female breadwinners",
-  "teaser": "Wives who out-earn their husbands remain rare in America",
-  "link": "https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners",
-  "published": "2026-07-13T19:12:11+00:00",
   "seen": "2026-11-16T00:29:01+00:00"
  }
 ]
