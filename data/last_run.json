@@ -1,0 +1,10 @@
+{
+ "tried": 5,
+ "errors": [
+  "e82cc9c0a41a: HTTPError 400 Bad Request: chat not found",
+  "feb50d084b86: HTTPError 400 Bad Request: chat not found",
+  "d67f5ed4db09: HTTPError 400 Bad Request: chat not found",
+  "898478088391: HTTPError 400 Bad Request: chat not found",
+  "90b50869c860: HTTPError 400 Bad Request: chat not found"
+ ]
+}
