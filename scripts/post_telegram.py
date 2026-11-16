@@ -47,6 +47,7 @@ def main():
     posts = json.loads(POSTS.read_text(encoding="utf-8"))
     done = set(json.loads(STATE.read_text())) if STATE.exists() else set()
     todo = [p for p in reversed(posts) if p["id"] not in done][:MAX_PER_RUN]  # oldest first
+    errors = []
     for p in todo:
         try:
             send_photo(token, chat, ROOT / "cards" / f"{p['id']}.png", caption(p))
@@ -54,9 +55,18 @@ def main():
             print("posted", p["id"])
             time.sleep(3)
         except Exception as e:
-            print("FAILED", p["id"], type(e).__name__, file=sys.stderr)
+            detail = ""
+            if hasattr(e, "read"):  # Telegram's own error text; never contains the token
+                try:
+                    detail = json.loads(e.read()).get("description", "")
+                except Exception:
+                    pass
+            errors.append(f"{p['id']}: {type(e).__name__} {getattr(e, 'code', '')} {detail}".strip())
+            print("FAILED", errors[-1], file=sys.stderr)
     live = {p["id"] for p in posts}
     STATE.write_text(json.dumps(sorted(done & live)))
+    (ROOT / "data" / "last_run.json").write_text(json.dumps(
+        {"tried": len(todo), "errors": errors}, ensure_ascii=False, indent=1))
 
 
 if __name__ == "__main__":
