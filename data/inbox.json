@@ -1,5 +1,148 @@
 [
  {
+  "id": "6af642a77de8",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Dollar Erases Liberation Day Loss as ‘Sell America’ Fear Fades",
+  "teaser": "The dollar has recovered all of its decline since President Donald Trump announced tariffs on so-called Liberation Day. A resilient economy, rising interest rates and the artificial intelligence boom have boosted the US currency’s appeal.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/dollar-erases-liberation-day-loss-as-sell-america-fear-fades",
+  "published": "2026-11-16T18:24:06+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "655f069a908c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
+  "teaser": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
+  "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
+  "published": "2026-11-16T18:19:17+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "5b472fe76c70",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "US Shale Producers Take a Chance on Going Without Hedges",
+  "teaser": "Oil producers in the US shale patch are souring on hedges that took the sheen off an otherwise stellar quarter, in a bet that stronger balance sheets will be enough to weather a price collapse.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/us-oil-producers-sour-on-hedges-as-stronger-finances-offer-cover",
+  "published": "2026-11-16T18:03:51+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "b40cb0c1c8f3",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "What’s the most tax-efficient way to donate to charity?",
+  "teaser": "How to make your donations beneficial for both you and the recipient",
+  "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+  "published": "2026-11-16T17:55:00+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "86245ac55376",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "How will AI shake up the economy? Warsh says the Fed is starting to figure that out.",
+  "teaser": "The Federal Reserve staff is in the early days of developing various scenarios of how artificial intelligence’s growing role in business and daily life will impact the economy, Fed Chairman Kevin Warsh said Monday.",
+  "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
+  "published": "2026-11-16T17:53:00+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "24db47889bd4",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Lula Worries Slam Brazil Markets From Real to Corporate Bonds",
+  "teaser": "Brazilian assets slumped across the board as traders continue to search for a floor while fretting over the outlook for the nation’s finances under President Luiz Inácio Lula da Silva.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
+  "published": "2026-11-16T17:41:36+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "ebcb97b0e30f",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+  "teaser": "",
+  "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+  "published": "2026-11-16T17:29:04+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "9c14c8bdfa7e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Lilly Pushes Buying Spree Beyond $32B With Calytrix Deal",
+  "teaser": "Eli Lilly & Co. agreed to buy closely held Calytrix Bio Inc. in a deal that could be worth up to $1.5 billion, the latest in the drugmaker’s $32 billion wave of acquisitions in 2026 as it builds out its cancer and immunology businesses. Sam Fazeli, Bloomberg Intelligence,…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-16/lilly-pushes-buying-spree-beyond-32b-with-calytrix-deal-video",
+  "published": "2026-11-16T17:25:21+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "18bbcb67cd7e",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Russia’s richest woman hit by EU sanctions",
+  "teaser": "Founder of country’s largest online retailer Wildberries targeted in latest round of EU sanctions over war in Ukraine",
+  "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
+  "published": "2026-11-16T17:11:52+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "78cd3cb6238c",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Athleisure Faces Price Pressures",
+  "teaser": "Regis Schultz, CEO of JD Sports, discusses the state of sports fashion amid the popularity of running. He says the US is \"the most resilient customer\" and that JD stores haven't felt much tariff impact because the brands they carry are taking most of the hit. Schultz gives his…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-16/athleisure-faces-price-pressures-video",
+  "published": "2026-11-16T17:06:05+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "625a1d2df31e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Think Twice, Bloomberg’s New Daily Trivia Game",
+  "teaser": "Every right answer means the next question is worth more. Go big in Bloomberg’s new daily trivia game Think Twice. Here’s how to play. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-16/think-twice-bloomberg-s-new-daily-trivia-game-video",
+  "published": "2026-11-16T17:01:11+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "1be4f2da79c8",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO",
+  "teaser": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-surveillance-11-16-2026-video",
+  "published": "2026-11-16T16:56:51+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
+  "id": "66d778b09517",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "The Chipdollar vs. The Petrodollar",
+  "teaser": "A huge story at a major moment.",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-16/the-chipdollar-vs-the-petrodollar",
+  "published": "2026-11-16T16:31:34+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
   "id": "d05ce939e6ec",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -20,6 +163,17 @@
   "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
   "published": "2026-11-16T16:20:00+00:00",
   "seen": "2026-11-16T16:30:49+00:00"
+ },
+ {
+  "id": "7facfcae4582",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Miners Discuss Cross-Border Tie-ups to Tap Argentina’s $40 Billion Copper Belt",
+  "teaser": "Mining companies are discussing potential cross-border partnerships as Argentina’s emerging copper industry looks to tap infrastructure and expertise on the Chilean side of the Andes, according to Chile’s top mining official.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/miners-discuss-cross-border-tie-ups-to-tap-argentina-s-40-billion-copper-belt",
+  "published": "2026-11-16T16:18:00+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
  },
  {
   "id": "5382338fb58f",
@@ -979,6 +1133,17 @@
   "seen": "2026-11-16T12:30:55+00:00"
  },
  {
+  "id": "6c593365eee9",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Diesel Falls Below $6 a Gallon, Easing Inflationary Pressure",
+  "teaser": "US retail diesel prices dropped below $6 a gallon for the first time since early September, taking some pressure off a key inflationary input that has pushed the price of energy and food higher this fall.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/diesel-falls-below-6-a-gallon-easing-key-inflationary-pressure",
+  "published": "2026-11-16T09:17:11+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
   "id": "9f127d7547d0",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -1021,6 +1186,17 @@
   "link": "https://epravda.com.ua/finances/paket-pidtrimki-yes-zimova-dopomoga-ukrajini-dlya-energetiki-ta-transportu-827668/",
   "published": "2026-11-16T08:27:00+00:00",
   "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
+  "id": "ba667da03482",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "European Stocks Drop Over AI Concerns as Tech Sector Tumbles",
+  "teaser": "European stocks reversed gains to trade lower as lingering concerns over the artificial-intelligence trade spurred declines in technology shares.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/european-stocks-fluctuate-as-ai-concerns-keep-investors-on-edge",
+  "published": "2026-11-16T08:07:41+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
  },
  {
   "id": "9c68e8f48757",
@@ -2717,6 +2893,17 @@
   "seen": "2026-11-16T00:29:01+00:00"
  },
  {
+  "id": "d581cf99b01c",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Cambridge Associates & KBW Ventures on Investing in 2027",
+  "teaser": "David Druley, CEO of Cambridge Associates and Ekta Tolani, Chief Investment Officer, KBW Ventures discuss asset allocation, investment opportunities and areas of risk heading into 2027 with Bloomberg’s Farah Elbahrawy at Bloomberg Invest Dubai 2026. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-12/cambridge-associates-kbw-ventures-on-investing-in-2027-video",
+  "published": "2026-11-12T10:39:56+00:00",
+  "seen": "2026-11-16T18:35:46+00:00"
+ },
+ {
   "id": "6b0e85e7ea0c",
   "source": "The Economist",
   "lang": "en",
@@ -3110,193 +3297,6 @@
   "teaser": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
   "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
   "published": "2026-11-06T20:42:28+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "b499f2aafc47",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "Outside groups urge congressional Dems to target corporate interests over Trump",
-  "teaser": "Groups and strategists advising Democrats are warning them to use their investigative tools on corporate interests, rather than on President Donald Trump.",
-  "link": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
-  "published": "2026-11-06T19:52:46+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "42717f6da763",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-  "teaser": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
-  "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-  "published": "2026-11-06T19:05:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "9c5da62bab37",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-  "teaser": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
-  "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-  "published": "2026-11-06T17:09:53+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "46e9c7984e27",
-  "source": "European Central Bank",
-  "lang": "en",
-  "weight": 8,
-  "title": "ECB publishes consolidated banking data for end-June 2026",
-  "teaser": "",
-  "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
-  "published": "2026-11-06T09:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "827ce5d9d3b4",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Markets realise they hate America’s blue wave",
-  "teaser": "Investors worry that Democratic dominance will slow down the AI boom",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-  "published": "2026-11-05T23:41:07+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "07759ba46040",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "The 2027 Tax Brackets Are Here. See Where You Land.",
-  "teaser": "Inflation adjustments to tax brackets, the standard deduction, the child tax credit and more are meant to give taxpayers relief from rising costs of living.",
-  "link": "https://www.wsj.com/personal-finance/taxes/the-2027-tax-brackets-are-here-see-where-you-land-c20ada58?mod=rss_markets_main",
-  "published": "2026-11-05T21:04:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "0aebc190eec6",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-  "teaser": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
-  "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-  "published": "2026-11-05T20:17:16+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "bb158f4d1758",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-  "teaser": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
-  "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
-  "published": "2026-11-05T16:34:33+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "0224349908e0",
-  "source": "Federal Reserve",
-  "lang": "en",
-  "weight": 8,
-  "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-  "teaser": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-  "published": "2026-11-05T16:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "b603a54a22ae",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-  "teaser": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-  "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-  "published": "2026-11-05T12:57:10+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "a795c0517ee4",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Indebted tycoons haunt China’s banking system",
-  "teaser": "Lenders are feeling the hangover from years of Wild East capitalism",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
-  "published": "2026-11-05T11:54:22+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "70fc34d7854b",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "AI is turning protectionists into free traders",
-  "teaser": "Barriers to commerce are rising—except in technology",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
-  "published": "2026-11-05T10:22:20+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "ce6aec93da45",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "William Nordhaus, favourite economist of the right and the left",
-  "teaser": "The Nobel-prizewinner was fascinated by what happens when markets fail",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
-  "published": "2026-11-05T10:17:54+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "ae12e9ef0f2f",
-  "source": "European Central Bank",
-  "lang": "en",
-  "weight": 8,
-  "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-  "teaser": "",
-  "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-  "published": "2026-11-05T08:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "6e6b7cd9500f",
-  "source": "European Central Bank",
-  "lang": "en",
-  "weight": 8,
-  "title": "Piero Cipollone: Shaping the future of money",
-  "teaser": "",
-  "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
-  "published": "2026-11-05T07:30:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "024a8096c492",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "What markets make of the midterms",
-  "teaser": "Democrats triumph. Investors yawn",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
-  "published": "2026-11-04T21:48:18+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "46dcaa1a4bf4",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-  "teaser": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
-  "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-  "published": "2026-11-04T21:18:44+00:00",
   "seen": "2026-11-16T00:29:01+00:00"
  }
 ]
