@@ -40,6 +40,7 @@
   h2 { font: 700 22px/1.25 "Playfair", Georgia, serif; margin: 8px 0 8px; }
   article p { margin: 0 0 12px; color: #37424F; }
   .src { color: var(--navy); font-weight: 600; text-decoration: none; border-bottom: 1px solid var(--gold); }
+  .digest { margin: 0; padding-left: 22px; color: #37424F; } .digest li { margin: 0 0 12px; } .digest strong { color: var(--ink); }
   .empty { text-align: center; color: var(--slate); padding: 60px 0; }
   footer { text-align: center; color: var(--slate); font-size: 13px; padding: 0 20px 40px; }
 </style>
@@ -54,7 +55,7 @@
 <main><div class="wrap" id="feed"><p class="empty">Завантаження…</p></div></main>
 <footer>Короткі перекази власними словами. Усі права на оригінальні матеріали належать їхнім видавцям.</footer>
 <script>
-const CATS = {all:"Усе", markets:"Ринки", economy:"Економіка", policy:"Монетарна політика", banks:"Банки",
+const CATS = {all:"Усе", digest:"Дайджест", markets:"Ринки", economy:"Економіка", policy:"Монетарна політика", banks:"Банки",
   companies:"Компанії", energy:"Енергетика", crypto:"Крипто", ukraine:"Україна", world:"Світ"};
 let posts = [], current = "all";
 const el = (t, p = {}, ...kids) => { const n = Object.assign(document.createElement(t), p); n.append(...kids); return n; };
@@ -69,8 +70,12 @@ function draw() {
       el("div", {className: "body"},
         el("div", {className: "meta"}, CATS[p.category] || "Фінанси", el("span", {}, when(p.published))),
         el("h2", {}, p.title_uk),
-        el("p", {}, p.summary_uk),
-        el("a", {className: "src", href: safe, target: "_blank", rel: "noopener"}, `Читати в оригіналі — ${p.source}`)));
+        ...(p.kind === "digest"
+          ? [el("ol", {className: "digest"}, ...p.items.map(i => el("li", {},
+              el("strong", {}, i.title_uk), el("span", {}, " " + i.summary_uk + " "),
+              el("a", {className: "src", href: /^https?:\/\//.test(i.link) ? i.link : "#", target: "_blank", rel: "noopener"}, i.source))))]
+          : [el("p", {}, p.summary_uk),
+             el("a", {className: "src", href: safe, target: "_blank", rel: "noopener"}, `Читати в оригіналі — ${p.source}`)])));
   }) : [el("p", {className: "empty"}, "Поки що немає новин у цій категорії.")]));
 }
 function filters() {

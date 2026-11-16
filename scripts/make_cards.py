@@ -57,7 +57,35 @@ def spaced(draw, xy, text, fnt, fill, gap=3):
     return x
 
 
+def make_digest(post, out):
+    img = Image.new("RGB", (W, H), NAVY)
+    d = ImageDraw.Draw(img)
+    for y in range(H):
+        t = y / H
+        d.line([(0, y), (W, y)], fill=tuple(int(a + (b - a) * t) for a, b in zip(NAVY_2, NAVY)))
+    d.rectangle([PAD, 56, PAD + 64, 61], fill=GOLD)
+    spaced(d, (PAD, 80), "РАНКОВИЙ ДАЙДЖЕСТ", font("Inter.ttf", 24, 600), GOLD, gap=4)
+    date = post["title_uk"].split(": ", 1)[-1]
+    df = font("Inter.ttf", 24, 500)
+    d.text((W - PAD - d.textlength(date, font=df), 80), date, font=df, fill=MIST)
+    num, tf = font("PlayfairDisplay.ttf", 58, 700), font("PlayfairDisplay.ttf", 33, 700)
+    y = 150
+    for n, item in enumerate(post["items"][:3], 1):
+        d.text((PAD, y - 8), str(n), font=num, fill=GOLD)
+        for ln in wrap(d, item["title_uk"], tf, W - 2 * PAD - 80)[:3]:
+            d.text((PAD + 80, y), ln, font=tf, fill=IVORY)
+            y += 42
+        y = max(y + 22, 150 + n * 136)
+    d.line([(PAD, H - 96), (W - PAD, H - 96)], fill=(44, 72, 112), width=1)
+    brand = font("PlayfairDisplay.ttf", 34, 700)
+    d.text((W - PAD - d.textlength("Fuzion Societe", font=brand), H - 78), "Fuzion Societe", font=brand, fill=GOLD)
+    d.text((PAD, H - 72), "Три головні події доби", font=font("Inter.ttf", 26, 500), fill=MIST)
+    img.save(out, "PNG", optimize=True)
+
+
 def make(post, out):
+    if post.get("kind") == "digest":
+        return make_digest(post, out)
     img = Image.new("RGB", (W, H), NAVY)
     d = ImageDraw.Draw(img)
     for y in range(H):  # soft vertical gradient

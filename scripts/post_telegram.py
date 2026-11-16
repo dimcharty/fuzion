@@ -20,6 +20,12 @@ MAX_PER_RUN = 2   # drip posts out hourly instead of all at once
 
 def caption(p):
     e = html.escape
+    if p.get("kind") == "digest":
+        parts = [f"<b>☀️ {e(p['title_uk'])}</b>"]
+        for n, i in enumerate(p["items"], 1):
+            parts.append(f"<b>{n}. {e(i['title_uk'])}</b>\n{e(i['summary_uk'])} "
+                         f"<a href=\"{e(i['link'], quote=True)}\">{e(i['source'])}</a>")
+        return "\n\n".join(parts)
     return (f"<b>{e(p['title_uk'])}</b>\n\n{e(p['summary_uk'])}\n\n"
             f"<a href=\"{e(p['link'], quote=True)}\">Читати в оригіналі — {e(p['source'])}</a>")
 
@@ -46,7 +52,9 @@ def main():
         return
     posts = json.loads(POSTS.read_text(encoding="utf-8"))
     done = set(json.loads(STATE.read_text())) if STATE.exists() else set()
-    todo = [p for p in reversed(posts) if p["id"] not in done][:MAX_PER_RUN]  # oldest first
+    todo = [p for p in reversed(posts) if p["id"] not in done]  # oldest first
+    todo.sort(key=lambda p: p.get("kind") != "digest")          # the digest goes out first
+    todo = todo[:MAX_PER_RUN]
     errors = []
     for p in todo:
         try:
