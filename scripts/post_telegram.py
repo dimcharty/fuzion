@@ -15,7 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 POSTS = ROOT / "data" / "posts.json"
 STATE = ROOT / "data" / "posted.json"
-MAX_PER_RUN = 8
+MAX_PER_RUN = 2   # drip posts out hourly instead of all at once
 
 
 def caption(p):
