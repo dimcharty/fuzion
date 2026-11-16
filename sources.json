@@ -1,0 +1,12 @@
+[
+  {"name": "Financial Times", "url": "https://www.ft.com/rss/home", "lang": "en", "weight": 10},
+  {"name": "The Wall Street Journal", "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain", "lang": "en", "weight": 10},
+  {"name": "Bloomberg", "url": "https://feeds.bloomberg.com/markets/news.rss", "lang": "en", "weight": 10},
+  {"name": "The Economist", "url": "https://www.economist.com/finance-and-economics/rss.xml", "lang": "en", "weight": 9},
+  {"name": "CNBC", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html", "lang": "en", "weight": 6},
+  {"name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "lang": "en", "weight": 6},
+  {"name": "Federal Reserve", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "lang": "en", "weight": 8},
+  {"name": "European Central Bank", "url": "https://www.ecb.europa.eu/rss/press.html", "lang": "en", "weight": 8},
+  {"name": "IMF", "url": "https://www.imf.org/en/News/RSS?Language=ENG", "lang": "en", "weight": 7},
+  {"name": "Економічна правда", "url": "https://www.epravda.com.ua/rss/", "lang": "uk", "weight": 7}
+]

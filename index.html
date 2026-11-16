@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ФінПульс — фінансові новини світу українською</title>
+<meta name="description" content="Головні фінансові новини провідних світових видань — коротко, українською, з посиланням на оригінал.">
+<meta name="theme-color" content="#0B1F3A">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<style>
+  @font-face { font-family: "Playfair"; src: url("fonts/PlayfairDisplay.ttf"); font-weight: 400 900; font-display: swap; }
+  :root {
+    --navy: #0B1F3A; --navy-2: #122E54; --gold: #C8A45A; --ivory: #F7F3EA;
+    --paper: #FFFDF8; --ink: #1B2430; --slate: #5B6675; --line: #E4DCCB;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--ivory); color: var(--ink);
+    font: 16px/1.55 -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+  header { background: linear-gradient(180deg, var(--navy-2), var(--navy)); color: var(--ivory);
+    padding: calc(env(safe-area-inset-top) + 28px) 20px 26px; }
+  .wrap { max-width: 760px; margin: 0 auto; }
+  .rule { width: 44px; height: 4px; background: var(--gold); margin-bottom: 14px; }
+  h1 { font: 700 34px/1.1 "Playfair", Georgia, serif; margin: 0; letter-spacing: .2px; }
+  header p { margin: 8px 0 0; color: #B9C4D6; font-size: 15px; }
+  header a { color: var(--gold); text-decoration: none; font-weight: 600; }
+  nav { display: flex; gap: 8px; overflow-x: auto; padding: 14px 20px; max-width: 800px; margin: 0 auto; scrollbar-width: none; }
+  nav button { flex: none; border: 1px solid var(--line); background: var(--paper); color: var(--slate);
+    padding: 7px 14px; border-radius: 999px; font: inherit; font-size: 14px; cursor: pointer; }
+  nav button[aria-pressed="true"] { background: var(--navy); border-color: var(--navy); color: var(--ivory); }
+  main { padding: 4px 20px 60px; }
+  article { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; margin: 0 0 18px; }
+  article img { display: block; width: 100%; aspect-ratio: 16 / 9; background: var(--navy); }
+  .body { padding: 16px 18px 18px; }
+  .meta { font-size: 12.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--gold); font-weight: 700; }
+  .meta span { color: var(--slate); font-weight: 500; letter-spacing: 0; text-transform: none; margin-left: 8px; }
+  h2 { font: 700 22px/1.25 "Playfair", Georgia, serif; margin: 8px 0 8px; }
+  article p { margin: 0 0 12px; color: #37424F; }
+  .src { color: var(--navy); font-weight: 600; text-decoration: none; border-bottom: 1px solid var(--gold); }
+  .empty { text-align: center; color: var(--slate); padding: 60px 0; }
+  footer { text-align: center; color: var(--slate); font-size: 13px; padding: 0 20px 40px; }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="rule"></div>
+  <h1>ФінПульс</h1>
+  <p>Провідні фінансові видання світу — коротко, українською. <a href="https://t.me/finpuls_ua">Telegram&nbsp;→</a></p>
+</div></header>
+<nav id="filters" aria-label="Категорії"></nav>
+<main><div class="wrap" id="feed"><p class="empty">Завантаження…</p></div></main>
+<footer>Короткі перекази власними словами. Усі права на оригінальні матеріали належать їхнім видавцям.</footer>
+<script>
+const CATS = {all:"Усе", markets:"Ринки", economy:"Економіка", policy:"Монетарна політика", banks:"Банки",
+  companies:"Компанії", energy:"Енергетика", crypto:"Крипто", ukraine:"Україна", world:"Світ"};
+let posts = [], current = "all";
+const el = (t, p = {}, ...kids) => { const n = Object.assign(document.createElement(t), p); n.append(...kids); return n; };
+const when = iso => new Date(iso).toLocaleString("uk-UA", {day: "numeric", month: "long", hour: "2-digit", minute: "2-digit"});
+function draw() {
+  const feed = document.getElementById("feed");
+  const list = posts.filter(p => current === "all" || p.category === current);
+  feed.replaceChildren(...(list.length ? list.map(p => {
+    const safe = /^https?:\/\//.test(p.link) ? p.link : "#";
+    return el("article", {},
+      el("img", {src: `cards/${p.id}.png`, alt: "", loading: "lazy"}),
+      el("div", {className: "body"},
+        el("div", {className: "meta"}, CATS[p.category] || "Фінанси", el("span", {}, when(p.published))),
+        el("h2", {}, p.title_uk),
+        el("p", {}, p.summary_uk),
+        el("a", {className: "src", href: safe, target: "_blank", rel: "noopener"}, `Читати в оригіналі — ${p.source}`)));
+  }) : [el("p", {className: "empty"}, "Поки що немає новин у цій категорії.")]));
+}
+function filters() {
+  const used = new Set(posts.map(p => p.category));
+  const nav = document.getElementById("filters");
+  nav.replaceChildren(...Object.keys(CATS).filter(k => k === "all" || used.has(k)).map(k => {
+    const b = el("button", {type: "button"}, CATS[k]);
+    b.setAttribute("aria-pressed", k === current);
+    b.onclick = () => { current = k; filters(); draw(); };
+    return b;
+  }));
+}
+fetch("data/posts.json", {cache: "no-store"}).then(r => r.json()).then(d => { posts = d; filters(); draw(); })
+  .catch(() => { document.getElementById("feed").replaceChildren(el("p", {className: "empty"}, "Не вдалося завантажити новини. Спробуйте пізніше.")); });
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>
