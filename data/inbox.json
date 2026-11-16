@@ -1,5 +1,60 @@
 [
  {
+  "id": "0744f63ab78d",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Хто платить за \"безкоштовні\" послуги для міст?",
+  "teaser": "Щоосені громади дізнаються, які нові обов'язки їм додали і які доходи забрали. На прикладі Львова — скільки коштують реверсна дотація, мінус 4% ПДФО і рішення, ухвалені без джерела фінансування.",
+  "link": "https://epravda.com.ua/finances/byudzhet-gromad-rozpodil-pdfo-reversna-dotaciya-ta-finansuvannya-mist-827679/",
+  "published": "2026-11-16T12:20:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
+  "id": "b9dfc997d6a6",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Three questions for anyone considering the Nvidia CEO job",
+  "teaser": "Colette Kress’s first earnings call as interim CEO offers a glimpse of Nvidia after Jensen Huang. Plus, Anthropic’s coming IPO and why some gamers may call in sick this week.",
+  "link": "https://www.marketwatch.com/story/three-questions-for-anyone-considering-the-nvidia-ceo-job-08ef8120?mod=mw_rss_topstories",
+  "published": "2026-11-16T12:17:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
+  "id": "67efce0a20a1",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Росіяни за тиждень атакували енергетику 116 разів – Міненерго",
+  "teaser": "Протягом минулого тижня ворог атакував українську енергетику та нафтогазовий сектор 116 разів.",
+  "link": "https://epravda.com.ua/energetika/energetika-y-naftogaz-ukrajini-116-atak-i-161-incident-za-tizhden-827681/",
+  "published": "2026-11-16T12:01:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
+  "id": "64b32f08a9e3",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Israel, UAE Discuss Measures to Resume FlyDubai’s Tel Aviv Route",
+  "teaser": "Israeli transport officials were in the United Arab Emirates on Monday for what their ministry said were talks about security measures that could enable a resumption of FlyDubai’s Tel Aviv route, which was suspended following a suspected hijacking attempt.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/israel-uae-discuss-measures-to-resume-flydubai-s-tel-aviv-route",
+  "published": "2026-11-16T12:00:19+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
+  "id": "8f70388f2dbb",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Diamondback Agrees to Buy Double Eagle Assets for $5 Billion",
+  "teaser": "Diamondback Energy Inc. agreed to buy certain subsidiaries of closely held oil driller Double Eagle for about $5 billion in cash and stock, growing its position as one of the largest operators in the world’s most productive shale patch.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
+  "published": "2026-11-16T11:57:49+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
   "id": "d7df7fb6cd9f",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -9,6 +64,17 @@
   "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=rss_markets_main",
   "published": "2026-11-16T11:55:00+00:00",
   "seen": "2026-11-16T12:04:56+00:00"
+ },
+ {
+  "id": "e7254f02ee43",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Митниця фіксує зростання обсягу наданих імпортерам преференцій",
+  "teaser": "У жовтні 2026 року до державного бюджету перераховано 75,4 млрд грн митних платежів, водночас, при митному оформленні імпорту товарів надано пільг зі сплати митних платежів на 39 млрд грн, що становить понад половину (51,6%) від суми надходжень до бюджету.",
+  "link": "https://epravda.com.ua/biznes/mitnicya-fiksuye-zrostannya-obsyagu-nadanih-importeram-preferenciy-827680/",
+  "published": "2026-11-16T11:46:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
  },
  {
   "id": "49409a639b70",
@@ -44,6 +110,17 @@
   "seen": "2026-11-16T12:04:56+00:00"
  },
  {
+  "id": "8dd057b816a5",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Mercuria Hires Ex-Shell Trading Veteran to Head Up Oil Products",
+  "teaser": "Mercuria Energy Group hired oil trading veteran Geoffrey Mansfield as global head of refined products.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/mercuria-hires-ex-shell-trading-veteran-to-head-up-oil-products",
+  "published": "2026-11-16T11:21:22+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
   "id": "00b8545ceb6e",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -53,6 +130,17 @@
   "link": "https://www.wsj.com/finance/stocks/when-nvidia-stumbled-equal-weight-funds-delivered-96451c8f?mod=rss_markets_main",
   "published": "2026-11-16T11:20:00+00:00",
   "seen": "2026-11-16T12:04:56+00:00"
+ },
+ {
+  "id": "4fb92dcce288",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Голова компанії Wildberries потрапила під санкції ЄС",
+  "teaser": "Глави МЗС країн ЄС погодили оновлення санкційних списків щодо Росії: до них потрапило 145 фізичних і юридичних осіб, санкції вводять зокрема проти Тетяни Кім, голови компанії Wildberries.",
+  "link": "https://epravda.com.ua/biznes/golova-kompaniji-wildberries-potrapila-pid-sankciji-yes-827678/",
+  "published": "2026-11-16T11:13:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
  },
  {
   "id": "2a6e83e11ff9",
@@ -121,6 +209,28 @@
   "seen": "2026-11-16T12:04:56+00:00"
  },
  {
+  "id": "1ebefb0b0df9",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Укртелеком і Київстар запускають Open Access на всю країну. Що це означає для абонентів",
+  "teaser": "За підтримки Київстар",
+  "link": "https://epravda.com.ua/projects/ukrtelekom-i-kijivstar-zapuskayut-open-access-na-vsyu-krajinu-827667/",
+  "published": "2026-11-16T11:00:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
+  "id": "0d12e483732f",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Росіяни поцілили по заводу \"Олейна\" в Дніпрі",
+  "teaser": "16 листопада російські окупаційні війська завдали удару по об'єкту харчової промисловості у Дніпрі.",
+  "link": "https://epravda.com.ua/biznes/oliyno-zhirova-promislovist-ukrajini-udar-po-zavodu-oleyna-u-dnipri-827676/",
+  "published": "2026-11-16T10:58:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
   "id": "855c96df1b66",
   "source": "Bloomberg",
   "lang": "en",
@@ -130,6 +240,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-16/modi-arrives-in-manila-for-asean-summit-video",
   "published": "2026-11-16T10:39:44+00:00",
   "seen": "2026-11-16T12:04:56+00:00"
+ },
+ {
+  "id": "cfe4899ec923",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Розкрадання на ремонті медуніверситету: БЕБ встановило додаткові обставини",
+  "teaser": "Бюро економічної безпеки встановило додаткові обставини ймовірної розтрати бюджетних коштів під час капітального ремонту фасаду корпусу медичного університету у Києві, наразі ректор, проректору та заступник ректора отримали підозри.",
+  "link": "https://epravda.com.ua/biznes/rozkradannya-na-remonti-meduniversitetu-beb-vstanovilo-dodatkovi-obstavini-827675/",
+  "published": "2026-11-16T10:38:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
  },
  {
   "id": "51bd649f1805",
@@ -253,6 +374,39 @@
   "seen": "2026-11-16T12:04:56+00:00"
  },
  {
+  "id": "44127d1efbd0",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Рада ЄС схвалила виділення Україні рекордних майже 8 млрд євро",
+  "teaser": "",
+  "link": "https://epravda.com.ua/finances/finansuvannya-yes-ukrajina-otrimaye-mayzhe-8-mlrd-yevro-za-programoyu-ukraine-facility-827674/",
+  "published": "2026-11-16T10:13:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
+  "id": "6ab19f609662",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Ринок електромобілів у жовтні зменшився удвічі – асоціація",
+  "teaser": "У жовтні український ринок електромобілів скоротився на 52%. Українці придбали 4813 авто на акумуляторних джерелах живлення.",
+  "link": "https://epravda.com.ua/biznes/rinok-elektromobiliv-ukrajini-padinnya-prodazhiv-na-52-u-zhovtni-827673/",
+  "published": "2026-11-16T10:06:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
+  "id": "5e3312495ff3",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "НАН України не дозволили віддати під забудову землю у Києві",
+  "teaser": "Суд залишив без змін рішення, яким визнано недійсним договір, укладений між НАН України та приватним товариством, за яким у Києві на ділянці академії мали побудувати офіси й паркінг.",
+  "link": "https://epravda.com.ua/biznes/nan-ukrajini-ne-dozvolili-viddati-pid-zabudovu-zemlyu-u-kiyevi-827672/",
+  "published": "2026-11-16T10:05:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
   "id": "b3fd48efcc15",
   "source": "Bloomberg",
   "lang": "en",
@@ -341,6 +495,28 @@
   "seen": "2026-11-16T12:04:56+00:00"
  },
  {
+  "id": "3c05810623d8",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Брюссель хоче надати Україні 45 мільярдів гривень кредиту",
+  "teaser": "Європейська Комісія планує виділити кредит у розмірі 45 мільярдів євро з бюджету ЄС для фінансування України, оскільки Київ стикається з найважчою зимою з початку повномасштабного вторгнення Росії.",
+  "link": "https://epravda.com.ua/biznes/bryussel-hoche-nadati-ukrajini-kredit-na-45-milyardiv-griven-827671/",
+  "published": "2026-11-16T09:29:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
+  "id": "e8ecb2ddd1b4",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Нафта дорожчає після нових підривів суден у Ормузькій протоці",
+  "teaser": "У понеділок, 16 листопада, ціни на нафту трохи піднялися після нових інцидентів із танкерами в Ормузькій протоці.",
+  "link": "https://epravda.com.ua/svit/cini-na-naftu-brent-i-wti-zrostayut-na-tli-incidentiv-v-ormuzkiy-protoci-827670/",
+  "published": "2026-11-16T09:23:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
   "id": "9f127d7547d0",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -352,6 +528,17 @@
   "seen": "2026-11-16T12:04:56+00:00"
  },
  {
+  "id": "6ca1a888c0fe",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "На Одещині через ворожі удари без світла понад 50 тисяч родин",
+  "teaser": "Вранці 16 листопада ворожих ударів зазнали енергетичні обʼєкти ДТЕК на півночі Одещини.",
+  "link": "https://epravda.com.ua/energetika/energetika-obstril-ob-yektiv-dtek-na-odeshchini-znestrumlennya-52-2-tis-rodin-827669/",
+  "published": "2026-11-16T08:48:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
   "id": "9e0b3a4febf4",
   "source": "European Central Bank",
   "lang": "en",
@@ -361,6 +548,17 @@
   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
   "published": "2026-11-16T08:30:00+00:00",
   "seen": "2026-11-16T12:04:56+00:00"
+ },
+ {
+  "id": "40be9a842acf",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "В уряді анонсували розмову з фон дер Ляєн про зимовий пакет підтримки України",
+  "teaser": "Український прем'єр-міністр Сергій Корецький у понеділок, 16 листопада, проведе зустріч з президенткою Європейської комісії Урсулою фон дер Ляєн, щоб обговорити потреби України на зимовий період.",
+  "link": "https://epravda.com.ua/finances/paket-pidtrimki-yes-zimova-dopomoga-ukrajini-dlya-energetiki-ta-transportu-827668/",
+  "published": "2026-11-16T08:27:00+00:00",
+  "seen": "2026-11-16T12:30:55+00:00"
  },
  {
   "id": "9c68e8f48757",
@@ -3099,204 +3297,6 @@
   "teaser": "They should lift incomes, not suppress prices",
   "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
   "published": "2026-10-08T09:26:41+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "3b9d8b623722",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Indian celebrations will be more expensive this year",
-  "teaser": "Blame soaring sugar prices",
-  "link": "https://www.economist.com/finance-and-economics/2026/10/08/indian-celebrations-will-be-more-expensive-this-year",
-  "published": "2026-10-08T09:25:56+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "2c156aa478ef",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Why shares are the new bricks and mortar",
-  "teaser": "Household wealth is flowing from property to stocks",
-  "link": "https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar",
-  "published": "2026-10-07T18:47:53+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "eeb8f6b78f01",
-  "source": "Federal Reserve",
-  "lang": "en",
-  "weight": 8,
-  "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-  "teaser": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-  "published": "2026-10-07T18:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "868653f21a10",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "In search of tax alpha",
-  "teaser": "The taxman is losing patience with Americans’ shrewd use of tax losses",
-  "link": "https://www.economist.com/finance-and-economics/2026/10/06/in-search-of-tax-alpha",
-  "published": "2026-10-06T17:41:20+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "a284ee3bb755",
-  "source": "Federal Reserve",
-  "lang": "en",
-  "weight": 8,
-  "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-  "teaser": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-  "published": "2026-10-05T20:30:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "6aac592a5c62",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "The bond market sell-off is helping the dollar",
-  "teaser": "But the strength of the greenback is not as reliable as in the past",
-  "link": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
-  "published": "2026-10-05T19:31:48+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "8a8f3d3f5297",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "The world is facing an almighty LNG crunch",
-  "teaser": "In time it could bring about an equally disruptive glut",
-  "link": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
-  "published": "2026-10-04T17:11:12+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "cadde35138dc",
-  "source": "Federal Reserve",
-  "lang": "en",
-  "weight": 8,
-  "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-  "teaser": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-  "published": "2026-10-02T20:45:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "fe551cc7e923",
-  "source": "Federal Reserve",
-  "lang": "en",
-  "weight": 8,
-  "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-  "teaser": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-  "published": "2026-10-02T20:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "59322cafa4d9",
-  "source": "Federal Reserve",
-  "lang": "en",
-  "weight": 8,
-  "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-  "teaser": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-  "published": "2026-10-02T15:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "af88bd665379",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Governments want to hold America’s shares more than its debts",
-  "teaser": "When countries switch towards riskier assets, the global economy feels the consequences",
-  "link": "https://www.economist.com/finance-and-economics/2026/10/01/governments-want-to-hold-americas-shares-more-than-its-debts",
-  "published": "2026-10-01T09:08:56+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "bae3fab2110c",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Research on grasping bureaucrats startles Singapore",
-  "teaser": "It is more revealing about its academic culture than its civil service",
-  "link": "https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore",
-  "published": "2026-10-01T09:07:03+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "2ed6789e119a",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Financial astrology is a serious business in India",
-  "teaser": "That is bad news for investors’ returns",
-  "link": "https://www.economist.com/finance-and-economics/2026/10/01/financial-astrology-is-a-serious-business-in-india",
-  "published": "2026-10-01T09:05:52+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "975ec4f2519a",
-  "source": "Federal Reserve",
-  "lang": "en",
-  "weight": 8,
-  "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-  "teaser": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-  "published": "2026-09-30T13:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "1478a1671637",
-  "source": "Federal Reserve",
-  "lang": "en",
-  "weight": 8,
-  "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-  "teaser": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-  "published": "2026-09-29T20:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "6fecec2c04b0",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Investing for babies involves knotty trade-offs",
-  "teaser": "Should new parents favour financial capital, human capital or something else?",
-  "link": "https://www.economist.com/finance-and-economics/2026/09/29/investing-for-babies-involves-knotty-trade-offs",
-  "published": "2026-09-29T17:28:26+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "1ad9b20d787d",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "The AI boom meets a new kind of crypto scam",
-  "teaser": "Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models",
-  "link": "https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam",
-  "published": "2026-09-29T16:05:58+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "bd76831ac2c2",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "How the AI boom could worsen the rich world’s fiscal crunch",
-  "teaser": "Even with higher growth, taxes may be harder to find",
-  "link": "https://www.economist.com/finance-and-economics/2026/09/29/how-the-ai-boom-could-worsen-the-rich-worlds-fiscal-crunch",
-  "published": "2026-09-29T15:55:44+00:00",
   "seen": "2026-11-16T00:29:01+00:00"
  }
 ]
