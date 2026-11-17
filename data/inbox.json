@@ -1,5 +1,38 @@
 [
  {
+  "id": "a276fcf3899b",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+  "teaser": "Regulator’s civil probe looks at whether company violated investor disclosure laws.",
+  "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=rss_markets_main",
+  "published": "2026-11-17T20:56:00+00:00",
+  "seen": "2026-11-17T20:58:12+00:00"
+ },
+ {
+  "id": "4f989ce22db5",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Treasuries’ Big Short Sets Up ‘Pain Trade’ as Haven Bid Ramps Up",
+  "teaser": "Bond traders risk facing a short squeeze after reloading bearish positions, as renewed jitters around artificial intelligence and a spate of technical disruptions reignite a flight to safety.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up",
+  "published": "2026-11-17T20:41:27+00:00",
+  "seen": "2026-11-17T20:58:12+00:00"
+ },
+ {
+  "id": "b15959b8a970",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Private equity has been buying up hospice centers — with striking consequences",
+  "teaser": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
+  "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+  "published": "2026-11-17T20:40:00+00:00",
+  "seen": "2026-11-17T20:58:12+00:00"
+ },
+ {
   "id": "2bb55bda15f5",
   "source": "MarketWatch",
   "lang": "en",
@@ -240,6 +273,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming-video",
   "published": "2026-11-17T17:53:29+00:00",
   "seen": "2026-11-17T20:30:46+00:00"
+ },
+ {
+  "id": "a674e5f0e5cc",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Stan Druckenmiller Says He’s Short Copper, Neutral on Stocks",
+  "teaser": "Billionaire Stan Druckenmiller said he’s bearish on copper and mostly staying on the market sidelines for now.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/stan-druckenmiller-says-he-s-short-copper-neutral-on-equities",
+  "published": "2026-11-17T17:12:42+00:00",
+  "seen": "2026-11-17T20:58:12+00:00"
  },
  {
   "id": "230244e9e683",
@@ -3254,49 +3298,5 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-16/the-opening-trade-11-16-2026-video",
   "published": "2026-11-16T11:07:06+00:00",
   "seen": "2026-11-16T12:04:56+00:00"
- },
- {
-  "id": "f932233d6315",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Why Nvidia can avoid the fate of most stocks that reached the apex by market cap, according to one strategist",
-  "teaser": "Despite many analysts slashing their forecasts, the median target price for Nvidia remains way above the current share price at $280. Its cashflow and debt profile are the envy of all AI companies and long term, the stock is attractive says JPAM",
-  "link": "https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories",
-  "published": "2026-11-16T11:07:00+00:00",
-  "seen": "2026-11-16T12:04:56+00:00"
- },
- {
-  "id": "5fd02be57dd2",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Traders Pour Cash Into BlackRock’s India ETF as AI Rout Deepens",
-  "teaser": "Investors plowed cash into an exchange-traded fund that buys Indian stocks at the fastest pace in over a year last week, as the selloff around artificiall intelligence stocks pushed investors to diversify into other markets.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-etfs-rise-for-2nd-week-in-982-mln-streak",
-  "published": "2026-11-16T11:00:29+00:00",
-  "seen": "2026-11-17T04:29:50+00:00"
- },
- {
-  "id": "014367e3742f",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor",
-  "teaser": "Superstar status of executives affects tech founders’ personal lives and their companies, says Lingotto’s James Anderson",
-  "link": "https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1",
-  "published": "2026-11-16T11:00:03+00:00",
-  "seen": "2026-11-16T12:04:56+00:00"
- },
- {
-  "id": "1ebefb0b0df9",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Укртелеком і Київстар запускають Open Access на всю країну. Що це означає для абонентів",
-  "teaser": "За підтримки Київстар",
-  "link": "https://epravda.com.ua/projects/ukrtelekom-i-kijivstar-zapuskayut-open-access-na-vsyu-krajinu-827667/",
-  "published": "2026-11-16T11:00:00+00:00",
-  "seen": "2026-11-16T12:30:55+00:00"
  }
 ]
