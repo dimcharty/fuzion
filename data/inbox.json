@@ -1,5 +1,93 @@
 [
  {
+  "id": "966ec38e343c",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Japanese Equities Market’s Performance Likely to Broaden, Goldman Sachs Says",
+  "teaser": "The Japanese equities market’s performance is likely to broaden from here, two analysts at Goldman Sachs Research said.",
+  "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-chip-financial-stocks-0445db62?mod=rss_markets_main",
+  "published": "2026-11-17T02:26:00+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
+ },
+ {
+  "id": "fb8524155af7",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Foreign Funds Bought Most China Bonds Since May on Haven Appeal",
+  "teaser": "Global investors boosted their holdings of onshore Chinese government bonds at the fastest pace since May last month, underscoring growing foreign interest in yuan debt that has remained relatively insulated from global market turmoil.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-funds-bought-most-china-bonds-since-may-on-haven-appeal",
+  "published": "2026-11-17T02:21:36+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
+ },
+ {
+  "id": "700294facc44",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
+  "teaser": "Bank of Korea Chief Economist Kyoungsoo Yoon believes concerns over artificial intelligence have added to volatility in South Korea's equity markets. He speaks with Haidi Stroud-Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-17/bok-s-yoon-ai-concerns-add-to-korea-equity-volatility-video",
+  "published": "2026-11-17T01:46:26+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
+ },
+ {
+  "id": "e44d2f741a77",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "New Zealand Sees Best Quarterly Population Gain in Two Years",
+  "teaser": "New Zealand saw its best quarterly increase in population in more than two years as immigration inflows pick up, offering a potential boost to housing demand and the wider economy.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-sees-best-quarterly-population-gain-in-two-years",
+  "published": "2026-11-17T01:09:46+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
+ },
+ {
+  "id": "ce72cee59128",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Gold Struggles to Recover as Dollar, Rates Weigh",
+  "teaser": "Gold stayed at its weakest levels in over a year as a firm dollar and hawkish bets on Fed rates dimmed the precious metal’s appeal.",
+  "link": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main",
+  "published": "2026-11-17T00:47:00+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
+ },
+ {
+  "id": "d78fcb218fc4",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Samuel Sekuritas Denies It Pumped Stock, Took Part in MSCI Trade",
+  "teaser": "PT Samuel Sekuritas Indonesia and its owner, Eunice Satyono, denied that the firm carried out any illegal stock market transactions to spark the sudden rally in an Asian delicacy maker named PT Abadi Lestari Indonesia.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/samuel-sekuritas-denies-it-pumped-stock-took-part-in-msci-trade",
+  "published": "2026-11-17T00:44:27+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
+ },
+ {
+  "id": "0ddfe7c63c94",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "JGBs Rise, Tracking Gains in U.S. Treasurys",
+  "teaser": "JGBs were higher in early Tokyo trading, tracking overnight price gains in U.S. Treasurys.",
+  "link": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27?mod=rss_markets_main",
+  "published": "2026-11-17T00:41:00+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
+ },
+ {
+  "id": "7f0bc8b912fc",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "RBA Raised Rates as Price Risks Remained to Upside, Minutes Show",
+  "teaser": "A majority of the Australian central bank’s nine-member board voted to raise interest rates two weeks ago on concerns that risks to the inflation outlook remained to the upside and consumer prices had stayed too high for too long.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
+  "published": "2026-11-17T00:30:00+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
+ },
+ {
   "id": "4f03f2fcf320",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -11,6 +99,17 @@
   "seen": "2026-11-17T00:31:10+00:00"
  },
  {
+  "id": "8b087c95b3f9",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Chip Stocks Slide as US Sets New Curbs on China’s Compute Access",
+  "teaser": "Chipmaker stocks tumbled after the US moved to further restrict China’s access to advanced artificial intelligence chips and servers in the wake of the scandal involving Nvidia Corp.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+  "published": "2026-11-17T00:22:19+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
+ },
+ {
   "id": "6dd3fa6727c7",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -20,6 +119,17 @@
   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main",
   "published": "2026-11-17T00:18:00+00:00",
   "seen": "2026-11-17T00:31:10+00:00"
+ },
+ {
+  "id": "642ea59ea07a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues",
+  "teaser": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Alger’s Executive Vice President, Portfolio Manager Ankur Crawford, Bilt’s CEO Ankur Jain, Jefferies’…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-17/the-close-11-16-2026-video",
+  "published": "2026-11-17T00:17:38+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
  },
  {
   "id": "21b6674d9494",
@@ -383,6 +493,17 @@
   "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
   "published": "2026-11-16T21:20:03+00:00",
   "seen": "2026-11-17T00:31:10+00:00"
+ },
+ {
+  "id": "83b04c11e6ed",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "RBNZ Flags Growing Private Credit Risks in Property Finance",
+  "teaser": "New Zealand’s central bank highlighted increasing risks from the growing role of private credit in the nation’s economy, particularly in property development and commercial real estate finance.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
+  "published": "2026-11-16T21:17:24+00:00",
+  "seen": "2026-11-17T02:29:25+00:00"
  },
  {
   "id": "5c93699d11e8",
@@ -3176,127 +3297,6 @@
   "teaser": "Agencies extend comment period for proposed third-party risk management guidance",
   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
   "published": "2026-11-13T21:15:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "f0db6694f41a",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "U.S. Natural Gas Futures Relinquish Some Gains",
-  "teaser": "U.S. natural gas futures settled lower, giving back the previous day’s weather-driven gains as a spell of cold weather is set to lift near-term heating demand.",
-  "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-return-some-gains-1b28586d?mod=rss_markets_main",
-  "published": "2026-11-13T20:38:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "5aff13db6eb4",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "U.S. Stocks Decline as Nvidia Shares Slide Again",
-  "teaser": "U.S. stocks declined as the tumult surrounding Jensen Huang’s ouster from Nvidia continues to cloud the outlook for the AI trade.",
-  "link": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?mod=rss_markets_main",
-  "published": "2026-11-13T20:02:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "f0f465e12304",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Opinion | Congressional Insider Trading Isn’t as Common as You Think",
-  "teaser": "As with Mr. Pelosi’s Alphabet options, many insider-trading claims fall apart under scrutiny.",
-  "link": "https://www.wsj.com/opinion/congressional-insider-trading-isnt-as-common-as-you-think-637d5563?mod=rss_markets_main",
-  "published": "2026-11-13T19:18:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "5ce495383866",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
-  "teaser": "The artificial-intelligence giant, which is expected to begin trading Thursday, is targeting a valuation of roughly $1.33 trillion or more.",
-  "link": "https://www.wsj.com/finance/anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-1ba2dd71?mod=rss_markets_main",
-  "published": "2026-11-13T18:46:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "5e8670301900",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "New Corporate Speak Is Shaped By AI",
-  "teaser": "Corporate managements are using new euphemisms for job cuts or hiring freezes far more in the age of AI, as technology-enabled headcount reductions increasingly draw public ire and pushback from politicians, bloomberg Opinion columnist Jonathan Levin says. As a result, company…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-13/opinion-new-corporate-speak-is-shaped-by-ai-video",
-  "published": "2026-11-13T15:20:47+00:00",
-  "seen": "2026-11-16T15:44:09+00:00"
- },
- {
-  "id": "47d9ada5c4ae",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
-  "teaser": "Prosecutors said the employee netted $70,000 in profits related to client matters including Paramount’s acquisition of Warner Bros.",
-  "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
-  "published": "2026-11-13T15:18:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "d8c2d586f296",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-  "teaser": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
-  "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-  "published": "2026-11-13T14:22:07+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "75ab7427fd16",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
-  "teaser": "Value funds don’t always offer the exposure to cheap, boring stocks that investors might expect.",
-  "link": "https://www.wsj.com/finance/investing/the-stock-markets-bargain-bin-is-secretly-stuffed-with-ai-stocks-8fa3edbe?mod=rss_markets_main",
-  "published": "2026-11-13T14:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "d708d15b8bba",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Bitcoin Holds Below $70,000 as Risk-Off Mood Pressures Crypto",
-  "teaser": "Bitcoin fell below $70,000 for the first time since August and was on track for its sixth weekly loss as expectations of higher rates and the tech stock selloff sapped risk appetite.",
-  "link": "https://www.wsj.com/finance/currencies/bitcoin-holds-below-70-000-as-risk-off-mood-pressures-crypto-d61d684d?mod=rss_markets_main",
-  "published": "2026-11-13T11:34:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "b46e45aaf05f",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Kraft Heinz Plans to Bring New Life to Old Brands",
-  "teaser": "Some of the best analysis and insight on investing, the wealth-management business and more.",
-  "link": "https://www.wsj.com/finance/investing/kraft-heinz-plans-to-bring-new-life-to-old-brands-8aa9f069?mod=rss_markets_main",
-  "published": "2026-11-13T11:27:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "322f5ae09388",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "How the AI Trade Hijacked the Treasury Market for a Month",
-  "teaser": "Plus, Nvidia enters its next phase, and Microsoft’s global outage",
-  "link": "https://www.wsj.com/finance/stocks/how-the-ai-trade-hijacked-the-treasury-market-for-a-month-3fa26a9f?mod=rss_markets_main",
-  "published": "2026-11-13T11:17:00+00:00",
   "seen": "2026-11-16T00:29:01+00:00"
  }
 ]
