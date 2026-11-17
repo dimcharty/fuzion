@@ -1,5 +1,65 @@
 [
  {
+  "id": "64296a5b3156",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
+  "title_uk": "Ф'ючерси на природний газ у США почали тиждень зі зниження",
+  "summary_uk": "Ціни на американський природний газ у понеділок пішли вниз, пише The Wall Street Journal. Видобуток зростає, щоб покрити попит під час першого суттєвого похолодання цього опалювального сезону.",
+  "category": "energy",
+  "published": "2026-11-16T15:02:00+00:00",
+  "added": "2026-11-17T00:30:58+00:00"
+ },
+ {
+  "id": "bf44aec35edc",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+  "title_uk": "Регулятор США не схвалив препарат Summit Therapeutics від раку легень",
+  "summary_uk": "Управління з контролю за продуктами і ліками США (FDA) відмовилося схвалити один із найочікуваніших онкологічних препаратів біотехнологічної галузі, повідомляє MarketWatch. Регулятор заявив Summit Therapeutics, що компанія має довести здатність ліків подовжувати життя пацієнтів.",
+  "category": "companies",
+  "published": "2026-11-16T15:06:00+00:00",
+  "added": "2026-11-17T00:30:58+00:00"
+ },
+ {
+  "id": "180058376934",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?mod=rss_markets_main",
+  "title_uk": "Kalshi купує брокерську фірму, щоб вийти на ринок торгівлі акціями",
+  "summary_uk": "Платформа ринків прогнозів Kalshi придбала компанію з торгівлі цінними паперами та планує працювати з іншими активами, зокрема акціями, пише The Wall Street Journal. Водночас Kalshi досі судиться з окремими штатами США через свої контракти формату «так чи ні».",
+  "category": "companies",
+  "published": "2026-11-16T19:33:00+00:00",
+  "added": "2026-11-17T00:30:58+00:00"
+ },
+ {
+  "id": "3bc0907720e1",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs",
+  "title_uk": "Goldman Sachs: золоту знадобиться близько двох років, щоб оновити рекорд",
+  "summary_uk": "Аналітики Goldman Sachs вважають, що до нового історичного максимуму золото дійде приблизно за два роки, повідомляє Bloomberg. Для порівняння: попереднє зростання більш ніж на 30% до рекордної позначки зайняло лише місяць.",
+  "category": "markets",
+  "published": "2026-11-16T20:15:45+00:00",
+  "added": "2026-11-17T00:30:58+00:00"
+ },
+ {
+  "id": "f304700a2399",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
+  "title_uk": "Nasdaq 100 різко знизився перед звітом Nvidia та IPO Anthropic",
+  "summary_uk": "У понеділок технологічні акції США продовжили падіння, пише Bloomberg. Інвестори обережно ставляться до паперів, пов'язаних зі штучним інтелектом, напередодні квартального звіту Nvidia та очікуваного цього тижня первинного розміщення акцій Anthropic.",
+  "category": "markets",
+  "published": "2026-11-16T18:51:04+00:00",
+  "added": "2026-11-17T00:30:58+00:00"
+ },
+ {
+  "id": "655f069a908c",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
+  "title_uk": "Росія розраховує на спільну заяву за підсумками саміту Трампа, Сі та Путіна",
+  "summary_uk": "За даними Financial Times, Москва прагне, щоб тристороння зустріч лідерів США, Китаю та Росії завершилася спільною заявою. Зустріч Дональда Трампа, Сі Цзіньпіна та Володимира Путіна запланована на четвер; такого формату раніше не було, і за нею уважно стежать у світі.",
+  "category": "world",
+  "published": "2026-11-16T18:19:17+00:00",
+  "added": "2026-11-17T00:30:58+00:00"
+ },
+ {
   "id": "8f70388f2dbb",
   "source": "Bloomberg",
   "link": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
