@@ -1,5 +1,36 @@
 [
  {
+  "id": "digest-2026-11-17",
+  "kind": "digest",
+  "category": "digest",
+  "title_uk": "Ранковий дайджест: 17 листопада",
+  "summary_uk": "Три головні події фінансового світу за минулу добу.",
+  "source": "Fuzion Societe",
+  "link": "https://t.me/fuzionsoc",
+  "items": [
+   {
+    "title_uk": "Акції США падають третій день поспіль через Nvidia та побоювання щодо Китаю",
+    "summary_uk": "Індекс S&P 500 знизився третю сесію поспіль: інвесторів непокоять ситуація довкола Nvidia та ризики, пов'язані з Китаєм.",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587?mod=rss_markets_main"
+   },
+   {
+    "title_uk": "ЄС запровадив нові санкції проти Росії: у списку засновниця Wildberries",
+    "summary_uk": "До чергового раунду обмежень через війну проти України потрапила найбагатша жінка Росії, яка заснувала найбільший у країні онлайн-ритейлер.",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1"
+   },
+   {
+    "title_uk": "Євро опустився нижче 1,10 долара вперше з квітня 2025 року",
+    "summary_uk": "Єдина європейська валюта оновила 19-місячний мінімум на тлі очікувань подальшого підвищення ставок у США, що підтримує долар.",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025"
+   }
+  ],
+  "published": "2026-11-17T05:43:55+00:00",
+  "added": "2026-11-17T05:43:55+00:00"
+ },
+ {
   "id": "0ad939e5b3bf",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
