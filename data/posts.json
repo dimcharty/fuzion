@@ -1,5 +1,65 @@
 [
  {
+  "id": "0ad939e5b3bf",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
+  "title_uk": "Провайдер Optimum пропустив виплату відсотків за облігаціями",
+  "summary_uk": "Американська компанія широкосмугового інтернету Optimum не здійснила відсоткові платежі за облігаціями й увійшла в 30-денний пільговий період, повідомляє The Wall Street Journal. Тим часом компанія веде переговори з кредиторами про реструктуризацію боргу.",
+  "category": "companies",
+  "published": "2026-11-16T17:37:00+00:00",
+  "added": "2026-11-17T04:29:39+00:00"
+ },
+ {
+  "id": "24db47889bd4",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
+  "title_uk": "Бразильські активи подешевшали через занепокоєння станом державних фінансів",
+  "summary_uk": "Розпродаж охопив бразильські ринки загалом — від реала до корпоративних облігацій, пише Bloomberg. Інвесторів турбують перспективи державних фінансів країни за президента Луїса Інасіу Лули да Сілви, і трейдери поки не бачать, де падіння зупиниться.",
+  "category": "markets",
+  "published": "2026-11-16T17:41:36+00:00",
+  "added": "2026-11-17T04:29:39+00:00"
+ },
+ {
+  "id": "2190c2b4c16d",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main",
+  "title_uk": "Berkshire Hathaway збільшила частку в забудовнику Lennar і скоротила в Capital One",
+  "summary_uk": "У третьому кварталі Berkshire Hathaway наростила пакет акцій будівельної компанії Lennar, посиливши ставку на ринок житла США, повідомляє The Wall Street Journal. Водночас конгломерат, яким раніше керував Воррен Баффет, зменшив частки в Capital One та Nucor.",
+  "category": "companies",
+  "published": "2026-11-16T22:51:00+00:00",
+  "added": "2026-11-17T04:29:39+00:00"
+ },
+ {
+  "id": "5c93699d11e8",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
+  "title_uk": "Каліфорнія подала позов проти OpenAI через 80 інцидентів «втрати контролю»",
+  "summary_uk": "Генеральний прокурор штату Каліфорнія подав до суду на OpenAI, пише Financial Times. У позові йдеться про 80 інцидентів «втрати контролю» над моделями ШІ, а зломи з боку некерованих моделей названо передбачуваним наслідком внутрішньої культури, яка ставить зростання вище за безпеку.",
+  "category": "companies",
+  "published": "2026-11-16T20:48:37+00:00",
+  "added": "2026-11-17T04:29:39+00:00"
+ },
+ {
+  "id": "f8a9c3510e9b",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
+  "title_uk": "Chevron близька до угоди на $5 млрд щодо нафтовидобувника в Мексиканській затоці",
+  "summary_uk": "За даними Financial Times, Chevron випередила інших претендентів у боротьбі за Beacon Offshore Energy — нафтовидобувну компанію, яку підтримує Blackstone. Угоду оцінюють приблизно у $5 млрд; вона має розширити глибоководний видобуток американського нафтового гіганта.",
+  "category": "energy",
+  "published": "2026-11-16T21:20:03+00:00",
+  "added": "2026-11-17T04:29:39+00:00"
+ },
+ {
+  "id": "7f0bc8b912fc",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
+  "title_uk": "Протокол Резервного банку Австралії: ставку підвищили через ризики інфляції",
+  "summary_uk": "Більшість із дев'яти членів правління Резервного банку Австралії два тижні тому проголосувала за підвищення облікової ставки, свідчить протокол засідання. Регулятор пояснив рішення тим, що ризики для інфляційного прогнозу зміщені в бік зростання, а споживчі ціни надто довго залишалися зависокими.",
+  "category": "policy",
+  "published": "2026-11-17T00:30:00+00:00",
+  "added": "2026-11-17T04:29:39+00:00"
+ },
+ {
   "id": "64296a5b3156",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
