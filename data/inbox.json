@@ -1,5 +1,258 @@
 [
  {
+  "id": "55178b5201de",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Widespread Gloominess Is Already Priced: Market Analysis",
+  "teaser": "Anna Edwards, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-17/widespread-gloominess-is-already-priced-3-minutes-mliv-video",
+  "published": "2026-11-17T08:16:34+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "b66a1a798569",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+  "teaser": "Email, internal probes and other documents throw new light on the career and leadership of chief executive Christian Sewing",
+  "link": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
+  "published": "2026-11-17T08:09:20+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "d49d45fd19d4",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Oil Prices Continue to Fall as Global Supply Surplus Weighs",
+  "teaser": "Recovering Middle Eastern exports and expectations of a global supply surplus outweighed regional security concerns.",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-continue-to-fall-as-global-supply-surplus-weighs-7b54e93b?mod=rss_markets_main",
+  "published": "2026-11-17T08:09:00+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "e3222135fbea",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Europe Gas Edges Higher on Middle East Tensions, Weather Outlook",
+  "teaser": "European natural gas ticked higher after Iran continued to attack US bases in Bahrain and weather models pointed to an upcoming cold spell, adding strain to the region’s fragile market balance.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/europe-gas-edges-higher-on-middle-east-tensions-weather-outlook",
+  "published": "2026-11-17T08:08:17+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "1e9806d19b82",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "ING Plans to Break Into ETFs With Two Debut Funds in Germany",
+  "teaser": "ING Groep NV is set to introduce its own exchange traded funds as the lender seeks to tap into demand for the fast-growing investment products.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/ing-plans-to-break-into-etfs-with-two-debut-funds-in-germany",
+  "published": "2026-11-17T08:00:00+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "1d3087d7a8e7",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "UK’s Latest Jobs Report Is a Mixed Bag With Wage Growth Slowing, Payrolls Cut",
+  "teaser": "Plus, the FTSE 100 is about to get tested by tech",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-17/uk-s-latest-jobs-report-is-a-mixed-bag-with-wage-growth-slowing-payrolls-cut",
+  "published": "2026-11-17T07:42:37+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "4360f564c83b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "UK Stocks, AI Adoption Drive FTSE 250 Gains as Oil Drops 20%",
+  "teaser": "UK investors are slowly embracing renewed domestic strength, as AI adoption emerges as a key driver for local stocks and enables the economy to defy the odds.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/uk-stocks-ai-adoption-drive-ftse-250-gains-as-oil-drops-20",
+  "published": "2026-11-17T07:22:15+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "23c8f7263968",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Wise Sees Small Business Driving Asia Payments Growth",
+  "teaser": "Wise Group Co-Founder & CEO Kristo Kaarmann says the digital shift among Southeast Asia’s small businesses is accelerating demand for cross-border payments, with Asia Pacific its fastest-growing region. The company is expanding partnerships with banks while adding investment and…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-17/wise-sees-small-business-driving-asia-payments-growth-video",
+  "published": "2026-11-17T07:21:05+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "637c6e208b5a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "ASEAN's Middle Powers Seek Bigger Role in Global Order",
+  "teaser": "Stratbase Institute Founder Victor Andres C. Manhit believes ASEAN should use its growing economic clout to help shape the global agenda rather than simply choose between the US and China. The Philippines can work with other middle powers while defending a rules-based…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-17/asean-s-middle-powers-seek-bigger-role-in-global-order-video",
+  "published": "2026-11-17T07:16:14+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "6ca3464512d0",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Japan proposes ‘Asian IEA’ to manage oil stockpiles",
+  "teaser": "Tokyo hopes joint reserves would insulate import-dependent region against future energy shocks",
+  "link": "https://www.ft.com/content/208b3dff-5d7a-4250-989a-821fb70fb896?syn-25a6b1a6=1",
+  "published": "2026-11-17T07:01:23+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "dde3f984cceb",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "FTSE 100 Live: European Stocks Fall as AI Worries Spread",
+  "teaser": "",
+  "link": "https://www.bloomberg.com/news/live-blog/2026-11-17/what-s-moving-uk-markets-right-now-markets-today-mwkc7vf0",
+  "published": "2026-11-17T06:54:50+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "8c02b9724781",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "US Targets China's Remote Chip Access With New Curbs",
+  "teaser": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Avril Hong give global investors unique insight, delivering in-depth discussions with the newsmakers who…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-17/the-china-show-11-17-2026-video",
+  "published": "2026-11-17T06:46:36+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "3a90517b31c3",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Canadian Funds Join Nordic Capital in €3 Billion Cary Deal",
+  "teaser": "CVC Capital Partners Plc is selling its stake in vehicle glass repair company Cary Group to two of Canada’s largest pension funds and Nordic Capital, which is set to reinvest in the business.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/canada-pension-funds-cvc-capital-partners-nordic-capital-in-3-billion-cary-deal",
+  "published": "2026-11-17T06:36:33+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "af4370ea524d",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "KKR Is Said to Emerge as Preferred Bidder for Japanese Curry Chain Ichibanya",
+  "teaser": "US investment firm KKR & Co. has been selected as the preferred bidder for Japan’s largest curry rice chain Ichibanya Co., according to people familiar with the matter.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/kkr-is-said-to-emerge-as-preferred-bidder-for-japanese-curry-chain-ichibanya",
+  "published": "2026-11-17T06:29:32+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "d4b904534c0d",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Zurich Says Revenue Gain on Beazley Deal to Reach $1.5 Billion",
+  "teaser": "Zurich Insurance Group AG said it now expects increased revenue of around $1.5 billion per year in the medium term as a result of the integration of Beazley Plc, the specialty insurer it bought earlier this year.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/zurich-revenue-gain-on-beazley-deal-to-reach-1-5-billion",
+  "published": "2026-11-17T06:21:35+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "0c03eb14772a",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Xi and Canada’s Carney slash tariffs as China courts middle powers",
+  "teaser": "Ottawa’s efforts to hedge against US pressure risk creating dependency on Beijing, analysts warn",
+  "link": "https://www.ft.com/content/3a8dbdda-1645-4b62-b64b-7da5de611d53?syn-25a6b1a6=1",
+  "published": "2026-11-17T06:20:15+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "250a2b9eeac2",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Griffiths: Seeing Confidence Return to Mideast Travel",
+  "teaser": "Dubai International Airport saw 50.4m passengers in the first nine months of 2026, down 28.1% from a year earlier. Paul Griffiths, CEO of Dubai Airports spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on how the regional disruptions impacted their numbers.…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-17/griffiths-seeing-confidence-return-to-mideast-travel-video",
+  "published": "2026-11-17T06:11:41+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "ed3628d7b6be",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Mark Walter’s Insurer Seeks Nod to Swap $1.2 Billion More Assets",
+  "teaser": "Billionaire Mark Walter’s biggest life insurer, facing pressure to unwind its lending to other parts of his business empire, said it’s seeking regulatory approval to swap an additional $1.2 billion of the affiliated assets with holdings from his investment firm.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/mark-walter-s-insurer-seeks-nod-to-swap-1-2-billion-more-assets",
+  "published": "2026-11-17T06:08:41+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "1389770229ec",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China Stock Bull Sees Up to 15% Upside on Earnings, Valuation",
+  "teaser": "The MSCI China Index has 10% to 15% upside as earnings grow and low valuations bolster the country’s appeal as an alternative to global markets, according to UBS Group AG.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/china-stock-bull-ubs-sees-upside-msci-china-index-earnings-valuation",
+  "published": "2026-11-17T06:06:52+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "b8376e3b9529",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
+  "teaser": "Millions of leaked documents cast light on Christian Sewing’s leadership of the scandal-hit lender",
+  "link": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
+  "published": "2026-11-17T06:00:07+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "e1bfe0bf4a1d",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "German lender processed $582mn of suspicious payments linked to Epstein",
+  "teaser": "Figure revealed by internal documents is substantially higher than previously known",
+  "link": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1",
+  "published": "2026-11-17T06:00:06+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "8dd6b6bf20bc",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "An ‘awful mistake’ that leaked Trump’s tax statements",
+  "teaser": "Data breach in 2017 was described internally as an ‘awful mistake’ by Christian Sewing, then head of lender’s private bank",
+  "link": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1?syn-25a6b1a6=1",
+  "published": "2026-11-17T06:00:06+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
+  "id": "216182b5dff3",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "NBIM, GIC, BlackRock Said to Invest in Bajaj Finance Share Sale",
+  "teaser": "Norges Bank Investment Management, GIC Pte., BlackRock, FMR LLC, and Capital Group are among global investors that bought shares in Bajaj Finance Ltd.’s 117 billion-rupee ($1.2 billion) institutional offering, according to people familiar with the matter.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/nbim-gic-blackrock-fmr-capital-icici-hdfc-invest-bajaj-finance-share-sale",
+  "published": "2026-11-17T05:39:32+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
   "id": "cca4c40ca00a",
   "source": "Bloomberg",
   "lang": "en",
@@ -88,6 +341,17 @@
   "seen": "2026-11-17T05:44:07+00:00"
  },
  {
+  "id": "7e1879dab188",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Oligarch’s ex-wife to claim £600mn for ‘reasonable needs’ in London divorce case",
+  "teaser": "Britain’s biggest-ever divorce trial, involving Russian metals tycoon Vladimir Potanin, begins this week",
+  "link": "https://www.ft.com/content/969f0f82-7dd5-4d63-8f60-ee967028f744?syn-25a6b1a6=1",
+  "published": "2026-11-17T05:00:15+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
   "id": "4d6edea879f6",
   "source": "Financial Times",
   "lang": "en",
@@ -163,6 +427,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-says-forced-retail-liquidation-behind-taiwan-stock-rout",
   "published": "2026-11-17T03:17:04+00:00",
   "seen": "2026-11-17T04:29:50+00:00"
+ },
+ {
+  "id": "df41158133ea",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Shanghai Exchange Intervenes After Historic Copper Crunch",
+  "teaser": "The Shanghai Futures Exchange has stepped in to try to ease an historic copper squeeze, as an acute shortage of available metal threatens to drain inventories.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/shanghai-exchange-intervenes-after-historic-copper-squeeze",
+  "published": "2026-11-17T03:11:52+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
  },
  {
   "id": "d6ccd227208c",
@@ -682,6 +957,17 @@
   "seen": "2026-11-17T00:31:10+00:00"
  },
  {
+  "id": "d4b42d61aacf",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Deutsche Says Dollar a Riskier Currency on Link to US Tech",
+  "teaser": "The dollar risks becoming more volatile as its growing link to US equities and the technology sector becomes more influential than its historic relationship with Treasuries and the oil business, according to Deutsche Bank.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-16/deutsche-sees-asia-chip-boom-supporting-dollar-through-equities",
+  "published": "2026-11-16T21:42:04+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
   "id": "8386b68e0a0f",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -1078,6 +1364,17 @@
   "seen": "2026-11-16T18:35:46+00:00"
  },
  {
+  "id": "e4dfe4f27195",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+  "teaser": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+  "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+  "published": "2026-11-16T17:14:13+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
   "id": "18bbcb67cd7e",
   "source": "Financial Times",
   "lang": "en",
@@ -1441,6 +1738,17 @@
   "seen": "2026-11-16T15:44:09+00:00"
  },
  {
+  "id": "cbb47ad7196a",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+  "teaser": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor.",
+  "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+  "published": "2026-11-16T13:55:00+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
+ },
+ {
   "id": "ee5383ec088a",
   "source": "Економічна правда",
   "lang": "uk",
@@ -1615,6 +1923,17 @@
   "link": "https://www.marketwatch.com/story/three-questions-for-anyone-considering-the-nvidia-ceo-job-08ef8120?mod=mw_rss_topstories",
   "published": "2026-11-16T12:17:00+00:00",
   "seen": "2026-11-16T12:30:55+00:00"
+ },
+ {
+  "id": "90e0a44e38f7",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+  "teaser": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+  "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+  "published": "2026-11-16T12:13:23+00:00",
+  "seen": "2026-11-17T08:30:03+00:00"
  },
  {
   "id": "67efce0a20a1",
@@ -2978,325 +3297,6 @@
   "teaser": "Hungarian police said money was recovered in forests, barns and warehouses as part of investigation into former prime minister’s ally",
   "link": "https://www.ft.com/content/f05cfe6d-758e-4b14-b150-acc9f3fc9321?syn-25a6b1a6=1",
   "published": "2026-11-15T18:44:15+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "946d02a42e1a",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO",
-  "teaser": "US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China",
-  "link": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1",
-  "published": "2026-11-15T18:28:25+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "882bb95c1dbc",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
-  "teaser": "Acquisition would be latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war",
-  "link": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1",
-  "published": "2026-11-15T18:27:27+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "79f21de468e4",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Opinion | Rational Investing and Stock-Market Bubbles",
-  "teaser": "Readers debate investor behavior and how markets price risk.",
-  "link": "https://www.wsj.com/opinion/rational-investing-and-stock-market-bubbles-f75ed12c?mod=rss_markets_main",
-  "published": "2026-11-15T17:55:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "613736366987",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Opinion | What’s Really Behind Data Center Backlash",
-  "teaser": "Midterm results aren’t a rejection of the technology itself but of the way developers handle projects.",
-  "link": "https://www.wsj.com/opinion/whats-really-behind-data-center-backlash-2157f445?mod=rss_markets_main",
-  "published": "2026-11-15T17:54:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "898478088391",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "US and allies sign accord to protect AI supply chains from China",
-  "teaser": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
-  "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
-  "published": "2026-11-15T17:47:43+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "ead6782502a4",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nvidia Fallout, Next Mega IPO, FAA Router Failure",
-  "teaser": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. TSA Administrator and Fmr. FBI Deputy Director John Pistole, Veda…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-15/bloomberg-this-weekend-11-15-2026-video",
-  "published": "2026-11-15T16:53:51+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "f2483a4f533c",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-  "teaser": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-  "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-  "published": "2026-11-15T16:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "314561a9e7e3",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Дрони атакували три судна поблизу румунського судноплавного каналу",
-  "teaser": "Дрони атакували три торгові судна у Чорному морі поблизу румунського Сулінського каналу, заявив у неділю прем'єр-міністр Лука Нікулеску, додавши, що його збройні сили двічі піднімали винищувачі у повітря.",
-  "link": "https://epravda.com.ua/svit/droni-atakuvali-tri-sudna-poblizu-rumunskogo-sudnoplavnogo-kanalu-827660/",
-  "published": "2026-11-15T16:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "de49527ee88d",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Peru’s Economy Unexpectedly Slows as Mining, Farming Slump",
-  "teaser": "Peru’s economy unexpectedly slowed in September, dragged down by weak mining and agriculture output.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-15/peru-s-economy-unexpectedly-slows-as-mining-farming-slump",
-  "published": "2026-11-15T15:54:54+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "e7d7589ae8aa",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Bookmarked: News Stories On Our Reading List",
-  "teaser": "Foraging at luxury retreats, $20 million in cash found in Hungary, and the plight of big sisters: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source:…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-15/bookmarked-news-stories-on-our-reading-list-video",
-  "published": "2026-11-15T15:51:05+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "bd5511355177",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "By The Way: Headlines You May Have Missed",
-  "teaser": "AI bots using credit cards, Meta and TikTok’s confidential payments to teens, how the wealthy are trying to keep kids at home, and a fundraising drunk raccoon: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see.…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-15/by-the-way-headlines-you-may-have-missed-video",
-  "published": "2026-11-15T15:46:06+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "8956f4d4e1c4",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
-  "teaser": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
-  "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-  "published": "2026-11-15T15:22:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "26969dd7f5ec",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "White House Braces for Democratic Investigations",
-  "teaser": "Bully Pulpit International’s Adam Hodge and Monument Advocacy’s Mark Bednar are on Bloomberg This Weekend to examine the looming fight between congressional Democrats and the Trump administration over subpoenas, executive privilege and oversight of the White House’s…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-15/white-house-braces-for-democratic-investigations-video",
-  "published": "2026-11-15T15:14:45+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "899ac3b5cb3c",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Inside India’s $130 Billion Wedding Economy",
-  "teaser": "India’s weddings are a major economic force, generating an estimated $130 billion in annual spending.. For many families, the financial commitment begins years before the ceremony through savings and gold accumulation, while some households borrow against existing jewelry to…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-15/inside-india-s-130-billion-wedding-economy-video",
-  "published": "2026-11-15T15:03:37+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "c859c44f40a3",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
-  "teaser": "A new way for traders to place leveraged bets on stock prices is growing in popularity as questions around the outlook for AI following the US midterm elections spur demand for hedging.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-15/traders-turn-to-kalshi-stock-perps-on-nvidia-and-spacex-as-leverage-fears-grow",
-  "published": "2026-11-15T15:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "93f92bb58e46",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-  "teaser": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-  "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-  "published": "2026-11-15T15:00:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "a35c1a7ba368",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Лідер за результатами податкового іспиту в Південній Кореї зізнався у списуванні з ШІ",
-  "teaser": "Оцінки, отримані цього року лідером за результатами національного іспиту для майбутніх податкових бухгалтерів у Південній Кореї, були наслідком генеративного ШІ.",
-  "link": "https://epravda.com.ua/tehnologiji/u-pivdenniy-koreji-podatkivec-zdobuv-naykrashchiy-rezultat-na-ispiti-zavdyaki-shi-827659/",
-  "published": "2026-11-15T14:53:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "c145bfd3a415",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Частина Дніпра та Камʼянського без світла через повторний удар РФ по енергообʼєкту",
-  "teaser": "Російські загарбники знову вдарили по енергосистемі. Через пошкодження магістральних електромереж без світла залишилися частина Дніпра та Кам'янського, а також частина Дніпровського та Кам'янського районів.",
-  "link": "https://epravda.com.ua/energetika/dnipro-chastkovo-bez-svitla-pislya-ataki-voroga-827658/",
-  "published": "2026-11-15T13:35:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "5e9f7ebb7e9f",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Republicans blame everyone but Trump for midterm drubbing",
-  "teaser": "The party faithful avoid mentioning their leader as they lick their wounds at Heritage Foundation postmortem",
-  "link": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7?syn-25a6b1a6=1",
-  "published": "2026-11-15T13:00:05+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "aa77d97f0845",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "У двох областях аварійні відключення через російські обстріли",
-  "teaser": "Ворог вкотре атакував енергетичний об'єкт. Через пошкодження енергообладнання без світла залишилися споживачі у Запорізькій та Дніпропетровській областях.",
-  "link": "https://epravda.com.ua/energetika/u-dvoh-oblastyah-zaprovadili-avariyni-vidklyuchennya-827657/",
-  "published": "2026-11-15T12:47:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "0ee7270cd770",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Канада та США досягають прогресу в питанні торговельної угоди – Карні",
-  "teaser": "Прем'єр-міністр Канади Марк Карні заявив у суботу, що провів тривалі та змістовні переговори з президентом США Дональдом Трампом і що обидві країни досягають прогресу на шляху до укладення торговельної угоди, хоча остаточної домовленості ще не досягнуто.",
-  "link": "https://epravda.com.ua/svit/prem-yer-kanadi-zayaviv-pro-uspih-u-torgivelnih-peremovinah-z-trampom-827656/",
-  "published": "2026-11-15T12:04:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "5c50ef7baee0",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Ціни дизелю в США впали до найнижчого рівня за останні 2 місяці",
-  "teaser": "У суботу середні ціни на дизельне паливо в США впали нижче 6 доларів за галон після того, як протягом двох місяців утримувалися вище цього порогу, відступивши від рекордних максимумів, оскільки послаблення геополітичної напруженості та сезонне зниження попиту зменшують тиск на…",
-  "link": "https://epravda.com.ua/energetika/u-ssha-padayut-cini-na-dizel-827655/",
-  "published": "2026-11-15T11:07:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "cb4a2764863d",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "From culture war to class war: US Democrats ditch woke politics",
-  "teaser": "The newly emboldened party shifts gears after its sweeping midterm election victory",
-  "link": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
-  "published": "2026-11-15T11:00:04+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "db28f361ce6d",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
-  "teaser": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
-  "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
-  "published": "2026-11-15T11:00:04+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "c7450bdf4d16",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
-  "teaser": "With luxury demand weak, executives are debating one of the sector’s big taboos.",
-  "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
-  "published": "2026-11-15T10:30:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "fd98159f7963",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "The SpaceX IPO Had Musk’s Star Power. Anthropic’s Has FOMO.",
-  "teaser": "Artificial intelligent’s future makes it hard for some to sit out the trillion-dollar offering, but it’s complicated. “Feels almost like the last chopper out of Saigon,” says one.",
-  "link": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main",
-  "published": "2026-11-15T10:30:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "a9550a8b4848",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Частина Сумщини другу добу поспіль залишається без світла через аварію",
-  "teaser": "Частина Сумської області залишається без стабільного електропостачання через аварію на одному з високовольтних об'єктів.",
-  "link": "https://epravda.com.ua/energetika/chastina-sumshchini-bez-svitla-pislya-avariji-827654/",
-  "published": "2026-11-15T09:55:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "dfa8d8c0268d",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Ворог атакував енергетику Одещини: частина області без світла",
-  "teaser": "Вночі 15 листопада ворог атакував енергетичний обʼєкт ДТЕК. 41 тисяча родин залишилась без світла.",
-  "link": "https://epravda.com.ua/energetika/vorog-atakuvav-energetiku-odeshchini-827653/",
-  "published": "2026-11-15T09:07:00+00:00",
-  "seen": "2026-11-16T00:29:01+00:00"
- },
- {
-  "id": "cc1d8782c11e",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "У Росії горить один з найбільших нафтокомплексів Європи: Татарстан атакували дрони",
-  "teaser": "Вночі 15 листопада безпілотники масово атакували місто Нижньокамськ у Республіці Татарстан – найбільший у Росії центр нафтохімічної промисловості, внаслідок чого виникла масштабна пожежа на \"Нижньокамськнафтохімі\".",
-  "link": "https://epravda.com.ua/energetika/u-rosiji-gorit-odin-z-naybilshih-naftokompleksiv-yevropi-tatarstan-atakuvali-droni-827652/",
-  "published": "2026-11-15T08:00:00+00:00",
   "seen": "2026-11-16T00:29:01+00:00"
  }
 ]
