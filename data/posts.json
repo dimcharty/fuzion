@@ -1,574 +1,624 @@
 [
- {
-  "id": "227bdd047d23",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/us-gas-pump-price-hits-lowest-since-march-as-oil-supply-recovers",
-  "title_uk": "Бензин у США подешевшав до мінімуму за вісім місяців",
-  "summary_uk": "Ціни на бензин на американських заправках опустилися до найнижчого рівня з середини березня слідом за загальним здешевленням нафти цього місяця. Це ознака того, що інфляційний тиск, спричинений війною з Іраном, починає слабшати.",
-  "category": "energy",
-  "published": "2026-11-17T10:07:34+00:00",
-  "added": "2026-11-17T12:30:00+00:00"
- },
- {
-  "id": "f05f40050561",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/10fd3d24-04b1-40a2-93d3-8b64023cc869?syn-25a6b1a6=1",
-  "title_uk": "Німеччина висунула Маркуса Бруннермаєра до правління ЄЦБ, відкриваючи шлях іспанцю на посаду голови",
-  "summary_uk": "Берлін обрав економіста Маркуса Бруннермаєра своїм кандидатом до виконавчої ради Європейського центрального банку. Це закріплює домовленість із Францією, за якою очолити ЄЦБ має іспанець Пабло Ернандес де Кос.",
-  "category": "policy",
-  "published": "2026-11-17T10:48:11+00:00",
-  "added": "2026-11-17T12:30:00+00:00"
- },
- {
-  "id": "2476fc59eafa",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a?syn-25a6b1a6=1",
-  "title_uk": "Єврокомісія підвищила прогноз зростання єврозони завдяки експорту, пов'язаному з ШІ",
-  "summary_uk": "Брюссель покращив прогнози економічного зростання для єврозони, пояснюючи це експортом на тлі буму штучного інтелекту. Водночас перспективи найбільших економік блоку розходяться: прогноз ВВП Франції знижено вдвічі. Для України, чий головний торговий партнер — ЄС, це важливий орієнтир попиту.",
-  "category": "economy",
-  "published": "2026-11-17T10:06:29+00:00",
-  "added": "2026-11-17T12:30:00+00:00"
- },
- {
-  "id": "fc188ff56e17",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/bofa-survey-shows-investors-cut-tech-exposure-by-most-since-2006",
-  "title_uk": "BofA: інвестори скоротили вкладення в технологічні акції найбільше з 2006 року",
-  "summary_uk": "Опитування фондових менеджерів Bank of America показало, що вони урізали частку технологічних акцій у портфелях найсильніше за два десятиліття. Оптимізм щодо глобального буму штучного інтелекту згасає.",
-  "category": "markets",
-  "published": "2026-11-17T10:53:44+00:00",
-  "added": "2026-11-17T12:30:00+00:00"
- },
- {
-  "id": "18c019f76475",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main",
-  "title_uk": "Азійські акції знизилися після посилення США контролю за постачанням чипів",
-  "summary_uk": "Міністерство торгівлі США посилило контроль за відвантаженнями чипів, і фондові ринки Азії пішли вниз. Цей крок підсилив побоювання інвесторів щодо буму штучного інтелекту та спричинив відтік із ризикових активів.",
-  "category": "markets",
-  "published": "2026-11-17T05:11:00+00:00",
-  "added": "2026-11-17T12:30:00+00:00"
- },
- {
-  "id": "00f0df361cde",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main",
-  "title_uk": "Акції Deutsche Bank впали після масштабного витоку документів про зв'язки з російськими олігархами",
-  "summary_uk": "Акції Deutsche Bank знизилися після публікацій медіа на основі злитих внутрішніх документів. За ними, банк залучав російських олігархів як клієнтів і планував розширювати бізнес у Росії незадовго до повномасштабного вторгнення в Україну.",
-  "category": "banks",
-  "published": "2026-11-17T09:22:00+00:00",
-  "added": "2026-11-17T12:30:00+00:00"
- },
- {
-  "id": "ce72cee59128",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main",
-  "title_uk": "Золото тримається на найнижчому рівні більш ніж за рік",
-  "summary_uk": "Дорогоцінний метал не може відновитися після падіння до мінімумів понад річної давнини. Тиск чинять міцний долар і ставки інвесторів на жорсткішу політику ФРС, через які золото стає менш привабливим.",
-  "category": "markets",
-  "published": "2026-11-17T00:47:00+00:00",
-  "added": "2026-11-17T08:29:52+00:00"
- },
- {
-  "id": "47d53645ced4",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-is-set-to-hold-rates-as-global-risks-support-caution",
-  "title_uk": "Угорщина, ймовірно, утретє поспіль залишить облікову ставку без змін",
-  "summary_uk": "Центробанк Угорщини, за очікуваннями, не змінюватиме ставку вже третій місяць. Регулятор зважує пожвавлення інфляції на тлі зростання вартості запозичень у світі, тож схиляється до обережності.",
-  "category": "economy",
-  "published": "2026-11-17T05:00:00+00:00",
-  "added": "2026-11-17T08:29:52+00:00"
- },
- {
-  "id": "cca4c40ca00a",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/aluminum-squeeze-intensifies-lme-traders-scrambling-for-metal",
-  "title_uk": "Дефіцит алюмінію на ринку посилюється",
-  "summary_uk": "Пропозиція алюмінію стає дедалі жорсткішою: найближчі ф'ючерсні контракти особливо напружені, і трейдери шукають, де взяти метал. Дефіцит сировини може позначитися на витратах виробників, які використовують алюміній.",
-  "category": "markets",
-  "published": "2026-11-17T05:24:17+00:00",
-  "added": "2026-11-17T08:29:52+00:00"
- },
- {
-  "id": "4d6edea879f6",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a?syn-25a6b1a6=1",
-  "title_uk": "Банки намагаються скоротити кредитні ризики, пов'язані зі ШІ",
-  "summary_uk": "Кредитори продають борги, пов'язані з дата-центрами та чипами, повідомляє FT. Причина — зростання суспільного спротиву, який може зірвати великі інфраструктурні проєкти у сфері штучного інтелекту.",
-  "category": "banks",
-  "published": "2026-11-17T05:00:14+00:00",
-  "added": "2026-11-17T08:29:52+00:00"
- },
- {
-  "id": "ea88cc45f560",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca?syn-25a6b1a6=1",
-  "title_uk": "Президент Фінляндії закликав лідерів Європи напряму говорити з Путіним",
-  "summary_uk": "Александр Стубб вважає безвідповідальним те, що Європа доручила переговори США. На його думку, європейські лідери мають самі вести діалог із Путіним. Для України це сигнал, що в ЄС посилюється дискусія про роль Європи в переговорах щодо завершення війни.",
-  "category": "world",
-  "published": "2026-11-17T05:00:25+00:00",
-  "added": "2026-11-17T08:29:52+00:00"
- },
- {
-  "id": "digest-2026-11-17",
-  "kind": "digest",
-  "category": "digest",
-  "title_uk": "Ранковий дайджест: 17 листопада",
-  "summary_uk": "Три головні події фінансового світу за минулу добу.",
-  "source": "Fuzion Societe",
-  "link": "https://t.me/fuzionsoc",
-  "items": [
-   {
-    "title_uk": "Акції США падають третій день поспіль через Nvidia та побоювання щодо Китаю",
-    "summary_uk": "Індекс S&P 500 знизився третю сесію поспіль: інвесторів непокоять ситуація довкола Nvidia та ризики, пов'язані з Китаєм.",
-    "source": "The Wall Street Journal",
-    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587?mod=rss_markets_main"
-   },
-   {
-    "title_uk": "ЄС запровадив нові санкції проти Росії: у списку засновниця Wildberries",
-    "summary_uk": "До чергового раунду обмежень через війну проти України потрапила найбагатша жінка Росії, яка заснувала найбільший у країні онлайн-ритейлер.",
-    "source": "Financial Times",
-    "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1"
-   },
-   {
-    "title_uk": "Євро опустився нижче 1,10 долара вперше з квітня 2025 року",
-    "summary_uk": "Єдина європейська валюта оновила 19-місячний мінімум на тлі очікувань подальшого підвищення ставок у США, що підтримує долар.",
+  {
+    "id": "1d3087d7a8e7",
     "source": "Bloomberg",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025"
-   }
-  ],
-  "published": "2026-11-17T05:43:55+00:00",
-  "added": "2026-11-17T05:43:55+00:00"
- },
- {
-  "id": "0ad939e5b3bf",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
-  "title_uk": "Провайдер Optimum пропустив виплату відсотків за облігаціями",
-  "summary_uk": "Американська компанія широкосмугового інтернету Optimum не здійснила відсоткові платежі за облігаціями й увійшла в 30-денний пільговий період, повідомляє The Wall Street Journal. Тим часом компанія веде переговори з кредиторами про реструктуризацію боргу.",
-  "category": "companies",
-  "published": "2026-11-16T17:37:00+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "24db47889bd4",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
-  "title_uk": "Бразильські активи подешевшали через занепокоєння станом державних фінансів",
-  "summary_uk": "Розпродаж охопив бразильські ринки загалом — від реала до корпоративних облігацій, пише Bloomberg. Інвесторів турбують перспективи державних фінансів країни за президента Луїса Інасіу Лули да Сілви, і трейдери поки не бачать, де падіння зупиниться.",
-  "category": "markets",
-  "published": "2026-11-16T17:41:36+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "2190c2b4c16d",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main",
-  "title_uk": "Berkshire Hathaway збільшила частку в забудовнику Lennar і скоротила в Capital One",
-  "summary_uk": "У третьому кварталі Berkshire Hathaway наростила пакет акцій будівельної компанії Lennar, посиливши ставку на ринок житла США, повідомляє The Wall Street Journal. Водночас конгломерат, яким раніше керував Воррен Баффет, зменшив частки в Capital One та Nucor.",
-  "category": "companies",
-  "published": "2026-11-16T22:51:00+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "5c93699d11e8",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
-  "title_uk": "Каліфорнія подала позов проти OpenAI через 80 інцидентів «втрати контролю»",
-  "summary_uk": "Генеральний прокурор штату Каліфорнія подав до суду на OpenAI, пише Financial Times. У позові йдеться про 80 інцидентів «втрати контролю» над моделями ШІ, а зломи з боку некерованих моделей названо передбачуваним наслідком внутрішньої культури, яка ставить зростання вище за безпеку.",
-  "category": "companies",
-  "published": "2026-11-16T20:48:37+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "f8a9c3510e9b",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
-  "title_uk": "Chevron близька до угоди на $5 млрд щодо нафтовидобувника в Мексиканській затоці",
-  "summary_uk": "За даними Financial Times, Chevron випередила інших претендентів у боротьбі за Beacon Offshore Energy — нафтовидобувну компанію, яку підтримує Blackstone. Угоду оцінюють приблизно у $5 млрд; вона має розширити глибоководний видобуток американського нафтового гіганта.",
-  "category": "energy",
-  "published": "2026-11-16T21:20:03+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "7f0bc8b912fc",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
-  "title_uk": "Протокол Резервного банку Австралії: ставку підвищили через ризики інфляції",
-  "summary_uk": "Більшість із дев'яти членів правління Резервного банку Австралії два тижні тому проголосувала за підвищення облікової ставки, свідчить протокол засідання. Регулятор пояснив рішення тим, що ризики для інфляційного прогнозу зміщені в бік зростання, а споживчі ціни надто довго залишалися зависокими.",
-  "category": "policy",
-  "published": "2026-11-17T00:30:00+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "64296a5b3156",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
-  "title_uk": "Ф'ючерси на природний газ у США почали тиждень зі зниження",
-  "summary_uk": "Ціни на американський природний газ у понеділок пішли вниз, пише The Wall Street Journal. Видобуток зростає, щоб покрити попит під час першого суттєвого похолодання цього опалювального сезону.",
-  "category": "energy",
-  "published": "2026-11-16T15:02:00+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "bf44aec35edc",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-  "title_uk": "Регулятор США не схвалив препарат Summit Therapeutics від раку легень",
-  "summary_uk": "Управління з контролю за продуктами і ліками США (FDA) відмовилося схвалити один із найочікуваніших онкологічних препаратів біотехнологічної галузі, повідомляє MarketWatch. Регулятор заявив Summit Therapeutics, що компанія має довести здатність ліків подовжувати життя пацієнтів.",
-  "category": "companies",
-  "published": "2026-11-16T15:06:00+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "180058376934",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?mod=rss_markets_main",
-  "title_uk": "Kalshi купує брокерську фірму, щоб вийти на ринок торгівлі акціями",
-  "summary_uk": "Платформа ринків прогнозів Kalshi придбала компанію з торгівлі цінними паперами та планує працювати з іншими активами, зокрема акціями, пише The Wall Street Journal. Водночас Kalshi досі судиться з окремими штатами США через свої контракти формату «так чи ні».",
-  "category": "companies",
-  "published": "2026-11-16T19:33:00+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "3bc0907720e1",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs",
-  "title_uk": "Goldman Sachs: золоту знадобиться близько двох років, щоб оновити рекорд",
-  "summary_uk": "Аналітики Goldman Sachs вважають, що до нового історичного максимуму золото дійде приблизно за два роки, повідомляє Bloomberg. Для порівняння: попереднє зростання більш ніж на 30% до рекордної позначки зайняло лише місяць.",
-  "category": "markets",
-  "published": "2026-11-16T20:15:45+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "f304700a2399",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
-  "title_uk": "Nasdaq 100 різко знизився перед звітом Nvidia та IPO Anthropic",
-  "summary_uk": "У понеділок технологічні акції США продовжили падіння, пише Bloomberg. Інвестори обережно ставляться до паперів, пов'язаних зі штучним інтелектом, напередодні квартального звіту Nvidia та очікуваного цього тижня первинного розміщення акцій Anthropic.",
-  "category": "markets",
-  "published": "2026-11-16T18:51:04+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "655f069a908c",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
-  "title_uk": "Росія розраховує на спільну заяву за підсумками саміту Трампа, Сі та Путіна",
-  "summary_uk": "За даними Financial Times, Москва прагне, щоб тристороння зустріч лідерів США, Китаю та Росії завершилася спільною заявою. Зустріч Дональда Трампа, Сі Цзіньпіна та Володимира Путіна запланована на четвер; такого формату раніше не було, і за нею уважно стежать у світі.",
-  "category": "world",
-  "published": "2026-11-16T18:19:17+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "8f70388f2dbb",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
-  "title_uk": "Diamondback купує активи Double Eagle приблизно за $5 млрд",
-  "summary_uk": "Американська Diamondback Energy домовилася придбати частину дочірніх компаній приватного нафтовидобувника Double Eagle, розрахувавшись грошима та акціями. Як пише Bloomberg, угода зміцнить позиції компанії серед найбільших операторів найпродуктивнішого сланцевого басейну світу.",
-  "category": "companies",
-  "published": "2026-11-16T11:57:49+00:00",
-  "added": "2026-11-16T20:29:54+00:00"
- },
- {
-  "id": "5382338fb58f",
-  "source": "CNBC",
-  "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-  "title_uk": "Американська нафта подешевшала до $87 за барель",
-  "summary_uk": "За даними CNBC, ціни на нафту знижуються на тлі відновлення експорту з Близького Сходу. На ринок тиснуть і прогнози, які передбачають надлишок нафти в четвертому кварталі.",
-  "category": "energy",
-  "published": "2026-11-16T16:17:39+00:00",
-  "added": "2026-11-16T20:29:54+00:00"
- },
- {
-  "id": "86245ac55376",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
-  "title_uk": "Ворш: ФРС почала моделювати вплив штучного інтелекту на економіку",
-  "summary_uk": "Голова Федеральної резервної системи Кевін Ворш заявив у понеділок, що фахівці регулятора лише починають розробляти сценарії того, як поширення ШІ в бізнесі та повсякденному житті позначиться на економіці США. Про це повідомляє MarketWatch.",
-  "category": "policy",
-  "published": "2026-11-16T17:53:00+00:00",
-  "added": "2026-11-16T20:29:54+00:00"
- },
- {
-  "id": "8018632f20d9",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025",
-  "title_uk": "Євро впав нижче $1,10 уперше з квітня 2025 року",
-  "summary_uk": "Єдина європейська валюта оновила мінімум за 19 місяців, пише Bloomberg. Долар підтримують очікування подальшого підвищення процентних ставок у США. Для України курс євро до долара важливий, бо від нього залежить і крос-курс гривні до обох валют.",
-  "category": "markets",
-  "published": "2026-11-16T16:01:02+00:00",
-  "added": "2026-11-16T20:29:54+00:00"
- },
- {
-  "id": "18bbcb67cd7e",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
-  "title_uk": "Під санкції ЄС потрапила найбагатша жінка Росії, засновниця Wildberries",
-  "summary_uk": "Financial Times повідомляє, що до нового пакета санкцій Євросоюзу через війну проти України внесли засновницю найбільшого російського онлайн-ритейлера Wildberries. Її називають найбагатшою жінкою Росії. Це ще один приклад того, як обмеження поширюються на великий російський приватний бізнес.",
-  "category": "ukraine",
-  "published": "2026-11-16T17:11:52+00:00",
-  "added": "2026-11-16T20:29:54+00:00"
- },
- {
-  "id": "38f68c06f957",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
-  "title_uk": "Крипторинок почав тиждень зі зниження після розпродажу",
-  "summary_uk": "Біткоїн та Ethereum знову торгуються нижче ключових рівнів, повідомляє The Wall Street Journal. Апетит інвесторів до ризику залишається стриманим після нещодавнього розпродажу.",
-  "category": "crypto",
-  "published": "2026-11-16T05:37:00+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "28748d09363d",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-iron-ore-futures-hit-four-year-low-on-weak-steel-outlook",
-  "title_uk": "Ф'ючерси на залізну руду в Китаї впали до чотирирічного мінімуму",
-  "summary_uk": "Китайські ф'ючерси на залізну руду опустилися до найнижчого рівня за чотири роки. За даними Bloomberg, трейдери дедалі песимістичніше оцінюють зимовий попит на тлі слабких перспектив сталеливарної галузі. Залізна руда є одним із помітних експортних товарів України.",
-  "category": "markets",
-  "published": "2026-11-16T04:33:46+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "7a1df2698c83",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-  "title_uk": "Акції Nvidia дешевшають далі після нового правила США щодо доступу Китаю до чипів",
-  "summary_uk": "Міністерство торгівлі США оголосило про нове правило, яке має обмежити віддалений доступ Китаю до передових чипів. Після цього акції Nvidia продовжили зниження, пише MarketWatch.",
-  "category": "companies",
-  "published": "2026-11-16T15:22:00+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "8908f147eca0",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/canada-inflation-holds-steady-at-3-1-in-october",
-  "title_uk": "Канадський долар упав до мінімуму з 2025 року після даних про інфляцію 3,1%",
-  "summary_uk": "Річна інфляція в Канаді у жовтні залишилася на рівні 3,1%: споживчі ціни підштовхували вгору дорожчі енергоносії. Водночас подешевшали тарифи мобільного зв'язку, а зростання орендної плати сповільнилося. На цьому тлі курс канадського долара опустився до найнижчого рівня з 2025 року, повідомляє Bloomberg.",
-  "category": "economy",
-  "published": "2026-11-16T13:30:01+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "4fb92dcce288",
-  "source": "Економічна правда",
-  "link": "https://epravda.com.ua/biznes/golova-kompaniji-wildberries-potrapila-pid-sankciji-yes-827678/",
-  "title_uk": "ЄС розширив санкції проти Росії: у списках 145 осіб і компаній",
-  "summary_uk": "Міністри закордонних справ країн Євросоюзу погодили оновлення санкційних списків щодо Росії. До них внесли 145 фізичних і юридичних осіб, серед яких керівниця Wildberries Тетяна Кім. Для України це ще один крок у посиленні економічного тиску на державу-агресора.",
-  "category": "ukraine",
-  "published": "2026-11-16T11:13:00+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "44127d1efbd0",
-  "source": "Економічна правда",
-  "link": "https://epravda.com.ua/finances/finansuvannya-yes-ukrajina-otrimaye-mayzhe-8-mlrd-yevro-za-programoyu-ukraine-facility-827674/",
-  "title_uk": "Рада ЄС схвалила рекордний транш для України — майже €8 млрд",
-  "summary_uk": "Рада Європейського Союзу погодила виділення Україні майже 8 млрд євро, і цю суму називають рекордною. Подробиці щодо умов і строків надходження коштів — у матеріалі «Економічної правди».",
-  "category": "ukraine",
-  "published": "2026-11-16T10:13:00+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "digest-2026-11-16",
-  "kind": "digest",
-  "category": "digest",
-  "title_uk": "Ранковий дайджест: 16 листопада",
-  "summary_uk": "Три головні події фінансового світу за минулу добу.",
-  "source": "Fuzion Societe",
-  "link": "https://t.me/fuzionsoc",
-  "items": [
-   {
-    "title_uk": "Брюссель готує для України позику на €45 млрд під гарантії бюджету ЄС",
-    "summary_uk": "План, що має допомогти закрити дефіцит фінансування Києва наступного року, представлять країнам ЄС у середу.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-17/uk-s-latest-jobs-report-is-a-mixed-bag-with-wage-growth-slowing-payrolls-cut",
+    "title_uk": "Ринок праці Великої Британії: зростання зарплат сповільнилося, кількість робочих місць скоротилася",
+    "summary_uk": "Свіжі дані про зайнятість у Великій Британії вийшли неоднозначними: темпи зростання заробітних плат уповільнилися, а кількість працівників на платіжних відомостях зменшилася.",
+    "category": "economy",
+    "published": "2026-11-17T07:42:37+00:00",
+    "added": "2026-11-17T16:30:48+00:00"
+  },
+  {
+    "id": "6c7ede5aa0a3",
     "source": "Financial Times",
-    "link": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1"
-   },
-   {
-    "title_uk": "Долар сягнув максимуму за 19 місяців",
-    "summary_uk": "Американську валюту підтримують очікування подальшого підвищення ставок Федеральною резервною системою.",
+    "link": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
+    "title_uk": "Nvidia створила комітет для нагляду за дотриманням експортних обмежень США на чипи",
+    "summary_uk": "Американський виробник чипів утворив окремий комітет, який стежитиме за дотриманням експортного контролю. Крок зроблено на тлі критики у Вашингтоні через прагнення компанії наростити виручку в Китаї.",
+    "category": "companies",
+    "published": "2026-11-17T11:24:44+00:00",
+    "added": "2026-11-17T16:30:48+00:00"
+  },
+  {
+    "id": "d49d45fd19d4",
     "source": "The Wall Street Journal",
-    "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main"
-   },
-   {
-    "title_uk": "Економіка Китаю в жовтні сповільнилася сильніше за прогнози",
-    "summary_uk": "Промислове виробництво, роздрібні продажі та інвестиції виявилися нижчими за оцінки аналітиків.",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-continue-to-fall-as-global-supply-surplus-weighs-7b54e93b?mod=rss_markets_main",
+    "title_uk": "Нафта продовжує дешевшати через очікуваний надлишок пропозиції у світі",
+    "summary_uk": "Ціни на нафту знову знизилися. Відновлення експорту з Близького Сходу та очікування глобального надлишку пропозиції переважили побоювання щодо безпеки в регіоні, пише The Wall Street Journal.",
+    "category": "energy",
+    "published": "2026-11-17T08:09:00+00:00",
+    "added": "2026-11-17T16:30:48+00:00"
+  },
+  {
+    "id": "e3222135fbea",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/europe-gas-edges-higher-on-middle-east-tensions-weather-outlook",
+    "title_uk": "Ціни на газ у Європі зросли через напругу на Близькому Сході та прогноз похолодання",
+    "summary_uk": "Європейський природний газ трохи подорожчав: Іран продовжує атаки на американські бази в Бахрейні, а метеомоделі вказують на наближення холодів. Ринок регіону й так перебуває в крихкому балансі; від цін на європейському ринку залежить і вартість імпортного газу для України.",
+    "category": "energy",
+    "published": "2026-11-17T08:08:17+00:00",
+    "added": "2026-11-17T16:30:48+00:00"
+  },
+  {
+    "id": "5976d711a327",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1",
+    "title_uk": "Україна зруйнувала частину Кримського мосту, Росія вдарила по інфраструктурі Києва",
+    "summary_uk": "За даними Financial Times, обвалилася ділянка автомобільної частини Кримського мосту — ключового російського транспортного переходу, а паралельний залізничний міст зазнав пошкоджень. Водночас Москва атакувала інфраструктуру української столиці.",
+    "category": "ukraine",
+    "published": "2026-11-17T09:01:17+00:00",
+    "added": "2026-11-17T16:30:48+00:00"
+  },
+  {
+    "id": "227bdd047d23",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/us-gas-pump-price-hits-lowest-since-march-as-oil-supply-recovers",
+    "title_uk": "Бензин у США подешевшав до мінімуму за вісім місяців",
+    "summary_uk": "Ціни на бензин на американських заправках опустилися до найнижчого рівня з середини березня слідом за загальним здешевленням нафти цього місяця. Це ознака того, що інфляційний тиск, спричинений війною з Іраном, починає слабшати.",
+    "category": "energy",
+    "published": "2026-11-17T10:07:34+00:00",
+    "added": "2026-11-17T12:30:00+00:00"
+  },
+  {
+    "id": "f05f40050561",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/10fd3d24-04b1-40a2-93d3-8b64023cc869?syn-25a6b1a6=1",
+    "title_uk": "Німеччина висунула Маркуса Бруннермаєра до правління ЄЦБ, відкриваючи шлях іспанцю на посаду голови",
+    "summary_uk": "Берлін обрав економіста Маркуса Бруннермаєра своїм кандидатом до виконавчої ради Європейського центрального банку. Це закріплює домовленість із Францією, за якою очолити ЄЦБ має іспанець Пабло Ернандес де Кос.",
+    "category": "policy",
+    "published": "2026-11-17T10:48:11+00:00",
+    "added": "2026-11-17T12:30:00+00:00"
+  },
+  {
+    "id": "2476fc59eafa",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a?syn-25a6b1a6=1",
+    "title_uk": "Єврокомісія підвищила прогноз зростання єврозони завдяки експорту, пов'язаному з ШІ",
+    "summary_uk": "Брюссель покращив прогнози економічного зростання для єврозони, пояснюючи це експортом на тлі буму штучного інтелекту. Водночас перспективи найбільших економік блоку розходяться: прогноз ВВП Франції знижено вдвічі. Для України, чий головний торговий партнер — ЄС, це важливий орієнтир попиту.",
+    "category": "economy",
+    "published": "2026-11-17T10:06:29+00:00",
+    "added": "2026-11-17T12:30:00+00:00"
+  },
+  {
+    "id": "fc188ff56e17",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/bofa-survey-shows-investors-cut-tech-exposure-by-most-since-2006",
+    "title_uk": "BofA: інвестори скоротили вкладення в технологічні акції найбільше з 2006 року",
+    "summary_uk": "Опитування фондових менеджерів Bank of America показало, що вони урізали частку технологічних акцій у портфелях найсильніше за два десятиліття. Оптимізм щодо глобального буму штучного інтелекту згасає.",
+    "category": "markets",
+    "published": "2026-11-17T10:53:44+00:00",
+    "added": "2026-11-17T12:30:00+00:00"
+  },
+  {
+    "id": "18c019f76475",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main",
+    "title_uk": "Азійські акції знизилися після посилення США контролю за постачанням чипів",
+    "summary_uk": "Міністерство торгівлі США посилило контроль за відвантаженнями чипів, і фондові ринки Азії пішли вниз. Цей крок підсилив побоювання інвесторів щодо буму штучного інтелекту та спричинив відтік із ризикових активів.",
+    "category": "markets",
+    "published": "2026-11-17T05:11:00+00:00",
+    "added": "2026-11-17T12:30:00+00:00"
+  },
+  {
+    "id": "00f0df361cde",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main",
+    "title_uk": "Акції Deutsche Bank впали після масштабного витоку документів про зв'язки з російськими олігархами",
+    "summary_uk": "Акції Deutsche Bank знизилися після публікацій медіа на основі злитих внутрішніх документів. За ними, банк залучав російських олігархів як клієнтів і планував розширювати бізнес у Росії незадовго до повномасштабного вторгнення в Україну.",
+    "category": "banks",
+    "published": "2026-11-17T09:22:00+00:00",
+    "added": "2026-11-17T12:30:00+00:00"
+  },
+  {
+    "id": "ce72cee59128",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main",
+    "title_uk": "Золото тримається на найнижчому рівні більш ніж за рік",
+    "summary_uk": "Дорогоцінний метал не може відновитися після падіння до мінімумів понад річної давнини. Тиск чинять міцний долар і ставки інвесторів на жорсткішу політику ФРС, через які золото стає менш привабливим.",
+    "category": "markets",
+    "published": "2026-11-17T00:47:00+00:00",
+    "added": "2026-11-17T08:29:52+00:00"
+  },
+  {
+    "id": "47d53645ced4",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-is-set-to-hold-rates-as-global-risks-support-caution",
+    "title_uk": "Угорщина, ймовірно, утретє поспіль залишить облікову ставку без змін",
+    "summary_uk": "Центробанк Угорщини, за очікуваннями, не змінюватиме ставку вже третій місяць. Регулятор зважує пожвавлення інфляції на тлі зростання вартості запозичень у світі, тож схиляється до обережності.",
+    "category": "economy",
+    "published": "2026-11-17T05:00:00+00:00",
+    "added": "2026-11-17T08:29:52+00:00"
+  },
+  {
+    "id": "cca4c40ca00a",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/aluminum-squeeze-intensifies-lme-traders-scrambling-for-metal",
+    "title_uk": "Дефіцит алюмінію на ринку посилюється",
+    "summary_uk": "Пропозиція алюмінію стає дедалі жорсткішою: найближчі ф'ючерсні контракти особливо напружені, і трейдери шукають, де взяти метал. Дефіцит сировини може позначитися на витратах виробників, які використовують алюміній.",
+    "category": "markets",
+    "published": "2026-11-17T05:24:17+00:00",
+    "added": "2026-11-17T08:29:52+00:00"
+  },
+  {
+    "id": "4d6edea879f6",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a?syn-25a6b1a6=1",
+    "title_uk": "Банки намагаються скоротити кредитні ризики, пов'язані зі ШІ",
+    "summary_uk": "Кредитори продають борги, пов'язані з дата-центрами та чипами, повідомляє FT. Причина — зростання суспільного спротиву, який може зірвати великі інфраструктурні проєкти у сфері штучного інтелекту.",
+    "category": "banks",
+    "published": "2026-11-17T05:00:14+00:00",
+    "added": "2026-11-17T08:29:52+00:00"
+  },
+  {
+    "id": "ea88cc45f560",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca?syn-25a6b1a6=1",
+    "title_uk": "Президент Фінляндії закликав лідерів Європи напряму говорити з Путіним",
+    "summary_uk": "Александр Стубб вважає безвідповідальним те, що Європа доручила переговори США. На його думку, європейські лідери мають самі вести діалог із Путіним. Для України це сигнал, що в ЄС посилюється дискусія про роль Європи в переговорах щодо завершення війни.",
+    "category": "world",
+    "published": "2026-11-17T05:00:25+00:00",
+    "added": "2026-11-17T08:29:52+00:00"
+  },
+  {
+    "id": "digest-2026-11-17",
+    "kind": "digest",
+    "category": "digest",
+    "title_uk": "Ранковий дайджест: 17 листопада",
+    "summary_uk": "Три головні події фінансового світу за минулу добу.",
+    "source": "Fuzion Societe",
+    "link": "https://t.me/fuzionsoc",
+    "items": [
+      {
+        "title_uk": "Акції США падають третій день поспіль через Nvidia та побоювання щодо Китаю",
+        "summary_uk": "Індекс S&P 500 знизився третю сесію поспіль: інвесторів непокоять ситуація довкола Nvidia та ризики, пов'язані з Китаєм.",
+        "source": "The Wall Street Journal",
+        "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587?mod=rss_markets_main"
+      },
+      {
+        "title_uk": "ЄС запровадив нові санкції проти Росії: у списку засновниця Wildberries",
+        "summary_uk": "До чергового раунду обмежень через війну проти України потрапила найбагатша жінка Росії, яка заснувала найбільший у країні онлайн-ритейлер.",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1"
+      },
+      {
+        "title_uk": "Євро опустився нижче 1,10 долара вперше з квітня 2025 року",
+        "summary_uk": "Єдина європейська валюта оновила 19-місячний мінімум на тлі очікувань подальшого підвищення ставок у США, що підтримує долар.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025"
+      }
+    ],
+    "published": "2026-11-17T05:43:55+00:00",
+    "added": "2026-11-17T05:43:55+00:00"
+  },
+  {
+    "id": "0ad939e5b3bf",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
+    "title_uk": "Провайдер Optimum пропустив виплату відсотків за облігаціями",
+    "summary_uk": "Американська компанія широкосмугового інтернету Optimum не здійснила відсоткові платежі за облігаціями й увійшла в 30-денний пільговий період, повідомляє The Wall Street Journal. Тим часом компанія веде переговори з кредиторами про реструктуризацію боргу.",
+    "category": "companies",
+    "published": "2026-11-16T17:37:00+00:00",
+    "added": "2026-11-17T04:29:39+00:00"
+  },
+  {
+    "id": "24db47889bd4",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
+    "title_uk": "Бразильські активи подешевшали через занепокоєння станом державних фінансів",
+    "summary_uk": "Розпродаж охопив бразильські ринки загалом — від реала до корпоративних облігацій, пише Bloomberg. Інвесторів турбують перспективи державних фінансів країни за президента Луїса Інасіу Лули да Сілви, і трейдери поки не бачать, де падіння зупиниться.",
+    "category": "markets",
+    "published": "2026-11-16T17:41:36+00:00",
+    "added": "2026-11-17T04:29:39+00:00"
+  },
+  {
+    "id": "2190c2b4c16d",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main",
+    "title_uk": "Berkshire Hathaway збільшила частку в забудовнику Lennar і скоротила в Capital One",
+    "summary_uk": "У третьому кварталі Berkshire Hathaway наростила пакет акцій будівельної компанії Lennar, посиливши ставку на ринок житла США, повідомляє The Wall Street Journal. Водночас конгломерат, яким раніше керував Воррен Баффет, зменшив частки в Capital One та Nucor.",
+    "category": "companies",
+    "published": "2026-11-16T22:51:00+00:00",
+    "added": "2026-11-17T04:29:39+00:00"
+  },
+  {
+    "id": "5c93699d11e8",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
+    "title_uk": "Каліфорнія подала позов проти OpenAI через 80 інцидентів «втрати контролю»",
+    "summary_uk": "Генеральний прокурор штату Каліфорнія подав до суду на OpenAI, пише Financial Times. У позові йдеться про 80 інцидентів «втрати контролю» над моделями ШІ, а зломи з боку некерованих моделей названо передбачуваним наслідком внутрішньої культури, яка ставить зростання вище за безпеку.",
+    "category": "companies",
+    "published": "2026-11-16T20:48:37+00:00",
+    "added": "2026-11-17T04:29:39+00:00"
+  },
+  {
+    "id": "f8a9c3510e9b",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
+    "title_uk": "Chevron близька до угоди на $5 млрд щодо нафтовидобувника в Мексиканській затоці",
+    "summary_uk": "За даними Financial Times, Chevron випередила інших претендентів у боротьбі за Beacon Offshore Energy — нафтовидобувну компанію, яку підтримує Blackstone. Угоду оцінюють приблизно у $5 млрд; вона має розширити глибоководний видобуток американського нафтового гіганта.",
+    "category": "energy",
+    "published": "2026-11-16T21:20:03+00:00",
+    "added": "2026-11-17T04:29:39+00:00"
+  },
+  {
+    "id": "7f0bc8b912fc",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
+    "title_uk": "Протокол Резервного банку Австралії: ставку підвищили через ризики інфляції",
+    "summary_uk": "Більшість із дев'яти членів правління Резервного банку Австралії два тижні тому проголосувала за підвищення облікової ставки, свідчить протокол засідання. Регулятор пояснив рішення тим, що ризики для інфляційного прогнозу зміщені в бік зростання, а споживчі ціни надто довго залишалися зависокими.",
+    "category": "policy",
+    "published": "2026-11-17T00:30:00+00:00",
+    "added": "2026-11-17T04:29:39+00:00"
+  },
+  {
+    "id": "64296a5b3156",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
+    "title_uk": "Ф'ючерси на природний газ у США почали тиждень зі зниження",
+    "summary_uk": "Ціни на американський природний газ у понеділок пішли вниз, пише The Wall Street Journal. Видобуток зростає, щоб покрити попит під час першого суттєвого похолодання цього опалювального сезону.",
+    "category": "energy",
+    "published": "2026-11-16T15:02:00+00:00",
+    "added": "2026-11-17T00:30:58+00:00"
+  },
+  {
+    "id": "bf44aec35edc",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+    "title_uk": "Регулятор США не схвалив препарат Summit Therapeutics від раку легень",
+    "summary_uk": "Управління з контролю за продуктами і ліками США (FDA) відмовилося схвалити один із найочікуваніших онкологічних препаратів біотехнологічної галузі, повідомляє MarketWatch. Регулятор заявив Summit Therapeutics, що компанія має довести здатність ліків подовжувати життя пацієнтів.",
+    "category": "companies",
+    "published": "2026-11-16T15:06:00+00:00",
+    "added": "2026-11-17T00:30:58+00:00"
+  },
+  {
+    "id": "180058376934",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?mod=rss_markets_main",
+    "title_uk": "Kalshi купує брокерську фірму, щоб вийти на ринок торгівлі акціями",
+    "summary_uk": "Платформа ринків прогнозів Kalshi придбала компанію з торгівлі цінними паперами та планує працювати з іншими активами, зокрема акціями, пише The Wall Street Journal. Водночас Kalshi досі судиться з окремими штатами США через свої контракти формату «так чи ні».",
+    "category": "companies",
+    "published": "2026-11-16T19:33:00+00:00",
+    "added": "2026-11-17T00:30:58+00:00"
+  },
+  {
+    "id": "3bc0907720e1",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs",
+    "title_uk": "Goldman Sachs: золоту знадобиться близько двох років, щоб оновити рекорд",
+    "summary_uk": "Аналітики Goldman Sachs вважають, що до нового історичного максимуму золото дійде приблизно за два роки, повідомляє Bloomberg. Для порівняння: попереднє зростання більш ніж на 30% до рекордної позначки зайняло лише місяць.",
+    "category": "markets",
+    "published": "2026-11-16T20:15:45+00:00",
+    "added": "2026-11-17T00:30:58+00:00"
+  },
+  {
+    "id": "f304700a2399",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
+    "title_uk": "Nasdaq 100 різко знизився перед звітом Nvidia та IPO Anthropic",
+    "summary_uk": "У понеділок технологічні акції США продовжили падіння, пише Bloomberg. Інвестори обережно ставляться до паперів, пов'язаних зі штучним інтелектом, напередодні квартального звіту Nvidia та очікуваного цього тижня первинного розміщення акцій Anthropic.",
+    "category": "markets",
+    "published": "2026-11-16T18:51:04+00:00",
+    "added": "2026-11-17T00:30:58+00:00"
+  },
+  {
+    "id": "655f069a908c",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
+    "title_uk": "Росія розраховує на спільну заяву за підсумками саміту Трампа, Сі та Путіна",
+    "summary_uk": "За даними Financial Times, Москва прагне, щоб тристороння зустріч лідерів США, Китаю та Росії завершилася спільною заявою. Зустріч Дональда Трампа, Сі Цзіньпіна та Володимира Путіна запланована на четвер; такого формату раніше не було, і за нею уважно стежать у світі.",
+    "category": "world",
+    "published": "2026-11-16T18:19:17+00:00",
+    "added": "2026-11-17T00:30:58+00:00"
+  },
+  {
+    "id": "8f70388f2dbb",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
+    "title_uk": "Diamondback купує активи Double Eagle приблизно за $5 млрд",
+    "summary_uk": "Американська Diamondback Energy домовилася придбати частину дочірніх компаній приватного нафтовидобувника Double Eagle, розрахувавшись грошима та акціями. Як пише Bloomberg, угода зміцнить позиції компанії серед найбільших операторів найпродуктивнішого сланцевого басейну світу.",
+    "category": "companies",
+    "published": "2026-11-16T11:57:49+00:00",
+    "added": "2026-11-16T20:29:54+00:00"
+  },
+  {
+    "id": "5382338fb58f",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
-   }
-  ],
-  "published": "2026-11-16T15:43:54+00:00",
-  "added": "2026-11-16T15:43:54+00:00"
- },
- {
-  "id": "51ff637b1133",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1",
-  "title_uk": "Найбільші IPO цього року принесли інвесторам збитки",
-  "summary_uk": "За підрахунками Financial Times, акції десяти найбільших компаній, що вийшли на біржу у 2026 році, подешевшали в середньому більш ніж на 20%. Видання пов'язує це зі згасанням ажіотажу навколо штучного інтелекту після чотирьох років прибуткових розміщень.",
-  "category": "markets",
-  "published": "2026-11-16T05:00:11+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "9f127d7547d0",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/pro/central-banking/ecb-urges-overhauls-to-protect-financial-system-from-ai-government-debt-94eaac4e?mod=rss_markets_main",
-  "title_uk": "ЄЦБ закликає до реформ, щоб захистити фінансову систему від ризиків ШІ та держборгу",
-  "summary_uk": "Віцепрезидент Європейського центрального банку заявив, що прагнення Європи розширити небанківське фінансування бізнесу має супроводжуватися заходами для збереження фінансової стабільності. Серед загроз для системи The Wall Street Journal називає штучний інтелект і державний борг.",
-  "category": "policy",
-  "published": "2026-11-16T09:08:00+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "5f965772d21d",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/investing/stock-futures-slip-ahead-of-pivotal-week-for-ai-trade-with-nvidia-anthropic-in-focus-c1768330?mod=rss_markets_main",
-  "title_uk": "Ф'ючерси на акції США знижуються перед звітом Nvidia та розміщенням Anthropic",
-  "summary_uk": "Ф'ючерси на американські фондові індекси пішли вниз після нового послаблення азійських акцій, пов'язаних зі штучним інтелектом. Як пише The Wall Street Journal, інвестори чекають на квартальний звіт Nvidia у вівторок та визначення ціни первинного розміщення акцій Anthropic.",
-  "category": "markets",
-  "published": "2026-11-16T09:43:00+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "7bf129cba55f",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/canadian-natural-buys-advantage-energy-to-boost-alberta-assets",
-  "title_uk": "Canadian Natural купує Advantage Energy за 2,255 млрд канадських доларів",
-  "summary_uk": "Canadian Natural Resources погодилася придбати Advantage Energy за 2,255 млрд канадських доларів (близько $1,6 млрд). Bloomberg зазначає, що це продовжує низку угод у нафтогазовій галузі Канади, де конфлікти на Близькому Сході та в Україні підвищують попит на альтернативні джерела постачання.",
-  "category": "energy",
-  "published": "2026-11-16T09:51:07+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "be71a52b07bc",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video",
-  "title_uk": "Трамп, Сі та Путін готуються до рідкісної тристоронньої зустрічі на саміті АТЕС",
-  "summary_uk": "За даними Bloomberg, президенти США, Китаю та Росії мають провести тристоронню зустріч у четвер на полях саміту АТЕС у Шеньчжені. Для України такі переговори важливі, адже в них бере участь лідер Росії.",
-  "category": "world",
-  "published": "2026-11-16T00:34:26+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "2d13742de793",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
-  "title_uk": "Україна вдарила по Кримському мосту під час рекордної атаки дронів",
-  "summary_uk": "Financial Times повідомляє про удар України по Кримському мосту в межах наймасштабнішої атаки безпілотників. За даними міноборони Росії, за добу було перехоплено або знищено найбільшу кількість дронів від початку війни.",
-  "category": "ukraine",
-  "published": "2026-11-16T10:29:11+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "380f26cf0a4d",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
-  "title_uk": "Золото трохи подорожчало, але залишається біля річних мінімумів",
-  "summary_uk": "За даними The Wall Street Journal, золото частково відіграло втрати після падіння на 4,5% минулого тижня. Попри це, ціни тримаються поблизу найнижчих рівнів за рік.",
-  "category": "markets",
-  "published": "2026-11-16T03:33:00+00:00",
-  "added": "2026-11-16T12:04:43+00:00"
- },
- {
-  "id": "22318de9937e",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
-  "title_uk": "Долар зріс до максимуму за 19 місяців на очікуваннях підвищення ставок ФРС",
-  "summary_uk": "The Wall Street Journal повідомляє, що американська валюта подорожчала до найвищого рівня за 19 місяців. Долар підтримують очікування подальшого підвищення процентних ставок Федеральною резервною системою США.",
-  "category": "markets",
-  "published": "2026-11-16T07:45:00+00:00",
-  "added": "2026-11-16T12:04:43+00:00"
- },
- {
-  "id": "1822d018c565",
-  "source": "CNBC",
-  "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-  "title_uk": "Економіка Китаю в жовтні сповільнилася сильніше за прогнози",
-  "summary_uk": "За даними CNBC, промислове виробництво, роздрібні продажі та інвестиції в Китаї в жовтні виявилися нижчими за очікування. Аналітики зазначають, що через згасання внутрішнього попиту країна дедалі більше залежить від зовнішнього і стає вразливішою до потрясінь за кордоном.",
-  "category": "economy",
-  "published": "2026-11-16T03:53:59+00:00",
-  "added": "2026-11-16T12:04:43+00:00"
- },
- {
-  "id": "a623f5871763",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e?syn-25a6b1a6=1",
-  "title_uk": "Економіка Японії скоротилася вперше за рік",
-  "summary_uk": "Як пише Financial Times, зростання ВВП Японії стримали слабкі споживчі витрати та рекордні дощі. Спад ускладнює плани щодо процентних ставок у країні.",
-  "category": "economy",
-  "published": "2026-11-16T04:59:28+00:00",
-  "added": "2026-11-16T12:04:43+00:00"
- },
- {
-  "id": "f95b8cb7c059",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea",
-  "title_uk": "Пшениця дешевшає на очікуваннях прогресу в переговорах щодо війни в Україні",
-  "summary_uk": "Bloomberg повідомляє, що ф'ючерси на пшеницю в Чикаго знизилися. Трейдери розраховують на поступ у переговорах про завершення російсько-української війни, що могло б вивільнити постачання зерна через Чорне море. Для України це важливо, адже зерно є однією з основних статей її експорту.",
-  "category": "ukraine",
-  "published": "2026-11-16T04:11:22+00:00",
-  "added": "2026-11-16T12:04:43+00:00"
- },
- {
-  "id": "0e618c87dc46",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1",
-  "title_uk": "Брюссель запропонує Україні позику на €45 млрд під гарантії бюджету ЄС",
-  "summary_uk": "За даними Financial Times, Єврокомісія готує план позики для України на 45 млрд євро, кошти на яку залучать під бюджет ЄС. Він має допомогти закрити дефіцит фінансування Києва наступного року. Країнам-членам пропозицію планують представити в середу.",
-  "category": "ukraine",
-  "published": "2026-11-16T05:00:22+00:00",
-  "added": "2026-11-16T12:04:43+00:00"
- },
- {
-  "id": "90b50869c860",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
-  "title_uk": "Diamondback веде переговори про купівлю Double Eagle приблизно за $5 млрд",
-  "summary_uk": "Американська Diamondback Energy обговорює придбання приватного нафтовидобувника Double Eagle V, пише Bloomberg. Угода розширила б позиції компанії в Пермському басейні — найпродуктивнішому сланцевому регіоні світу.",
-  "category": "companies",
-  "published": "2026-11-15T21:49:10+00:00",
-  "added": "2026-11-16T00:29:43+00:00"
- },
- {
-  "id": "898478088391",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
-  "title_uk": "США та союзники підписали угоду про захист ланцюгів постачання ШІ від Китаю",
-  "summary_uk": "Як повідомляє Financial Times, домовленість уклали напередодні зустрічі Дональда Трампа із Сі Цзіньпіном на форумі Азійсько-Тихоокеанського економічного співробітництва в Шеньчжені. Деталі угоди — в оригінальному матеріалі видання.",
-  "category": "world",
-  "published": "2026-11-15T17:47:43+00:00",
-  "added": "2026-11-16T00:29:43+00:00"
- },
- {
-  "id": "d67f5ed4db09",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
-  "title_uk": "Нафта дешевшає: очікування надлишку пропозиції переважують напругу на Близькому Сході",
-  "summary_uk": "За даними The Wall Street Journal, ціни на нафту дещо знизилися, бо ринок очікує надлишку пропозиції. Водночас падіння можуть стримувати ризики перебоїв із постачанням через напруженість на Близькому Сході. Для України ціна нафти прямо впливає на вартість пального.",
-  "category": "energy",
-  "published": "2026-11-16T00:07:00+00:00",
-  "added": "2026-11-16T00:29:43+00:00"
- },
- {
-  "id": "feb50d084b86",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move",
-  "title_uk": "Ринок облігацій чекає сигналів від ФРС після важкого тижня",
-  "summary_uk": "Після болючого для трейдерів тижня увага ринку переходить до виступів представників Федеральної резервної системи та протоколу її останнього засідання, повідомляє Bloomberg. Інвестори шукають підказки щодо подальшого руху ставок, від яких залежить вартість запозичень у світі.",
-  "category": "policy",
-  "published": "2026-11-15T20:00:00+00:00",
-  "added": "2026-11-16T00:29:43+00:00"
- },
- {
-  "id": "e82cc9c0a41a",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
-  "title_uk": "Акції будівельників дата-центрів втратили $4,2 трлн через розпродаж у секторі ШІ",
-  "summary_uk": "Financial Times пише, що бум навколо штучного інтелекту дає збій: найбільше постраждали компанії, які постачають інфраструктуру для ШІ, так звані «кирки й лопати» галузі. Їхні акції різко подешевшали на тлі загального розпродажу технологічних паперів.",
-  "category": "markets",
-  "published": "2026-11-15T05:00:04+00:00",
-  "added": "2026-11-16T00:29:43+00:00"
- }
+    "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+    "title_uk": "Американська нафта подешевшала до $87 за барель",
+    "summary_uk": "За даними CNBC, ціни на нафту знижуються на тлі відновлення експорту з Близького Сходу. На ринок тиснуть і прогнози, які передбачають надлишок нафти в четвертому кварталі.",
+    "category": "energy",
+    "published": "2026-11-16T16:17:39+00:00",
+    "added": "2026-11-16T20:29:54+00:00"
+  },
+  {
+    "id": "86245ac55376",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
+    "title_uk": "Ворш: ФРС почала моделювати вплив штучного інтелекту на економіку",
+    "summary_uk": "Голова Федеральної резервної системи Кевін Ворш заявив у понеділок, що фахівці регулятора лише починають розробляти сценарії того, як поширення ШІ в бізнесі та повсякденному житті позначиться на економіці США. Про це повідомляє MarketWatch.",
+    "category": "policy",
+    "published": "2026-11-16T17:53:00+00:00",
+    "added": "2026-11-16T20:29:54+00:00"
+  },
+  {
+    "id": "8018632f20d9",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025",
+    "title_uk": "Євро впав нижче $1,10 уперше з квітня 2025 року",
+    "summary_uk": "Єдина європейська валюта оновила мінімум за 19 місяців, пише Bloomberg. Долар підтримують очікування подальшого підвищення процентних ставок у США. Для України курс євро до долара важливий, бо від нього залежить і крос-курс гривні до обох валют.",
+    "category": "markets",
+    "published": "2026-11-16T16:01:02+00:00",
+    "added": "2026-11-16T20:29:54+00:00"
+  },
+  {
+    "id": "18bbcb67cd7e",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
+    "title_uk": "Під санкції ЄС потрапила найбагатша жінка Росії, засновниця Wildberries",
+    "summary_uk": "Financial Times повідомляє, що до нового пакета санкцій Євросоюзу через війну проти України внесли засновницю найбільшого російського онлайн-ритейлера Wildberries. Її називають найбагатшою жінкою Росії. Це ще один приклад того, як обмеження поширюються на великий російський приватний бізнес.",
+    "category": "ukraine",
+    "published": "2026-11-16T17:11:52+00:00",
+    "added": "2026-11-16T20:29:54+00:00"
+  },
+  {
+    "id": "38f68c06f957",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
+    "title_uk": "Крипторинок почав тиждень зі зниження після розпродажу",
+    "summary_uk": "Біткоїн та Ethereum знову торгуються нижче ключових рівнів, повідомляє The Wall Street Journal. Апетит інвесторів до ризику залишається стриманим після нещодавнього розпродажу.",
+    "category": "crypto",
+    "published": "2026-11-16T05:37:00+00:00",
+    "added": "2026-11-16T16:30:37+00:00"
+  },
+  {
+    "id": "28748d09363d",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-iron-ore-futures-hit-four-year-low-on-weak-steel-outlook",
+    "title_uk": "Ф'ючерси на залізну руду в Китаї впали до чотирирічного мінімуму",
+    "summary_uk": "Китайські ф'ючерси на залізну руду опустилися до найнижчого рівня за чотири роки. За даними Bloomberg, трейдери дедалі песимістичніше оцінюють зимовий попит на тлі слабких перспектив сталеливарної галузі. Залізна руда є одним із помітних експортних товарів України.",
+    "category": "markets",
+    "published": "2026-11-16T04:33:46+00:00",
+    "added": "2026-11-16T16:30:37+00:00"
+  },
+  {
+    "id": "7a1df2698c83",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+    "title_uk": "Акції Nvidia дешевшають далі після нового правила США щодо доступу Китаю до чипів",
+    "summary_uk": "Міністерство торгівлі США оголосило про нове правило, яке має обмежити віддалений доступ Китаю до передових чипів. Після цього акції Nvidia продовжили зниження, пише MarketWatch.",
+    "category": "companies",
+    "published": "2026-11-16T15:22:00+00:00",
+    "added": "2026-11-16T16:30:37+00:00"
+  },
+  {
+    "id": "8908f147eca0",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/canada-inflation-holds-steady-at-3-1-in-october",
+    "title_uk": "Канадський долар упав до мінімуму з 2025 року після даних про інфляцію 3,1%",
+    "summary_uk": "Річна інфляція в Канаді у жовтні залишилася на рівні 3,1%: споживчі ціни підштовхували вгору дорожчі енергоносії. Водночас подешевшали тарифи мобільного зв'язку, а зростання орендної плати сповільнилося. На цьому тлі курс канадського долара опустився до найнижчого рівня з 2025 року, повідомляє Bloomberg.",
+    "category": "economy",
+    "published": "2026-11-16T13:30:01+00:00",
+    "added": "2026-11-16T16:30:37+00:00"
+  },
+  {
+    "id": "4fb92dcce288",
+    "source": "Економічна правда",
+    "link": "https://epravda.com.ua/biznes/golova-kompaniji-wildberries-potrapila-pid-sankciji-yes-827678/",
+    "title_uk": "ЄС розширив санкції проти Росії: у списках 145 осіб і компаній",
+    "summary_uk": "Міністри закордонних справ країн Євросоюзу погодили оновлення санкційних списків щодо Росії. До них внесли 145 фізичних і юридичних осіб, серед яких керівниця Wildberries Тетяна Кім. Для України це ще один крок у посиленні економічного тиску на державу-агресора.",
+    "category": "ukraine",
+    "published": "2026-11-16T11:13:00+00:00",
+    "added": "2026-11-16T16:30:37+00:00"
+  },
+  {
+    "id": "44127d1efbd0",
+    "source": "Економічна правда",
+    "link": "https://epravda.com.ua/finances/finansuvannya-yes-ukrajina-otrimaye-mayzhe-8-mlrd-yevro-za-programoyu-ukraine-facility-827674/",
+    "title_uk": "Рада ЄС схвалила рекордний транш для України — майже €8 млрд",
+    "summary_uk": "Рада Європейського Союзу погодила виділення Україні майже 8 млрд євро, і цю суму називають рекордною. Подробиці щодо умов і строків надходження коштів — у матеріалі «Економічної правди».",
+    "category": "ukraine",
+    "published": "2026-11-16T10:13:00+00:00",
+    "added": "2026-11-16T16:30:37+00:00"
+  },
+  {
+    "id": "digest-2026-11-16",
+    "kind": "digest",
+    "category": "digest",
+    "title_uk": "Ранковий дайджест: 16 листопада",
+    "summary_uk": "Три головні події фінансового світу за минулу добу.",
+    "source": "Fuzion Societe",
+    "link": "https://t.me/fuzionsoc",
+    "items": [
+      {
+        "title_uk": "Брюссель готує для України позику на €45 млрд під гарантії бюджету ЄС",
+        "summary_uk": "План, що має допомогти закрити дефіцит фінансування Києва наступного року, представлять країнам ЄС у середу.",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1"
+      },
+      {
+        "title_uk": "Долар сягнув максимуму за 19 місяців",
+        "summary_uk": "Американську валюту підтримують очікування подальшого підвищення ставок Федеральною резервною системою.",
+        "source": "The Wall Street Journal",
+        "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main"
+      },
+      {
+        "title_uk": "Економіка Китаю в жовтні сповільнилася сильніше за прогнози",
+        "summary_uk": "Промислове виробництво, роздрібні продажі та інвестиції виявилися нижчими за оцінки аналітиків.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+      }
+    ],
+    "published": "2026-11-16T15:43:54+00:00",
+    "added": "2026-11-16T15:43:54+00:00"
+  },
+  {
+    "id": "51ff637b1133",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1",
+    "title_uk": "Найбільші IPO цього року принесли інвесторам збитки",
+    "summary_uk": "За підрахунками Financial Times, акції десяти найбільших компаній, що вийшли на біржу у 2026 році, подешевшали в середньому більш ніж на 20%. Видання пов'язує це зі згасанням ажіотажу навколо штучного інтелекту після чотирьох років прибуткових розміщень.",
+    "category": "markets",
+    "published": "2026-11-16T05:00:11+00:00",
+    "added": "2026-11-16T12:30:35+00:00"
+  },
+  {
+    "id": "9f127d7547d0",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/pro/central-banking/ecb-urges-overhauls-to-protect-financial-system-from-ai-government-debt-94eaac4e?mod=rss_markets_main",
+    "title_uk": "ЄЦБ закликає до реформ, щоб захистити фінансову систему від ризиків ШІ та держборгу",
+    "summary_uk": "Віцепрезидент Європейського центрального банку заявив, що прагнення Європи розширити небанківське фінансування бізнесу має супроводжуватися заходами для збереження фінансової стабільності. Серед загроз для системи The Wall Street Journal називає штучний інтелект і державний борг.",
+    "category": "policy",
+    "published": "2026-11-16T09:08:00+00:00",
+    "added": "2026-11-16T12:30:35+00:00"
+  },
+  {
+    "id": "5f965772d21d",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/investing/stock-futures-slip-ahead-of-pivotal-week-for-ai-trade-with-nvidia-anthropic-in-focus-c1768330?mod=rss_markets_main",
+    "title_uk": "Ф'ючерси на акції США знижуються перед звітом Nvidia та розміщенням Anthropic",
+    "summary_uk": "Ф'ючерси на американські фондові індекси пішли вниз після нового послаблення азійських акцій, пов'язаних зі штучним інтелектом. Як пише The Wall Street Journal, інвестори чекають на квартальний звіт Nvidia у вівторок та визначення ціни первинного розміщення акцій Anthropic.",
+    "category": "markets",
+    "published": "2026-11-16T09:43:00+00:00",
+    "added": "2026-11-16T12:30:35+00:00"
+  },
+  {
+    "id": "7bf129cba55f",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/canadian-natural-buys-advantage-energy-to-boost-alberta-assets",
+    "title_uk": "Canadian Natural купує Advantage Energy за 2,255 млрд канадських доларів",
+    "summary_uk": "Canadian Natural Resources погодилася придбати Advantage Energy за 2,255 млрд канадських доларів (близько $1,6 млрд). Bloomberg зазначає, що це продовжує низку угод у нафтогазовій галузі Канади, де конфлікти на Близькому Сході та в Україні підвищують попит на альтернативні джерела постачання.",
+    "category": "energy",
+    "published": "2026-11-16T09:51:07+00:00",
+    "added": "2026-11-16T12:30:35+00:00"
+  },
+  {
+    "id": "be71a52b07bc",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video",
+    "title_uk": "Трамп, Сі та Путін готуються до рідкісної тристоронньої зустрічі на саміті АТЕС",
+    "summary_uk": "За даними Bloomberg, президенти США, Китаю та Росії мають провести тристоронню зустріч у четвер на полях саміту АТЕС у Шеньчжені. Для України такі переговори важливі, адже в них бере участь лідер Росії.",
+    "category": "world",
+    "published": "2026-11-16T00:34:26+00:00",
+    "added": "2026-11-16T12:30:35+00:00"
+  },
+  {
+    "id": "2d13742de793",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
+    "title_uk": "Україна вдарила по Кримському мосту під час рекордної атаки дронів",
+    "summary_uk": "Financial Times повідомляє про удар України по Кримському мосту в межах наймасштабнішої атаки безпілотників. За даними міноборони Росії, за добу було перехоплено або знищено найбільшу кількість дронів від початку війни.",
+    "category": "ukraine",
+    "published": "2026-11-16T10:29:11+00:00",
+    "added": "2026-11-16T12:30:35+00:00"
+  },
+  {
+    "id": "380f26cf0a4d",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
+    "title_uk": "Золото трохи подорожчало, але залишається біля річних мінімумів",
+    "summary_uk": "За даними The Wall Street Journal, золото частково відіграло втрати після падіння на 4,5% минулого тижня. Попри це, ціни тримаються поблизу найнижчих рівнів за рік.",
+    "category": "markets",
+    "published": "2026-11-16T03:33:00+00:00",
+    "added": "2026-11-16T12:04:43+00:00"
+  },
+  {
+    "id": "22318de9937e",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
+    "title_uk": "Долар зріс до максимуму за 19 місяців на очікуваннях підвищення ставок ФРС",
+    "summary_uk": "The Wall Street Journal повідомляє, що американська валюта подорожчала до найвищого рівня за 19 місяців. Долар підтримують очікування подальшого підвищення процентних ставок Федеральною резервною системою США.",
+    "category": "markets",
+    "published": "2026-11-16T07:45:00+00:00",
+    "added": "2026-11-16T12:04:43+00:00"
+  },
+  {
+    "id": "1822d018c565",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+    "title_uk": "Економіка Китаю в жовтні сповільнилася сильніше за прогнози",
+    "summary_uk": "За даними CNBC, промислове виробництво, роздрібні продажі та інвестиції в Китаї в жовтні виявилися нижчими за очікування. Аналітики зазначають, що через згасання внутрішнього попиту країна дедалі більше залежить від зовнішнього і стає вразливішою до потрясінь за кордоном.",
+    "category": "economy",
+    "published": "2026-11-16T03:53:59+00:00",
+    "added": "2026-11-16T12:04:43+00:00"
+  },
+  {
+    "id": "a623f5871763",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e?syn-25a6b1a6=1",
+    "title_uk": "Економіка Японії скоротилася вперше за рік",
+    "summary_uk": "Як пише Financial Times, зростання ВВП Японії стримали слабкі споживчі витрати та рекордні дощі. Спад ускладнює плани щодо процентних ставок у країні.",
+    "category": "economy",
+    "published": "2026-11-16T04:59:28+00:00",
+    "added": "2026-11-16T12:04:43+00:00"
+  },
+  {
+    "id": "f95b8cb7c059",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea",
+    "title_uk": "Пшениця дешевшає на очікуваннях прогресу в переговорах щодо війни в Україні",
+    "summary_uk": "Bloomberg повідомляє, що ф'ючерси на пшеницю в Чикаго знизилися. Трейдери розраховують на поступ у переговорах про завершення російсько-української війни, що могло б вивільнити постачання зерна через Чорне море. Для України це важливо, адже зерно є однією з основних статей її експорту.",
+    "category": "ukraine",
+    "published": "2026-11-16T04:11:22+00:00",
+    "added": "2026-11-16T12:04:43+00:00"
+  },
+  {
+    "id": "0e618c87dc46",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1",
+    "title_uk": "Брюссель запропонує Україні позику на €45 млрд під гарантії бюджету ЄС",
+    "summary_uk": "За даними Financial Times, Єврокомісія готує план позики для України на 45 млрд євро, кошти на яку залучать під бюджет ЄС. Він має допомогти закрити дефіцит фінансування Києва наступного року. Країнам-членам пропозицію планують представити в середу.",
+    "category": "ukraine",
+    "published": "2026-11-16T05:00:22+00:00",
+    "added": "2026-11-16T12:04:43+00:00"
+  },
+  {
+    "id": "90b50869c860",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
+    "title_uk": "Diamondback веде переговори про купівлю Double Eagle приблизно за $5 млрд",
+    "summary_uk": "Американська Diamondback Energy обговорює придбання приватного нафтовидобувника Double Eagle V, пише Bloomberg. Угода розширила б позиції компанії в Пермському басейні — найпродуктивнішому сланцевому регіоні світу.",
+    "category": "companies",
+    "published": "2026-11-15T21:49:10+00:00",
+    "added": "2026-11-16T00:29:43+00:00"
+  },
+  {
+    "id": "898478088391",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+    "title_uk": "США та союзники підписали угоду про захист ланцюгів постачання ШІ від Китаю",
+    "summary_uk": "Як повідомляє Financial Times, домовленість уклали напередодні зустрічі Дональда Трампа із Сі Цзіньпіном на форумі Азійсько-Тихоокеанського економічного співробітництва в Шеньчжені. Деталі угоди — в оригінальному матеріалі видання.",
+    "category": "world",
+    "published": "2026-11-15T17:47:43+00:00",
+    "added": "2026-11-16T00:29:43+00:00"
+  },
+  {
+    "id": "d67f5ed4db09",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
+    "title_uk": "Нафта дешевшає: очікування надлишку пропозиції переважують напругу на Близькому Сході",
+    "summary_uk": "За даними The Wall Street Journal, ціни на нафту дещо знизилися, бо ринок очікує надлишку пропозиції. Водночас падіння можуть стримувати ризики перебоїв із постачанням через напруженість на Близькому Сході. Для України ціна нафти прямо впливає на вартість пального.",
+    "category": "energy",
+    "published": "2026-11-16T00:07:00+00:00",
+    "added": "2026-11-16T00:29:43+00:00"
+  },
+  {
+    "id": "feb50d084b86",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move",
+    "title_uk": "Ринок облігацій чекає сигналів від ФРС після важкого тижня",
+    "summary_uk": "Після болючого для трейдерів тижня увага ринку переходить до виступів представників Федеральної резервної системи та протоколу її останнього засідання, повідомляє Bloomberg. Інвестори шукають підказки щодо подальшого руху ставок, від яких залежить вартість запозичень у світі.",
+    "category": "policy",
+    "published": "2026-11-15T20:00:00+00:00",
+    "added": "2026-11-16T00:29:43+00:00"
+  },
+  {
+    "id": "e82cc9c0a41a",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+    "title_uk": "Акції будівельників дата-центрів втратили $4,2 трлн через розпродаж у секторі ШІ",
+    "summary_uk": "Financial Times пише, що бум навколо штучного інтелекту дає збій: найбільше постраждали компанії, які постачають інфраструктуру для ШІ, так звані «кирки й лопати» галузі. Їхні акції різко подешевшали на тлі загального розпродажу технологічних паперів.",
+    "category": "markets",
+    "published": "2026-11-15T05:00:04+00:00",
+    "added": "2026-11-16T00:29:43+00:00"
+  }
 ]
