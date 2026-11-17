@@ -1,5 +1,38 @@
 [
  {
+  "id": "9b4d29536ecb",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Fund managers just slashed their tech bets at the fastest pace in two decades — and this is the tail risk keeping them up at night",
+  "teaser": "Investors are shifting their overweight positioning away from megacap tech and getting less bearish on bonds. Yet they still maintain exceedingly low cash positions as global growth forecasts are bullish.",
+  "link": "https://www.marketwatch.com/story/fund-managers-just-slashed-their-tech-bets-at-the-fastest-pace-in-two-decades-and-this-is-the-tail-risk-keeping-them-up-at-night-60fcc160?mod=mw_rss_topstories",
+  "published": "2026-11-17T12:28:00+00:00",
+  "seen": "2026-11-17T12:30:21+00:00"
+ },
+ {
+  "id": "fd3728e4054e",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Can Nvidia sell investors on a future without Jensen Huang?",
+  "teaser": "Co-founder Huang is gone. Can Colette Kress ease market fears? Can a new board committee? Plus, the Fed weighs AI’s economic fallout, and parents confront their kids’ gambling problems.",
+  "link": "https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories",
+  "published": "2026-11-17T12:27:00+00:00",
+  "seen": "2026-11-17T12:30:21+00:00"
+ },
+ {
+  "id": "ecd845270d73",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Swiss Pharma Employee Convicted Over $300,000 in Insider Trades",
+  "teaser": "An employee of Swiss healthcare supplier SKAN Group AG was found guilty of insider trading after his appeal of a penalty order handed down by Swiss prosecutors was rejected.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/swiss-pharma-employee-convicted-over-300-000-in-insider-trades",
+  "published": "2026-11-17T12:02:16+00:00",
+  "seen": "2026-11-17T12:30:21+00:00"
+ },
+ {
   "id": "6d7a943b8f8e",
   "source": "Bloomberg",
   "lang": "en",
@@ -350,6 +383,17 @@
   "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
   "published": "2026-11-17T08:52:45+00:00",
   "seen": "2026-11-17T11:56:16+00:00"
+ },
+ {
+  "id": "a5a5435c2cbd",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff",
+  "teaser": "European stocks slid as concerns over the artificial-intelligence trade swept markets ahead of results from Nvidia Corp., after the US moved to impose sweeping new restrictions on China’s access to high-end AI chips.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff",
+  "published": "2026-11-17T08:30:44+00:00",
+  "seen": "2026-11-17T12:30:21+00:00"
  },
  {
   "id": "55178b5201de",
@@ -1307,6 +1351,17 @@
   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-8b780372?mod=rss_markets_main",
   "published": "2026-11-16T21:54:00+00:00",
   "seen": "2026-11-17T00:31:10+00:00"
+ },
+ {
+  "id": "d67f5ed4db09",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Oil Futures Retreat on Expected Global Surplus",
+  "teaser": "Oil prices extended losses as analysts and experts say the global market faces a growing surplus next year, despite persistent risks in the Middle East.",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
+  "published": "2026-11-16T21:50:00+00:00",
+  "seen": "2026-11-17T12:30:21+00:00"
  },
  {
   "id": "d4b42d61aacf",
@@ -2288,6 +2343,17 @@
   "seen": "2026-11-16T12:30:55+00:00"
  },
  {
+  "id": "be0f439fc3d0",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+  "teaser": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+  "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+  "published": "2026-11-16T12:14:46+00:00",
+  "seen": "2026-11-17T12:30:21+00:00"
+ },
+ {
   "id": "90e0a44e38f7",
   "source": "CNBC",
   "lang": "en",
@@ -3231,72 +3297,6 @@
   "teaser": "Chinese iron ore futures slumped to the lowest in four years as traders turned increasingly bearish on the demand outlook for winter.",
   "link": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-iron-ore-futures-hit-four-year-low-on-weak-steel-outlook",
   "published": "2026-11-16T04:33:46+00:00",
-  "seen": "2026-11-16T08:01:07+00:00"
- },
- {
-  "id": "b6e42dda67a2",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Indonesia apologises to neighbours for toxic haze",
-  "teaser": "President Prabowo Subianto vows tougher action over fires that have blanketed Singapore and Malaysia in smog",
-  "link": "https://www.ft.com/content/725d2cd5-b2d9-455d-bd1c-6a6cdec1a489?syn-25a6b1a6=1",
-  "published": "2026-11-16T04:12:14+00:00",
-  "seen": "2026-11-16T12:04:56+00:00"
- },
- {
-  "id": "f95b8cb7c059",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Wheat Falls on Optimism Trilateral Talks Will Free Up Black Sea",
-  "teaser": "Wheat fell in Chicago on optimism that progress will be made in negotiations to end the Russia-Ukraine conflict, freeing up supplies of the grain.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea",
-  "published": "2026-11-16T04:11:22+00:00",
-  "seen": "2026-11-16T08:01:07+00:00"
- },
- {
-  "id": "f062a8ef2765",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic IPO, Nvidia Fallout in Focus; World Leaders Gather in Asia",
-  "teaser": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Paul Allen and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/the-asia-trade-11-16-2026-video",
-  "published": "2026-11-16T04:10:05+00:00",
-  "seen": "2026-11-16T08:01:07+00:00"
- },
- {
-  "id": "1822d018c565",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-  "teaser": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
-  "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-  "published": "2026-11-16T03:53:59+00:00",
-  "seen": "2026-11-16T08:01:07+00:00"
- },
- {
-  "id": "380f26cf0a4d",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Gold Ticks Up But Prices Stay Weak",
-  "teaser": "Gold edged higher, recovering some ground after shedding 4.5% last week but lingering around one-year lows.",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
-  "published": "2026-11-16T03:33:00+00:00",
-  "seen": "2026-11-16T08:01:07+00:00"
- },
- {
-  "id": "7a4d164cc1d8",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "A big chunk of your 401(k) is likely invested in Nvidia",
-  "teaser": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500.",
-  "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-  "published": "2026-11-16T03:11:00+00:00",
   "seen": "2026-11-16T08:01:07+00:00"
  }
 ]
