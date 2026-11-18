@@ -1,5 +1,115 @@
 [
  {
+  "id": "e81b4644f416",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+  "teaser": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+  "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+  "published": "2026-11-18T04:27:45+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "ebc9f4e67991",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Xi Pitches China as Open Ahead of Trump Meeting",
+  "teaser": "Bloomberg North Asia correspondent Minmin Low says Xi Jinping’s speech at the APEC CEO Summit offered few surprises, emphasizing China’s stability, openness and credentials as a testing ground for frontier technologies. Xi also touted the resilience of the Chinese economy,…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/xi-pitches-china-as-open-ahead-of-trump-meeting-video",
+  "published": "2026-11-18T04:18:04+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "122be7afae8b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic-Backer CBA Says Australia More Attractive on Compute",
+  "teaser": "Australia’s opportunity to provide an outlet for the rising global demand for computing power has increased following the US midterm elections, according to Anthropic PBC-backer Commonwealth Bank of Australia.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-backer-cba-says-australia-more-attractive-on-compute",
+  "published": "2026-11-18T04:17:46+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "f9946d9b1f98",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asics Steps Up China Push With Goal to More Than Double Stores",
+  "teaser": "Asics Corp. plans to more than double its China store network and increase local production as the Japanese sportswear maker makes the country a key growth priority for 2027.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/asics-steps-up-china-push-with-goal-to-more-than-double-stores",
+  "published": "2026-11-18T04:01:38+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "fd4b915158d0",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "UBS Group Sees Yuan Rising to 6.25 in Most Bullish Market Call",
+  "teaser": "UBS Group AG expects the yuan to strengthen toward 6.25 per dollar by the end of 2027, matching the market’s most bullish call yet on a currency that has outperformed most Asian peers this year.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/ubs-group-sees-yuan-rising-to-6-25-in-most-bullish-market-call",
+  "published": "2026-11-18T04:01:26+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "afcd9ed06f69",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Skylark CFO Eyes US Expansion, More M&A",
+  "teaser": "Skylark, one of Japan’s largest restaurant chains, plans more M&A in 2027, and expects its growth-investment budget to match at least this year’s ¥50 billion ($314 million). CFO Yoshiaki Kita spoke to Bloomberg TV in Tokyo. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/skylark-cfo-eyes-us-expansion-more-m-a-video",
+  "published": "2026-11-18T04:01:20+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "a62742581d5b",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Democrats win Alaska Senate seat",
+  "teaser": "Mary Peltola’s victory in northernmost US state raises party’s tally to 56 in 100-member chamber",
+  "link": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1",
+  "published": "2026-11-18T03:47:41+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "a53f9073722f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Japan 20-Year Bond Sale Draws Weak Demand Amid Global Volatility",
+  "teaser": "Japan’s 20-year government bond auction Wednesday saw lower demand than the 12-month average, as investors remained wary of further yield increases amid heightened market volatility.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average",
+  "published": "2026-11-18T03:41:33+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "a5343dc74db6",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China a 'Supersized' Testing Ground for Technology: Xi",
+  "teaser": "Xi Jinping tells Asia-Pacific business leaders that China aims to drive high-quality growth through innovation, green transition and closer integration of technological and industrial development. He describes China as a \"supersized\" testing ground for technologies such as…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
+  "published": "2026-11-18T03:02:15+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "75499b8e4188",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Nvidia has a chance to trade drama for durability",
+  "teaser": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
+  "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
+  "published": "2026-11-18T02:56:15+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
   "id": "69a9383fb8d8",
   "source": "Bloomberg",
   "lang": "en",
@@ -383,6 +493,17 @@
   "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
   "published": "2026-11-17T23:30:13+00:00",
   "seen": "2026-11-18T00:30:23+00:00"
+ },
+ {
+  "id": "0371485c3a10",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+  "teaser": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+  "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+  "published": "2026-11-17T23:30:00+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
  },
  {
   "id": "e6c49131f66b",
@@ -1285,6 +1406,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-17/exemplar-luxury-ceo-says-growth-plan-is-on-track-video",
   "published": "2026-11-17T13:45:51+00:00",
   "seen": "2026-11-17T20:30:46+00:00"
+ },
+ {
+  "id": "a7b07bf4a620",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Foreign Investors Pour Record $9.6 Billion Into Indian Stocks in November",
+  "teaser": "Foreigners are becoming buyers of Indian stocks at a record pace, signaling a broader portfolio shift as weakness in the artificial intelligence trade revives demand for a market they have largely abandoned over the past two years.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-investors-pour-record-9-6-billion-into-indian-stocks-in-november",
+  "published": "2026-11-17T13:31:21+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
  },
  {
   "id": "aeb9180570b6",
@@ -2739,6 +2871,17 @@
   "seen": "2026-11-17T00:31:10+00:00"
  },
  {
+  "id": "64296a5b3156",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "U.S. Natural Gas Futures Settle Lower",
+  "teaser": "U.S. natural gas futures added to Friday’s losses as production picked up and near-term weather turned warmer.",
+  "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
+  "published": "2026-11-16T21:51:00+00:00",
+  "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
   "id": "d67f5ed4db09",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -3155,148 +3298,5 @@
   "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
   "published": "2026-11-16T17:37:00+00:00",
   "seen": "2026-11-17T00:31:10+00:00"
- },
- {
-  "id": "ebcb97b0e30f",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-  "teaser": "",
-  "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-  "published": "2026-11-16T17:29:04+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "9c14c8bdfa7e",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Lilly Pushes Buying Spree Beyond $32B With Calytrix Deal",
-  "teaser": "Eli Lilly & Co. agreed to buy closely held Calytrix Bio Inc. in a deal that could be worth up to $1.5 billion, the latest in the drugmaker’s $32 billion wave of acquisitions in 2026 as it builds out its cancer and immunology businesses. Sam Fazeli, Bloomberg Intelligence,…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/lilly-pushes-buying-spree-beyond-32b-with-calytrix-deal-video",
-  "published": "2026-11-16T17:25:21+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "e4dfe4f27195",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-  "teaser": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
-  "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-  "published": "2026-11-16T17:14:13+00:00",
-  "seen": "2026-11-17T08:30:03+00:00"
- },
- {
-  "id": "18bbcb67cd7e",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Russia’s richest woman hit by EU sanctions",
-  "teaser": "Founder of country’s largest online retailer Wildberries targeted in latest round of EU sanctions over war in Ukraine",
-  "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
-  "published": "2026-11-16T17:11:52+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "78cd3cb6238c",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Athleisure Faces Price Pressures",
-  "teaser": "Regis Schultz, CEO of JD Sports, discusses the state of sports fashion amid the popularity of running. He says the US is \"the most resilient customer\" and that JD stores haven't felt much tariff impact because the brands they carry are taking most of the hit. Schultz gives his…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/athleisure-faces-price-pressures-video",
-  "published": "2026-11-16T17:06:05+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "625a1d2df31e",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Think Twice, Bloomberg’s New Daily Trivia Game",
-  "teaser": "Every right answer means the next question is worth more. Go big in Bloomberg’s new daily trivia game Think Twice. Here’s how to play. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/think-twice-bloomberg-s-new-daily-trivia-game-video",
-  "published": "2026-11-16T17:01:11+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "1be4f2da79c8",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO",
-  "teaser": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-surveillance-11-16-2026-video",
-  "published": "2026-11-16T16:56:51+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "66d778b09517",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "The Chipdollar vs. The Petrodollar",
-  "teaser": "A huge story at a major moment.",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-16/the-chipdollar-vs-the-petrodollar",
-  "published": "2026-11-16T16:31:34+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "d05ce939e6ec",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Former Buyout Execs Launch Secondaries Firm to Target Hidden-Gem Assets in Asia",
-  "teaser": "Two former buyout executives have launched an Asia-focused secondaries investment firm to target the region’s backlog of long-held private-equity investments.",
-  "link": "https://www.wsj.com/pro/private-equity/former-buyout-execs-launch-secondaries-firm-to-target-hidden-gem-assets-in-asia-546861fd?mod=rss_markets_main",
-  "published": "2026-11-16T16:25:00+00:00",
-  "seen": "2026-11-16T16:30:49+00:00"
- },
- {
-  "id": "c4f1d70f6e43",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "I am turning 18 next month and want to start investing. What do I do first?",
-  "teaser": "“I have not tried investing before.”",
-  "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
-  "published": "2026-11-16T16:20:00+00:00",
-  "seen": "2026-11-16T16:30:49+00:00"
- },
- {
-  "id": "7facfcae4582",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Miners Discuss Cross-Border Tie-ups to Tap Argentina’s $40 Billion Copper Belt",
-  "teaser": "Mining companies are discussing potential cross-border partnerships as Argentina’s emerging copper industry looks to tap infrastructure and expertise on the Chilean side of the Andes, according to Chile’s top mining official.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/miners-discuss-cross-border-tie-ups-to-tap-argentina-s-40-billion-copper-belt",
-  "published": "2026-11-16T16:18:00+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "5382338fb58f",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
-  "teaser": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-  "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-  "published": "2026-11-16T16:17:39+00:00",
-  "seen": "2026-11-16T16:30:49+00:00"
- },
- {
-  "id": "8018632f20d9",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Euro Falls Below $1.10 For First Time Since April 2025",
-  "teaser": "The euro fell to a fresh 19-month low on expectations of further interest-rate hikes in the US that will support the dollar.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025",
-  "published": "2026-11-16T16:01:02+00:00",
-  "seen": "2026-11-16T16:30:49+00:00"
  }
 ]
