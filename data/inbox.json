@@ -1,5 +1,126 @@
 [
  {
+  "id": "3ab31123e720",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "US Strikes Iranian Missile Site after Bahrain Attacks",
+  "teaser": "Bloomberg’s Jon Herskovitz discusses the latest exchange of strikes between the US and Iran after American warplanes hit an Islamic Revolutionary Guard Corps missile launch site in Iran. Iran previously targeted an air base in Bahrain in the first direct strike on the Gulf state…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/us-strikes-iranian-missile-site-after-bahrain-attacks-video",
+  "published": "2026-11-18T05:37:06+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "4d4888807b56",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic Crypto Bets Imply $1.7 Trillion Value Despite AI Rout",
+  "teaser": "Crypto futures tied to Anthropic’s stock market debut have fallen alongside artificial intelligence stocks, but they still imply a blockbuster valuation of about $1.7 trillion, well above the $1.4 trillion the company would be worth at the top of its proposed initial public…",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout",
+  "published": "2026-11-18T05:21:44+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "dca5ad4d9104",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Treasuries Edge Higher for a Third Day as Risk Appetite Falters",
+  "teaser": "Benchmark US Treasuries edged higher for a third day, supported by subdued risk sentiment and speculation that most of the Federal Reserve’s upcoming interest-rate hikes may already be in the price.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/treasuries-ust-bond-yields-risk-appetite-falters",
+  "published": "2026-11-18T05:19:28+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "b549fa7ca417",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Smaller Tankers Join Hormuz Shuttle Trade to Keep Oil Flowing",
+  "teaser": "Oil is increasingly moving through the Strait of Hormuz on smaller vessels, helping sustain exports as attacks on supertankers squeeze availability of the ships that typically dominate the trade.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/smaller-tankers--hormuz-shuttle-trade-oil-flows-wti-brent-crude",
+  "published": "2026-11-18T05:18:18+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "e633ca1df532",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Copper Extends Fall to Near Five-Month Low as Dollar Strengthens",
+  "teaser": "Copper extended a decline to the lowest in nearly five months as a stronger dollar added to downward pressure from upheaval in the artificial intelligence sector and a gloomy outlook in China for the industrial metal.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/copper-prices-industrial-metal-dollar-lme",
+  "published": "2026-11-18T05:16:25+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "47f684d7de09",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Private Fund Giants Target €80 Billion From EU Insurance Regulatory Revamp",
+  "teaser": "The world’s biggest private capital firms are stepping up their hunt for a larger chunk of the European Union’s €10 trillion ($11 trillion) insurance asset pile — and settling in for a long pursuit.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/private-fund-giants-target-80-billion-from-eu-insurance-regulatory-revamp",
+  "published": "2026-11-18T05:15:00+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "c2dd9c473084",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic IPO set to redraw venture capital’s power rankings",
+  "teaser": "Small group of lesser-known firms primed for returns at multiples that would surpass larger, blue-chip rivals",
+  "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
+  "published": "2026-11-18T05:00:26+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "904eb99f88d8",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "The good and the bad of climate policy",
+  "teaser": "Big challenges in mitigating what is to come are dwarfed by the costs of having to adapt to what currently lies ahead",
+  "link": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1",
+  "published": "2026-11-18T05:00:16+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "3ac0042f552b",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Wall Street expects corporate earnings growth to halve next year",
+  "teaser": "Analysts forecast profit growth will dip to 16% globally from 33.5% as pace of AI capex expansion slows",
+  "link": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1",
+  "published": "2026-11-18T05:00:16+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "c36c6bd43214",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
+  "teaser": "Big Four firm used AI agents to review financial statements of a FTSE 250 company, but human intervention was needed",
+  "link": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1",
+  "published": "2026-11-18T05:00:07+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "2b5edf38a34a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "ITPO's Ashraf: India-US Trade Deal 'Almost 99% Done'",
+  "teaser": "Indian Trade Promotion Organization Chairman Jawed Ashraf says the India-US trade agreement is 'almost 99% done.' He adds that India is seeking a lasting competitive advantage over key rivals while ensuring commitments are honored and insulated from unilateral US measures.…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/itpo-s-ashraf-india-us-trade-deal-almost-99-done-video",
+  "published": "2026-11-18T04:36:20+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
   "id": "e81b4644f416",
   "source": "CNBC",
   "lang": "en",
@@ -9,6 +130,28 @@
   "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
   "published": "2026-11-18T04:27:45+00:00",
   "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "e9f71ba41701",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Medline’s Backers Raise $2.1 Billion in Stock Offering",
+  "teaser": "Medline Inc. shareholders including Blackstone Inc. and Carlyle Group Inc. raised $2.1 billion in a share sale, according to a statement on Wednesday.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/medline-s-backers-raise-2-1-billion-in-stock-offering",
+  "published": "2026-11-18T04:22:16+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
+  "id": "f5e4767865d7",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Nvidia Says It Can Thrive Without Jensen Huang",
+  "teaser": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/the-asia-trade-11-18-2026-video",
+  "published": "2026-11-18T04:21:09+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
  },
  {
   "id": "ebc9f4e67991",
@@ -31,6 +174,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-backer-cba-says-australia-more-attractive-on-compute",
   "published": "2026-11-18T04:17:46+00:00",
   "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "db0d97567d3e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Citi Sees Africa’s Bond Sales Topping 2026 Record Next Year",
+  "teaser": "The number of African sovereign-bond sales in 2027 looks set to exceed this year’s record as improving macroeconomic stability boosts investor appetite, the continent’s biggest arranger of such debt said.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/citi-sees-africa-s-bond-sales-topping-2026-record-next-year",
+  "published": "2026-11-18T04:15:00+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
  },
  {
   "id": "f9946d9b1f98",
@@ -2827,6 +2981,17 @@
   "seen": "2026-11-17T00:31:10+00:00"
  },
  {
+  "id": "5382338fb58f",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+  "teaser": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+  "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+  "published": "2026-11-16T22:19:02+00:00",
+  "seen": "2026-11-18T05:44:46+00:00"
+ },
+ {
   "id": "c6561028565b",
   "source": "CNBC",
   "lang": "en",
@@ -3133,170 +3298,5 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-16/virgin-media-o2-downgraded-by-moody-s-on-turnaround-concerns",
   "published": "2026-11-16T19:34:46+00:00",
   "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "63ce3ea54e99",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
-  "teaser": "If the AI trade falters, investors have “insurance” in the former of bonds with a longer duration, says David Royal at Thrivent",
-  "link": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories",
-  "published": "2026-11-16T19:34:00+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "180058376934",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Kalshi Buys Securities Firm to Expand Into Stock Trading",
-  "teaser": "The prediction-markets platform, still fighting legal battles with U.S. states over its yes-or-no contracts, wants to expand into other assets.",
-  "link": "https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?mod=rss_markets_main",
-  "published": "2026-11-16T19:33:00+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "17c236bd0365",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Retail Investors Trying To Buy Chip Dip: Mayuranki De",
-  "teaser": "Mayuranki De, vice president of Raymond James, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the volatility in chip stocks, the upcoming Anthropic IPO, active ETFs. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/retail-investors-trying-to-buy-chip-dip-mayuranki-de-video",
-  "published": "2026-11-16T19:32:43+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "fd161b0f278f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Fed's Hammack Prefers Moving Rates in Smaller Increments",
-  "teaser": "Federal Reserve Bank of Cleveland President Beth Hammack says she favors smaller moves in rates but if an inflation mindset sets in the central bank might need to make bigger moves. She speaks with Michael McKee on Bloomberg Television. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/fed-s-hammack-prefers-moving-rates-in-smaller-increments-video",
-  "published": "2026-11-16T19:23:24+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "3993698935de",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Macquarie Warns of Data Center Exuberance Amid Capex Super Cycle",
-  "teaser": "Macquarie Asset Management boss Ben Way signaled that the risk of missteps in data center investing is rising, a warning from the Australian finance juggernaut that manages more than half a trillion dollars and has a track record of well-timed exits in the sector.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/macquarie-warns-of-data-center-exuberance-amid-capex-super-cycle",
-  "published": "2026-11-16T19:00:00+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "10ad157b5006",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
-  "teaser": "Investors are jittery about Nvidia’s upcoming earnings and whether the company will scale back its financing of the AI ecosystem.",
-  "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
-  "published": "2026-11-16T18:54:00+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "f304700a2399",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nasdaq 100 Tumbles as Nvidia Earnings, Anthropic IPO Loom",
-  "teaser": "Tech stocks extended their slump on Monday as investors remained skittish around the AI trade ahead of Nvidia Corp. earnings and the expected initial public offering of Anthropic PBC this week.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
-  "published": "2026-11-16T18:51:04+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "47e3ab5ac5a4",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "America does not produce world-beating statistics. Who does?",
-  "teaser": "We search for the world’s worst—and best—economic data",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
-  "published": "2026-11-16T18:28:18+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "6af642a77de8",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Dollar Erases Liberation Day Loss as ‘Sell America’ Fear Fades",
-  "teaser": "The dollar has recovered all of its decline since President Donald Trump announced tariffs on so-called Liberation Day. A resilient economy, rising interest rates and the artificial intelligence boom have boosted the US currency’s appeal.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/dollar-erases-liberation-day-loss-as-sell-america-fear-fades",
-  "published": "2026-11-16T18:24:06+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "655f069a908c",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
-  "teaser": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
-  "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
-  "published": "2026-11-16T18:19:17+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "5b472fe76c70",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "US Shale Producers Take a Chance on Going Without Hedges",
-  "teaser": "Oil producers in the US shale patch are souring on hedges that took the sheen off an otherwise stellar quarter, in a bet that stronger balance sheets will be enough to weather a price collapse.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/us-oil-producers-sour-on-hedges-as-stronger-finances-offer-cover",
-  "published": "2026-11-16T18:03:51+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "b40cb0c1c8f3",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "What’s the most tax-efficient way to donate to charity?",
-  "teaser": "How to make your donations beneficial for both you and the recipient",
-  "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
-  "published": "2026-11-16T17:55:00+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "86245ac55376",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "How will AI shake up the economy? Warsh says the Fed is starting to figure that out.",
-  "teaser": "The Federal Reserve staff is in the early days of developing various scenarios of how artificial intelligence’s growing role in business and daily life will impact the economy, Fed Chairman Kevin Warsh said Monday.",
-  "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
-  "published": "2026-11-16T17:53:00+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "24db47889bd4",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Lula Worries Slam Brazil Markets From Real to Corporate Bonds",
-  "teaser": "Brazilian assets slumped across the board as traders continue to search for a floor while fretting over the outlook for the nation’s finances under President Luiz Inácio Lula da Silva.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
-  "published": "2026-11-16T17:41:36+00:00",
-  "seen": "2026-11-16T18:35:46+00:00"
- },
- {
-  "id": "0ad939e5b3bf",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Optimum Skips Bond Interest Payments Amid Restructuring Talks",
-  "teaser": "The broadband company entered a 30-day grace period as it negotiated with creditors.",
-  "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
-  "published": "2026-11-16T17:37:00+00:00",
-  "seen": "2026-11-17T00:31:10+00:00"
  }
 ]
