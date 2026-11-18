@@ -1,5 +1,55 @@
 [
  {
+  "id": "d189655d1889",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1",
+  "title_uk": "Масаєсі Сон назвав помилкою те, що SoftBank не інвестував в Anthropic",
+  "summary_uk": "Засновник SoftBank Масаєсі Сон визнав, що японська група помилилася, не вклавши гроші в Anthropic. На той момент SoftBank уже інвестував у головного конкурента — OpenAI. Заява звучить напередодні IPO Anthropic, яке може стати одним із найбільших в історії.",
+  "category": "companies",
+  "published": "2026-11-18T07:56:06+00:00",
+  "added": "2026-11-18T16:30:19+00:00"
+ },
+ {
+  "id": "607d5fb20fe6",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1",
+  "title_uk": "Демократи перевіряють, чи допоміг Латнік фірмі Cantor уникнути збитків на Nvidia",
+  "summary_uk": "Американські законодавці-демократи вимагають інформацію про те, чи впливала на рішення міністра торгівлі США Говарда Латніка інвестиційна компанія Cantor, пов'язана з його родиною. Йдеться про можливе уникнення фірмою втрат на акціях Nvidia.",
+  "category": "policy",
+  "published": "2026-11-18T09:45:07+00:00",
+  "added": "2026-11-18T16:30:19+00:00"
+ },
+ {
+  "id": "989d6efd48de",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/india-says-us-trade-deal-nearly-ready-signing-may-take-time",
+  "title_uk": "Індія заявила, що торговельна угода зі США майже готова",
+  "summary_uk": "Секретар Міністерства торгівлі Індії Раджеш Агравал повідомив, що переговори зі США щодо торговельної угоди можуть невдовзі завершитися. Водночас він застеріг, що на підписання та запуск домовленостей може знадобитися більше часу.",
+  "category": "world",
+  "published": "2026-11-18T11:29:16+00:00",
+  "added": "2026-11-18T16:30:19+00:00"
+ },
+ {
+  "id": "5e491b225aef",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?mod=rss_markets_main",
+  "title_uk": "Ф'ючерси на акції зростають після сильного звіту Nvidia",
+  "summary_uk": "Технологічні акції по всьому світу пішли вгору після того, як Nvidia відзвітувала краще за очікування ринку. Результати чипмейкера заспокоїли інвесторів, які останніми днями тікали з акцій компаній, пов'язаних зі штучним інтелектом.",
+  "category": "markets",
+  "published": "2026-11-18T09:37:00+00:00",
+  "added": "2026-11-18T16:30:19+00:00"
+ },
+ {
+  "id": "5295c2810e8a",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/ecb-s-vujcic-says-december-rate-hike-looks-very-likely-video",
+  "title_uk": "Віцепрезидент ЄЦБ Вуйчич вважає підвищення ставки в грудні дуже ймовірним",
+  "summary_uk": "Борис Вуйчич, віцепрезидент Європейського центробанку, в інтерв'ю Bloomberg назвав грудневе підвищення ставки майже вирішеною справою. За його словами, інфляція в єврозоні поширюється, тож нові підвищення можливі й у 2027 році. Для України політика ЄЦБ важлива через курс євро та вартість запозичень у Європі.",
+  "category": "banks",
+  "published": "2026-11-18T12:00:45+00:00",
+  "added": "2026-11-18T16:30:19+00:00"
+ },
+ {
   "id": "fb8ead3db91d",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=rss_markets_main",
