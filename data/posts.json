@@ -1,5 +1,36 @@
 [
  {
+  "id": "digest-2026-11-18",
+  "kind": "digest",
+  "category": "digest",
+  "title_uk": "Ранковий дайджест: 18 листопада",
+  "summary_uk": "Три головні події фінансового світу за минулу добу.",
+  "source": "Fuzion Societe",
+  "link": "https://t.me/fuzionsoc",
+  "items": [
+   {
+    "title_uk": "Nvidia подвоїла виручку й підвищила прогноз, Хуанг на посаду CEO не повернеться",
+    "summary_uk": "Компанія звітувала про сильні продажі за квартал і поліпшила фінансові орієнтири на наступний рік, водночас запевнивши, що Хуанг не очолить її знову.",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1"
+   },
+   {
+    "title_uk": "Акції Deutsche Bank впали після масштабного витоку документів",
+    "summary_uk": "За даними ЗМІ, банк залучав російських олігархів і планував розширення в Росії незадовго до повномасштабного вторгнення в Україну.",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main"
+   },
+   {
+    "title_uk": "Дохідність 10-річних облігацій США може найдовше за 20 років втриматися понад 5%",
+    "summary_uk": "Інвестори готуються до нових підвищень ставки ФРС через стійко високу інфляцію, тож дохідність трежеріс тримається на рівні понад 5%.",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/us-10-year-yield-set-for-historic-run-above-5-on-fed-rate-cycle"
+   }
+  ],
+  "published": "2026-11-18T05:44:31+00:00",
+  "added": "2026-11-18T05:44:31+00:00"
+ },
+ {
   "id": "8b047b7ce734",
   "source": "Bloomberg",
   "link": "https://www.bloomberg.com/news/articles/2026-11-18/pboc-sets-strongest-yuan-fix-since-2022-to-allow-further-gains",
