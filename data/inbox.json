@@ -1,5 +1,170 @@
 [
  {
+  "id": "987986d32087",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Horizons Middle East & Africa 11/18/2026 (Video)",
+  "teaser": "",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/horizons-middle-east-africa-11-18-2026-video",
+  "published": "2026-11-18T08:18:15+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "f8ec0e17c5a5",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Україна стала однією з найбільших криптоекономік Європи",
+  "teaser": "Україна залишилась на другому місці серед країн Східної Європи за величиною криптовалютного ринку та стала стала основним напрямком роздрібних P2P-переказів у стейблкоїнах для 16 із 21 дослідженого сусіднього ринку.",
+  "link": "https://epravda.com.ua/finances/kriptoekonomika-ukrajini-zrostannya-do-128-3-mlrd-i-liderstvo-u-p2p-steyblkojinah-827758/",
+  "published": "2026-11-18T08:09:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "3b145f9d2ffb",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "UK Inflation Print at Fastest in a Year Comes With Few Surprises",
+  "teaser": "Plus, markets digest Nvidia’s strong earnings",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/uk-inflation-print-at-fastest-in-a-year-comes-with-few-surprises",
+  "published": "2026-11-18T07:50:32+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "4f22e89d663c",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Trump Treated to Late-Night Jollibee Snacks by Marcos",
+  "teaser": "“We are very proud to say we have surpassed KFC in the United States in terms of popularity.” Philippine President Ferdinand Marcos Jr. served up a taste of Jollibee diplomacy to Donald Trump, sending the US leader and his delegation late-night snacks on Tuesday from the…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/trump-treated-to-late-night-jollibee-snacks-by-marcos-video",
+  "published": "2026-11-18T07:38:48+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "2b7795c80a9a",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Через атаку ворога на Житомирщині – пожежа на промисловому об'єкті, ще в одній області знеструмлення",
+  "teaser": "Внаслідок російської атаки вночі 18 листопада на Рівненщині знеструмлені понад 80 населених пунктів.",
+  "link": "https://epravda.com.ua/energetika/energetika-znestrumlennya-ponad-80-sil-rivnenshchini-cherez-ataku-rf-827757/",
+  "published": "2026-11-18T07:28:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "8ae27d234d96",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Мамад по-українськи: захист чи ілюзія",
+  "teaser": "Квартири із \"захищеним простором\" продають, але вимог до нього ще нема. Скільки це коштує і чому комора з товстими стінами – не мамад.",
+  "link": "https://epravda.com.ua/infrastruktura/mamad-po-ukrajinski-zahist-chi-ilyuziya-827748/",
+  "published": "2026-11-18T07:20:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "6c8419bc79c1",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Optimism About Europe Just Hit a Nine-Month High: Taking Stock",
+  "teaser": "The view among investors about the outlook for European stocks has rarely been brighter this year, with expectations of further gains.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/optimism-about-europe-just-hit-a-nine-month-high-taking-stock",
+  "published": "2026-11-18T07:15:38+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "ccd5c2fcc9ab",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Top Swedish Law Firm Vinge Sees Pickup in Private Equity Deals",
+  "teaser": "Private equity activity is picking up in Sweden as buyout firms return to the market after a quieter period for dealmaking, according to the chief executive of Advokatfirman Vinge KB, one of the country’s biggest law firms.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/top-swedish-law-firm-vinge-sees-pickup-in-private-equity-deals",
+  "published": "2026-11-18T07:15:01+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "aa36227b3de5",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives",
+  "teaser": "Indian revenue officials are reviewing proposals from investors and economists to raise taxes on stock derivatives while lowering levies on share trading, in a bid to curb speculative bets and encourage broader participation in the equity market, according to people with…",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-18/india-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives",
+  "published": "2026-11-18T07:02:08+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "56d5b981ff7c",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "В уряді розповіли, скільки котелень вже запрацювали",
+  "teaser": "Станом на 17 листопада в Україні попри російські атаки на енергетику працюють понад 96% котелень.",
+  "link": "https://epravda.com.ua/energetika/energetika-ukrajini-ponad-96-kotelen-pracyuyut-uryad-vidilyaye-resursi-827756/",
+  "published": "2026-11-18T07:00:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "f94c2d9fd0be",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Gilts Rally After Benign Inflation Data",
+  "teaser": "",
+  "link": "https://www.bloomberg.com/news/live-blog/2026-11-18/what-s-moving-uk-markets-right-now-markets-today",
+  "published": "2026-11-18T06:49:02+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "f92695843644",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Muzinich CEO on Higher Rates and Private Credit Risks",
+  "teaser": "Justin Muzinich, CEO of Muzinich & Co., discusses sticky inflation, his outlook for higher rates and stress in private credit. He also explains how geopolitical risks are affecting AI data-center financing and opportunities across Asia. He appeared on Bloomberg's Insight with…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/muzinich-ceo-on-higher-rates-and-private-credit-risks-video",
+  "published": "2026-11-18T06:46:24+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "8c40d6b0056b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Xi Jinping Speaks at APEC as Nvidia Posts Solid First Post-Huang Earnings",
+  "teaser": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Avril Hong give global investors unique insight, delivering in-depth discussions with the newsmakers who…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/the-china-show-11-18-2026-video",
+  "published": "2026-11-18T06:39:59+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "7da6a54b8419",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Delevska: Need a Strong Leader to Run Nvidia",
+  "teaser": "Nvidia boosted its sales forecast for next year and vowed to improve the company’s access to critical supplies while dismissing rumours of Jensen Huang’s return in their first earnings call since the scandal broke out. Ivana Delevska, CIO of Spear Invest spoke to Bloomberg’s…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/delevska-need-a-strong-leader-to-run-nvidia-video",
+  "published": "2026-11-18T06:14:45+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "7a65180035b9",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Deutsche Bank hired a Qatari royal. Why?",
+  "teaser": "Leaked documents reveal how dealings with royal dynasty blurred traditional boundaries between investor, client and counterparty",
+  "link": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1",
+  "published": "2026-11-18T06:00:08+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
   "id": "3ab31123e720",
   "source": "Bloomberg",
   "lang": "en",
@@ -218,6 +383,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-18/skylark-cfo-eyes-us-expansion-more-m-a-video",
   "published": "2026-11-18T04:01:20+00:00",
   "seen": "2026-11-18T04:30:07+00:00"
+ },
+ {
+  "id": "0294ddcc3bc3",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Хакери Кім Чен Ина. Як Північна Корея краде у світу мільярди доларів",
+  "teaser": "Північна Корея перетворила кіберзлочинність на інструмент державної політики. Як Пхеньян створив одну з найпотужніших кіберармій світу і на що витрачає викрадені гроші?",
+  "link": "https://epravda.com.ua/svit/kiberzlochinnist-kndr-hakerski-ataki-kriptovalyuta-i-valyutni-nadhodzhennya-827755/",
+  "published": "2026-11-18T04:00:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
  },
  {
   "id": "a62742581d5b",
@@ -1067,6 +1243,17 @@
   "seen": "2026-11-17T20:30:46+00:00"
  },
  {
+  "id": "9bd53860a28d",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Новини 17 листопада: відключення до пів доби, знищення \"Королівського смаку\"",
+  "teaser": "",
+  "link": "https://epravda.com.ua/svit/novini-17-listopada-vidklyuchennya-do-piv-dobi-znishchennya-korolivskogo-smaku-827754/",
+  "published": "2026-11-17T19:00:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
   "id": "0921832584b0",
   "source": "Financial Times",
   "lang": "en",
@@ -1076,6 +1263,17 @@
   "link": "https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1",
   "published": "2026-11-17T18:44:10+00:00",
   "seen": "2026-11-17T20:30:46+00:00"
+ },
+ {
+  "id": "ab4642a9cff2",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У сервісах Apple стався збій: користувачі скаржаться на AppStore, iCloud та Apple Pay",
+  "teaser": "",
+  "link": "https://epravda.com.ua/svit/u-servisah-apple-stavsya-zbiy-problemi-z-app-store-icloud-ta-apple-pay-827753/",
+  "published": "2026-11-17T18:40:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
  },
  {
   "id": "983c31e6f282",
@@ -1098,6 +1296,28 @@
   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
   "published": "2026-11-17T18:30:00+00:00",
   "seen": "2026-11-17T20:30:46+00:00"
+ },
+ {
+  "id": "07071e10ef7a",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Хуанг готовий знову очолити Nvidia через кілька днів після скандальної відставки",
+  "teaser": "Співзасновник і колишній генеральний директор Nvidia Дженсен Хуанг заявив про готовність повернутися на посаду, якщо це рішення підтримає рада директорів.",
+  "link": "https://epravda.com.ua/svit/huang-gotoviy-znovu-ocholiti-nvidia-pislya-skandalu-z-imovirnoyu-shpigunkoyu-827752/",
+  "published": "2026-11-17T18:30:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "78bd7c664ef3",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У Кременчуці почали зупинятися харчові підприємства: яка причина",
+  "teaser": "",
+  "link": "https://epravda.com.ua/biznes/u-kremenchuci-zupinyayut-dva-harchovi-pidpriyemstva-cherez-vidklyuchennya-y-zagrozu-udariv-827750/",
+  "published": "2026-11-17T18:10:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
  },
  {
   "id": "35fb66719b61",
@@ -1142,6 +1362,28 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming-video",
   "published": "2026-11-17T17:53:29+00:00",
   "seen": "2026-11-17T20:30:46+00:00"
+ },
+ {
+  "id": "aa765c998c59",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Північним мостом у Києві знову пустили громадський транспорт",
+  "teaser": "У Києві частково відновили рух громадського та спеціального транспорту Північним мостом в обох напрямках.",
+  "link": "https://epravda.com.ua/infrastruktura/pivnichnim-mostom-u-kiyevi-chastkovo-vidnovili-ruh-gromadskogo-transportu-827751/",
+  "published": "2026-11-17T17:40:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "fab8f4afc582",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "На середу оголосили цілодобові графіки з відключеннями до половини доби",
+  "teaser": "",
+  "link": "https://epravda.com.ua/energetika/vidklyuchennya-svitla-18-listopada-cilodobovi-grafiki-vid-odniyeji-do-troh-cherg-827749/",
+  "published": "2026-11-17T17:20:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
  },
  {
   "id": "a674e5f0e5cc",
@@ -1210,6 +1452,17 @@
   "seen": "2026-11-18T00:30:23+00:00"
  },
  {
+  "id": "b621578bfd45",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У МАГАТЕ можуть призначити на керівну посаду росіянина під санкціями України",
+  "teaser": "",
+  "link": "https://epravda.com.ua/svit/u-magate-mozhut-priznachiti-rosiyanina-pid-sankciyami-ukrajini-827747/",
+  "published": "2026-11-17T16:50:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
   "id": "48075636725b",
   "source": "Bloomberg",
   "lang": "en",
@@ -1219,6 +1472,28 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
   "published": "2026-11-17T16:26:24+00:00",
   "seen": "2026-11-18T00:30:23+00:00"
+ },
+ {
+  "id": "ffcdf806b6e3",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Співробітнику Нацполу та власниці фірм-постачальниць МОУ вручили підозру",
+  "teaser": "НАБУ і САП викрили організовану групу, учасники якої намагалися організувати фіктивне кримінальне переслідування людини та заволодіти двома мільйонами євро, причому у центрі схеми – колишня власниця компаній-постачальниць продуктів харчування для Міноборони.",
+  "link": "https://epravda.com.ua/biznes/spivrobitniku-nacpolu-ta-vlasnici-firm-postachalnic-mou-vruchili-pidozru-827746/",
+  "published": "2026-11-17T16:20:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "55d87f62ceea",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Мінфін готує автоматичне стягнення ПДВ із дешевих закордонних посилок",
+  "teaser": "Міністерство фінансів розробляє систему автоматичної сплати ПДВ на цифрових платформах для закордонних покупок вартістю до 150 євро, яку розраховує запровадити до 1 липня 2027 року.",
+  "link": "https://epravda.com.ua/finances/minfin-gotuye-avtomatichnu-splatu-pdv-na-posilki-do-150-yevro-827743/",
+  "published": "2026-11-17T16:20:00+00:00",
+  "seen": "2026-11-18T08:31:01+00:00"
  },
  {
   "id": "a7682db1d76e",
@@ -3023,280 +3298,5 @@
   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587?mod=rss_markets_main",
   "published": "2026-11-16T22:06:00+00:00",
   "seen": "2026-11-17T00:31:10+00:00"
- },
- {
-  "id": "fc6a7c3c91a9",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Financial Services Roundup: Market Talk",
-  "teaser": "Find insight on Legal & General, bitcoin and more in the latest Market Talks covering financial services.",
-  "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-8b780372?mod=rss_markets_main",
-  "published": "2026-11-16T21:54:00+00:00",
-  "seen": "2026-11-17T00:31:10+00:00"
- },
- {
-  "id": "64296a5b3156",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "U.S. Natural Gas Futures Settle Lower",
-  "teaser": "U.S. natural gas futures added to Friday’s losses as production picked up and near-term weather turned warmer.",
-  "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
-  "published": "2026-11-16T21:51:00+00:00",
-  "seen": "2026-11-18T04:30:07+00:00"
- },
- {
-  "id": "d67f5ed4db09",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Oil Futures Retreat on Expected Global Surplus",
-  "teaser": "Oil prices extended losses as analysts and experts say the global market faces a growing surplus next year, despite persistent risks in the Middle East.",
-  "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
-  "published": "2026-11-16T21:50:00+00:00",
-  "seen": "2026-11-17T12:30:21+00:00"
- },
- {
-  "id": "d4b42d61aacf",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Deutsche Says Dollar a Riskier Currency on Link to US Tech",
-  "teaser": "The dollar risks becoming more volatile as its growing link to US equities and the technology sector becomes more influential than its historic relationship with Treasuries and the oil business, according to Deutsche Bank.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/deutsche-sees-asia-chip-boom-supporting-dollar-through-equities",
-  "published": "2026-11-16T21:42:04+00:00",
-  "seen": "2026-11-17T08:30:03+00:00"
- },
- {
-  "id": "8386b68e0a0f",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "AI Stocks Resume Their Slide",
-  "teaser": "Plus, the Fed weighs AI jobs scenarios and Tyson improves its beef outlook",
-  "link": "https://www.wsj.com/finance/stocks/ai-stocks-resume-their-slide-1094403c?mod=rss_markets_main",
-  "published": "2026-11-16T21:38:00+00:00",
-  "seen": "2026-11-17T00:31:10+00:00"
- },
- {
-  "id": "955ea5c60d99",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nvidia Earnings Are Sideshow as CEO Ouster Looms Over Stock",
-  "teaser": "Nvidia Corp.’s earnings arrive at perhaps the strangest time possible for the world’s most important artificial intelligence chipmaker.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
-  "published": "2026-11-16T21:31:41+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "f8a9c3510e9b",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf",
-  "teaser": "Oil major pulls ahead of rival bidders for Beacon Offshore Energy oilfield as it expands deepwater production",
-  "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
-  "published": "2026-11-16T21:20:03+00:00",
-  "seen": "2026-11-17T00:31:10+00:00"
- },
- {
-  "id": "83b04c11e6ed",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "RBNZ Flags Growing Private Credit Risks in Property Finance",
-  "teaser": "New Zealand’s central bank highlighted increasing risks from the growing role of private credit in the nation’s economy, particularly in property development and commercial real estate finance.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
-  "published": "2026-11-16T21:17:24+00:00",
-  "seen": "2026-11-17T02:29:25+00:00"
- },
- {
-  "id": "38f68c06f957",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Crypto Stuck Near Multimonth Lows After Sluggish Weekend",
-  "teaser": "Crypto started the week on a downbeat note with both Bitcoin and Ethereum trading around key support levels as risk appetite remains constrained.",
-  "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
-  "published": "2026-11-16T21:05:00+00:00",
-  "seen": "2026-11-17T20:30:46+00:00"
- },
- {
-  "id": "5c93699d11e8",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
-  "teaser": "State’s attorney-general claims hacking by rogue AI models is the ‘predictable result of an internal culture that prioritises growth over safety’",
-  "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
-  "published": "2026-11-16T20:48:37+00:00",
-  "seen": "2026-11-17T00:31:10+00:00"
- },
- {
-  "id": "47cbf6706e22",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Opinion | Can Nvidia Thrive Without Jensen Huang?",
-  "teaser": "The company’s prospects depends on whether its board is able to avoid a series of common pitfalls.",
-  "link": "https://www.wsj.com/opinion/can-nvidia-thrive-without-jensen-huang-5b0001d5?mod=rss_markets_main",
-  "published": "2026-11-16T20:29:00+00:00",
-  "seen": "2026-11-17T00:31:10+00:00"
- },
- {
-  "id": "98d54ba7235f",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
-  "teaser": "“It’s hard to overstate the significance” of the Starship launch scheduled to take place on Friday, analyst says",
-  "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
-  "published": "2026-11-16T20:24:00+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "839c985d1f2a",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
-  "teaser": "Corporate-governance experts point to issues that would make a triumphant return difficult.",
-  "link": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
-  "published": "2026-11-16T20:17:00+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "6573e5355a26",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "ETF Market Saturated With Degen Products: Nadig",
-  "teaser": "Dave Nadig, president & director of Research at ETF.com, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the slowdown in leveraged ETFs. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/etf-market-saturated-with-degen-products-nadig-video",
-  "published": "2026-11-16T20:16:04+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "3bc0907720e1",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs",
-  "teaser": "It took gold just one month to climb more than 30% to a record, but its likely to take another two years before the precious metal takes out a new peak, according to Goldman Sachs.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs",
-  "published": "2026-11-16T20:15:45+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "3c41e3524371",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Active Delivering Alpha In Bond Fund: Vanguard's Righi",
-  "teaser": "Katy Righi, head of active fixed income product at Vanguard, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the Vanguard Emerging Markets Bond Active ETF (ticker: VEMB). (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/active-delivering-alpha-in-bond-fund-vanguard-s-righi-video",
-  "published": "2026-11-16T20:07:16+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "ae442e7216c5",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Rare-earth stocks sinks deeper into the red. Here’s the latest catalyst.",
-  "teaser": "Shares of Trump-backed USA Rare Earth slides 10% as analysts push out their sales estimates.",
-  "link": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories",
-  "published": "2026-11-16T20:07:00+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "11f64fbf8061",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "BlackRock Pushing For New 'ETIF' Hybrid",
-  "teaser": "Bloomberg's Vildana Hajric joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" BlackRock is pushing to redraw the boundaries of the $16 trillion US exchange-traded funds industry with a novel investment vehicle that would marry two of Wall Street’s biggest obsessions:…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-pushing-for-new-etif-hybrid-video",
-  "published": "2026-11-16T20:01:46+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "71f0950c057d",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Test Your ETF Knowledge In Our IQ Test",
-  "teaser": "Bloomberg's Joel Weber puts Isabelle Lee, Eric Balchunas, and Ben Slavin global head of ETFs at BNY, to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/test-your-etf-knowledge-in-our-iq-test",
-  "published": "2026-11-16T19:56:19+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "8471efe88c1d",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Robert Pattinson Is New James Bond in Amazon’s Reboot",
-  "teaser": "Batman star Robert Pattinson is the latest actor to take on the role of superspy James Bond as Amazon’s MGM Studios looks to reboot the franchise. Ed Ludlow has more. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
-  "published": "2026-11-16T19:53:54+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "32ca2967aadf",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "ETF Launches Blow Past IPOs: Slavin",
-  "teaser": "Ben Slavin, managing director, global head of ETFs at BNY, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss how ETF launches have surpassed IPOs and his firms efforts in tokenization. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/etf-launches-blow-past-ipos-slavin-video",
-  "published": "2026-11-16T19:48:34+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "4954f82c435e",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Citigroup Pulls $400 Million Loan for IT Provider UST Global",
-  "teaser": "A group of banks led by Citigroup Inc. has pulled a debt deal for UST Global Inc. from the syndicated loan market after lenders did not attract enough demand from investors.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/citigroup-pulls-400-million-loan-for-it-provider-ust-global",
-  "published": "2026-11-16T19:42:22+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "b56f3e52a092",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "AI and 24-Hour Trading Test Rules Governing Currency Markets",
-  "teaser": "The rapid growth of artificial intelligence and round-the-clock trading is raising questions about whether rules governing the $9.5 trillion foreign-exchange market can keep pace with technological change.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/ai-and-24-hour-trading-test-rules-governing-currency-markets",
-  "published": "2026-11-16T19:42:14+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "fec9a65bd7b6",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Big Test Ahead For Equity Appetite: Nadig",
-  "teaser": "Dave Nadig, president & director of Research at ETF.com, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss private markets and the upcoming IPO for Anthropic. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/big-test-ahead-for-equity-appetite-nadig-video",
-  "published": "2026-11-16T19:41:36+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
- },
- {
-  "id": "e21f16dde6ac",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Virgin Media O2 Downgraded by Moody’s on Turnaround Concerns",
-  "teaser": "Virgin Media O2’s credit grade was cut one level by Moody’s Ratings amid continued uncertainty over the timing and pace of the UK telecom’s turnaround efforts.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/virgin-media-o2-downgraded-by-moody-s-on-turnaround-concerns",
-  "published": "2026-11-16T19:34:46+00:00",
-  "seen": "2026-11-16T20:30:08+00:00"
  }
 ]
