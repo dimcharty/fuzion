@@ -1,5 +1,27 @@
 [
  {
+  "id": "f0f797ea85c3",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday",
+  "teaser": "After waiting 13 years for this videogame, almost one-fifth of workers are said to be taking Thursday off to play ‘Grand Theft Auto VI’ when it drops",
+  "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+  "published": "2026-11-18T20:29:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
+  "id": "97705135b868",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "CoreWeave Says Nvidia Is ‘Not One Person,’ Remains a Key Partner",
+  "teaser": "CoreWeave Inc. has moved to dispel concerns that Jensen Huang’s exit from Nvidia Corp. could affect the chipmaker’s support for neoclouds, with strategy leader Ben Richardson saying it plans to keep working with the company. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/coreweave-says-nvidia-remains-a-key-partner-video",
+  "published": "2026-11-18T20:20:20+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
   "id": "0f3d289a19c3",
   "source": "Financial Times",
   "lang": "en",
@@ -132,6 +154,17 @@
   "seen": "2026-11-18T20:30:10+00:00"
  },
  {
+  "id": "f7787dfba78a",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Новини 18 листопада: план ЄС на 45 мільярдів євро, обвал нафтопереробки РФ",
+  "teaser": "",
+  "link": "https://epravda.com.ua/finances/finansuvannya-yes-naftopererobka-rf-kurs-yevro-golovne-za-18-listopada-827793/",
+  "published": "2026-11-18T19:00:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
   "id": "9d36092f0ec7",
   "source": "Bloomberg",
   "lang": "en",
@@ -141,6 +174,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-18/us-carrier-leaves-persian-gulf-for-japan-leaving-two-in-region",
   "published": "2026-11-18T18:56:08+00:00",
   "seen": "2026-11-18T20:30:10+00:00"
+ },
+ {
+  "id": "5cbf14ef7603",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "ЄЦБ побачив у гонці за ШІ небезпечні паралелі з кризою 2008 року",
+  "teaser": "",
+  "link": "https://epravda.com.ua/finances/yecb-pobachiv-u-borgovomu-bumi-shi-paraleli-z-finansovimi-bulbashkami-827789/",
+  "published": "2026-11-18T18:45:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
  },
  {
   "id": "6724637a15be",
@@ -187,6 +231,17 @@
   "seen": "2026-11-18T20:30:10+00:00"
  },
  {
+  "id": "c168fd42487e",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "На четвер оголосили цілодобові графіки відключень світла",
+  "teaser": "",
+  "link": "https://epravda.com.ua/energetika/elektroenergetika-ukrajini-pogodinni-vidklyuchennya-19-listopada-827792/",
+  "published": "2026-11-18T18:15:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
   "id": "5499ca7a4380",
   "source": "Bloomberg",
   "lang": "en",
@@ -231,6 +286,28 @@
   "seen": "2026-11-18T20:30:10+00:00"
  },
  {
+  "id": "d1fe9a297414",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Суд стягнув з постачальника бронежилетів 35 мільйонів",
+  "teaser": "Господарський суд Києва зобов'язав приватну компанію сплатити державному підприємству \"Агенція оборонних закупівель\" 35 млн грн штрафних санкцій за прострочення поставки бронежилетів.",
+  "link": "https://epravda.com.ua/oborona/shtrafni-sankciji-ukrtak-yua-maye-splatiti-agenciji-oboronnih-zakupivel-35-mln-grn-827791/",
+  "published": "2026-11-18T17:54:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
+  "id": "abd1ac51eccb",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "РФ рекордно скуповує бензин від Індії до Марокко після ударів України по НПЗ",
+  "teaser": "",
+  "link": "https://epravda.com.ua/energetika/rf-rekordno-skupovuye-benzin-vid-indiji-do-marokko-pislya-udariv-ukrajini-po-npz-827790/",
+  "published": "2026-11-18T17:50:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
   "id": "116a5f790cd5",
   "source": "MarketWatch",
   "lang": "en",
@@ -264,6 +341,17 @@
   "seen": "2026-11-18T20:30:10+00:00"
  },
  {
+  "id": "6169e844d62a",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Росія має виплатити сумському виробнику упаковки три мільярди збитків",
+  "teaser": "Господарський суд Сумської області зобов'язав РФ відшкодувати виробнику упаковок для дитячого харчування, соків, побутової хімії 3,04 млрд грн збитків та упущеної вигоди.",
+  "link": "https://epravda.com.ua/biznes/sudovi-kompensaciji-rf-zobov-yazana-viplatiti-tehnologiji-3-04-mlrd-grn-827788/",
+  "published": "2026-11-18T17:26:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
   "id": "d8aef235ef37",
   "source": "MarketWatch",
   "lang": "en",
@@ -273,6 +361,28 @@
   "link": "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories",
   "published": "2026-11-18T17:23:00+00:00",
   "seen": "2026-11-18T20:30:10+00:00"
+ },
+ {
+  "id": "c0dd02f31ee6",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Давня справа: суд оголосив вирок \"ліснику Януковича\" та його дружині",
+  "teaser": "Вищий антикорупційний суд оголосив вирок колишньому голові Державного агентства лісових ресурсів України та його дружині, звинувачених у одержанні неправомірної вигоди в розмірі 3,7 млн доларів та 10,8 млн євро.",
+  "link": "https://epravda.com.ua/biznes/davnya-sprava-sud-ogolosiv-virok-lisniku-yanukovicha-ta-yogo-druzhini-827787/",
+  "published": "2026-11-18T17:14:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
+  "id": "ab5f7fb4ac51",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Проданий державою титановий гігант України збільшив збиток у 2,5 раза",
+  "teaser": "",
+  "link": "https://epravda.com.ua/biznes/privatizovana-oghk-narostila-zbitok-do-1-08-mlrd-grn-za-dev-yat-misyaciv-827786/",
+  "published": "2026-11-18T17:10:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
  },
  {
   "id": "3c69ed89b445",
@@ -295,6 +405,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
   "published": "2026-11-18T16:58:20+00:00",
   "seen": "2026-11-18T20:30:10+00:00"
+ },
+ {
+  "id": "3871e17f5d81",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Атака на енергооб’єкти Одещини: світла немає у двох районах",
+  "teaser": "Росіяни завдали удару по енергетичній інфраструктурі на півдні Одеської області та залишили без електроенергії мешканців двох районів.",
+  "link": "https://epravda.com.ua/biznes/ataka-na-energoob-yekti-odeshchini-svitla-nemaye-u-dvoh-rayonah-827785/",
+  "published": "2026-11-18T16:36:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
  },
  {
   "id": "af036f88df98",
@@ -328,6 +449,17 @@
   "link": "https://www.wsj.com/finance/commodities-futures/copper-at-lowest-since-april-amid-ai-market-turmoil-chinese-demand-concerns-4325361e?mod=rss_markets_main",
   "published": "2026-11-18T16:26:00+00:00",
   "seen": "2026-11-18T16:30:35+00:00"
+ },
+ {
+  "id": "dd3977194bf3",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Українські дрони за 20 днів обвалили нафтопереробку РФ майже вдвічі",
+  "teaser": "",
+  "link": "https://epravda.com.ua/energetika/ukrajinski-droni-skorotili-dobovu-naftopererobku-rf-na-45-827784/",
+  "published": "2026-11-18T16:20:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
  },
  {
   "id": "3dd9a40da369",
@@ -429,6 +561,28 @@
   "seen": "2026-11-18T16:30:35+00:00"
  },
  {
+  "id": "091a4b15b4bf",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Чиновника Держпраці, звинуваченого у хабарництві, тепер звинуватили у недостовірному декларуванні",
+  "teaser": "Прокуратура повідомила про підозру начальнику міжрегіонального управління Державної служби з питань праці в Івано-Франківську, який приховав від декларування понад майно на 12,7 мільйона гривень та фігурує у справі про систематичне вимагання хабарів від підприємців.",
+  "link": "https://epravda.com.ua/biznes/chinovnika-derzhpraci-zvinuvachenogo-u-habarnictvi-teper-zvinuvatili-u-nedostovirnomu-deklaruvanni-827783/",
+  "published": "2026-11-18T15:50:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
+  "id": "0ec50a48e4ae",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Євро падає вже тиждень й опуститься до мінімуму за понад 10 місяців",
+  "teaser": "",
+  "link": "https://epravda.com.ua/finances/valyutni-kursi-nbu-yevro-49-57-grn-dolar-45-20-grn-na-19-listopada-827782/",
+  "published": "2026-11-18T15:40:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
   "id": "1a270d921135",
   "source": "Bloomberg",
   "lang": "en",
@@ -484,6 +638,17 @@
   "seen": "2026-11-18T16:30:35+00:00"
  },
  {
+  "id": "ce0aa26cff87",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Ворог атакував об'єкти Нафтогазу у двох областях",
+  "teaser": "Росіяни завдали ударів по об'єктам Групи Нафтогаз у двох областях, працівники компанії неушкоджені.",
+  "link": "https://epravda.com.ua/biznes/vorog-atakuvav-ob-yekti-naftogazu-u-dvoh-oblastyah-827781/",
+  "published": "2026-11-18T15:12:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
   "id": "abf87064ad71",
   "source": "Bloomberg",
   "lang": "en",
@@ -493,6 +658,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-18/odd-lots-gta-vi-is-the-most-expensive-game-ever-made-is-it-worth-it",
   "published": "2026-11-18T15:08:34+00:00",
   "seen": "2026-11-18T16:30:35+00:00"
+ },
+ {
+  "id": "cf50a1bb8973",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Rebuild Ukraine 2026: інтеграція української вітроенергетики в європейські ланцюги постачання",
+  "teaser": "",
+  "link": "https://epravda.com.ua/energetika/rebuild-ukraine-2026-integraciya-ukrajinskoji-vitroenergetiki-v-yevropeyski-lancyugi-postachannya-827778/",
+  "published": "2026-11-18T15:05:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
  },
  {
   "id": "49219f950b1a",
@@ -2904,6 +3080,17 @@
   "seen": "2026-11-18T02:55:19+00:00"
  },
  {
+  "id": "00f0df361cde",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Deutsche Bank Shares Drop After Leaks Put Spotlight on Troubled Past",
+  "teaser": "A media consortium reported on failings in the bank’s handling of high-risk customers, including Russian oligarchs and Jeffrey Epstein.",
+  "link": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main",
+  "published": "2026-11-17T14:14:00+00:00",
+  "seen": "2026-11-18T20:35:39+00:00"
+ },
+ {
   "id": "3d86a26efad4",
   "source": "MarketWatch",
   "lang": "en",
@@ -3110,193 +3297,6 @@
   "teaser": "Move comes as US chipmaker faces criticism in Washington over its ambition to increase revenues in China",
   "link": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
   "published": "2026-11-17T11:24:44+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "c9ff57ac14bd",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "It’s Hard to Protect Your Nest Egg from Nvidia",
-  "teaser": "Plus, Nvidia’s royal family, and souring apartment deals.",
-  "link": "https://www.wsj.com/finance/stocks/its-hard-to-protect-your-nest-egg-from-nvidia-2e7419b7?mod=rss_markets_main",
-  "published": "2026-11-17T11:17:00+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "abf9bc70588c",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "‘It is heartbreaking, exhausting and downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-  "teaser": "‘It is devastating when the people you should be able to trust become the very people you have to protect yourself from’",
-  "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-  "published": "2026-11-17T11:15:00+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "985c51881f66",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Cash-Strapped Indian States Risk Infrastructure Push, Study Says",
-  "teaser": "Indian states are being squeezed between rising spending commitments and weaker-than-expected revenues, leaving less money for infrastructure at a time when Prime Minister Narendra Modi is counting on investment to sustain rapid economic growth.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/cash-strapped-indian-states-risk-infrastructure-push-study-says",
-  "published": "2026-11-17T11:05:44+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "ed7c8990e2fd",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Dodgers Owner Mark Walter’s Insurer Misses Target to Reduce Affiliated Assets",
-  "teaser": "Delaware Life Insurance said the share of its holdings tied to Walter fell to 35% in the third quarter.",
-  "link": "https://www.wsj.com/finance/dodgers-owner-mark-walters-insurer-misses-target-to-reduce-affiliated-assets-249e32c5?mod=rss_markets_main",
-  "published": "2026-11-17T10:57:00+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "fc188ff56e17",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "BofA Survey Shows Investors Cut Tech Exposure by Most Since 2006",
-  "teaser": "Investor optimism around the global AI boom is fading with fund managers slashing exposure to technology stocks by the most in two decades, according to a poll by Bank of America Corp.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/bofa-survey-shows-investors-cut-tech-exposure-by-most-since-2006",
-  "published": "2026-11-17T10:53:44+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "dca86a72f7f6",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Home Depot Names McPhail CEO as Decker Returns as Chairman",
-  "teaser": "Home Depot Inc. said Richard McPhail will take over as chief executive officer from Ted Decker, who is returning from medical leave to serve as chairman of the board.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman",
-  "published": "2026-11-17T10:53:29+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "f05f40050561",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Berlin picks ECB board nominee, paving way for Spanish presidency",
-  "teaser": "Choice of Markus Brunnermeier will consolidate deal with France in which Spain’s Pablo Hernández de Cos would lead central bank",
-  "link": "https://www.ft.com/content/10fd3d24-04b1-40a2-93d3-8b64023cc869?syn-25a6b1a6=1",
-  "published": "2026-11-17T10:48:11+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "e5206cfb2b9e",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Pick the two sectors where earnings growth will accelerate — as long as the 10-year stays below this key level, say strategists",
-  "teaser": "Strategists at the investment bank recommend hyperscalers and the health care sector in an environment of slowing earnings growth.",
-  "link": "https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories",
-  "published": "2026-11-17T10:47:00+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "c7cdb5b1c4d7",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "UniCredit Sees Up to €2 Billion Value from Generali Cooperation",
-  "teaser": "UniCredit SpA sees the potential to unlock €1.5 billion ($1.65 billion) to €2 billion of value through closer cooperation with Italian insurer Assicurazioni Generali SpA, Chief Executive Officer Andrea Orcel said.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/unicredit-sees-up-to-2-billion-value-from-generali-cooperation",
-  "published": "2026-11-17T10:38:08+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "5c55eb30c954",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Why Big Investors Are Burning Lenders on Apartment Loans",
-  "teaser": "Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.",
-  "link": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main",
-  "published": "2026-11-17T10:30:00+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "dc6e2f82415f",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "These Charts Show How More People Are Pulling Cash Out of Their Homes",
-  "teaser": "Home equity lines of credit are becoming popular again as people try to avoid giving up their low-rate primary mortgages.",
-  "link": "https://www.wsj.com/economy/housing/these-charts-show-how-more-people-are-pulling-cash-out-of-their-homes-66584b69?mod=rss_markets_main",
-  "published": "2026-11-17T10:30:00+00:00",
-  "seen": "2026-11-18T00:30:23+00:00"
- },
- {
-  "id": "1c28267b474b",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
-  "teaser": "13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six weeks for many portfolio managers.",
-  "link": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
-  "published": "2026-11-17T10:28:00+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "60fa0e826eb8",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "The Latest Longevity Hack Is Surprisingly Low-Tech",
-  "teaser": "The latest longevity trend isn’t cryotherapy chambers or $250,000 clubs, but a competition that measures strength, balance and brain health. Jen Murphy takes us behind the scenes of the first Super Age Games. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-17/the-latest-longevity-hack-is-surprisingly-low-tech",
-  "published": "2026-11-17T10:15:59+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "5aca005e2cdf",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "‘Nvidia spooked me’: Should I sell my stocks or ride out the market turmoil?",
-  "teaser": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
-  "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-  "published": "2026-11-17T10:15:00+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "d0ef26673cfd",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Stock Market News: Global Stocks Downbeat Ahead of Nvidia Earnings",
-  "teaser": "Tech shares around the world are in the red",
-  "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
-  "published": "2026-11-17T10:11:07+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "227bdd047d23",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "US Gas Pump Price Hits 8-Month Low to Ease Inflation Worries",
-  "teaser": "US gasoline pump prices fell to the lowest since mid-March following a broader decline in oil markets this month, in a sign that inflationary pressures from the Iran war are beginning to ease.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/us-gas-pump-price-hits-lowest-since-march-as-oil-supply-recovers",
-  "published": "2026-11-17T10:07:34+00:00",
-  "seen": "2026-11-17T11:56:16+00:00"
- },
- {
-  "id": "2476fc59eafa",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Brussels raises Eurozone growth forecasts as AI boom drives exports",
-  "teaser": "But latest forecasts highlight diverging fortunes of bloc’s biggest economies, with GDP projections for France halved",
-  "link": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a?syn-25a6b1a6=1",
-  "published": "2026-11-17T10:06:29+00:00",
   "seen": "2026-11-17T11:56:16+00:00"
  }
 ]
