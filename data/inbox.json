@@ -1,5 +1,60 @@
 [
  {
+  "id": "61d1b4cb623a",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
+  "teaser": "Three takeaways from Colette Kress’s first earnings call as Nvidia’s interim CEO. Plus, what Medicare Part B will cost in 2027 and why one investor is eyeing Florida real estate as a stock-market alternative.",
+  "link": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories",
+  "published": "2026-11-18T12:22:00+00:00",
+  "seen": "2026-11-18T12:30:18+00:00"
+ },
+ {
+  "id": "bb7aee04416b",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Tech, Media & Telecom Roundup: Market Talk",
+  "teaser": "Find insight on Nvidia, JD.com, Hana Microelectronics and more in the latest Market Talks covering Technology, Media and Telecom.",
+  "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d3a02b97?mod=rss_markets_main",
+  "published": "2026-11-18T12:09:00+00:00",
+  "seen": "2026-11-18T12:30:18+00:00"
+ },
+ {
+  "id": "4af3ff3a6ed7",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Financial Services Roundup: Market Talk",
+  "teaser": "Find insight on Suncorp, Medibank, Klarna and more in the latest Market Talks covering Financial Services.",
+  "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-1e52dbdf?mod=rss_markets_main",
+  "published": "2026-11-18T12:03:00+00:00",
+  "seen": "2026-11-18T12:30:18+00:00"
+ },
+ {
+  "id": "5295c2810e8a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "ECB's Vujcic Says December Rate Hike Looks 'Very Likely'",
+  "teaser": "European Central Bank Vice President Boris Vujcic says a December rate hike looks highly probable and more increases may follow in 2027 as inflation broadens. He made the comments during an interview with Bloomberg's Mark Schroers. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-18/ecb-s-vujcic-says-december-rate-hike-looks-very-likely-video",
+  "published": "2026-11-18T12:00:45+00:00",
+  "seen": "2026-11-18T12:30:18+00:00"
+ },
+ {
+  "id": "eebef23ada6c",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Basic Materials Roundup: Market Talk",
+  "teaser": "Find insight on Endeavour Mining, BHP and more in the latest Market Talks covering Basic Materials.",
+  "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-db96511d?mod=rss_markets_main",
+  "published": "2026-11-18T11:53:00+00:00",
+  "seen": "2026-11-18T12:30:18+00:00"
+ },
+ {
   "id": "28d24f737994",
   "source": "MarketWatch",
   "lang": "en",
@@ -9,6 +64,17 @@
   "link": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
   "published": "2026-11-18T11:38:00+00:00",
   "seen": "2026-11-18T11:47:17+00:00"
+ },
+ {
+  "id": "74b926ce1c84",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Wall Street set to open higher after Nvidia results reassure investors",
+  "teaser": "Chip group raises forecast and new chief says ‘it’s business as usual’ after revelations of Huang’s affairs triggered sell-off",
+  "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
+  "published": "2026-11-18T11:34:32+00:00",
+  "seen": "2026-11-18T12:30:18+00:00"
  },
  {
   "id": "7fdb5e52a04c",
@@ -1276,6 +1342,17 @@
   "seen": "2026-11-18T00:30:23+00:00"
  },
  {
+  "id": "6dd3fa6727c7",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "WSJ Dollar Index Falls 0.04% to 98.42",
+  "teaser": "The WSJ Dollar Index edged lower, snapping a five-trading-day winning streak.",
+  "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main",
+  "published": "2026-11-17T22:53:00+00:00",
+  "seen": "2026-11-18T12:30:18+00:00"
+ },
+ {
   "id": "d62dc35b1c81",
   "source": "Bloomberg",
   "lang": "en",
@@ -1461,6 +1538,17 @@
   "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=rss_markets_main",
   "published": "2026-11-17T20:56:00+00:00",
   "seen": "2026-11-17T20:58:12+00:00"
+ },
+ {
+  "id": "4f03f2fcf320",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Oil Futures Post Modest Gains",
+  "teaser": "Crude futures settled modestly higher with expectations for a global supply surplus keeping a lid on rebounds.",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-improving-supply-prospects-offset-mideast-tensions-3499b2f6?mod=rss_markets_main",
+  "published": "2026-11-17T20:50:00+00:00",
+  "seen": "2026-11-18T12:30:18+00:00"
  },
  {
   "id": "4f989ce22db5",
@@ -3210,93 +3298,5 @@
   "link": "https://www.bloomberg.com/news/newsletters/2026-11-17/global-funds-cautiously-increasing-exposure-to-india-it-stocks",
   "published": "2026-11-17T02:39:15+00:00",
   "seen": "2026-11-17T04:29:50+00:00"
- },
- {
-  "id": "966ec38e343c",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Japanese Equities Market’s Performance Likely to Broaden, Goldman Sachs Says",
-  "teaser": "The Japanese equities market’s performance is likely to broaden from here, two analysts at Goldman Sachs Research said.",
-  "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-chip-financial-stocks-0445db62?mod=rss_markets_main",
-  "published": "2026-11-17T02:26:00+00:00",
-  "seen": "2026-11-17T02:29:25+00:00"
- },
- {
-  "id": "1d9c7fc9fee7",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "New Zealand Inflation Expectations Remain Anchored Above 2%",
-  "teaser": "New Zealand’s long-term inflation expectations eased in the fourth quarter, adding to signs that a fresh wave of higher fuel prices is not becoming embedded in the economy.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
-  "published": "2026-11-17T02:24:44+00:00",
-  "seen": "2026-11-17T04:29:50+00:00"
- },
- {
-  "id": "fb8524155af7",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Foreign Funds Bought Most China Bonds Since May on Haven Appeal",
-  "teaser": "Global investors boosted their holdings of onshore Chinese government bonds at the fastest pace since May last month, underscoring growing foreign interest in yuan debt that has remained relatively insulated from global market turmoil.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-funds-bought-most-china-bonds-since-may-on-haven-appeal",
-  "published": "2026-11-17T02:21:36+00:00",
-  "seen": "2026-11-17T02:29:25+00:00"
- },
- {
-  "id": "700294facc44",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
-  "teaser": "Bank of Korea Chief Economist Kyoungsoo Yoon believes concerns over artificial intelligence have added to volatility in South Korea's equity markets. He speaks with Haidi Stroud-Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-17/bok-s-yoon-ai-concerns-add-to-korea-equity-volatility-video",
-  "published": "2026-11-17T01:46:26+00:00",
-  "seen": "2026-11-17T02:29:25+00:00"
- },
- {
-  "id": "e44d2f741a77",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "New Zealand Sees Best Quarterly Population Gain in Two Years",
-  "teaser": "New Zealand saw its best quarterly increase in population in more than two years as immigration inflows pick up, offering a potential boost to housing demand and the wider economy.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-sees-best-quarterly-population-gain-in-two-years",
-  "published": "2026-11-17T01:09:46+00:00",
-  "seen": "2026-11-17T02:29:25+00:00"
- },
- {
-  "id": "ce72cee59128",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Gold Struggles to Recover as Dollar, Rates Weigh",
-  "teaser": "Gold stayed at its weakest levels in over a year as a firm dollar and hawkish bets on Fed rates dimmed the precious metal’s appeal.",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main",
-  "published": "2026-11-17T00:47:00+00:00",
-  "seen": "2026-11-17T02:29:25+00:00"
- },
- {
-  "id": "d78fcb218fc4",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Samuel Sekuritas Denies It Pumped Stock, Took Part in MSCI Trade",
-  "teaser": "PT Samuel Sekuritas Indonesia and its owner, Eunice Satyono, denied that the firm carried out any illegal stock market transactions to spark the sudden rally in an Asian delicacy maker named PT Abadi Lestari Indonesia.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/samuel-sekuritas-denies-it-pumped-stock-took-part-in-msci-trade",
-  "published": "2026-11-17T00:44:27+00:00",
-  "seen": "2026-11-17T02:29:25+00:00"
- },
- {
-  "id": "0ddfe7c63c94",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "JGBs Rise, Tracking Gains in U.S. Treasurys",
-  "teaser": "JGBs were higher in early Tokyo trading, tracking overnight price gains in U.S. Treasurys.",
-  "link": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27?mod=rss_markets_main",
-  "published": "2026-11-17T00:41:00+00:00",
-  "seen": "2026-11-17T02:29:25+00:00"
  }
 ]
