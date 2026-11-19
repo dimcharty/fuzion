@@ -1,5 +1,16 @@
 [
  {
+  "id": "c74256fff44a",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Nvidia’s stock falls further. It has lost $611 billion in six trading days.",
+  "teaser": "There are only 23 companies in the world with a market capitalization of $611 billion or higher",
+  "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+  "published": "2026-11-19T20:33:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
+ },
+ {
   "id": "68e7e2546bb2",
   "source": "MarketWatch",
   "lang": "en",
@@ -64,6 +75,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-19/australia-s-leader-to-navigate-trade-security-in-talks-with-xi",
   "published": "2026-11-19T20:00:00+00:00",
   "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "2777bdc6c31b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic IPO Said to Draw Over $9.4 Billion in Japan Order Book",
+  "teaser": "Anthropic PBC drew orders for more than three times the shares available in the Japan tranche of its US initial public offering.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-draw-over-9-4-billion-in-japan-order-book",
+  "published": "2026-11-19T20:00:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
  },
  {
   "id": "9a08e90b363f",
@@ -176,6 +198,17 @@
   "seen": "2026-11-19T20:30:13+00:00"
  },
  {
+  "id": "f3c587b6783f",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Новини 19 листопада: IPO Anthropic",
+  "teaser": "Про що всі говорили сьогодні?",
+  "link": "https://epravda.com.ua/svit/novini-19-listopada-ipo-anthropic-827840/",
+  "published": "2026-11-19T19:00:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
+ },
+ {
   "id": "85c5d31f6852",
   "source": "MarketWatch",
   "lang": "en",
@@ -209,6 +242,17 @@
   "seen": "2026-11-19T20:30:13+00:00"
  },
  {
+  "id": "3ae7b7d65e6f",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Deutsche Bank закривав низку рахунків компаній Ахметова через ризики фінзлочинів",
+  "teaser": "У 2019 році відділ протидії фінансовим злочинам Deutsche Bank вирішив припинити співпрацю з значною часткою бізнесу олігарха Ріната Ахметова.",
+  "link": "https://epravda.com.ua/finances/deutsche-bank-pripinyav-spivpracyu-z-deyakimi-kompaniyami-ahmetova-u-2019-roci-827839/",
+  "published": "2026-11-19T18:35:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
+ },
+ {
   "id": "5591e008c561",
   "source": "MarketWatch",
   "lang": "en",
@@ -218,6 +262,17 @@
   "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
   "published": "2026-11-19T18:07:00+00:00",
   "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "4813fda2555b",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Anthropic побив рекорд вартості SpaceX, перевищивши позначку в 2 трильйони доларів",
+  "teaser": "Ринкова капіталізація Anthropic під час дебюту на Nasdaq у четвер сягнула 2,1 трлн доларів, значно перевищивши результат масштабного виходу SpaceX на біржу в червні, оскільки інвестори поспішили придбати акції першої у світі публічної компанії, що працює у сфері передових…",
+  "link": "https://epravda.com.ua/svit/anthropic-pobiv-rekord-vartosti-spacex-827838/",
+  "published": "2026-11-19T18:04:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
  },
  {
   "id": "d68120705108",
@@ -240,6 +295,39 @@
   "link": "https://www.wsj.com/finance/regulation/canadas-banking-regulator-moves-to-level-playing-field-for-smaller-lenders-b8c5eae6?mod=rss_markets_main",
   "published": "2026-11-19T17:21:00+00:00",
   "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "a32f33c3849b",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Уряд спрямував 81,4 мільярда переважно на зарплати військовим",
+  "teaser": "19 листопада Кабінет міністрів спрямував додаткові 81,4 млрд грн на невідкладні потреби Міноборони.",
+  "link": "https://epravda.com.ua/power/uryad-spryamuvav-dodatkovi-koshti-na-zarplati-viyskovim-827837/",
+  "published": "2026-11-19T17:21:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
+ },
+ {
+  "id": "419de3d83722",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "До 12 годин без світла: в \"Укренерго\" розповіли про відключення на пʼятницю",
+  "teaser": "Завтра, 20 листопада, у частині регіонів України будуть застосовувати графіки відключення електроенергії.",
+  "link": "https://epravda.com.ua/energetika/u-p-yatnicyu-svitla-mozhe-ne-buti-ponad-12-godin-827836/",
+  "published": "2026-11-19T17:08:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
+ },
+ {
+  "id": "eba86d692a12",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Wildberries ховає склади в Грузії, а влада країни продає компанії землі",
+  "teaser": "Російський маркетплейс Wildberries придбав у уряду Грузії чотири земельні ділянки загальною площею понад 19 га неподалік від міста Руставі. Про це йдеться у звіті незалежного грузинського Центру досліджень економічної політики (EPRC).",
+  "link": "https://epravda.com.ua/svit/wildberries-pridbav-u-gruziji-zemli-ymovirno-pid-skladi-827835/",
+  "published": "2026-11-19T16:44:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
  },
  {
   "id": "a1e062aede4a",
@@ -286,6 +374,17 @@
   "seen": "2026-11-19T16:30:38+00:00"
  },
  {
+  "id": "75a2f6944827",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У Кременчуці ворог дроном атакував підприємство",
+  "teaser": "У місті Кременчуці Полтавської області ворожий БпЛА атакував промислове підприємство.",
+  "link": "https://epravda.com.ua/biznes/rosiya-atakuvala-pidpriyemstvo-u-kremenchuci-827833/",
+  "published": "2026-11-19T16:15:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
+ },
+ {
   "id": "70723a2bbabc",
   "source": "MarketWatch",
   "lang": "en",
@@ -306,6 +405,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
   "published": "2026-11-19T16:12:28+00:00",
   "seen": "2026-11-19T16:30:38+00:00"
+ },
+ {
+  "id": "da7880fa725d",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Нові заходи експортного контролю США: TSMC і Samsung зупинили поставки чипів Китаю",
+  "teaser": "Компанії TSMC і Samsung призупиняють поставки деяких мікросхем китайським клієнтам після того, як Міністерство торгівлі США запровадило нові заходи експортного контролю.",
+  "link": "https://epravda.com.ua/biznes/novi-zahodi-eksportnogo-kontrolyu-ssha-tsmc-i-samsung-zupinili-postavki-chipiv-kitayu-827834/",
+  "published": "2026-11-19T16:12:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
  },
  {
   "id": "bcf22fa9d296",
@@ -407,6 +517,17 @@
   "seen": "2026-11-19T16:30:38+00:00"
  },
  {
+  "id": "35fce99cda05",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Міністр енергетики США не бачить ознак, що ЄС хоче повернутися до енергоносіїв РФ",
+  "teaser": "Міністр енергетики США Кріс Райт заявив, що не бачить жодних ознак зацікавленості будь-якої європейської країни у відновленні імпорту російських енергоносіїв, відповідаючи на запитання щодо повідомлень ЗМІ про нібито плани США сприяти продажу російського газу до Європи.",
+  "link": "https://epravda.com.ua/energetika/u-ssha-ne-vvazhayut-shcho-yes-gotoviy-povernutis-do-gazu-ta-nafti-z-rf-827831/",
+  "published": "2026-11-19T15:48:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
+ },
+ {
   "id": "3525bc99c762",
   "source": "Bloomberg",
   "lang": "en",
@@ -462,6 +583,17 @@
   "seen": "2026-11-19T16:30:38+00:00"
  },
  {
+  "id": "2a2b061b5ff3",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Правоохоронці проводять обшуки у Державіаслужбі – джерела УП",
+  "teaser": "Служба безпеки України та Київська обласна прокуратура 19 листопада проводять обшуки в Державній авіаційній службі",
+  "link": "https://epravda.com.ua/biznes/pravoohoronci-provodyat-obshuki-u-derzhaviasluzhbi-dzherela-up-827830/",
+  "published": "2026-11-19T15:17:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
+ },
+ {
   "id": "f30883307950",
   "source": "Bloomberg",
   "lang": "en",
@@ -471,6 +603,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-19/sanofi-weighs-takeover-of-us-drugmaker-insmed",
   "published": "2026-11-19T15:05:37+00:00",
   "seen": "2026-11-19T16:30:38+00:00"
+ },
+ {
+  "id": "654e55447b01",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Штучка на трильйон: Anthropic залучив на біржі рекордну суму",
+  "teaser": "Компанія Anthropic, яка розробила модель штучного інтелекту Claude, вийшла на біржу. Завдяки чому вона здійснила рекордне розміщення на фоні розпродажу акцій ШІ-компаній?",
+  "link": "https://epravda.com.ua/svit/ipo-anthropic-rekordne-rozmishchennya-akciy-na-nasdaq-ocinka-v-1-5-trln-827829/",
+  "published": "2026-11-19T15:00:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
  },
  {
   "id": "c78897278219",
@@ -528,6 +671,17 @@
   "seen": "2026-11-19T16:30:38+00:00"
  },
  {
+  "id": "eb8a66491dda",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У колишнього податківця конфіскують активи на сім мільйонів: він програв апеляцію",
+  "teaser": "Апеляція залишила без змін рішення суду першої інстанції про визнання необґрунтованими активів родини колишнього начальника відділу Державної податкової служби в Сумській області.",
+  "link": "https://epravda.com.ua/biznes/u-kolishnogo-podatkivcya-konfiskuyut-aktivi-na-sim-milyoniv-vin-prograv-apelyaciyu-827828/",
+  "published": "2026-11-19T14:45:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
+ },
+ {
   "id": "a076a7c69063",
   "source": "Bloomberg",
   "lang": "en",
@@ -550,6 +704,17 @@
   "seen": "2026-11-19T16:30:38+00:00"
  },
  {
+  "id": "297bd40792fb",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У Києві – тимчасові зміни в роботі метрополітену",
+  "teaser": "Поїзди київського метро на \"червоній\" лінії тимчасово рухатимуться від станції Академмістечко до Театральної і Арсенальної до Академмістечка.",
+  "link": "https://epravda.com.ua/biznes/u-kiyevi-timchasovi-zmini-v-roboti-metropolitenu-827826/",
+  "published": "2026-11-19T14:15:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
+ },
+ {
   "id": "38dde8f604e4",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -559,6 +724,17 @@
   "link": "https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed?mod=rss_markets_main",
   "published": "2026-11-19T14:00:00+00:00",
   "seen": "2026-11-19T16:30:38+00:00"
+ },
+ {
+  "id": "4661909cafd6",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У Києві викрили нафтобазу, де незаконно виготовлялося пальне",
+  "teaser": "У Києві викрили підпільну нафтобазу, де незаконно виготовлявся бензин та дизельне пальне, під час слідчих дій було вилучено близько 50 тисяч літрів пального.",
+  "link": "https://epravda.com.ua/biznes/u-kiyevi-vikrili-naftobazu-de-nezakonno-vigotovlyalosya-palne-827825/",
+  "published": "2026-11-19T13:50:00+00:00",
+  "seen": "2026-11-19T20:40:46+00:00"
  },
  {
   "id": "936b7cd9a728",
@@ -3122,181 +3298,5 @@
   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-db96511d?mod=rss_markets_main",
   "published": "2026-11-18T11:53:00+00:00",
   "seen": "2026-11-18T12:30:18+00:00"
- },
- {
-  "id": "28d24f737994",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
-  "teaser": "Having missed the rally in U.S. Treasurys that statrted in mid-October, Macro Tourist commentator Kevin Muir is taking advantage of a renewed weakness in bonds to buy.",
-  "link": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
-  "published": "2026-11-18T11:38:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "74b926ce1c84",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Wall Street set to open higher after Nvidia results reassure investors",
-  "teaser": "Chip group raises forecast and new chief says ‘it’s business as usual’ after revelations of Huang’s affairs triggered sell-off",
-  "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
-  "published": "2026-11-18T11:34:32+00:00",
-  "seen": "2026-11-18T12:30:18+00:00"
- },
- {
-  "id": "7fdb5e52a04c",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Health Care Roundup: Market Talk",
-  "teaser": "Find insight on Convatec, Lupin, Roche and more in the latest Market Talks covering Health Care.",
-  "link": "https://www.wsj.com/business/health-care-roundup-market-talk-18fd75f1?mod=rss_markets_main",
-  "published": "2026-11-18T11:34:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "1c41096a27de",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Target is seeing a revival — but it still needs to work on shoes and women’s clothing",
-  "teaser": "Some analysts have seen an overhaul of Target’s apparel and home segments as crucial to its turnaround.",
-  "link": "https://www.marketwatch.com/story/target-is-seeing-a-revival-but-it-still-needs-to-work-on-shoes-and-womens-clothing-afb16799?mod=mw_rss_topstories",
-  "published": "2026-11-18T11:33:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "25f8b3d34ea8",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Big Investors Are Cutting Their Losses on Troubled Properties",
-  "teaser": "Some of the best analysis and insight on investing, the wealth-management business and more.",
-  "link": "https://www.wsj.com/economy/central-banking/big-investors-are-cutting-their-losses-on-troubled-properties-a82b644d?mod=rss_markets_main",
-  "published": "2026-11-18T11:30:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "989d6efd48de",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "India Says US Trade Deal Nearly Ready, Signing May Take Time",
-  "teaser": "India and the US could conclude negotiations on a trade deal soon, though signing and implementing it may take longer, Commerce Secretary Rajesh Agrawal said Wednesday.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/india-says-us-trade-deal-nearly-ready-signing-may-take-time",
-  "published": "2026-11-18T11:29:16+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "dd26d3f4f20a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Davidson Kempner Warns of Credit Markets 'Fear Factor'",
-  "teaser": "As concerns mount in fixed-income markets, Chris Krishanthan, who co-manages the global credit department at Davidson Kempner, says \"there’s a real fear factor that developed.\" He made the comments at Bloomberg's Global Credit Forum in London. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/davidson-kempner-warns-of-credit-markets-fear-factor-video",
-  "published": "2026-11-18T11:25:40+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "a611342bec72",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.",
-  "teaser": "It turns out, the business media cries wolf about impending stock-market doom too frequently. But that doesn’t mean that the warnings have no predictive value.",
-  "link": "https://www.marketwatch.com/story/the-good-news-bubble-predictions-vastly-outnumber-actual-episodes-the-bad-there-may-be-a-97-chance-of-one-right-now-8ca55732?mod=mw_rss_topstories",
-  "published": "2026-11-18T11:23:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "4721be946a7c",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Strategists say investors should start asking ‘what could go right’ after tech’s 42% valuation reset",
-  "teaser": "Strategists at Truist Advisory Services recommend investors consider using the industry’s current weakness to add exposure.",
-  "link": "https://www.marketwatch.com/story/strategists-say-investors-should-start-asking-what-could-go-right-after-techs-42-valuation-reset-279a640a?mod=mw_rss_topstories",
-  "published": "2026-11-18T11:17:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "9e55b8030a12",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Crypto Futures Point to a Big Pop for Anthropic Stock",
-  "teaser": "Bulls on AI are driving huge demand for the IPO.",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/crypto-futures-point-to-a-big-pop-for-anthropic-stock",
-  "published": "2026-11-18T11:14:05+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "c62bacc359bf",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Walmart’s Winning Combo: Thrifty Shoppers and Wary AI Investors",
-  "teaser": "Plus, Nvidia’s earnings tailwind, and Anthropic’s multibillionaires.",
-  "link": "https://www.wsj.com/finance/stocks/walmarts-winning-combo-thrifty-shoppers-and-wary-ai-investors-183184e3?mod=rss_markets_main",
-  "published": "2026-11-18T11:13:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "98746bd31d84",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Credit Chiefs Warn of ‘Fear Factor’ as Debt Reprices All at Once",
-  "teaser": "A sharp repricing across fixed-income markets in recent months is likely to continue as interest rates remain elevated, causing a shakeout among weaker borrowers across industries.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/credit-chiefs-warn-of-fear-factor-as-debt-reprices-all-at-once",
-  "published": "2026-11-18T11:11:49+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "61d42ec639b2",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "How GTA VI Became the Most Expensive Video Game Ever Made",
-  "teaser": "One of the biggest entertainment releases in history.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/how-gta-vi-became-the-most-expensive-video-game-ever-made-mwm0far3",
-  "published": "2026-11-18T11:00:13+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "79de974f9a61",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "How GTA VI Became the Most Expensive Video Game Ever Made",
-  "teaser": "It took over a decade to make Grand Theft Auto VI. And when it’s released on November 19, it will have likely already set at least one record: the most expensive video game ever made. In the years since the last GTA release, the video game industry has changed massively.…",
-  "link": "https://www.bloomberg.com/news/audio/2026-11-18/how-gta-vi-became-the-most-expensive-video-game-ever-made",
-  "published": "2026-11-18T11:00:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "ddea67d86b77",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense",
-  "teaser": "Europe’s urgent need to catch up on defense, power and artificial intelligence spending means the need for investment has grown significantly even since Mario Draghi outlined an action plan for the continent, yet its capital markets have failed to keep pace.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/apollo-s-europe-head-sees-massive-finance-demand-for-ai-defense",
-  "published": "2026-11-18T10:41:38+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "4e9cd433bb41",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
-  "teaser": "The company inherits problems from Jensen Huang, and advantages.",
-  "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
-  "published": "2026-11-18T10:30:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
  }
 ]
