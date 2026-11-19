@@ -1,5 +1,55 @@
 [
  {
+  "id": "946db3fc07b5",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=rss_markets_main",
+  "title_uk": "Нафта дешевшає після несподівано великого зростання запасів у США",
+  "summary_uk": "На початку азійських торгів ціни на нафту знизилися. Тиск на ринок чинять дані про те, що комерційні запаси сирої нафти в США зросли сильніше, ніж очікували аналітики.",
+  "category": "energy",
+  "published": "2026-11-19T01:13:00+00:00",
+  "added": "2026-11-19T04:30:04+00:00"
+ },
+ {
+  "id": "9451ce0ece67",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/lng-exports-through-hormuz-appear-to-slow-after-more-attacks",
+  "title_uk": "Експорт СПГ через Ормузьку протоку, схоже, скоротився після нових атак",
+  "summary_uk": "Дані супутників і відстеження суден свідчать, що за останній тиждень з Перської затоки через Ормузьку протоку вийшло менше газовозів. Це може означати, що судновласники стали обережнішими після серії нападів на судна.",
+  "category": "energy",
+  "published": "2026-11-19T01:23:23+00:00",
+  "added": "2026-11-19T04:30:04+00:00"
+ },
+ {
+  "id": "468ac0b85b57",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/3c97ea69-1a32-4280-b067-f37f2874f987?syn-25a6b1a6=1",
+  "title_uk": "Meta призупинила план створити новий клас акцій для Цукерберга",
+  "summary_uk": "Технологічна група відклала ініціативу, яка дозволила б засновнику Марку Цукербергу продавати частину своїх акцій, не втрачаючи контролю над компанією.",
+  "category": "companies",
+  "published": "2026-11-18T23:57:06+00:00",
+  "added": "2026-11-19T04:30:04+00:00"
+ },
+ {
+  "id": "19a789dac9e5",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a?syn-25a6b1a6=1",
+  "title_uk": "У США росіянина звинуватили у шпигунстві за Palantir через допомогу компанії Україні",
+  "summary_uk": "За версією американських прокурорів, підозрюваний потрапив до США з Мексики та стежив за працівниками технологічної компанії Palantir у Кремнієвій долині. Справа пов'язана з підтримкою, яку Palantir надає Україні.",
+  "category": "ukraine",
+  "published": "2026-11-18T21:44:59+00:00",
+  "added": "2026-11-19T04:30:04+00:00"
+ },
+ {
+  "id": "ccfad00fd7a4",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video",
+  "title_uk": "Anthropic оцінила акції на IPO в $83 — вище за заявлений діапазон",
+  "summary_uk": "Розробник ШІ Anthropic разом зі співзасновниками залучив $107,3 млрд через розширене IPO та приватне розміщення. Компанія продала 956,4 млн акцій, а співзасновники — ще 23,6 млн, усі по $83, що перевищує діапазон, з яким розміщення пропонували інвесторам.",
+  "category": "companies",
+  "published": "2026-11-19T00:45:46+00:00",
+  "added": "2026-11-19T04:30:04+00:00"
+ },
+ {
   "id": "74b7080cb273",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/business/deals/textron-selling-industrial-segment-to-kingswood-capital-for-1-2-billion-5caba969?mod=rss_markets_main",
