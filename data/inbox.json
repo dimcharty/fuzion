@@ -1,5 +1,159 @@
 [
  {
+  "id": "80eb50d86114",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Energy & Utilities Roundup: Market Talk",
+  "teaser": "Find insight on Seatrium, Ithaca Energy and more in the latest Market Talks covering Energy and Utilities..",
+  "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-fcde730a?mod=rss_markets_main",
+  "published": "2026-11-19T12:27:00+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "f4119afb0204",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Financial Services Roundup: Market Talk",
+  "teaser": "Find insight on Kenanga Investment Bank, Challenger, Deutsche Bank and more in the latest Market Talks covering Financial Services.",
+  "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c03399ba?mod=rss_markets_main",
+  "published": "2026-11-19T12:24:00+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "ca03c1918a1e",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Tech, Media & Telecom Roundup: Market Talk",
+  "teaser": "Find insight on Nvidia, Anthropic, Tokyo Electron and more in the latest Market Talks covering Technology, Media and Telecom.",
+  "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-3e9085fc?mod=rss_markets_main",
+  "published": "2026-11-19T12:21:00+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "aea521ed9f60",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Sandisk’s stock split is almost here. This is what investors need to know.",
+  "teaser": "Sandisk is due to split its stock after Thursday’s close, and while the move has gotten some buzz, it won’t alter the fundamental picture for shareholders of the memory-chip company.",
+  "link": "https://www.marketwatch.com/story/sandisks-stock-split-is-almost-here-this-is-what-investors-need-to-know-e0a18461?mod=mw_rss_topstories",
+  "published": "2026-11-19T12:14:00+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "62e76243fda5",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?",
+  "teaser": "Here’s the case for energy stocks in your 401(k) and why Target’s comeback runs through the shoe aisle. Plus, what “GTA VI” means for Take-Two investors.",
+  "link": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories",
+  "published": "2026-11-19T12:12:00+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "c690f614260b",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "UN court rules Myanmar committed genocide in landmark ruling",
+  "teaser": "ICJ in The Hague hands down first-ever such verdict against a state over persecution of Rohingya",
+  "link": "https://www.ft.com/content/411d28f3-5adf-4a2f-9390-bc3372b4b3a9?syn-25a6b1a6=1",
+  "published": "2026-11-19T12:08:41+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "78c15e207076",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic IPO Banks Land $550 Million Fee Windfall on Record IPO",
+  "teaser": "Anthropic PBC awarded $550 million to the Wall Street banks working on its blockbuster IPO — more than they made on SpaceX, the previous title holder for the biggest debut ever.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-banks-land-550-million-fee-windfall-on-record-ipo",
+  "published": "2026-11-19T12:06:32+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "704497f74dc2",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China Oil Demand Rebound Pivots on Two Crucial Factors, Stockpiling and Exports",
+  "teaser": "Changing consumption patterns will be driven by stockpiling and fuel-export policy.",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/china-oil-demand-rebound-pivots-on-two-crucial-factors-stockpiling-and-exports",
+  "published": "2026-11-19T12:05:38+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "b77ee92cc1b0",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Deutsche Bank got its dollar call for 2026 wrong. Why it’s shifting tack now.",
+  "teaser": "Deutsche Bank’s team readily acknowledges its call for a weaker dollar in 2026 misfired. They predict the forces driving the dollar higher since February will continue into the first half of 2027 but any slowdown in the AI bonanza will start to undermine it.",
+  "link": "https://www.marketwatch.com/story/deutsche-bank-got-its-dollar-call-for-2026-wrong-why-its-shifting-tack-now-bbecbd00?mod=mw_rss_topstories",
+  "published": "2026-11-19T12:04:00+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "9055633a6eff",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Citi Sees Africa Bond Sales Topping 2026 Record",
+  "teaser": "Citigroup expects the number of African sovereign-bond sales in 2027 to exceed this year's record as improving macroeconomic stability boosts investor appetite. Chief Africa correspondent Jennifer Zabasajja explains. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/citi-sees-africa-bond-sales-topping-2026-record-video",
+  "published": "2026-11-19T12:00:53+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "800010ae664c",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "I have two children. How can I turn them into millionaires by the time they retire?",
+  "teaser": "Planning for your children’s future is important, but don’t forget your own along the way",
+  "link": "https://www.marketwatch.com/story/i-have-two-children-how-can-i-turn-them-into-millionaires-by-the-time-they-retire-547444eb?mod=mw_rss_topstories",
+  "published": "2026-11-19T12:00:00+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "584be94a9563",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Gabon Seeks IMF Deal Next Month After Audit Shows Lower Debt",
+  "teaser": "Gabon expects to reach a deal with the International Monetary Fund for a new program by the end of the year and is settling arrears as it waits for the fund’s sign-off on a debt audit.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/gabon-seeks-imf-deal-next-month-after-audit-shows-lower-debt",
+  "published": "2026-11-19T11:58:23+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "8d126069fb6b",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
+  "teaser": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
+  "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
+  "published": "2026-11-19T11:54:00+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
+  "id": "541cd330ee66",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic IPO Fuels AI Enthusiasm",
+  "teaser": "US stock futures rallied after a record-breaking initial public offering for Anthropic PBC rekindled enthusiasm for the artificial intelligence trade. The Claude chatbot maker’s shares are indicated to open as much as 26% higher in gray market trading after the firm’s upsized…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/the-opening-trade-11-19-2026-video",
+  "published": "2026-11-19T11:46:46+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
   "id": "85f20c290981",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -9,6 +163,17 @@
   "link": "https://www.wsj.com/finance/investing/how-everyday-investors-manage-their-stakes-in-nvidia-8270f025?mod=rss_markets_main",
   "published": "2026-11-19T11:38:00+00:00",
   "seen": "2026-11-19T11:44:32+00:00"
+ },
+ {
+  "id": "235be66b4fcb",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Zimbabwe Asks Lenders for Grants to Repay What it Owes Them",
+  "teaser": "Zimbabwe has asked three multilateral banks for grants or loans to enable it to clear arrears on debt it took out from them so that it can access new facilities.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/zimbabwe-asks-lenders-for-grants-to-repay-what-it-owes-them",
+  "published": "2026-11-19T11:37:28+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
  },
  {
   "id": "9e0e5176b116",
@@ -53,6 +218,17 @@
   "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally",
   "published": "2026-11-19T11:13:40+00:00",
   "seen": "2026-11-19T11:44:32+00:00"
+ },
+ {
+  "id": "94c87cf8fbeb",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic is a ‘must own’",
+  "teaser": "Is that good?",
+  "link": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e",
+  "published": "2026-11-19T11:06:08+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
  },
  {
   "id": "520c706d9c18",
@@ -1164,6 +1340,17 @@
   "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
   "published": "2026-11-18T23:02:00+00:00",
   "seen": "2026-11-19T00:30:32+00:00"
+ },
+ {
+  "id": "69fd8a369bf7",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "WSJ Dollar Index Rises 0.22% to 98.64",
+  "teaser": "The U.S. dollar rose to new 52-week highs after the minutes of the Federal Reserve’s October meeting revealed central bankers’ mounting inflation concerns.",
+  "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main",
+  "published": "2026-11-18T22:59:00+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
  },
  {
   "id": "11a090ea47f1",
@@ -2860,6 +3047,17 @@
   "seen": "2026-11-18T08:31:01+00:00"
  },
  {
+  "id": "88c202caa782",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+  "teaser": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+  "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+  "published": "2026-11-18T06:18:11+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
+ },
+ {
   "id": "7da6a54b8419",
   "source": "Bloomberg",
   "lang": "en",
@@ -2869,6 +3067,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-18/delevska-need-a-strong-leader-to-run-nvidia-video",
   "published": "2026-11-18T06:14:45+00:00",
   "seen": "2026-11-18T08:31:01+00:00"
+ },
+ {
+  "id": "77154ded1f31",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "Three things to watch as Trump, Xi and Putin meet in China",
+  "teaser": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
+  "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+  "published": "2026-11-18T06:04:39+00:00",
+  "seen": "2026-11-19T12:30:55+00:00"
  },
  {
   "id": "7a65180035b9",
@@ -3089,214 +3298,5 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-18/ubs-group-sees-yuan-rising-to-6-25-in-most-bullish-market-call",
   "published": "2026-11-18T04:01:26+00:00",
   "seen": "2026-11-18T04:30:07+00:00"
- },
- {
-  "id": "afcd9ed06f69",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Skylark CFO Eyes US Expansion, More M&A",
-  "teaser": "Skylark, one of Japan’s largest restaurant chains, plans more M&A in 2027, and expects its growth-investment budget to match at least this year’s ¥50 billion ($314 million). CFO Yoshiaki Kita spoke to Bloomberg TV in Tokyo. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/skylark-cfo-eyes-us-expansion-more-m-a-video",
-  "published": "2026-11-18T04:01:20+00:00",
-  "seen": "2026-11-18T04:30:07+00:00"
- },
- {
-  "id": "0294ddcc3bc3",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Хакери Кім Чен Ина. Як Північна Корея краде у світу мільярди доларів",
-  "teaser": "Північна Корея перетворила кіберзлочинність на інструмент державної політики. Як Пхеньян створив одну з найпотужніших кіберармій світу і на що витрачає викрадені гроші?",
-  "link": "https://epravda.com.ua/svit/kiberzlochinnist-kndr-hakerski-ataki-kriptovalyuta-i-valyutni-nadhodzhennya-827755/",
-  "published": "2026-11-18T04:00:00+00:00",
-  "seen": "2026-11-18T08:31:01+00:00"
- },
- {
-  "id": "a62742581d5b",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Democrats win Alaska Senate seat",
-  "teaser": "Mary Peltola’s victory in northernmost US state raises party’s tally to 56 in 100-member chamber",
-  "link": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1",
-  "published": "2026-11-18T03:47:41+00:00",
-  "seen": "2026-11-18T04:30:07+00:00"
- },
- {
-  "id": "a53f9073722f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Japan 20-Year Bond Sale Draws Weak Demand Amid Global Volatility",
-  "teaser": "Japan’s 20-year government bond auction Wednesday saw lower demand than the 12-month average, as investors remained wary of further yield increases amid heightened market volatility.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average",
-  "published": "2026-11-18T03:41:33+00:00",
-  "seen": "2026-11-18T04:30:07+00:00"
- },
- {
-  "id": "a5343dc74db6",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "China a 'Supersized' Testing Ground for Technology: Xi",
-  "teaser": "Xi Jinping tells Asia-Pacific business leaders that China aims to drive high-quality growth through innovation, green transition and closer integration of technological and industrial development. He describes China as a \"supersized\" testing ground for technologies such as…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
-  "published": "2026-11-18T03:02:15+00:00",
-  "seen": "2026-11-18T04:30:07+00:00"
- },
- {
-  "id": "75499b8e4188",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nvidia has a chance to trade drama for durability",
-  "teaser": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
-  "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
-  "published": "2026-11-18T02:56:15+00:00",
-  "seen": "2026-11-18T04:30:07+00:00"
- },
- {
-  "id": "69a9383fb8d8",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Xi Calls for Deeper Cooperation and Free Trade",
-  "teaser": "Xi Jinping says Asia-Pacific economies should expand trade and bilateral relations while recognizing their differences in history, culture and development. He speaks at the APEC CEO Summit in Shenzhen. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/xi-calls-for-deeper-cooperation-and-free-trade-video",
-  "published": "2026-11-18T02:44:48+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "e34a82663440",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Rupee Forwards Turn More Bullish Than Currency Forecasters",
-  "teaser": "Forward-implied USD/INR rate for end-2026 is about 94.32 per dollar.",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/rupee-forwards-turn-more-bullish-than-currency-forecasters",
-  "published": "2026-11-18T02:30:55+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "3c44031a77df",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Iron Ore Likely to Find a Floor Near $80, Chinese Analysts Say",
-  "teaser": "Iron ore prices will need to drop to about $80 a ton before high-cost mines start cutting output to put a floor under the market, according to Chinese analysts.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/iron-ore-likely-to-find-a-floor-near-80-chinese-analysts-say",
-  "published": "2026-11-18T02:30:04+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "fbd8c646b257",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Xi Warns Against ‘Rampant’ Protectionism Ahead of Trump Talks",
-  "teaser": "Xi Jinping urged Asia-Pacific economies to deepen cooperation as he warned against rising unilateralism and protectionism, setting out a defense of free trade as China hosts global leaders for high-stakes talks on trade and technology.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks",
-  "published": "2026-11-18T02:25:09+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "f999637b6484",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
-  "teaser": "Companies told to update systems running on programming language widely used by corporate sector, banks and government agencies",
-  "link": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
-  "published": "2026-11-18T02:19:18+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "b0124eb69ec6",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
-  "teaser": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
-  "link": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
-  "published": "2026-11-18T02:17:18+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "68ac7cc99fdb",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Japanese Restaurant Skylark Eyes More M&A After Ramen Chain Deal",
-  "teaser": "Skylark Holdings Co., one of Japan’s largest restaurant chains, plans more M&A in 2027, and expects its growth-investment budget to match at least this year’s ¥50 billion ($313 million), according to company management.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/japanese-restaurant-skylark-eyes-more-m-a-after-ramen-chain-deal",
-  "published": "2026-11-18T02:15:01+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "ef70b9d7a224",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Russia’s Putin to address global CEOs in China",
-  "teaser": "Chief executives’ meeting comes ahead of highly anticipated trilateral summit with Xi Jinping and Donald Trump",
-  "link": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
-  "published": "2026-11-18T02:02:42+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "99f535ed2e4e",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
-  "teaser": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
-  "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-  "published": "2026-11-18T01:59:00+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "f8ffc82bdd80",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Asian Equities Mixed as Investors Parse Nvidia’s Results, Guidance",
-  "teaser": "Investors have been closely monitoring how Nvidia could perform without Jensen Huang, the only CEO the company had ever had until his resignation last week.",
-  "link": "https://www.wsj.com/finance/asian-equities-mixed-as-investors-parse-nvidias-results-guidance-7041c3ea?mod=rss_markets_main",
-  "published": "2026-11-18T01:51:00+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "4c105ac1f4b0",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Medicare Part B premiums rise due higher healthcare spending",
-  "teaser": "The premiums will increase by $6.50, to $209.40 a month.",
-  "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-  "published": "2026-11-18T01:45:00+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "ec48c0cb9240",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Cobalt’s Outlook Darkens as Memory Chip Costs Hit Gadgets Demand",
-  "teaser": "Chinese cobalt demand is weakening as soaring prices for memory chips hit sales of the electronic gadgets that use the battery metal.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/cobalt-s-outlook-darkens-as-memory-chip-costs-hit-gadgets-demand",
-  "published": "2026-11-18T01:36:38+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
- },
- {
-  "id": "c641d2eb86a0",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Ping An Group To Reduce Public Equity Allocation",
-  "teaser": "Michael Guo, Ping An Group Co-CEO says the insurance company is planning to reduce allocation on public equity and considering fixed income as an alternative investment. He speaks to Bloomberg’s Stephen Engle in an exclusive interview at the APEC 2026 summit. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/ping-an-group-to-reduce-public-equity-allocation-video",
-  "published": "2026-11-18T01:36:31+00:00",
-  "seen": "2026-11-18T02:55:19+00:00"
  }
 ]
