@@ -1,5 +1,65 @@
 [
  {
+  "id": "7c51872533c4",
+  "source": "The Economist",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+  "title_uk": "Дохідність облігацій зростає по всьому світу, крім Китаю",
+  "summary_uk": "За даними The Economist, Китай вибивається із глобальної тенденції зростання дохідності держоблігацій. Народний банк Китаю знизив процентні ставки, хоча й без великого бажання.",
+  "category": "economy",
+  "published": "2026-11-19T10:04:37+00:00",
+  "added": "2026-11-19T12:30:42+00:00"
+ },
+ {
+  "id": "3492c13bdbdf",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/taiwan-tightens-short-selling-curbs-to-help-support-stock-market",
+  "title_uk": "Тайвань посилив обмеження на короткі продажі, щоб підтримати фондовий ринок",
+  "summary_uk": "Регулятор фінансового ринку Тайваню запровадив жорсткіші правила для коротких продажів. Місцевий ринок акцій іде до найбільшого місячного падіння з часів світової фінансової кризи 2008 року.",
+  "category": "markets",
+  "published": "2026-11-19T06:46:54+00:00",
+  "added": "2026-11-19T12:30:42+00:00"
+ },
+ {
+  "id": "cfb89713dcfb",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
+  "title_uk": "Авіаудар влучив у штаб-квартиру суверенного фонду Саудівської Аравії",
+  "summary_uk": "Удару зазнала штаб-квартира Public Investment Fund — одного з найвпливовіших інвестиційних фондів світу. Атака сталася на тлі майже щоденних обстрілів королівства з боку хуситів, повідомляє Financial Times.",
+  "category": "world",
+  "published": "2026-11-19T09:41:38+00:00",
+  "added": "2026-11-19T12:30:42+00:00"
+ },
+ {
+  "id": "884e4442a40a",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+  "title_uk": "Anthropic виходить на Уолл-стріт із найбільшим IPO в історії",
+  "summary_uk": "Акції Anthropic, розробника чат-бота Claude, починають торгуватися на біржі. Компанія залучила загалом $107 млрд, що робить це розміщення найбільшим за всю історію, пише Financial Times.",
+  "category": "markets",
+  "published": "2026-11-19T10:58:44+00:00",
+  "added": "2026-11-19T12:30:42+00:00"
+ },
+ {
+  "id": "6b868a90f975",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video",
+  "title_uk": "Трамп, Сі та Путін провели безпрецедентну тристоронню зустріч",
+  "summary_uk": "Президенти США, Китаю та Росії вперше зустрілися втрьох, повідомляє Bloomberg. Переговори відбулися на тлі спроб стабілізувати відносини між Вашингтоном і Пекіном та триваючих бойових дій між Росією та Україною.",
+  "category": "world",
+  "published": "2026-11-19T11:01:45+00:00",
+  "added": "2026-11-19T12:30:42+00:00"
+ },
+ {
+  "id": "f22aab8adbfe",
+  "source": "The Economist",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+  "title_uk": "Європа посилює санкції проти Росії, тоді як США їх послаблюють",
+  "summary_uk": "The Economist звертає увагу, що санкційна політика Заходу щодо Росії розходиться: Європа робить обмеження жорсткішими, а Америка частину з них пом'якшує. Для України це питання тиску на російську економіку та єдності партнерів.",
+  "category": "ukraine",
+  "published": "2026-11-19T10:03:23+00:00",
+  "added": "2026-11-19T12:30:42+00:00"
+ },
+ {
   "id": "14955a1fdf1b",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main",
