@@ -1,5 +1,247 @@
 [
  {
+  "id": "68e7e2546bb2",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Why Walmart is making a bigger bet on fast-food delivery",
+  "teaser": "The retail giant says around 90% of spending at fast-food chains occurs within a few miles from a Walmart.",
+  "link": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
+  "published": "2026-11-19T20:24:00+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "b083a7295890",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "U.S. Diesel Prices to Continue to Fall in Relief for Consumers, U.S. Energy Secretary Says",
+  "teaser": "Diesel prices are likely to continue falling from record highs as refined products from the Persian Gulf return to the market and unsanctioned Russian diesel adds to the downward pressure on prices, said Energy Secretary Chris Wright.",
+  "link": "https://www.wsj.com/business/energy-oil/u-s-diesel-prices-to-continue-to-fall-in-relief-for-consumers-u-s-energy-secretary-says-cfe83c18?mod=rss_markets_main",
+  "published": "2026-11-19T20:12:00+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "aff2d7f2e2df",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Google-Tied Prepaid Bond Deals Delayed Due to Lackluster Demand",
+  "teaser": "Two prepaid energy deals totaling $3 billion, which featured Google parent company Alphabet Inc. as funding recipient, were delayed due to lackluster investor demand amid market volatility, according to a person familiar with the matter.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/google-tied-prepaid-bond-deals-delayed-due-to-lackluster-demand",
+  "published": "2026-11-19T20:10:10+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "fd311a6b564f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "War-Driven Cost Squeeze Alarms Companies, Bank of America Says",
+  "teaser": "What began as an oil-market shock from the Iran war has broadened into a cost squeeze across the US, with business owners growing significantly more concerned about commodity prices.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
+  "published": "2026-11-19T20:04:12+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "8c0f7ce09cda",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Bloomberg Green New York 2026 Highlights",
+  "teaser": "Bloomberg Green convened industry leaders, policymakers, and climate innovators during Climate Week NYC to explore what's next in the transition to a more resilient and future-ready world. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-green-new-york-2026-highlights-video",
+  "published": "2026-11-19T20:01:26+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "7816a3b669c5",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Australia’s Leader to Navigate Trade, Security in Talks With Xi",
+  "teaser": "Australian Prime Minister Anthony Albanese will aim to navigate delicate security and trade issues when he meets Chinese President Xi Jinping on Friday, seeking to ease access for commodities to its biggest export partner.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/australia-s-leader-to-navigate-trade-security-in-talks-with-xi",
+  "published": "2026-11-19T20:00:00+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "9a08e90b363f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Fed's Barr Says Inflation Calls for Further Policy Adjustment",
+  "teaser": "Federal Reserve Governor Michael Barr says inflation is too high and monetary policy needs to be adjusted further to balance risks at FinRegLab's AI Symposium. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/fed-s-barr-says-inflation-calls-for-policy-adjustment-video",
+  "published": "2026-11-19T19:59:01+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "d733fbdb5781",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Traders and Investors Want to Exercise Their Convictions: Bilal Little",
+  "teaser": "Bilal Little, global ETF strategist at Direxion, joins Scarlet Fu on a special edition of “Bloomberg Markets.” Providers have filed for more than 20 exchange-traded products to amplify daily moves on Anthropic, both on the upside and the downside, as firms including Direxion,…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/traders-and-investors-act-on-convictions-bilal-little-video",
+  "published": "2026-11-19T19:47:41+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "66ba76fc23de",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Big Checks and Big Blobs of Compute",
+  "teaser": "Our first public frontier AI company is here.",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/big-checks-and-big-blobs-of-compute",
+  "published": "2026-11-19T19:42:17+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "4c87ed53883a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Crunch Fitness Sells $800 Million of ABS Tied to Franchise Deals",
+  "teaser": "Crunch Fitness sold $800 million of asset backed securities on Thursday, the latest in a recent streak of whole-business bond deals.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/crunch-fitness-sells-800-million-of-abs-tied-to-franchise-deals",
+  "published": "2026-11-19T19:25:15+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "661ac518375e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic Leveraged ETF Race Heats Up",
+  "teaser": "Bilal Little, global ETF strategist at Direxion, joins Scarlet Fu on a special edition of “Bloomberg Markets.” Providers have filed for more than 20 exchange-traded products to amplify daily moves on Anthropic, both on the upside and the downside, as firms including Direxion,…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-leveraged-etf-race-heats-up-video",
+  "published": "2026-11-19T19:23:40+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "86d0b8ed8c04",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic IPO Sets New Standard: Rice Nelson",
+  "teaser": "Jaclyn Rice Nelson, co-founder & CEO of Tribe AI, joins Scarlet Fu on a special edition of “Bloomberg Markets.” They discuss the historic Anthropic IPO. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-sets-new-standard-rice-nelson-video",
+  "published": "2026-11-19T19:17:07+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "dd23ab610968",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
+  "teaser": "The Federal Reserve has warned employees at its regional outposts to expect lower pay increases next year, according to a memo viewed by Bloomberg News.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027",
+  "published": "2026-11-19T19:14:11+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "b3f470b81c37",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
+  "teaser": "The main engine of U.S. growth is in overdrive.",
+  "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
+  "published": "2026-11-19T19:13:00+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "af44c70e2105",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic IPO Backs Up Private Valuations: Schlossman",
+  "teaser": "Evan Schlossman, principal at Neostellar, joins Scarlet Fu on a special edition of “Bloomberg Markets.” They discuss Anthropic’s public trading debut and what it tells us about private market valuations. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-backs-up-private-valuations-schlossman-video",
+  "published": "2026-11-19T19:11:45+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "2ebae6e969e2",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic's Record-Breaking IPO",
+  "teaser": "\"Bloomberg Markets\" follows the market moves across every global asset class and discusses the biggest issues for Wall Street. Today's guests: Neostellar Principal Evan Schlossman, Tribe AI Co-Founder & CEO Jaclyn Rice Nelson, and Drexion ETF Strategist Bilal Little. (Source:…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video",
+  "published": "2026-11-19T19:00:20+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "85c5d31f6852",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+  "teaser": "The plan would free up hospital and nursing-home beds — and lower costs.",
+  "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+  "published": "2026-11-19T18:54:00+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "a99126454e64",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms",
+  "teaser": "‘So probably if I could rewind the clock, I would have spent less money,’ Tesla CEO says of his outlays for Republican candidates",
+  "link": "https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories",
+  "published": "2026-11-19T18:43:00+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "4fcd6ac84d19",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "AMD shares fall after short seller report on China links",
+  "teaser": "Chipmaker down by as much as 11% following warnings by Hunterbrook in the aftermath of Nvidia scandal",
+  "link": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
+  "published": "2026-11-19T18:40:23+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "5591e008c561",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound",
+  "teaser": "This year’s bruising selloff in AST SpaceMobile shares may have gone too far, according to a new bull.",
+  "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
+  "published": "2026-11-19T18:07:00+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "d68120705108",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+  "teaser": "UnitedHealth’s stock has tumbled 20% over the past five days.",
+  "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+  "published": "2026-11-19T18:03:00+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "d89a30900887",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Canada’s Banking Regulator Moves to Level Playing Field for Smaller Lenders",
+  "teaser": "Canada’s financial-industry watchdog plans to soften capital requirements for smaller lenders in a bid to boost competition and break the hold of the handful of major banks on the industry.",
+  "link": "https://www.wsj.com/finance/regulation/canadas-banking-regulator-moves-to-level-playing-field-for-smaller-lenders-b8c5eae6?mod=rss_markets_main",
+  "published": "2026-11-19T17:21:00+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
   "id": "a1e062aede4a",
   "source": "MarketWatch",
   "lang": "en",
@@ -20,6 +262,17 @@
   "link": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories",
   "published": "2026-11-19T16:21:00+00:00",
   "seen": "2026-11-19T16:30:38+00:00"
+ },
+ {
+  "id": "50e792fc4a01",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Alphabet Set to Raise $4.2 Billion From Latest Canada Bond Sale",
+  "teaser": "Alphabet Inc. has launched a C$6 billion ($4.2 billion) sale of Canadian bonds, six months after its debut in the market.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
+  "published": "2026-11-19T16:16:50+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
  },
  {
   "id": "a2baf74492b3",
@@ -339,6 +592,17 @@
   "link": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1",
   "published": "2026-11-19T13:00:44+00:00",
   "seen": "2026-11-19T16:30:38+00:00"
+ },
+ {
+  "id": "fb2356a83c24",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Latin America Currencies Sink on Rate Worries; Brazil Intervenes",
+  "teaser": "A sell-off in Latin American currencies deepened Thursday, sending the Mexican peso to its lowest since June 2025 and forcing Brazil’s central bank to step in to prop up the real, amid the mounting prospect of more rate hikes in the US.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-s-rand-ticks-higher-as-most-emerging-fx-steadies",
+  "published": "2026-11-19T12:41:16+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
  },
  {
   "id": "cb0aff350680",
@@ -1153,6 +1417,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency",
   "published": "2026-11-19T05:15:00+00:00",
   "seen": "2026-11-19T05:44:37+00:00"
+ },
+ {
+  "id": "6a56a707e4c6",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "US companies turn to robots to ease labour shortage crisis",
+  "teaser": "Some say speed of automation is still not fast enough to make country internationally competitive as manufacturing sector struggles",
+  "link": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1",
+  "published": "2026-11-19T05:00:18+00:00",
+  "seen": "2026-11-19T20:30:13+00:00"
  },
  {
   "id": "ca0841e944a1",
@@ -3023,280 +3298,5 @@
   "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
   "published": "2026-11-18T10:30:00+00:00",
   "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "4d1af77c24b4",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-  "teaser": "“Our financial and healthcare situation has become increasingly concerning.”",
-  "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-  "published": "2026-11-18T10:15:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "de436c163aaf",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Apollo Is Focused on Investment Grade, De Giorgi Says",
-  "teaser": "Diego De Giorgi, partner and head of EMEA at Apollo Global Management, says the firm is focused on the global industrial renaissance and is particularly focused on investment-grade and the short end of curve. Speaking to Anna Edwards at Bloomberg's Global Credit Forum in London,…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/apollo-is-focused-on-investment-grade-de-giorgi-says-video",
-  "published": "2026-11-18T10:13:53+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "2ad3040bb41a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Dongfeng’s First Egypt-Built Electric Car to Go On Sale in 2027",
-  "teaser": "The first electric car built in Egypt, an SUV designed by China’s Dongfeng Motor Corp., will go on sale in early 2027 — a potential leap forward in the Arab nation’s push to modernize transport options and boost local industry.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/dongfeng-s-first-egypt-built-electric-car-to-go-on-sale-in-2027",
-  "published": "2026-11-18T10:11:50+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "69c7bfe64ad9",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Xi greets Trump with hug ahead of historic summit with Putin",
-  "teaser": "US and Chinese leaders to meet Russian President Vladimir Putin to cap week of high-profile diplomacy",
-  "link": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
-  "published": "2026-11-18T10:05:52+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "0e54e2f816e7",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "DJ Zedd sells his Hollywood Hills home for $4 million",
-  "teaser": "DJ and producer Zedd has offloaded his Hollywood Hills pad for $4.25 million to a couple who plan to carry out a complete overhaul of one of the rooms.",
-  "link": "https://www.marketwatch.com/story/dj-zedd-sells-his-hollywood-hills-home-for-4-million-92a04353?mod=mw_rss_topstories",
-  "published": "2026-11-18T10:05:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "7657ed908c94",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Xi Welcomes Trump at Shenzhen Airport",
-  "teaser": "President Donald Trump and his Chinese counterpart Xi Jinping shared a cheek-to-cheek hug in a rare airport welcome in Shenzhen. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/xi-trump-begin-summit-with-warm-embrace-video",
-  "published": "2026-11-18T10:03:45+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "14cdcc2fbf8d",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Adults Want Kids’ Toys This Holiday Season",
-  "teaser": "Companies are stocking their shelves with Lego sets and plushies for the holiday season, but their target audience may be surprising. Annie Bang breaks down how adults are driving growth for the US toy industry, not kids. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/adults-want-kids-toys-this-holiday-season",
-  "published": "2026-11-18T10:00:13+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "de5e73a4a4b0",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Approaches Final IPO Hurdle After Tech Stocks Churn",
-  "teaser": "Anthropic PBC is on the cusp of pricing potentially the biggest IPO of all time, defying days of volatility in technology stocks that threaten to weigh on the startup’s long-awaited debut.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-approaches-final-ipo-hurdle-after-tech-stocks-churn",
-  "published": "2026-11-18T10:00:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "e80d05de4b66",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "‘New Girl’ star Jake Johnson sells Pasadena home in just 2 weeks for $530K over asking price",
-  "teaser": "“New Girl” star Jake Johnson has offloaded his private Pasadena, Calif., retreat for $3.8 million—$530,000 over his asking price of $3.3 million.",
-  "link": "https://www.marketwatch.com/story/new-girl-star-jake-johnson-sells-pasadena-home-in-just-2-weeks-for-530k-over-asking-price-bc4d04c6?mod=mw_rss_topstories",
-  "published": "2026-11-18T09:59:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "95b0c984348c",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Stock Market Today: Tech Stocks Set to Rise After Nvidia Earnings Soothe AI Jitters",
-  "teaser": "Chip maker sought to reassure on its prospects without Jensen Huang",
-  "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
-  "published": "2026-11-18T09:52:59+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "1afa4351ce35",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
-  "teaser": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
-  "published": "2026-11-18T09:45:09+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "607d5fb20fe6",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Democrats probe whether Lutnick helped Cantor avoid Nvidia losses",
-  "teaser": "Lawmakers seek information on whether US commerce secretary’s decisions were influenced by family’s investment firm",
-  "link": "https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1",
-  "published": "2026-11-18T09:45:07+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "786ee29a69f4",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "What Wall Street analysts are now saying after Nvidia’s beat-and-raise quarter",
-  "teaser": "The chip company’s stock rose over 3% in premarket trading on Wednesday. A team at JPMorgan said there is likely more volatility to come in the near-term.",
-  "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
-  "published": "2026-11-18T09:41:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "5e491b225aef",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Stock Futures Rally as Nvidia Earnings Calm AI Trade Fears",
-  "teaser": "Tech stocks rallied across the globe after Nvidia’s market-beating earnings steadied investor sentiment.",
-  "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?mod=rss_markets_main",
-  "published": "2026-11-18T09:37:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "37976c5e90eb",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Why Nvidia broke with its usual practice in holding back its quarterly SEC report",
-  "teaser": "The first official confirmation from Nvidia that Jensen Huang’s resignation has more to do with simply personal conduct came with the decision not to file a 10-Q report with the Securities and Exchange Commission.",
-  "link": "https://www.marketwatch.com/story/why-nvidia-broke-with-its-usual-practice-in-holding-back-its-quarterly-sec-report-1489d492?mod=mw_rss_topstories",
-  "published": "2026-11-18T09:32:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "38706c2e46d0",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "BASF’s Evonik Chase Poses Test for Potential Merz Successor",
-  "teaser": "BASF SE’s bid to consolidate Germany’s struggling chemicals industry with a takeover of Evonik Industries AG looks set to join the ranks of politically-charged deals taking shape across Europe this year.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/basf-s-evonik-chase-poses-test-for-potential-merz-successor",
-  "published": "2026-11-18T09:14:14+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "8c9575f79b47",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB",
-  "teaser": "Concerns raised that hyperscalers are building up trillions of dollars in off-balance sheet commitments through contracts with other tech groups",
-  "link": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
-  "published": "2026-11-18T09:00:07+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "f3082e5740a6",
-  "source": "European Central Bank",
-  "lang": "en",
-  "weight": 8,
-  "title": "Boris Vujčić: Financial Stability Review - November 2026",
-  "teaser": "",
-  "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
-  "published": "2026-11-18T09:00:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "dcfaa3a193e2",
-  "source": "European Central Bank",
-  "lang": "en",
-  "weight": 8,
-  "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
-  "teaser": "",
-  "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
-  "published": "2026-11-18T09:00:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "fb8ead3db91d",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
-  "teaser": "Oil prices fell Wednesday as traders assessed the prospect of a global supply surplus amid renewed tensions in the Middle East and continued threats to regional oil shipments.",
-  "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=rss_markets_main",
-  "published": "2026-11-18T08:55:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "3e998454ab3a",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "The S&P 500 just broke a crucial support level. Here’s what history shows may happen now.",
-  "teaser": "Breaching a 200-day moving average is taken as a bearish signal. That may not be the case for this market, says Bespoke Investment",
-  "link": "https://www.marketwatch.com/story/the-s-p-500-just-broke-a-crucial-support-level-heres-what-history-shows-may-happen-now-776f6da2?mod=mw_rss_topstories",
-  "published": "2026-11-18T08:50:00+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "987986d32087",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Horizons Middle East & Africa 11/18/2026 (Video)",
-  "teaser": "",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/horizons-middle-east-africa-11-18-2026-video",
-  "published": "2026-11-18T08:18:15+00:00",
-  "seen": "2026-11-18T08:31:01+00:00"
- },
- {
-  "id": "f8ec0e17c5a5",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Україна стала однією з найбільших криптоекономік Європи",
-  "teaser": "Україна залишилась на другому місці серед країн Східної Європи за величиною криптовалютного ринку та стала стала основним напрямком роздрібних P2P-переказів у стейблкоїнах для 16 із 21 дослідженого сусіднього ринку.",
-  "link": "https://epravda.com.ua/finances/kriptoekonomika-ukrajini-zrostannya-do-128-3-mlrd-i-liderstvo-u-p2p-steyblkojinah-827758/",
-  "published": "2026-11-18T08:09:00+00:00",
-  "seen": "2026-11-18T08:31:01+00:00"
- },
- {
-  "id": "d189655d1889",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "SoftBank regrets ‘mistake’ of not backing Anthropic, says Son",
-  "teaser": "Japanese tech group had already started to put money into arch-rival OpenAI",
-  "link": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1",
-  "published": "2026-11-18T07:56:06+00:00",
-  "seen": "2026-11-18T11:47:17+00:00"
- },
- {
-  "id": "3b145f9d2ffb",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "UK Inflation Print at Fastest in a Year Comes With Few Surprises",
-  "teaser": "Plus, markets digest Nvidia’s strong earnings",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/uk-inflation-print-at-fastest-in-a-year-comes-with-few-surprises",
-  "published": "2026-11-18T07:50:32+00:00",
-  "seen": "2026-11-18T08:31:01+00:00"
  }
 ]
