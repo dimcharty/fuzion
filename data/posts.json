@@ -1,5 +1,36 @@
 [
  {
+  "id": "digest-2026-11-19",
+  "kind": "digest",
+  "category": "digest",
+  "title_uk": "Ранковий дайджест: 19 листопада",
+  "summary_uk": "Три головні події фінансового світу за минулу добу.",
+  "source": "Fuzion Societe",
+  "link": "https://t.me/fuzionsoc",
+  "items": [
+   {
+    "title_uk": "Anthropic залучила $81 млрд у рекордному IPO",
+    "summary_uk": "ШІ-компанія встановила ціну розміщення вище цільового діапазону та збільшила обсяг угоди на тлі високого попиту інвесторів.",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1"
+   },
+   {
+    "title_uk": "Протокол ФРС допускає більше підвищення ставки в грудні",
+    "summary_uk": "Майже всі посадовці Федрезерву на жовтневому засіданні погодилися, що найближчими місяцями ставки, ймовірно, доведеться підвищувати, аби повернути інфляцію до 2%.",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-18/fed-minutes-leave-door-open-to-larger-december-rate-hike-video"
+   },
+   {
+    "title_uk": "Удари українських дронів майже вдвічі скоротили нафтопереробку в РФ",
+    "summary_uk": "За 20 днів атак українських безпілотників обсяги переробки нафти в Росії впали майже наполовину.",
+    "source": "Економічна правда",
+    "link": "https://epravda.com.ua/energetika/ukrajinski-droni-skorotili-dobovu-naftopererobku-rf-na-45-827784/"
+   }
+  ],
+  "published": "2026-11-19T05:44:24+00:00",
+  "added": "2026-11-19T05:44:24+00:00"
+ },
+ {
   "id": "946db3fc07b5",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=rss_markets_main",
