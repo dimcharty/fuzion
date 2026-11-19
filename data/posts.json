@@ -1,5 +1,65 @@
 [
  {
+  "id": "aa7070b97712",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1",
+  "title_uk": "Золото не захистило інвесторів під час недавнього падіння техакцій",
+  "summary_uk": "Дорогоцінний метал роками вважали інструментом диверсифікації портфеля. Однак, як зазначає Financial Times, під час нещодавнього спаду акцій технологічних компаній золото не виконало цієї захисної ролі, і інтерес інвесторів до нього слабшає.",
+  "category": "markets",
+  "published": "2026-11-19T05:00:17+00:00",
+  "added": "2026-11-19T16:30:28+00:00"
+ },
+ {
+  "id": "8d126069fb6b",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
+  "title_uk": "Прибутки хмарного бізнесу Alibaba повністю з'їдають збитки її ШІ-лабораторій",
+  "summary_uk": "Хмарний підрозділ китайського інтернет-гіганта Alibaba розвивається успішно. Проте, за даними MarketWatch, збитки напряму досліджень штучного інтелекту повністю нівелюють цей прибуток.",
+  "category": "companies",
+  "published": "2026-11-19T11:54:00+00:00",
+  "added": "2026-11-19T16:30:28+00:00"
+ },
+ {
+  "id": "8240c2dc86f5",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/chinese-chip-design-stocks-sink-on-concerns-over-foundry-access",
+  "title_uk": "Акції китайських розробників чипів впали через ризик втратити доступ до фабрик",
+  "summary_uk": "Інвестори побоюються, що закордонні виробники мікросхем можуть відмовлятися від замовлень китайських компаній, оскільки США посилюють контроль над технологіями. На цьому тлі котирування розробників чипів у Китаї різко знизилися, пише Bloomberg.",
+  "category": "markets",
+  "published": "2026-11-19T06:24:05+00:00",
+  "added": "2026-11-19T16:30:28+00:00"
+ },
+ {
+  "id": "3441f3e9e3ec",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/new-world-shares-tank-54-to-head-for-worst-week-on-rights-issue",
+  "title_uk": "Акції гонконзького забудовника New World обвалилися на 54% через випуск прав",
+  "summary_uk": "Папери New World Development ідуть до найгіршого тижня в історії компанії. Інвесторів налякав випуск прав на акції з великим дисконтом, а аналітики знизили рекомендації щодо цього забудовника з високим боргом, повідомляє Bloomberg.",
+  "category": "companies",
+  "published": "2026-11-19T04:38:20+00:00",
+  "added": "2026-11-19T16:30:28+00:00"
+ },
+ {
+  "id": "50173f4f1593",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/stocks/nvidia-is-the-central-bank-to-ais-circular-economy-see-where-the-money-goes-da480b61?mod=rss_markets_main",
+  "title_uk": "Nvidia з 2023 року уклала щонайменше 293 інвестиційні угоди",
+  "summary_uk": "За підрахунками The Wall Street Journal, Nvidia відтоді сформувала інвестиційний портфель вартістю понад $100 млрд. Видання описує чипмейкера як своєрідний «центробанк» для галузі ШІ, у якій гроші циркулюють між постачальниками та клієнтами по колу.",
+  "category": "companies",
+  "published": "2026-11-19T10:30:00+00:00",
+  "added": "2026-11-19T16:30:28+00:00"
+ },
+ {
+  "id": "e9e16a1b1943",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main",
+  "title_uk": "Ф'ючерси на Nasdaq зросли перед стартом торгів акціями Anthropic",
+  "summary_uk": "Ф'ючерси на американські індекси, зокрема на Nasdaq, пішли вгору до відкриття ринку. Настрої інвесторів покращилися після того, як Anthropic встановила ціну IPO вище за очікування — це передбачає оцінку компанії приблизно в $1,5 трлн, пише The Wall Street Journal.",
+  "category": "markets",
+  "published": "2026-11-19T09:47:00+00:00",
+  "added": "2026-11-19T16:30:28+00:00"
+ },
+ {
   "id": "7c51872533c4",
   "source": "The Economist",
   "link": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
@@ -1221,36 +1281,6 @@
   "summary_uk": "Як повідомляє Financial Times, домовленість уклали напередодні зустрічі Дональда Трампа із Сі Цзіньпіном на форумі Азійсько-Тихоокеанського економічного співробітництва в Шеньчжені. Деталі угоди — в оригінальному матеріалі видання.",
   "category": "world",
   "published": "2026-11-15T17:47:43+00:00",
-  "added": "2026-11-16T00:29:43+00:00"
- },
- {
-  "id": "d67f5ed4db09",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
-  "title_uk": "Нафта дешевшає: очікування надлишку пропозиції переважують напругу на Близькому Сході",
-  "summary_uk": "За даними The Wall Street Journal, ціни на нафту дещо знизилися, бо ринок очікує надлишку пропозиції. Водночас падіння можуть стримувати ризики перебоїв із постачанням через напруженість на Близькому Сході. Для України ціна нафти прямо впливає на вартість пального.",
-  "category": "energy",
-  "published": "2026-11-16T00:07:00+00:00",
-  "added": "2026-11-16T00:29:43+00:00"
- },
- {
-  "id": "feb50d084b86",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move",
-  "title_uk": "Ринок облігацій чекає сигналів від ФРС після важкого тижня",
-  "summary_uk": "Після болючого для трейдерів тижня увага ринку переходить до виступів представників Федеральної резервної системи та протоколу її останнього засідання, повідомляє Bloomberg. Інвестори шукають підказки щодо подальшого руху ставок, від яких залежить вартість запозичень у світі.",
-  "category": "policy",
-  "published": "2026-11-15T20:00:00+00:00",
-  "added": "2026-11-16T00:29:43+00:00"
- },
- {
-  "id": "e82cc9c0a41a",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
-  "title_uk": "Акції будівельників дата-центрів втратили $4,2 трлн через розпродаж у секторі ШІ",
-  "summary_uk": "Financial Times пише, що бум навколо штучного інтелекту дає збій: найбільше постраждали компанії, які постачають інфраструктуру для ШІ, так звані «кирки й лопати» галузі. Їхні акції різко подешевшали на тлі загального розпродажу технологічних паперів.",
-  "category": "markets",
-  "published": "2026-11-15T05:00:04+00:00",
   "added": "2026-11-16T00:29:43+00:00"
  }
 ]
