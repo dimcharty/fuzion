@@ -1,5 +1,71 @@
 [
  {
+  "id": "a248417d6e56",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Xi Pledges $20 Million for APEC Cooperation",
+  "teaser": "Bloomberg's Stephen Engle reports on China's plans to provide about $20 million for APEC cooperation, including a policy research center, signaling support for multilateralism across the 21-member group. Host city Shenzhen, operating under heightened security during the ongoing…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/xi-pledges-20-million-for-apec-cooperation-video",
+  "published": "2026-11-19T04:19:27+00:00",
+  "seen": "2026-11-19T04:30:16+00:00"
+ },
+ {
+  "id": "9df7d489d56b",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asian Equities Decline as Caution Prevails",
+  "teaser": "Asian equities were broadly lower, as firmed expectations for higher interest rates inspired little demand for stocks and sentiment stayed cautious.",
+  "link": "https://www.wsj.com/finance/asian-equities-decline-as-caution-prevails-eaf3c1e9?mod=rss_markets_main",
+  "published": "2026-11-19T03:49:00+00:00",
+  "seen": "2026-11-19T04:30:16+00:00"
+ },
+ {
+  "id": "abf9bc70588c",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+  "teaser": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+  "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+  "published": "2026-11-19T03:45:00+00:00",
+  "seen": "2026-11-19T04:30:16+00:00"
+ },
+ {
+  "id": "ce117b7ee923",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "'The Meeting is the Message': Ex-CIA Official on Trilateral’s Symbolism",
+  "teaser": "Dennis Wilder, Senior Fellow at Georgetown University and former CIA Deputy Assistant Director for East Asia and the Pacific, says the trilateral meeting between US President Donald Trump, Chinese counterpart Xi Jinping and Russian President Vladimir Putin is in itself sending a…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/ex-cia-official-on-trilateral-s-symbolism-and-impact-video",
+  "published": "2026-11-19T03:27:56+00:00",
+  "seen": "2026-11-19T04:30:16+00:00"
+ },
+ {
+  "id": "2a85cca4b4a1",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Hong Kong trading house Jardines weighs first private equity fund",
+  "teaser": "194-year-old conglomerate is transitioning from owner-operator of Asian businesses to investment group",
+  "link": "https://www.ft.com/content/82e63f96-3a5e-47d1-9fca-9f3401903abe?syn-25a6b1a6=1",
+  "published": "2026-11-19T03:02:33+00:00",
+  "seen": "2026-11-19T04:30:16+00:00"
+ },
+ {
+  "id": "6e6cf71aff5f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "RRJ-Led Consortium Buys Australia Coal Miner’s $619 Million Debt",
+  "teaser": "A consortium led by private investment firm RRJ Capital has agreed to buy $619 million of bonds from Australian coking coal miner GM3, according to people familiar with the matter.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/rrj-led-consortium-buys-australia-coal-miner-s-619-million-debt",
+  "published": "2026-11-19T02:33:23+00:00",
+  "seen": "2026-11-19T04:30:16+00:00"
+ },
+ {
   "id": "1115718421b8",
   "source": "Bloomberg",
   "lang": "en",
@@ -3232,71 +3298,5 @@
   "link": "https://epravda.com.ua/svit/u-servisah-apple-stavsya-zbiy-problemi-z-app-store-icloud-ta-apple-pay-827753/",
   "published": "2026-11-17T18:40:00+00:00",
   "seen": "2026-11-18T08:31:01+00:00"
- },
- {
-  "id": "983c31e6f282",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Why startups still go public, eventually",
-  "teaser": "Costly regulation is not a big deterrent to IPOs",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
-  "published": "2026-11-17T18:38:26+00:00",
-  "seen": "2026-11-17T20:30:46+00:00"
- },
- {
-  "id": "8481a1d7c53f",
-  "source": "European Central Bank",
-  "lang": "en",
-  "weight": 8,
-  "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-  "teaser": "",
-  "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-  "published": "2026-11-17T18:30:00+00:00",
-  "seen": "2026-11-17T20:30:46+00:00"
- },
- {
-  "id": "07071e10ef7a",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Хуанг готовий знову очолити Nvidia через кілька днів після скандальної відставки",
-  "teaser": "Співзасновник і колишній генеральний директор Nvidia Дженсен Хуанг заявив про готовність повернутися на посаду, якщо це рішення підтримає рада директорів.",
-  "link": "https://epravda.com.ua/svit/huang-gotoviy-znovu-ocholiti-nvidia-pislya-skandalu-z-imovirnoyu-shpigunkoyu-827752/",
-  "published": "2026-11-17T18:30:00+00:00",
-  "seen": "2026-11-18T08:31:01+00:00"
- },
- {
-  "id": "78bd7c664ef3",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "У Кременчуці почали зупинятися харчові підприємства: яка причина",
-  "teaser": "",
-  "link": "https://epravda.com.ua/biznes/u-kremenchuci-zupinyayut-dva-harchovi-pidpriyemstva-cherez-vidklyuchennya-y-zagrozu-udariv-827750/",
-  "published": "2026-11-17T18:10:00+00:00",
-  "seen": "2026-11-18T08:31:01+00:00"
- },
- {
-  "id": "35fb66719b61",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Kalshi Halts Bets That Are Based on Trump’s Remarks",
-  "teaser": "The company acted after regulators ordered it to halt contracts predicting the president’s public statements over concerns they could be manipulated.",
-  "link": "https://www.wsj.com/politics/policy/kalshi-to-halt-bets-that-are-based-on-trumps-remarks-71bbc94b?mod=rss_markets_main",
-  "published": "2026-11-17T18:02:00+00:00",
-  "seen": "2026-11-17T20:30:46+00:00"
- },
- {
-  "id": "f19e5a4b8e6d",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
-  "teaser": "U.S. Treasury and eurozone government bond yields fell slightly on Tuesday amid continued caution over artificial intelligence as investors processed fresh economic indicators.",
-  "link": "https://www.wsj.com/economy/central-banking/u-s-treasury-eurozone-bond-yields-edge-lower-as-fresh-drivers-are-sought-746b3b6d?mod=rss_markets_main",
-  "published": "2026-11-17T17:56:00+00:00",
-  "seen": "2026-11-17T20:30:46+00:00"
  }
 ]
