@@ -1,5 +1,65 @@
 [
  {
+  "id": "c78897278219",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1",
+  "title_uk": "Загострення в Перській затоці посилює побоювання нової війни з Іраном",
+  "summary_uk": "Тиждень взаємних ударів і погроз між Іраном та США наблизив дві країни до нового повномасштабного протистояння, вважають аналітики, яких цитує Financial Times. Ситуація в регіоні важлива для світових цін на нафту та газ.",
+  "category": "world",
+  "published": "2026-11-19T14:53:28+00:00",
+  "added": "2026-11-20T00:30:20+00:00"
+ },
+ {
+  "id": "c74256fff44a",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+  "title_uk": "Nvidia за шість торгових сесій втратила $611 млрд ринкової вартості",
+  "summary_uk": "Акції Nvidia продовжили падіння. За шість торгових днів компанія втратила $611 млрд капіталізації — це більше, ніж уся ринкова вартість більшості компаній світу: дорожчими за цю суму є лише 23 з них.",
+  "category": "markets",
+  "published": "2026-11-19T20:33:00+00:00",
+  "added": "2026-11-20T00:30:20+00:00"
+ },
+ {
+  "id": "fd311a6b564f",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
+  "title_uk": "Bank of America: війна з Іраном переросла в ширший тиск витрат на бізнес США",
+  "summary_uk": "Шок на нафтовому ринку, спричинений війною з Іраном, поширився на витрати американських компаній загалом, вказує Bank of America. Власники бізнесу значно більше занепокоєні цінами на сировину, ніж раніше.",
+  "category": "economy",
+  "published": "2026-11-19T20:04:12+00:00",
+  "added": "2026-11-20T00:30:20+00:00"
+ },
+ {
+  "id": "9a08e90b363f",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-19/fed-s-barr-says-inflation-calls-for-policy-adjustment-video",
+  "title_uk": "Барр із ФРС: інфляція надто висока, політику треба коригувати далі",
+  "summary_uk": "Член ради керуючих Федеральної резервної системи Майкл Барр заявив, що інфляція в США залишається занадто високою. На його думку, для балансу ризиків монетарна політика потребує подальшого коригування. Він виступив на симпозіумі FinRegLab, присвяченому штучному інтелекту.",
+  "category": "policy",
+  "published": "2026-11-19T19:59:01+00:00",
+  "added": "2026-11-20T00:30:20+00:00"
+ },
+ {
+  "id": "b083a7295890",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/business/energy-oil/u-s-diesel-prices-to-continue-to-fall-in-relief-for-consumers-u-s-energy-secretary-says-cfe83c18?mod=rss_markets_main",
+  "title_uk": "У США очікують подальшого здешевлення дизеля, заявив міністр енергетики",
+  "summary_uk": "За словами Кріса Райта, ціни на дизельне пальне, які сягали рекордів, мають і далі знижуватися. Він пояснив це поверненням на ринок нафтопродуктів із Перської затоки, а також тиском з боку російського дизеля, на який не поширюються санкції.",
+  "category": "energy",
+  "published": "2026-11-19T20:12:00+00:00",
+  "added": "2026-11-20T00:30:20+00:00"
+ },
+ {
+  "id": "35fce99cda05",
+  "source": "Економічна правда",
+  "link": "https://epravda.com.ua/energetika/u-ssha-ne-vvazhayut-shcho-yes-gotoviy-povernutis-do-gazu-ta-nafti-z-rf-827831/",
+  "title_uk": "Міністр енергетики США: ЄС не виявляє бажання повертатися до російських енергоносіїв",
+  "summary_uk": "Кріс Райт заявив, що не бачить ознак зацікавленості жодної європейської країни у відновленні імпорту енергоносіїв з Росії. Так він відповів на запитання про повідомлення медіа щодо можливих таких планів. Для України це важливо, бо енергетичні доходи залишаються ключовим джерелом фінансування війни для РФ.",
+  "category": "energy",
+  "published": "2026-11-19T15:48:00+00:00",
+  "added": "2026-11-20T00:30:20+00:00"
+ },
+ {
   "id": "f9a5b7428d3f",
   "source": "Bloomberg",
   "link": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
@@ -1222,65 +1282,5 @@
   "category": "markets",
   "published": "2026-11-16T09:43:00+00:00",
   "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "7bf129cba55f",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/canadian-natural-buys-advantage-energy-to-boost-alberta-assets",
-  "title_uk": "Canadian Natural купує Advantage Energy за 2,255 млрд канадських доларів",
-  "summary_uk": "Canadian Natural Resources погодилася придбати Advantage Energy за 2,255 млрд канадських доларів (близько $1,6 млрд). Bloomberg зазначає, що це продовжує низку угод у нафтогазовій галузі Канади, де конфлікти на Близькому Сході та в Україні підвищують попит на альтернативні джерела постачання.",
-  "category": "energy",
-  "published": "2026-11-16T09:51:07+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "be71a52b07bc",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video",
-  "title_uk": "Трамп, Сі та Путін готуються до рідкісної тристоронньої зустрічі на саміті АТЕС",
-  "summary_uk": "За даними Bloomberg, президенти США, Китаю та Росії мають провести тристоронню зустріч у четвер на полях саміту АТЕС у Шеньчжені. Для України такі переговори важливі, адже в них бере участь лідер Росії.",
-  "category": "world",
-  "published": "2026-11-16T00:34:26+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "2d13742de793",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
-  "title_uk": "Україна вдарила по Кримському мосту під час рекордної атаки дронів",
-  "summary_uk": "Financial Times повідомляє про удар України по Кримському мосту в межах наймасштабнішої атаки безпілотників. За даними міноборони Росії, за добу було перехоплено або знищено найбільшу кількість дронів від початку війни.",
-  "category": "ukraine",
-  "published": "2026-11-16T10:29:11+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "380f26cf0a4d",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
-  "title_uk": "Золото трохи подорожчало, але залишається біля річних мінімумів",
-  "summary_uk": "За даними The Wall Street Journal, золото частково відіграло втрати після падіння на 4,5% минулого тижня. Попри це, ціни тримаються поблизу найнижчих рівнів за рік.",
-  "category": "markets",
-  "published": "2026-11-16T03:33:00+00:00",
-  "added": "2026-11-16T12:04:43+00:00"
- },
- {
-  "id": "22318de9937e",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
-  "title_uk": "Долар зріс до максимуму за 19 місяців на очікуваннях підвищення ставок ФРС",
-  "summary_uk": "The Wall Street Journal повідомляє, що американська валюта подорожчала до найвищого рівня за 19 місяців. Долар підтримують очікування подальшого підвищення процентних ставок Федеральною резервною системою США.",
-  "category": "markets",
-  "published": "2026-11-16T07:45:00+00:00",
-  "added": "2026-11-16T12:04:43+00:00"
- },
- {
-  "id": "1822d018c565",
-  "source": "CNBC",
-  "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-  "title_uk": "Економіка Китаю в жовтні сповільнилася сильніше за прогнози",
-  "summary_uk": "За даними CNBC, промислове виробництво, роздрібні продажі та інвестиції в Китаї в жовтні виявилися нижчими за очікування. Аналітики зазначають, що через згасання внутрішнього попиту країна дедалі більше залежить від зовнішнього і стає вразливішою до потрясінь за кордоном.",
-  "category": "economy",
-  "published": "2026-11-16T03:53:59+00:00",
-  "added": "2026-11-16T12:04:43+00:00"
  }
 ]
