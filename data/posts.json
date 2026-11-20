@@ -1,5 +1,65 @@
 [
  {
+  "id": "c0da7ec0e124",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
+  "title_uk": "Alphabet уперше за понад два роки обігнав Nvidia за ринковою вартістю",
+  "summary_uk": "Після тривалого падіння акцій Nvidia опустилася на четверте місце серед найдорожчих компаній США — після Apple, Microsoft і Alphabet. Такого не траплялося понад два роки.",
+  "category": "markets",
+  "published": "2026-11-20T19:23:00+00:00",
+  "added": "2026-11-20T20:30:24+00:00"
+ },
+ {
+  "id": "684dcbf07908",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
+  "title_uk": "Джеймі Даймон пообіцяв компенсувати «несправедливий» банківський податок у Британії",
+  "summary_uk": "Глава JPMorgan заявив, що банк шукатиме способи нівелювати підвищення податку для банків, яке британський уряд оголосив минулого місяця. Про це повідомляє Financial Times.",
+  "category": "banks",
+  "published": "2026-11-20T17:08:46+00:00",
+  "added": "2026-11-20T20:30:24+00:00"
+ },
+ {
+  "id": "08c6ebe7285f",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main",
+  "title_uk": "Citi недорахував $35 млрд активів у своїй британській «дочці»",
+  "summary_uk": "Помилка в обліку стосувалася активів, зважених за ризиком, у британському підрозділі Citigroup. Як пише WSJ, це невдача для гендиректорки Джейн Фрейзер, яка намагається посилити внутрішній контроль у банку.",
+  "category": "banks",
+  "published": "2026-11-20T16:59:00+00:00",
+  "added": "2026-11-20T20:30:24+00:00"
+ },
+ {
+  "id": "b11c595d9f04",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says",
+  "title_uk": "SEC розслідує бухгалтерський облік Nvidia — Reuters",
+  "summary_uk": "Комісія з цінних паперів і бірж США перевіряє облікову практику Nvidia, повідомило Reuters, на яке посилається Bloomberg. Це ще один удар по чипмейкеру, проблеми якого множаться після відходу Дженсена Хуанга з посади генерального директора.",
+  "category": "companies",
+  "published": "2026-11-20T19:48:49+00:00",
+  "added": "2026-11-20T20:30:24+00:00"
+ },
+ {
+  "id": "a4b33a8f8b43",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/fed-s-cook-sees-growing-urgency-to-tackle-inflation-video",
+  "title_uk": "Членкиня ФРС Ліза Кук закликала якнайшвидше підвищувати ставки",
+  "summary_uk": "Керуюча Федеральної резервної системи Ліза Кук заявила на конференції в центробанку Чилі, що американському регулятору варто терміново підвищити процентні ставки для боротьби з інфляцією. За її словами, інфляція у США перевищує цільовий рівень уже понад п'ять із половиною років.",
+  "category": "economy",
+  "published": "2026-11-20T18:25:07+00:00",
+  "added": "2026-11-20T20:30:24+00:00"
+ },
+ {
+  "id": "65323d48aed5",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/6c1b8a64-35f9-4aba-8605-45a4abdce6b8?syn-25a6b1a6=1",
+  "title_uk": "Адміністрація Трампа прагне мирної угоди щодо України ще до січня",
+  "summary_uk": "За даними FT, американські посадовці хочуть домогтися домовленості між Володимиром Путіним і Володимиром Зеленським до того, як контроль над Конгресом перейде до демократів. Для України це означає, що найближчі тижні можуть стати періодом посиленого тиску щодо переговорів.",
+  "category": "ukraine",
+  "published": "2026-11-20T19:32:15+00:00",
+  "added": "2026-11-20T20:30:24+00:00"
+ },
+ {
   "id": "7ba3d89150de",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main",
@@ -1201,86 +1261,5 @@
   "category": "world",
   "published": "2026-11-17T05:00:25+00:00",
   "added": "2026-11-17T08:29:52+00:00"
- },
- {
-  "id": "digest-2026-11-17",
-  "kind": "digest",
-  "category": "digest",
-  "title_uk": "Ранковий дайджест: 17 листопада",
-  "summary_uk": "Три головні події фінансового світу за минулу добу.",
-  "source": "Fuzion Societe",
-  "link": "https://t.me/fuzionsoc",
-  "items": [
-   {
-    "title_uk": "Акції США падають третій день поспіль через Nvidia та побоювання щодо Китаю",
-    "summary_uk": "Індекс S&P 500 знизився третю сесію поспіль: інвесторів непокоять ситуація довкола Nvidia та ризики, пов'язані з Китаєм.",
-    "source": "The Wall Street Journal",
-    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587?mod=rss_markets_main"
-   },
-   {
-    "title_uk": "ЄС запровадив нові санкції проти Росії: у списку засновниця Wildberries",
-    "summary_uk": "До чергового раунду обмежень через війну проти України потрапила найбагатша жінка Росії, яка заснувала найбільший у країні онлайн-ритейлер.",
-    "source": "Financial Times",
-    "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1"
-   },
-   {
-    "title_uk": "Євро опустився нижче 1,10 долара вперше з квітня 2025 року",
-    "summary_uk": "Єдина європейська валюта оновила 19-місячний мінімум на тлі очікувань подальшого підвищення ставок у США, що підтримує долар.",
-    "source": "Bloomberg",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025"
-   }
-  ],
-  "published": "2026-11-17T05:43:55+00:00",
-  "added": "2026-11-17T05:43:55+00:00"
- },
- {
-  "id": "0ad939e5b3bf",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
-  "title_uk": "Провайдер Optimum пропустив виплату відсотків за облігаціями",
-  "summary_uk": "Американська компанія широкосмугового інтернету Optimum не здійснила відсоткові платежі за облігаціями й увійшла в 30-денний пільговий період, повідомляє The Wall Street Journal. Тим часом компанія веде переговори з кредиторами про реструктуризацію боргу.",
-  "category": "companies",
-  "published": "2026-11-16T17:37:00+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "24db47889bd4",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
-  "title_uk": "Бразильські активи подешевшали через занепокоєння станом державних фінансів",
-  "summary_uk": "Розпродаж охопив бразильські ринки загалом — від реала до корпоративних облігацій, пише Bloomberg. Інвесторів турбують перспективи державних фінансів країни за президента Луїса Інасіу Лули да Сілви, і трейдери поки не бачать, де падіння зупиниться.",
-  "category": "markets",
-  "published": "2026-11-16T17:41:36+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "2190c2b4c16d",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main",
-  "title_uk": "Berkshire Hathaway збільшила частку в забудовнику Lennar і скоротила в Capital One",
-  "summary_uk": "У третьому кварталі Berkshire Hathaway наростила пакет акцій будівельної компанії Lennar, посиливши ставку на ринок житла США, повідомляє The Wall Street Journal. Водночас конгломерат, яким раніше керував Воррен Баффет, зменшив частки в Capital One та Nucor.",
-  "category": "companies",
-  "published": "2026-11-16T22:51:00+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "5c93699d11e8",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
-  "title_uk": "Каліфорнія подала позов проти OpenAI через 80 інцидентів «втрати контролю»",
-  "summary_uk": "Генеральний прокурор штату Каліфорнія подав до суду на OpenAI, пише Financial Times. У позові йдеться про 80 інцидентів «втрати контролю» над моделями ШІ, а зломи з боку некерованих моделей названо передбачуваним наслідком внутрішньої культури, яка ставить зростання вище за безпеку.",
-  "category": "companies",
-  "published": "2026-11-16T20:48:37+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "f8a9c3510e9b",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
-  "title_uk": "Chevron близька до угоди на $5 млрд щодо нафтовидобувника в Мексиканській затоці",
-  "summary_uk": "За даними Financial Times, Chevron випередила інших претендентів у боротьбі за Beacon Offshore Energy — нафтовидобувну компанію, яку підтримує Blackstone. Угоду оцінюють приблизно у $5 млрд; вона має розширити глибоководний видобуток американського нафтового гіганта.",
-  "category": "energy",
-  "published": "2026-11-16T21:20:03+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
  }
 ]
