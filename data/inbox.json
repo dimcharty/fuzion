@@ -1,5 +1,104 @@
 [
  {
+  "id": "6b6fe1f2c591",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic (ANT) IPO on Nasdaq Overcame AI Fears and Warnings",
+  "teaser": "The pioneering AI lab saw unprecedented demand for its stock from both retail and institutional investors.",
+  "link": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings",
+  "published": "2026-11-20T02:16:42+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
+  "id": "2de207e56a29",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Frasers CFO Unleashes on Accent as Australian Bid Turns Personal",
+  "teaser": "Frasers Group Plc’s pursuit of Australia’s Accent Group Ltd. turned personal after Frasers’ finance chief flew to the retailer’s annual meeting in Melbourne to publicly accuse it of under-performance and demand the chairman quit.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/frasers-cfo-unleashes-on-accent-as-australian-bid-turns-personal",
+  "published": "2026-11-20T02:02:33+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
+  "id": "6bc807db7058",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "This Ex-Sheriff Was on the Beat When Mark Walter Loaded Insurers With Insider Deals",
+  "teaser": "Delaware’s insurance commissioner gave clean bills of health to Walter’s conflict-ridden insurers. Now his department says it was “intentionally misled” and is investigating.",
+  "link": "https://www.wsj.com/finance/regulation/this-ex-sheriff-was-on-the-beat-when-mark-walter-loaded-insurers-with-insider-deals-dbfd45d1?mod=rss_markets_main",
+  "published": "2026-11-20T01:45:00+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
+  "id": "4857c9dad917",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Australian Pension Funds Confront Their Latest Rival: AI Agents",
+  "teaser": "Top Australian pension funds are grappling with the potential proliferation of autonomous AI agents, a new source of competition in the lucrative retirement market which senior executives say is creating significant challenges.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/australian-pension-funds-confront-their-latest-rival-ai-agents",
+  "published": "2026-11-20T01:19:16+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
+  "id": "7986040fdf02",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Trilateral Talks Yield Few Concrete Results",
+  "teaser": "Power dynamics were on full display as the leaders of the US, China, and Russia met on the sidelines of the APEC summit in Shenzhen. Presidents Donald Trump, Xi Jinping and Vladimir Putin pledged to boost global fuel supplies and held discussions spanning issues from Ukraine to…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/trilateral-talks-yield-few-concrete-results",
+  "published": "2026-11-20T01:15:46+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
+  "id": "46087326e6f8",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says",
+  "teaser": "Australia’s central bank is trying to manage the difficult tradeoffs in monetary policy of how much weight to put on inflation and how much on employment, as required under its mandate, said Renee Fry-McKibbin, a member of the Reserve Bank’s rate-setting board.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/rba-seeks-to-manage-inflation-jobs-tradeoffs-board-member-says",
+  "published": "2026-11-20T01:15:40+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
+  "id": "7dc8df6ced14",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Opinion | The Astonishing Wealth of Anthropic",
+  "teaser": "Investors weren’t phased by doubts about AI after the Nvidia tumult.",
+  "link": "https://www.wsj.com/opinion/the-astonishing-wealth-of-anthropic-a6bb9746?mod=rss_markets_main",
+  "published": "2026-11-20T00:50:00+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
+  "id": "4fa5517f6619",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
+  "teaser": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
+  "link": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+  "published": "2026-11-20T00:42:44+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
+  "id": "e3d361c0b90e",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Nikkei Falls 2.9%, Dragged by Chip, Metals Stocks",
+  "teaser": "Japanese stocks were lower after Anthropic’s listing failed to boost major U.S. stock indexes overnight.",
+  "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
+  "published": "2026-11-20T00:38:00+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
   "id": "ea2c0d2c93ed",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -33,6 +132,17 @@
   "seen": "2026-11-20T00:30:35+00:00"
  },
  {
+  "id": "15f1d8c94111",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+  "teaser": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
+  "link": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
+  "published": "2026-11-20T00:15:12+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
   "id": "671671fe7d05",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -42,6 +152,17 @@
   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
   "published": "2026-11-20T00:13:00+00:00",
   "seen": "2026-11-20T00:30:35+00:00"
+ },
+ {
+  "id": "b94c8424b218",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Japan Tobacco Shares Fall After Russia-Related Charges",
+  "teaser": "Japan Tobacco Inc. shares declined after the cigarette maker said it expects to swing to an operating loss and slashed its dividend forecast after losing control of its Russian business.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges",
+  "published": "2026-11-20T00:10:10+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
  },
  {
   "id": "1076b2eb9070",
@@ -682,6 +803,17 @@
   "seen": "2026-11-19T20:40:46+00:00"
  },
  {
+  "id": "f149baa79ec6",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "US Sour Crude’s War Premium Vanishes as Oil Supply Surges",
+  "teaser": "The price of US sour oil has plunged, as a surge in crude supply from Venezuela, Canada and the Middle East gives refiners ample barrels to choose from.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/us-sour-crude-s-war-premium-vanishes-as-supply-surges",
+  "published": "2026-11-19T16:45:06+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
   "id": "eba86d692a12",
   "source": "Економічна правда",
   "lang": "uk",
@@ -957,6 +1089,17 @@
   "seen": "2026-11-19T20:40:46+00:00"
  },
  {
+  "id": "c52b5bfd7b87",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "SpaceX Sells $32 Billion of AI Chip Debt at Yields Topping 8%",
+  "teaser": "SpaceX sold $32 billion of bonds to fund its purchase of artificial intelligence chips on Thursday, in a complicated and relatively high-yielding transaction that may serve as a model for a wave of similar financings to come.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday",
+  "published": "2026-11-19T15:07:20+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
+ },
+ {
   "id": "f30883307950",
   "source": "Bloomberg",
   "lang": "en",
@@ -1098,6 +1241,17 @@
   "link": "https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed?mod=rss_markets_main",
   "published": "2026-11-19T14:00:00+00:00",
   "seen": "2026-11-19T16:30:38+00:00"
+ },
+ {
+  "id": "cbb47ad7196a",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+  "teaser": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor.",
+  "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+  "published": "2026-11-19T13:54:00+00:00",
+  "seen": "2026-11-20T02:21:48+00:00"
  },
  {
   "id": "4661909cafd6",
@@ -3144,159 +3298,5 @@
   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-106eebc0?mod=rss_markets_main",
   "published": "2026-11-18T17:28:00+00:00",
   "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "6169e844d62a",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Росія має виплатити сумському виробнику упаковки три мільярди збитків",
-  "teaser": "Господарський суд Сумської області зобов'язав РФ відшкодувати виробнику упаковок для дитячого харчування, соків, побутової хімії 3,04 млрд грн збитків та упущеної вигоди.",
-  "link": "https://epravda.com.ua/biznes/sudovi-kompensaciji-rf-zobov-yazana-viplatiti-tehnologiji-3-04-mlrd-grn-827788/",
-  "published": "2026-11-18T17:26:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "d8aef235ef37",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "It’s not too late to add U.S. energy companies to your 401(k). They’ve been making out like bandits.",
-  "teaser": "Energy stocks are pretending the war is over. It isn’t.",
-  "link": "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories",
-  "published": "2026-11-18T17:23:00+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "9787adfd28d1",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Texas Resumes Data Center Environmental Permits After Pause",
-  "teaser": "Texas regulators have resumed reviewing applications for data centers, bringing an end to an effective moratorium on environmental permitting for the power-hungry facilities.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/texas-regulators-resuming-data-center-environmental-permits",
-  "published": "2026-11-18T17:16:17+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "c0dd02f31ee6",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Давня справа: суд оголосив вирок \"ліснику Януковича\" та його дружині",
-  "teaser": "Вищий антикорупційний суд оголосив вирок колишньому голові Державного агентства лісових ресурсів України та його дружині, звинувачених у одержанні неправомірної вигоди в розмірі 3,7 млн доларів та 10,8 млн євро.",
-  "link": "https://epravda.com.ua/biznes/davnya-sprava-sud-ogolosiv-virok-lisniku-yanukovicha-ta-yogo-druzhini-827787/",
-  "published": "2026-11-18T17:14:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "ab5f7fb4ac51",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Проданий державою титановий гігант України збільшив збиток у 2,5 раза",
-  "teaser": "",
-  "link": "https://epravda.com.ua/biznes/privatizovana-oghk-narostila-zbitok-do-1-08-mlrd-grn-za-dev-yat-misyaciv-827786/",
-  "published": "2026-11-18T17:10:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "3c69ed89b445",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Democrats nominate Hakeem Jeffries as US House Speaker",
-  "teaser": "56-year-old on track to become first Black lawmaker to lead lower chamber of Congress",
-  "link": "https://www.ft.com/content/9d0998cf-ffb8-4fe4-9f85-0c403b1966f9?syn-25a6b1a6=1",
-  "published": "2026-11-18T17:05:39+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "cd7dfce2342c",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Newsmax Sues to Block Fox From Integrating With Roku",
-  "teaser": "Conservative news channel Newsmax Inc. filed a lawsuit seeking to block rival broadcaster Fox Corp. from integrating the TV streaming assets of Roku Inc., arguing the $22 billion merger would hurt competition.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
-  "published": "2026-11-18T16:58:20+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "3871e17f5d81",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Атака на енергооб’єкти Одещини: світла немає у двох районах",
-  "teaser": "Росіяни завдали удару по енергетичній інфраструктурі на півдні Одеської області та залишили без електроенергії мешканців двох районів.",
-  "link": "https://epravda.com.ua/biznes/ataka-na-energoob-yekti-odeshchini-svitla-nemaye-u-dvoh-rayonah-827785/",
-  "published": "2026-11-18T16:36:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "af036f88df98",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
-  "teaser": "Banks turn to high-yield bond market to clear $2bn in ‘hung’ debt at double-digit yield",
-  "link": "https://www.ft.com/content/16a99ff4-6060-4c81-8c4f-7e43503e4a11?syn-25a6b1a6=1",
-  "published": "2026-11-18T16:30:02+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "84eea471c487",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Chicago’s Third CFO This Year Saw Red Flags Before Exit",
-  "teaser": "The sudden departure of Chicago’s third chief financial officer in a year came after she repeatedly raised concerns about budgeting practices, including inconsistent deficit calculations.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/chicago-s-third-cfo-this-year-saw-budget-red-flags-before-exit",
-  "published": "2026-11-18T16:27:42+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "f0b137f5a252",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
-  "teaser": "Copper prices tumbled below $13,000 a metric ton as a stronger U.S. dollar, growing concerns over Chinese industrial demand and a selloff in AI-related stocks overshadowed tightening supplies of the metal.",
-  "link": "https://www.wsj.com/finance/commodities-futures/copper-at-lowest-since-april-amid-ai-market-turmoil-chinese-demand-concerns-4325361e?mod=rss_markets_main",
-  "published": "2026-11-18T16:26:00+00:00",
-  "seen": "2026-11-18T16:30:35+00:00"
- },
- {
-  "id": "dd3977194bf3",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Українські дрони за 20 днів обвалили нафтопереробку РФ майже вдвічі",
-  "teaser": "",
-  "link": "https://epravda.com.ua/energetika/ukrajinski-droni-skorotili-dobovu-naftopererobku-rf-na-45-827784/",
-  "published": "2026-11-18T16:20:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "3dd9a40da369",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nike Moves on Investor Day; Lowe's Reports Earnings | Stock Movers",
-  "teaser": "On this episode of Stock Movers: - Lowe's (LOW) is also reporting its earnings this morning, a day after competitor Home Depot reported. Bloomberg Intelligence cites steady demand and data from Placer.ai which points to foot-traffic trends similar to the second quarter. - Nike…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/nike-moves-on-investor-day-lowe-s-reports-earnings-video",
-  "published": "2026-11-18T16:19:57+00:00",
-  "seen": "2026-11-18T16:30:35+00:00"
- },
- {
-  "id": "c9bcd104c52a",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-  "teaser": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
-  "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
-  "published": "2026-11-18T16:14:10+00:00",
-  "seen": "2026-11-18T16:30:35+00:00"
  }
 ]
