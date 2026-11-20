@@ -1,5 +1,65 @@
 [
  {
+  "id": "e3d361c0b90e",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
+  "title_uk": "Індекс Nikkei упав на 2,9% через продаж акцій чипмейкерів і металургів",
+  "summary_uk": "Японський фондовий ринок знизився після того, як вихід Anthropic на біржу не підтримав основні американські індекси. Найбільше тиснули на Nikkei акції виробників чипів та металургійних компаній.",
+  "category": "markets",
+  "published": "2026-11-20T00:38:00+00:00",
+  "added": "2026-11-20T04:30:14+00:00"
+ },
+ {
+  "id": "1076b2eb9070",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=rss_markets_main",
+  "title_uk": "Генпрокурор Каліфорнії розпочав розслідування щодо Nvidia",
+  "summary_uk": "Генеральний прокурор Каліфорнії Роб Бонта надіслав Nvidia повістку в межах розслідування. Він хоче з'ясувати, чи не вводив виробник чипів в оману інвесторів. Компанія й так перебуває під тиском.",
+  "category": "companies",
+  "published": "2026-11-20T00:01:00+00:00",
+  "added": "2026-11-20T04:30:14+00:00"
+ },
+ {
+  "id": "4fa5517f6619",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+  "title_uk": "США дозволили продаж чипів Nvidia та AMD китайським компаніям",
+  "summary_uk": "За даними Financial Times, американська влада схвалила постачання чипів Nvidia та AMD низці компаній із Китаю. Водночас у Пентагоні вважають, що частина цих покупців пов'язана з Народно-визвольною армією Китаю.",
+  "category": "policy",
+  "published": "2026-11-20T00:42:44+00:00",
+  "added": "2026-11-20T04:30:14+00:00"
+ },
+ {
+  "id": "4460d2fd5d32",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+  "title_uk": "Акції Anthropic зросли на 17% після рекордного розміщення на Уолл-стріт",
+  "summary_uk": "Розробник ШІ на чолі з Даріо Амодеї залучив $81 млрд у ході IPO, обсяг якого збільшили через попит. За підсумками першого дня торгів акції компанії закрилися на 17% вище ціни розміщення.",
+  "category": "markets",
+  "published": "2026-11-19T21:02:09+00:00",
+  "added": "2026-11-20T04:30:14+00:00"
+ },
+ {
+  "id": "b94c8424b218",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges",
+  "title_uk": "Japan Tobacco прогнозує операційний збиток після втрати контролю над російським бізнесом",
+  "summary_uk": "Акції японського виробника сигарет знизилися після того, як компанія повідомила про очікуваний перехід до операційного збитку та скоротила прогноз дивідендів. Причина — втрата контролю над бізнесом у Росії. Це ще один приклад того, як іноземні компанії, що залишилися на російському ринку, зазнають втрат.",
+  "category": "companies",
+  "published": "2026-11-20T00:10:10+00:00",
+  "added": "2026-11-20T04:30:14+00:00"
+ },
+ {
+  "id": "7986040fdf02",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/trilateral-talks-yield-few-concrete-results",
+  "title_uk": "Тристоронні переговори Трампа, Сі та Путіна дали мало конкретних результатів",
+  "summary_uk": "Лідери США, Китаю та Росії зустрілися на полях саміту АТЕС у Шеньчжені, однак, за даними Bloomberg, домовленостей із конкретним змістом майже немає. Сторони пообіцяли збільшити світові постачання пального.",
+  "category": "world",
+  "published": "2026-11-20T01:15:46+00:00",
+  "added": "2026-11-20T04:30:14+00:00"
+ },
+ {
   "id": "c78897278219",
   "source": "Financial Times",
   "link": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1",
@@ -1201,86 +1261,5 @@
   "category": "economy",
   "published": "2026-11-16T13:30:01+00:00",
   "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "4fb92dcce288",
-  "source": "Економічна правда",
-  "link": "https://epravda.com.ua/biznes/golova-kompaniji-wildberries-potrapila-pid-sankciji-yes-827678/",
-  "title_uk": "ЄС розширив санкції проти Росії: у списках 145 осіб і компаній",
-  "summary_uk": "Міністри закордонних справ країн Євросоюзу погодили оновлення санкційних списків щодо Росії. До них внесли 145 фізичних і юридичних осіб, серед яких керівниця Wildberries Тетяна Кім. Для України це ще один крок у посиленні економічного тиску на державу-агресора.",
-  "category": "ukraine",
-  "published": "2026-11-16T11:13:00+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "44127d1efbd0",
-  "source": "Економічна правда",
-  "link": "https://epravda.com.ua/finances/finansuvannya-yes-ukrajina-otrimaye-mayzhe-8-mlrd-yevro-za-programoyu-ukraine-facility-827674/",
-  "title_uk": "Рада ЄС схвалила рекордний транш для України — майже €8 млрд",
-  "summary_uk": "Рада Європейського Союзу погодила виділення Україні майже 8 млрд євро, і цю суму називають рекордною. Подробиці щодо умов і строків надходження коштів — у матеріалі «Економічної правди».",
-  "category": "ukraine",
-  "published": "2026-11-16T10:13:00+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "digest-2026-11-16",
-  "kind": "digest",
-  "category": "digest",
-  "title_uk": "Ранковий дайджест: 16 листопада",
-  "summary_uk": "Три головні події фінансового світу за минулу добу.",
-  "source": "Fuzion Societe",
-  "link": "https://t.me/fuzionsoc",
-  "items": [
-   {
-    "title_uk": "Брюссель готує для України позику на €45 млрд під гарантії бюджету ЄС",
-    "summary_uk": "План, що має допомогти закрити дефіцит фінансування Києва наступного року, представлять країнам ЄС у середу.",
-    "source": "Financial Times",
-    "link": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1"
-   },
-   {
-    "title_uk": "Долар сягнув максимуму за 19 місяців",
-    "summary_uk": "Американську валюту підтримують очікування подальшого підвищення ставок Федеральною резервною системою.",
-    "source": "The Wall Street Journal",
-    "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main"
-   },
-   {
-    "title_uk": "Економіка Китаю в жовтні сповільнилася сильніше за прогнози",
-    "summary_uk": "Промислове виробництво, роздрібні продажі та інвестиції виявилися нижчими за оцінки аналітиків.",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
-   }
-  ],
-  "published": "2026-11-16T15:43:54+00:00",
-  "added": "2026-11-16T15:43:54+00:00"
- },
- {
-  "id": "51ff637b1133",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1",
-  "title_uk": "Найбільші IPO цього року принесли інвесторам збитки",
-  "summary_uk": "За підрахунками Financial Times, акції десяти найбільших компаній, що вийшли на біржу у 2026 році, подешевшали в середньому більш ніж на 20%. Видання пов'язує це зі згасанням ажіотажу навколо штучного інтелекту після чотирьох років прибуткових розміщень.",
-  "category": "markets",
-  "published": "2026-11-16T05:00:11+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "9f127d7547d0",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/pro/central-banking/ecb-urges-overhauls-to-protect-financial-system-from-ai-government-debt-94eaac4e?mod=rss_markets_main",
-  "title_uk": "ЄЦБ закликає до реформ, щоб захистити фінансову систему від ризиків ШІ та держборгу",
-  "summary_uk": "Віцепрезидент Європейського центрального банку заявив, що прагнення Європи розширити небанківське фінансування бізнесу має супроводжуватися заходами для збереження фінансової стабільності. Серед загроз для системи The Wall Street Journal називає штучний інтелект і державний борг.",
-  "category": "policy",
-  "published": "2026-11-16T09:08:00+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
- },
- {
-  "id": "5f965772d21d",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/investing/stock-futures-slip-ahead-of-pivotal-week-for-ai-trade-with-nvidia-anthropic-in-focus-c1768330?mod=rss_markets_main",
-  "title_uk": "Ф'ючерси на акції США знижуються перед звітом Nvidia та розміщенням Anthropic",
-  "summary_uk": "Ф'ючерси на американські фондові індекси пішли вниз після нового послаблення азійських акцій, пов'язаних зі штучним інтелектом. Як пише The Wall Street Journal, інвестори чекають на квартальний звіт Nvidia у вівторок та визначення ціни первинного розміщення акцій Anthropic.",
-  "category": "markets",
-  "published": "2026-11-16T09:43:00+00:00",
-  "added": "2026-11-16T12:30:35+00:00"
  }
 ]
