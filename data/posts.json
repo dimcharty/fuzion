@@ -1,5 +1,45 @@
 [
  {
+  "id": "c7fe2a8766c9",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/metro-bank-draws-early-interest-from-barclays-lone-star",
+  "title_uk": "Barclays і Lone Star виявили ранній інтерес до купівлі Metro Bank",
+  "summary_uk": "Британський Metro Bank, який виставив себе на продаж, уже привертає перших потенційних покупців, серед яких Barclays і Lone Star. Про це Bloomberg повідомили обізнані з ситуацією джерела.",
+  "category": "banks",
+  "published": "2026-11-20T07:28:32+00:00",
+  "added": "2026-11-20T12:30:56+00:00"
+ },
+ {
+  "id": "af20bca6c460",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
+  "title_uk": "Фондовий ринок Тайваню йде до найгіршого тижня з 1991 року",
+  "summary_uk": "Тайванські акції, серед яких переважають технологічні компанії, у п'ятницю знову зазнали розпродажу на тлі сумнівів щодо буму штучного інтелекту. Попри заходи з підтримки ринку, головний індекс острова може завершити тиждень найгірше з 1991 року.",
+  "category": "markets",
+  "published": "2026-11-20T02:29:57+00:00",
+  "added": "2026-11-20T12:30:56+00:00"
+ },
+ {
+  "id": "b38513beb1a8",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+  "title_uk": "Акції Anthropic дешевшають, а S&P 500 прямує до найдовшої серії падінь з 2020 року",
+  "summary_uk": "Розпродаж у технологічному секторі посилюється, і під тиском опинилися навіть акції Anthropic, яка щойно вийшла на біржу. Індекс S&P 500 рухається до найтривалішої низхідної серії з 2020 року.",
+  "category": "markets",
+  "published": "2026-11-20T10:08:25+00:00",
+  "added": "2026-11-20T12:30:56+00:00"
+ },
+ {
+  "id": "a66c0cf5425a",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c?mod=rss_markets_main",
+  "title_uk": "Золото й срібло подешевшали до мінімумів більш ніж за рік",
+  "summary_uk": "Ціни на золото та срібло опустилися до найнижчих рівнів більш ніж за рік. Очікування жорсткішої монетарної політики, схоже, переважили традиційний попит на золото як на захисний актив з боку обережних інвесторів.",
+  "category": "markets",
+  "published": "2026-11-20T11:39:00+00:00",
+  "added": "2026-11-20T12:30:56+00:00"
+ },
+ {
   "id": "2b1aa4a1a445",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/business/deals/tpg-corpay-to-buy-finance-platform-bill-for-about-6-billion-9f8be10c?mod=rss_markets_main",
@@ -1242,45 +1282,5 @@
   "category": "markets",
   "published": "2026-11-16T20:15:45+00:00",
   "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "f304700a2399",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
-  "title_uk": "Nasdaq 100 різко знизився перед звітом Nvidia та IPO Anthropic",
-  "summary_uk": "У понеділок технологічні акції США продовжили падіння, пише Bloomberg. Інвестори обережно ставляться до паперів, пов'язаних зі штучним інтелектом, напередодні квартального звіту Nvidia та очікуваного цього тижня первинного розміщення акцій Anthropic.",
-  "category": "markets",
-  "published": "2026-11-16T18:51:04+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "655f069a908c",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
-  "title_uk": "Росія розраховує на спільну заяву за підсумками саміту Трампа, Сі та Путіна",
-  "summary_uk": "За даними Financial Times, Москва прагне, щоб тристороння зустріч лідерів США, Китаю та Росії завершилася спільною заявою. Зустріч Дональда Трампа, Сі Цзіньпіна та Володимира Путіна запланована на четвер; такого формату раніше не було, і за нею уважно стежать у світі.",
-  "category": "world",
-  "published": "2026-11-16T18:19:17+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "8f70388f2dbb",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
-  "title_uk": "Diamondback купує активи Double Eagle приблизно за $5 млрд",
-  "summary_uk": "Американська Diamondback Energy домовилася придбати частину дочірніх компаній приватного нафтовидобувника Double Eagle, розрахувавшись грошима та акціями. Як пише Bloomberg, угода зміцнить позиції компанії серед найбільших операторів найпродуктивнішого сланцевого басейну світу.",
-  "category": "companies",
-  "published": "2026-11-16T11:57:49+00:00",
-  "added": "2026-11-16T20:29:54+00:00"
- },
- {
-  "id": "5382338fb58f",
-  "source": "CNBC",
-  "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-  "title_uk": "Американська нафта подешевшала до $87 за барель",
-  "summary_uk": "За даними CNBC, ціни на нафту знижуються на тлі відновлення експорту з Близького Сходу. На ринок тиснуть і прогнози, які передбачають надлишок нафти в четвертому кварталі.",
-  "category": "energy",
-  "published": "2026-11-16T16:17:39+00:00",
-  "added": "2026-11-16T20:29:54+00:00"
  }
 ]
