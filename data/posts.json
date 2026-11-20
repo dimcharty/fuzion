@@ -1,5 +1,55 @@
 [
  {
+  "id": "7ba3d89150de",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main",
+  "title_uk": "ФРС США дозволила британському OakNorth купити Community Unity Bank",
+  "summary_uk": "Британський цифровий банк OakNorth отримав від Федеральної резервної системи США дозвіл на придбання Community Unity Bank. Щоб виконати вимоги американського регулятора, OakNorth перебудує структуру своїх юридичних осіб.",
+  "category": "banks",
+  "published": "2026-11-20T07:51:00+00:00",
+  "added": "2026-11-20T16:30:55+00:00"
+ },
+ {
+  "id": "528c6e3b829a",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
+  "title_uk": "Енді Бернем підпише в Брюсселі угоду про зближення Британії з ЄС",
+  "summary_uk": "Енді Бернем (Andy Burnham) має підписати в Брюсселі угоду про перезавантаження відносин із Євросоюзом, повідомляє Financial Times. Вона передбачає тісніші зв'язки, зокрема вільнішу торгівлю продуктами харчування й напоями та програму молодіжних обмінів.",
+  "category": "world",
+  "published": "2026-11-20T07:49:41+00:00",
+  "added": "2026-11-20T16:30:55+00:00"
+ },
+ {
+  "id": "3f54ac0789dd",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7?mod=rss_markets_main",
+  "title_uk": "Нафта по $85–95 за барель може стати новою нормою — трейдери та аналітики",
+  "summary_uk": "Учасники ринку, з якими поспілкувалася The Wall Street Journal, вважають, що ціни на нафту в діапазоні $85–95 за барель триматимуться ще довго. Для країн-імпортерів енергоносіїв, як-от Україна, це означає тривалий тиск на вартість пального.",
+  "category": "energy",
+  "published": "2026-11-20T10:56:00+00:00",
+  "added": "2026-11-20T16:30:55+00:00"
+ },
+ {
+  "id": "14c537161a53",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-fall-as-ai-selloff-spreads-to-asia-and-europe",
+  "title_uk": "Розпродаж акцій через сумніви щодо ШІ поширився на Азію та Європу",
+  "summary_uk": "Ф'ючерси на американські фондові індекси в п'ятницю знизилися, а падіння на Волл-стріт перекинулося на азійські та європейські біржі. Дебют акцій Anthropic на біржі не розвіяв побоювань інвесторів щодо компаній, пов'язаних зі штучним інтелектом.",
+  "category": "markets",
+  "published": "2026-11-20T07:57:16+00:00",
+  "added": "2026-11-20T16:30:55+00:00"
+ },
+ {
+  "id": "7dbb7047ba63",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/china-has-capacity-but-maybe-not-the-will-to-boost-fuel-exports",
+  "title_uk": "Китай може наростити експорт пального після домовленості зі США та Росією, але чи захоче — питання",
+  "summary_uk": "Серед країн, що погодилися збільшити світові поставки пального, саме Китай має найбільші вільні потужності, пише Bloomberg. Втім, видання сумнівається, що Пекін виконає цю обіцянку. Від обсягів поставок залежать ціни на дизель і бензин, зокрема в Європі.",
+  "category": "energy",
+  "published": "2026-11-20T04:50:25+00:00",
+  "added": "2026-11-20T16:30:55+00:00"
+ },
+ {
   "id": "c7fe2a8766c9",
   "source": "Bloomberg",
   "link": "https://www.bloomberg.com/news/articles/2026-11-20/metro-bank-draws-early-interest-from-barclays-lone-star",
@@ -1232,55 +1282,5 @@
   "category": "energy",
   "published": "2026-11-16T21:20:03+00:00",
   "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "7f0bc8b912fc",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
-  "title_uk": "Протокол Резервного банку Австралії: ставку підвищили через ризики інфляції",
-  "summary_uk": "Більшість із дев'яти членів правління Резервного банку Австралії два тижні тому проголосувала за підвищення облікової ставки, свідчить протокол засідання. Регулятор пояснив рішення тим, що ризики для інфляційного прогнозу зміщені в бік зростання, а споживчі ціни надто довго залишалися зависокими.",
-  "category": "policy",
-  "published": "2026-11-17T00:30:00+00:00",
-  "added": "2026-11-17T04:29:39+00:00"
- },
- {
-  "id": "64296a5b3156",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
-  "title_uk": "Ф'ючерси на природний газ у США почали тиждень зі зниження",
-  "summary_uk": "Ціни на американський природний газ у понеділок пішли вниз, пише The Wall Street Journal. Видобуток зростає, щоб покрити попит під час першого суттєвого похолодання цього опалювального сезону.",
-  "category": "energy",
-  "published": "2026-11-16T15:02:00+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "bf44aec35edc",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-  "title_uk": "Регулятор США не схвалив препарат Summit Therapeutics від раку легень",
-  "summary_uk": "Управління з контролю за продуктами і ліками США (FDA) відмовилося схвалити один із найочікуваніших онкологічних препаратів біотехнологічної галузі, повідомляє MarketWatch. Регулятор заявив Summit Therapeutics, що компанія має довести здатність ліків подовжувати життя пацієнтів.",
-  "category": "companies",
-  "published": "2026-11-16T15:06:00+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "180058376934",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?mod=rss_markets_main",
-  "title_uk": "Kalshi купує брокерську фірму, щоб вийти на ринок торгівлі акціями",
-  "summary_uk": "Платформа ринків прогнозів Kalshi придбала компанію з торгівлі цінними паперами та планує працювати з іншими активами, зокрема акціями, пише The Wall Street Journal. Водночас Kalshi досі судиться з окремими штатами США через свої контракти формату «так чи ні».",
-  "category": "companies",
-  "published": "2026-11-16T19:33:00+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
- },
- {
-  "id": "3bc0907720e1",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs",
-  "title_uk": "Goldman Sachs: золоту знадобиться близько двох років, щоб оновити рекорд",
-  "summary_uk": "Аналітики Goldman Sachs вважають, що до нового історичного максимуму золото дійде приблизно за два роки, повідомляє Bloomberg. Для порівняння: попереднє зростання більш ніж на 30% до рекордної позначки зайняло лише місяць.",
-  "category": "markets",
-  "published": "2026-11-16T20:15:45+00:00",
-  "added": "2026-11-17T00:30:58+00:00"
  }
 ]
