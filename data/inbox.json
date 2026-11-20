@@ -1,5 +1,126 @@
 [
  {
+  "id": "a937395ac6b8",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "ARK Invest's Cathie Wood on Anthropic, Nvidia",
+  "teaser": "Cathie Wood, Founder, CEO & CIO at ARK Invest, discusses her exposure to Anthropic following the AI lab's historic IPO and her views on investing in innovation. She speaks on \"ETF IQ Asia.\" (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/ark-invest-s-cathie-wood-on-anthropic-nvidia-video",
+  "published": "2026-11-20T04:22:07+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
+  "id": "89a5128211c0",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "PBOC Anchors Yuan With Stable Fix as Volatility Jumps After APEC",
+  "teaser": "China’s central bank signaled it wants to curb sharp moves in the yuan with a largely steady fixing Friday, after the currency posted its biggest drop since March following a trilateral leaders’ meeting.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/pboc-anchors-yuan-with-stable-fix-as-volatility-jumps-after-apec",
+  "published": "2026-11-20T04:15:39+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
+  "id": "44afb8fd58a0",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asian Equities Fall as Anthropic’s IPO Fails to Staunch AI Stock Selloff",
+  "teaser": "Asian equities fell Friday morning as Anthropic’s blockbuster initial public offering failed to staunch the selloff in artificial intelligence stocks.",
+  "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
+  "published": "2026-11-20T04:15:00+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
+  "id": "7d193cb5cd0f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "AI Spurs Funding Needs as Top Japan Power Producer Weighs IPO",
+  "teaser": "Japan’s biggest electricity producer said the artificial intelligence boom is supporting the case for investment in the power sector as it considers ways to raise funds for expansion, including a possible initial public offering.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-spurs-funding-needs-as-top-japan-power-producer-weighs-ipo",
+  "published": "2026-11-20T04:00:05+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
+  "id": "6a473a96dfd3",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Tech stocks fall as Anthropic IPO fails to stem broader AI sell-off",
+  "teaser": "Asian markets follow Wall Street lower despite Claude AI maker’s record listing",
+  "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+  "published": "2026-11-20T03:51:30+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
+  "id": "05f2c1dc2285",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Copper Rout Deepens as AI Selloff Wreaks Havoc in Metals Markets",
+  "teaser": "Copper crashed to its lowest level since March after a week of market turmoil fueled by deepening worries about global demand.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
+  "published": "2026-11-20T03:03:05+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
+  "id": "45938585d253",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Trump Offers Xi a Helping Hand on Escalator",
+  "teaser": "Donald Trump, 80, offered Xi Jinping, 73, a hand while boarding an escalator, with Xi holding his forearm as he stepped up, during their third summit of the year in Shenzhen. The friendly gesture contrasted with Washington’s recent efforts to restrict China’s access to key AI…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/trump-offers-xi-a-helping-hand-on-escalator-video",
+  "published": "2026-11-20T03:01:17+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
+  "id": "9fedf0b17e98",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Honda Debuts Hybrid SUV for Asia in Pivot From Failed EV Bet",
+  "teaser": "Honda Motor Co. unwrapped a new flagship SUV, the first of a range of gas-electric hybrid models the company is rolling out this decade as part of its pivot away from fully electric cars.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/honda-debuts-hybrid-suv-for-asia-in-pivot-from-failed-ev-bet",
+  "published": "2026-11-20T03:00:00+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
+  "id": "9e2c8fa5b5c3",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Rising Bond Yields May Pose a Challenge to Nifty’s Sharp Rebound",
+  "teaser": "The Nifty has rebounded almost 15% since early October, pushing valuations higher.",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-20/rising-bond-yields-may-pose-a-challenge-to-nifty-s-sharp-rebound",
+  "published": "2026-11-20T02:31:37+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
+  "id": "af20bca6c460",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Taiwan Stocks Face Worst Week Since 1991 Despite Support Steps",
+  "teaser": "Taiwan’s tech-heavy stock market witnessed another selloff on Friday as the global artificial intelligence trade came under further strain, putting the island’s benchmark on course for its worst week since 1991.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
+  "published": "2026-11-20T02:29:57+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
+  "id": "b1b09e39c2cf",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Hong Kong Stocks Fall 20% From 2026 High as AI Selloff Spreads",
+  "teaser": "Hong Kong stocks fell toward a grim milestone as an AI-led selloff spread to engulf even the more defensive corners of the market.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
+  "published": "2026-11-20T02:29:50+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
   "id": "6b6fe1f2c591",
   "source": "Bloomberg",
   "lang": "en",
@@ -614,6 +735,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-leveraged-etf-race-heats-up-video",
   "published": "2026-11-19T19:23:40+00:00",
   "seen": "2026-11-19T20:30:13+00:00"
+ },
+ {
+  "id": "f7ffa6cc3eb2",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "The Xi, Trump, Putin meeting and the dawn of a post-western world",
+  "teaser": "The symbolism was the substance in Shenzhen",
+  "link": "https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7?syn-25a6b1a6=1",
+  "published": "2026-11-19T19:19:44+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
  },
  {
   "id": "86d0b8ed8c04",
@@ -3014,6 +3146,17 @@
   "seen": "2026-11-18T20:30:10+00:00"
  },
  {
+  "id": "c9bcd104c52a",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+  "teaser": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
+  "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+  "published": "2026-11-18T19:47:05+00:00",
+  "seen": "2026-11-20T04:30:31+00:00"
+ },
+ {
   "id": "54a6882c3e76",
   "source": "Bloomberg",
   "lang": "en",
@@ -3154,149 +3297,6 @@
   "teaser": "Hedge fund investors warned that stress is building across credit markets, with the weakest CCC borrowers particularly vulnerable as higher rates, loose documentation and deteriorating underwriting raise default risks. They also pointed to emerging strains in private credit and…",
   "link": "https://www.bloomberg.com/news/videos/2026-11-18/boe-to-test-how-private-credit-could-amplify-shocks-video",
   "published": "2026-11-18T18:39:19+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "a95e72e475ab",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "‘GTA 6’ is the biggest game of all time. What it means for Take-Two’s stock.",
-  "teaser": "“Grand Theft Auto VI” has racked up a Metacritic score of 99 and been nominated for Game of the Year already. “Clearly, the 13-year wait has not gone to waste,” one analyst said.",
-  "link": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
-  "published": "2026-11-18T18:28:00+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "1b7348dd8d54",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Weakest Credit Faces More Pain, Hedge Funds Warn",
-  "teaser": "Hedge fund investors warned that stress is building across credit markets, with the weakest CCC borrowers particularly vulnerable as higher rates, loose documentation and deteriorating underwriting raise default risks. They also pointed to emerging strains in private credit and…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/weakest-credit-faces-more-pain-hedge-funds-warn-video",
-  "published": "2026-11-18T18:26:54+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "fc1cf14c8bf0",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "U.S. Crude Oil Stockpiles Rise for Second Straight Week",
-  "teaser": "Commercial crude oil stocks rose by 3.4 million barrels last week. Analysts had expected crude stocks to rise by 1 million barrels.",
-  "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-second-straight-week-086a0883?mod=rss_markets_main",
-  "published": "2026-11-18T18:18:00+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "c168fd42487e",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "На четвер оголосили цілодобові графіки відключень світла",
-  "teaser": "",
-  "link": "https://epravda.com.ua/energetika/elektroenergetika-ukrajini-pogodinni-vidklyuchennya-19-listopada-827792/",
-  "published": "2026-11-18T18:15:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "5499ca7a4380",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic’s IPO by the Numbers: Taking on SpaceX’s Record Debut",
-  "teaser": "Anthropic PBC is preparing to price what could be the biggest IPO of all time, and the numbers are startling. The AI lab is set to challenge SpaceX for the record, which Elon Musk’s rocket and satellite firm claimed in June with a first-time share sale that rocked markets.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut",
-  "published": "2026-11-18T18:12:22+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "f51ca21750b4",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork",
-  "teaser": "Trinidad Navarro knows how to hunt down wrongdoing.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
-  "published": "2026-11-18T18:04:19+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "877050ed285a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Kalshi Turns to Compute Desk in Renewed Push for GPU Futures",
-  "teaser": "Kalshi Inc. is working with index provider Compute Desk to launch futures contracts tied to the cost of computing power used for artificial intelligence, pushing into what exchanges see as a potentially lucrative new asset class, according to people familiar with the matter.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/kalshi-turns-to-compute-desk-in-renewed-push-for-gpu-futures",
-  "published": "2026-11-18T17:58:19+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "89918c2d2e80",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Aclara CEO Says Brazil Incentives Key as Firm Weighs Rare-Earth Plant Investment",
-  "teaser": "The head of Aclara Resources Inc. says Brazil needs to offer more incentives to miners as the firm weighs a future rare-earth separation plant in the largest South American nation.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/aclara-ceo-weighs-brazil-rare-earth-plant-says-incentives-crucial",
-  "published": "2026-11-18T17:54:20+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "d1fe9a297414",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Суд стягнув з постачальника бронежилетів 35 мільйонів",
-  "teaser": "Господарський суд Києва зобов'язав приватну компанію сплатити державному підприємству \"Агенція оборонних закупівель\" 35 млн грн штрафних санкцій за прострочення поставки бронежилетів.",
-  "link": "https://epravda.com.ua/oborona/shtrafni-sankciji-ukrtak-yua-maye-splatiti-agenciji-oboronnih-zakupivel-35-mln-grn-827791/",
-  "published": "2026-11-18T17:54:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "abd1ac51eccb",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "РФ рекордно скуповує бензин від Індії до Марокко після ударів України по НПЗ",
-  "teaser": "",
-  "link": "https://epravda.com.ua/energetika/rf-rekordno-skupovuye-benzin-vid-indiji-do-marokko-pislya-udariv-ukrajini-po-npz-827790/",
-  "published": "2026-11-18T17:50:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "116a5f790cd5",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Social Security should be shut down, this Republican senator says",
-  "teaser": "The program’s trust funds are expected to run out of money in the next six years.",
-  "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-  "published": "2026-11-18T17:46:00+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "cc80cc959853",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
-  "teaser": "A Bank of Canada official says policymakers are publishing scenario analyses to help market participants see potential paths for interest rates amid more frequent shocks.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/bank-of-canada-says-april-scenario-analysis-telegraphed-hike",
-  "published": "2026-11-18T17:30:00+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "18d87422dbe1",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Auto & Transport Roundup: Market Talk",
-  "teaser": "Find insight on Jet2, Target, SCGJWD Logistics and more in the latest Market Talks covering Auto and Transport.",
-  "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-106eebc0?mod=rss_markets_main",
-  "published": "2026-11-18T17:28:00+00:00",
   "seen": "2026-11-18T20:30:10+00:00"
  }
 ]
