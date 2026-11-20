@@ -1,5 +1,93 @@
 [
  {
+  "id": "e9f4ff030ee4",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "GameStop has transformed from a meme stock into a ‘real company,’ analysts say",
+  "teaser": "Roaring Kitty’s return had minimal impact on GameStop’s stock, which has started to gain more sophisticated appeal for its “new and improved story.”",
+  "link": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories",
+  "published": "2026-11-20T12:24:00+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
+ },
+ {
+  "id": "27e87e6c8017",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Anthropic soared in its debut as stocks tanked. Only one other IPO has done that since 1990.",
+  "teaser": "A look at what the S&P 500 did after that earlier IPO. Plus, a CoreWeave co-founder’s bet on bonds, and why tech outages have people stocking up on food and cash.",
+  "link": "https://www.marketwatch.com/story/anthropic-soared-in-its-debut-as-stocks-tanked-only-one-other-ipo-has-done-that-since-1990-77b75258?mod=mw_rss_topstories",
+  "published": "2026-11-20T12:19:00+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
+ },
+ {
+  "id": "9293d51e0c56",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Gold’s Rout Tests the Myth of an All-Weather Safe Haven",
+  "teaser": "Bullion’s worst year in more than a decade shows why investors can’t count on it to protect against every kind of market turmoil.",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-20/gold-s-rout-tests-the-myth-of-an-all-weather-safe-haven",
+  "published": "2026-11-20T12:13:18+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
+ },
+ {
+  "id": "56880aa47234",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "How Anthropic’s blockbuster IPO came together",
+  "teaser": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+  "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+  "published": "2026-11-20T12:02:46+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
+ },
+ {
+  "id": "aa0862018cbe",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Price Hikes Set to Lift Materials Companies’ Margins in 2027",
+  "teaser": "Makers of steel, paint and packaging are expected to bounce back from a quarter of disappointing margins, with price increases and cost cuts set to lift profitability to its highest in almost three decades.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/price-hikes-set-to-lift-materials-companies-margins-in-2027",
+  "published": "2026-11-20T12:00:00+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
+ },
+ {
+  "id": "5aca005e2cdf",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+  "teaser": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+  "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+  "published": "2026-11-20T12:00:00+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
+ },
+ {
+  "id": "ba382774e335",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Stock Rout’s Spread Beyond Tech Carries Warning From Dotcom-Era",
+  "teaser": "The way this AI-driven rout is spreading across stocks reveals some worrying similarities to market patterns leading up to the dotcom crash.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/stock-rout-s-spread-beyond-tech-carries-warning-from-dotcom-era",
+  "published": "2026-11-20T11:50:13+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
+ },
+ {
+  "id": "ed045b877e89",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Citi warns a key stock-market signal is close to flashing red",
+  "teaser": "Having turned risk averse more than a month ago, Citi strategists find no compelling reason to go more positive risk assets yet, despite the steep decline. If sentiment deteriorates further, buying long-duration bonds is the answer, they say.",
+  "link": "https://www.marketwatch.com/story/citi-warns-a-key-stock-market-signal-is-close-to-flashing-red-5cbee1c3?mod=mw_rss_topstories",
+  "published": "2026-11-20T11:45:00+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
+ },
+ {
   "id": "a88ce68f9799",
   "source": "Bloomberg",
   "lang": "en",
@@ -20,6 +108,17 @@
   "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c?mod=rss_markets_main",
   "published": "2026-11-20T11:39:00+00:00",
   "seen": "2026-11-20T11:45:04+00:00"
+ },
+ {
+  "id": "b9896567d35a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China’s Offshore Tax Clampdown Pushes Budget Into Rare Surplus",
+  "teaser": "China’s budget swung into a rare surplus in October, as tighter scrutiny of offshore wealth produced a one-off bonanza of individual income tax receipts and offset a long-awaited increase in fiscal spending.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/china-s-offshore-tax-clampdown-pushes-budget-into-rare-surplus",
+  "published": "2026-11-20T11:33:21+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
  },
  {
   "id": "2c296e313e52",
@@ -561,6 +660,17 @@
   "seen": "2026-11-20T05:44:44+00:00"
  },
  {
+  "id": "a857581b711c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Why Britons can feel smugger than the French",
+  "teaser": "It’s not a competition, but if it were, the UK economy would be winning",
+  "link": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1",
+  "published": "2026-11-20T05:00:17+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
+ },
+ {
   "id": "bf9b0897f9b5",
   "source": "Financial Times",
   "lang": "en",
@@ -1076,6 +1186,17 @@
   "link": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289?mod=rss_markets_main",
   "published": "2026-11-19T22:41:00+00:00",
   "seen": "2026-11-20T00:30:35+00:00"
+ },
+ {
+  "id": "c96552dae621",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "WSJ Dollar Index Rises to New 52-Week High",
+  "teaser": "The WSJ Dollar Index rose to a new 52-week high.",
+  "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main",
+  "published": "2026-11-19T22:41:00+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
  },
  {
   "id": "c49788b85ed2",
@@ -3025,6 +3146,17 @@
   "seen": "2026-11-19T04:30:16+00:00"
  },
  {
+  "id": "52a560804ef3",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic Raises $81 Billion in Biggest IPO Ever",
+  "teaser": "The artificial-intelligence giant sold more shares than planned and priced the offering above the targeted range.",
+  "link": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_markets_main",
+  "published": "2026-11-19T04:19:00+00:00",
+  "seen": "2026-11-20T12:31:09+00:00"
+ },
+ {
   "id": "9df7d489d56b",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -3165,138 +3297,6 @@
   "teaser": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
   "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
   "published": "2026-11-19T01:31:05+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "9451ce0ece67",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "LNG Exports Through Hormuz Appear to Slow After More Attacks",
-  "teaser": "The amount of liquefied natural gas tankers passing outbound through the Strait of Hormuz appears to have dropped over the last week, according to satellite and ship-tracking data, suggesting shipowners are being more cautious after a flurry of attacks.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/lng-exports-through-hormuz-appear-to-slow-after-more-attacks",
-  "published": "2026-11-19T01:23:23+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "e1a0619ded3a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Copper Rebounds After Rout as Physical Tightness Persists",
-  "teaser": "Copper staged a partial recovery following a steep drop on Wednesday, as traders weighed whether a sharp unwinding of bullish bets tied to artificial intelligence and US tariffs has gone too far.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
-  "published": "2026-11-19T01:14:36+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "946db3fc07b5",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Oil Falls, Weighed by Larger-Than-Expected Rise in U.S. Inventories",
-  "teaser": "Oil fell in early Asian trading, weighed by a sharper-than-expected rise in U.S. crude oil inventories.",
-  "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=rss_markets_main",
-  "published": "2026-11-19T01:13:00+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "1c5e9ccac7f9",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk",
-  "teaser": "Artificial intelligence can bring exponential benefits but the damage that may result from a breach of its safeguards is the biggest risk that’s being underpriced by markets right now, according to Morgan Stanley.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
-  "published": "2026-11-19T01:00:36+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "547ad655a83f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "China Markets $2 Billion of Dollar Bonds as Xi, Trump Meet",
-  "teaser": "China began marketing up to $2 billion of dollar-denominated sovereign bonds, as leaders of the world’s two largest economies are set to meet in Shenzhen.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
-  "published": "2026-11-19T00:57:50+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "cb0dbd848151",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
-  "teaser": "Blue Owl Capital Inc. is preparing to sell $513 million of commercial mortgage backed securities to fund the acquisition of a Northern Virginia data center that’s fully leased to Amazon.com Inc., according to people with knowledge of the matter.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
-  "published": "2026-11-19T00:54:52+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "ccfad00fd7a4",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Prices at $83 a Share in Record-Sized Offering",
-  "teaser": "Anthropic PBC and its co-founders raised $107.3 billion in an upsized IPO and private placement. The artificial intelligence firm sold 956.4 million shares and the co-founders sold 23.6 million shares for $83 each, according to a statement, above the marketed range. The IPO is…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video",
-  "published": "2026-11-19T00:45:46+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "5ca38e383a31",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Korea Investors Buy Record Amount of Treasuries in September",
-  "teaser": "South Korean investors bought a record amount of US Treasuries in September, a sharp reversal after dumping an unprecedented volume of the securities earlier this year.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/korea-investors-buy-record-amount-of-treasuries-in-september",
-  "published": "2026-11-19T00:45:02+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "1ab2f9c6860a",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "JGBs Edge Higher Amid Mixed Developments",
-  "teaser": "JGBs edged higher in price terms in Tokyo’s morning session amid mixed developments.",
-  "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-amid-mixed-developments-c690e1af?mod=rss_markets_main",
-  "published": "2026-11-19T00:38:00+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "4d27c575d20f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Jeffrey Sachs Expects Friendly Trilateral Outcome",
-  "teaser": "Columbia University Professor Jeffrey Sachs says he is happy that the leaders of US-China and Russia have agreed to have a trilateral meeting. Speaking to Bloomberg’s Stephen Engle, he adds that his expectations are that the outcome will be ‘calm’ and ‘friendly’. (Source:…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/jeffrey-sachs-expects-friendly-trilateral-outcome-video",
-  "published": "2026-11-19T00:36:42+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "00b2707bc7a7",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "China Oil Imports Rebound as Beijing Turns Back to Stockpiling",
-  "teaser": "China’s appetite for crude is recovering faster than expected in the final months of 2026, as lower oil prices push cash-strapped refiners to use up government-granted import allowances and encourage processors to rebuild stockpiles depleted by months of war.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/china-oil-imports-rebound-as-beijing-turns-back-to-stockpiling",
-  "published": "2026-11-19T00:36:26+00:00",
-  "seen": "2026-11-19T02:36:19+00:00"
- },
- {
-  "id": "2b7f7aa6b5be",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nikkei Rises 0.2%, Led by Chip, Retail Stocks",
-  "teaser": "Japan’s Nikkei Stock Average was 0.2% higher at 59159.40, as gains in chip and retail shares offset losses in metals, energy and bank stocks.",
-  "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-2-led-by-chip-retail-stocks-fd10cf06?mod=rss_markets_main",
-  "published": "2026-11-19T00:34:00+00:00",
   "seen": "2026-11-19T02:36:19+00:00"
  }
 ]
