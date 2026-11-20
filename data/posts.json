@@ -1,5 +1,65 @@
 [
  {
+  "id": "2b1aa4a1a445",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/business/deals/tpg-corpay-to-buy-finance-platform-bill-for-about-6-billion-9f8be10c?mod=rss_markets_main",
+  "title_uk": "TPG і Corpay купують фінансову платформу Bill приблизно за $6 млрд",
+  "summary_uk": "Bill Holdings, платформа для фінансових операцій бізнесу, буде продана в угоді вартістю близько $6 млрд. Контрольний пакет отримає інвестиційна компанія TPG, а платіжна компанія Corpay придбає міноритарну частку.",
+  "category": "companies",
+  "published": "2026-11-19T23:48:00+00:00",
+  "added": "2026-11-20T08:30:38+00:00"
+ },
+ {
+  "id": "ea2c0d2c93ed",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
+  "title_uk": "Нафта дорожчає після удару хуситів по хмарочосу в Ер-Ріяді",
+  "summary_uk": "Ціни на нафту зросли через напруження на Близькому Сході. У четвер снаряд, випущений єменськими хуситами, яких підтримує Іран, влучив у найвищу будівлю столиці Саудівської Аравії.",
+  "category": "energy",
+  "published": "2026-11-20T00:24:00+00:00",
+  "added": "2026-11-20T08:30:38+00:00"
+ },
+ {
+  "id": "20d10698f800",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1",
+  "title_uk": "Британія та ЄС готові завершити угоду про «перезавантаження» відносин",
+  "summary_uk": "Лондон і Брюссель наближаються до фіналізації домовленості, яка має полегшити британську торгівлю з блоком. Шлях до угоди відкрився після врегулювання суперечки з Францією, а скріпити її має Енді Бернем.",
+  "category": "policy",
+  "published": "2026-11-19T22:44:56+00:00",
+  "added": "2026-11-20T08:30:38+00:00"
+ },
+ {
+  "id": "a62258e99e35",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
+  "title_uk": "Китай готується відновити інвестиції в американський приватний капітал",
+  "summary_uk": "Головний суверенний фонд Китаю очолює підготовку до повернення коштів у американські фонди прямих інвестицій після періоду паузи. Пекін домагається особливих умов, які мали б захистити вкладення на випадок кризових сценаріїв.",
+  "category": "world",
+  "published": "2026-11-20T05:00:07+00:00",
+  "added": "2026-11-20T08:30:38+00:00"
+ },
+ {
+  "id": "05f2c1dc2285",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
+  "title_uk": "Мідь подешевшала до мінімуму з березня на тлі обвалу техакцій",
+  "summary_uk": "Ціни на мідь різко впали й опустилися до найнижчого рівня з березня. Цьому передував тиждень турбулентності на ринках, коли посилилися побоювання щодо світового попиту, а розпродаж у секторі ШІ зачепив і ринок металів.",
+  "category": "markets",
+  "published": "2026-11-20T03:03:05+00:00",
+  "added": "2026-11-20T08:30:38+00:00"
+ },
+ {
+  "id": "b1b09e39c2cf",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
+  "title_uk": "Гонконзькі акції опустилися на 20% від цьогорічного максимуму через розпродаж у секторі ШІ",
+  "summary_uk": "Фондовий ринок Гонконгу наближається до позначки падіння на 20% від піку 2026 року. Хвиля продажів, що почалася з акцій, пов'язаних зі штучним інтелектом, перекинулася навіть на традиційно захисні сектори ринку.",
+  "category": "markets",
+  "published": "2026-11-20T02:29:50+00:00",
+  "added": "2026-11-20T08:30:38+00:00"
+ },
+ {
   "id": "digest-2026-11-20",
   "kind": "digest",
   "category": "digest",
@@ -1222,65 +1282,5 @@
   "category": "energy",
   "published": "2026-11-16T16:17:39+00:00",
   "added": "2026-11-16T20:29:54+00:00"
- },
- {
-  "id": "86245ac55376",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
-  "title_uk": "Ворш: ФРС почала моделювати вплив штучного інтелекту на економіку",
-  "summary_uk": "Голова Федеральної резервної системи Кевін Ворш заявив у понеділок, що фахівці регулятора лише починають розробляти сценарії того, як поширення ШІ в бізнесі та повсякденному житті позначиться на економіці США. Про це повідомляє MarketWatch.",
-  "category": "policy",
-  "published": "2026-11-16T17:53:00+00:00",
-  "added": "2026-11-16T20:29:54+00:00"
- },
- {
-  "id": "8018632f20d9",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025",
-  "title_uk": "Євро впав нижче $1,10 уперше з квітня 2025 року",
-  "summary_uk": "Єдина європейська валюта оновила мінімум за 19 місяців, пише Bloomberg. Долар підтримують очікування подальшого підвищення процентних ставок у США. Для України курс євро до долара важливий, бо від нього залежить і крос-курс гривні до обох валют.",
-  "category": "markets",
-  "published": "2026-11-16T16:01:02+00:00",
-  "added": "2026-11-16T20:29:54+00:00"
- },
- {
-  "id": "18bbcb67cd7e",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
-  "title_uk": "Під санкції ЄС потрапила найбагатша жінка Росії, засновниця Wildberries",
-  "summary_uk": "Financial Times повідомляє, що до нового пакета санкцій Євросоюзу через війну проти України внесли засновницю найбільшого російського онлайн-ритейлера Wildberries. Її називають найбагатшою жінкою Росії. Це ще один приклад того, як обмеження поширюються на великий російський приватний бізнес.",
-  "category": "ukraine",
-  "published": "2026-11-16T17:11:52+00:00",
-  "added": "2026-11-16T20:29:54+00:00"
- },
- {
-  "id": "38f68c06f957",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
-  "title_uk": "Крипторинок почав тиждень зі зниження після розпродажу",
-  "summary_uk": "Біткоїн та Ethereum знову торгуються нижче ключових рівнів, повідомляє The Wall Street Journal. Апетит інвесторів до ризику залишається стриманим після нещодавнього розпродажу.",
-  "category": "crypto",
-  "published": "2026-11-16T05:37:00+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "28748d09363d",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-iron-ore-futures-hit-four-year-low-on-weak-steel-outlook",
-  "title_uk": "Ф'ючерси на залізну руду в Китаї впали до чотирирічного мінімуму",
-  "summary_uk": "Китайські ф'ючерси на залізну руду опустилися до найнижчого рівня за чотири роки. За даними Bloomberg, трейдери дедалі песимістичніше оцінюють зимовий попит на тлі слабких перспектив сталеливарної галузі. Залізна руда є одним із помітних експортних товарів України.",
-  "category": "markets",
-  "published": "2026-11-16T04:33:46+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "7a1df2698c83",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-  "title_uk": "Акції Nvidia дешевшають далі після нового правила США щодо доступу Китаю до чипів",
-  "summary_uk": "Міністерство торгівлі США оголосило про нове правило, яке має обмежити віддалений доступ Китаю до передових чипів. Після цього акції Nvidia продовжили зниження, пише MarketWatch.",
-  "category": "companies",
-  "published": "2026-11-16T15:22:00+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
  }
 ]
