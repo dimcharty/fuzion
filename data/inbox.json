@@ -1,5 +1,214 @@
 [
  {
+  "id": "5a2f925a88ec",
+  "source": "European Central Bank",
+  "lang": "en",
+  "weight": 8,
+  "title": "Christine Lagarde: Acting in time",
+  "teaser": "",
+  "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+  "published": "2026-11-20T08:30:00+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "374bd5eb124c",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Lufthansa to Eliminate 1,000 Jobs At Struggling Flagship Airline",
+  "teaser": "Deutsche Lufthansa AG will cut 1,000 jobs at its namesake airline to turn around the unprofitable mainline unit, as high fuel costs put more pressure on Europe’s largest aviation group.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/lufthansa-to-eliminate-1-000-jobs-at-struggling-flagship-airline",
+  "published": "2026-11-20T08:09:00+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "5c655bf3acb3",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Moodliar: Investec Comfortable with UK Business Foundation",
+  "teaser": "Investec shares slid after the lender reported first-half results, declining to the lowest level since March. Investors were disappointed by rising costs and weaker profitability in Investec’s UK operations, even as operating profit in its southern African business surged.…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/moodliar-investec-s-uk-business-foundation-comfortable-video",
+  "published": "2026-11-20T08:07:31+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "862744e65500",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China Axes Palm Oil Purchases With Storage Space Running Out",
+  "teaser": "Chinese buyers have canceled several palm oil cargoes as the country’s inventories hover near a five-year high, adding more pressure to a market already dealing with excess Malaysian supply.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/china-axes-palm-oil-purchases-with-storage-space-running-out",
+  "published": "2026-11-20T07:57:21+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "14c537161a53",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "US Stock Futures Fall as AI Selloff Spreads to Asia and Europe",
+  "teaser": "US equity futures fell on Friday as Wall Street’s overnight selloff spread to Asia and Europe after the stock-market debut of Anthropic PBC failed to ease concerns around the AI trade.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-fall-as-ai-selloff-spreads-to-asia-and-europe",
+  "published": "2026-11-20T07:57:16+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "502d14ab2f13",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Castleberry-Hernandez: Saudi Action on Houthis Into 2027",
+  "teaser": "Oil edged higher as risks of a new round of US strikes on Iran is growing as military clashes intensified and diplomatic efforts remain stalled. Asha Castleberry-Hernandez, Adjunct Fellow at the American Security Project and former senior official for Near Eastern Affairs at the…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video",
+  "published": "2026-11-20T07:53:13+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "1e519d82307a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "AI Anxiety Returns With Flight From Risk Seen Hitting FTSE 100",
+  "teaser": "Plus, some positive consumer data and a look at the housing market",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-20/ai-anxiety-returns-with-flight-from-risk-seen-hitting-ftse-100",
+  "published": "2026-11-20T07:52:22+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "7ba3d89150de",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "OakNorth Secures U.S. Federal Reserve Clearance to Buy Community Unity Bank",
+  "teaser": "The U.K. digital bank said it would restructure its entities to meet the Federal Reserve’s requirements.",
+  "link": "https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main",
+  "published": "2026-11-20T07:51:00+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "528c6e3b829a",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Burnham to sign EU reset deal in Brussels",
+  "teaser": "Deal will lead to closer ties including freer trade in food and drink and a youth experience scheme",
+  "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
+  "published": "2026-11-20T07:49:41+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "c7fe2a8766c9",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Metro Bank Draws Early Interest From Barclays, Lone Star",
+  "teaser": "Metro Bank Holdings Plc is attracting early takeover interest from suitors including Barclays Plc after putting itself up for sale, according to people with knowledge of the matter.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/metro-bank-draws-early-interest-from-barclays-lone-star",
+  "published": "2026-11-20T07:28:32+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "8fe2ee830da0",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Tech Valuation Plunge Brings Some Opportunities: Taking Stock",
+  "teaser": "The sharp drop in the valuations of technology stocks, especially those linked to the artificial intelligence trade, is fueling debate over whether too much negativity has already been priced in.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/tech-valuation-plunge-brings-some-opportunities-taking-stock",
+  "published": "2026-11-20T07:27:02+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "4db343220531",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Can Manchester United's New Coach Fix All the Problems?",
+  "teaser": "Manchester United's new coach Mauricio Pochettino is walking into a club beset by competing egos, poor commercial decisions and a clash between its owners, according to interviews with more than a dozen current and former executives. Bloomberg's David Hellier has the details.…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/can-manchester-united-s-new-coach-fix-all-the-problems-video",
+  "published": "2026-11-20T07:23:56+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "00072a17246d",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "India-US Trade Ties After Shenzhen Meeting",
+  "teaser": "Asia Society Australia Senior Fellow Premesha Saha discusses India-US relations following the ASEAN and APEC meetings. She says India is preserving its strategic autonomy while maintaining ties with the US. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/india-us-trade-ties-after-shenzhen-meeting-video",
+  "published": "2026-11-20T07:23:42+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "18170fbf4df2",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic Soars Then Slips as AI Trade Fears Linger",
+  "teaser": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source:…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/insight-with-haslinda-amin-11-20-2026-video",
+  "published": "2026-11-20T07:14:36+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "1fbf9b23ebe5",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "European Stocks Join Global Selloff",
+  "teaser": "",
+  "link": "https://www.bloomberg.com/news/live-blog/2026-11-20/ftse-100-live-updates-pound-gilts-stocks-selloff-ai-what-s-moving-uk-markets-right-now-markets-today",
+  "published": "2026-11-20T06:46:27+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "eead23010147",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Goldman Sachs on India, Korea Opportunities",
+  "teaser": "Goldman Sachs Chief Regional Equity Strategist for Asia Pacific Timothy Moe says uncertainty and de-risking are weighing on the broader AI trade. Speaking with Bloomberg's Haslinda Amin and Avril Hong, he also outlines the case for India, and explains why they prefer Korea over…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-sachs-on-anthropic-india-korea-opportunities-video",
+  "published": "2026-11-20T06:35:32+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "baadf93f66af",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asia Stocks Drop in Wake of Anthropic's Record Debut",
+  "teaser": "\"Bloomberg: The China Show\" is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/the-china-show-11-20-2026-video",
+  "published": "2026-11-20T06:34:41+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "01b742e66cd5",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Goldman’s Moe on Uncertainties Around the AI Trade",
+  "teaser": "Goldman Sachs Chief Regional Equity Strategist for Asia Pacific Timothy Moe describes some of the broader pressures on AI-related stocks. He speaks as investors contend with worries over Nvidia, political developments in the US and opposition to data centers. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-s-moe-on-uncertainties-around-the-ai-trade-video",
+  "published": "2026-11-20T06:12:53+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
+  "id": "c0afdda5c5f6",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
+  "teaser": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
+  "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
+  "published": "2026-11-20T05:45:11+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
+ },
+ {
   "id": "6cacbce15024",
   "source": "Bloomberg",
   "lang": "en",
@@ -9,6 +218,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-20/idr-usd-why-indonesia-s-rupiah-is-so-weak-and-what-it-means-for-the-economy",
   "published": "2026-11-20T05:42:07+00:00",
   "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "fc283a6b3755",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "So, Anthropic is finally a public company. What now?",
+  "teaser": "A blockbuster IPO postmortem",
+  "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+  "published": "2026-11-20T05:19:35+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
  },
  {
   "id": "891840b05aae",
@@ -1483,6 +1703,17 @@
   "link": "https://www.wsj.com/economy/canada-producer-prices-rise-again-in-october-buoyed-by-energy-products-e2caa281?mod=rss_markets_main",
   "published": "2026-11-19T14:35:00+00:00",
   "seen": "2026-11-19T16:30:38+00:00"
+ },
+ {
+  "id": "e5813a69c83c",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Shoprite Moves to End Tycoon Wiese’s Dual-Class Shares",
+  "teaser": "Shoprite Holdings Ltd. moved to dismantle a 25-year-old structure that gives billionaire Christo Wiese voting rights that are disproportionately larger than his actual economic interest in Africa’s biggest supermarket retailer.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-19/shoprite-moves-to-dismantle-tycoon-wiese-s-dual-class-structure",
+  "published": "2026-11-19T14:23:58+00:00",
+  "seen": "2026-11-20T08:30:52+00:00"
  },
  {
   "id": "297bd40792fb",
@@ -3067,236 +3298,5 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-18/brookfield-backed-lotto-firm-logs-earnings-hit-buys-back-bonds",
   "published": "2026-11-18T22:22:20+00:00",
   "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "81e5752f1c9f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Citi CEO Looks Forward to Working With Sen. Warren",
-  "teaser": "Citigroup Inc. Chief Executive Officer Jane Fraser says she is ready to work with Senator Elizabeth Warren, a Democrat from Massachusetts, who has been critical of the bank. She speaks to Lisa Abramowicz at a Bloomberg Newsmakers event in Washington. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/citi-ceo-looks-forward-to-working-with-sen-warren-video",
-  "published": "2026-11-18T22:15:28+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "635367eff69a",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "U.S. Stocks Mixed, Nvidia Down Again Ahead of Anthropic IPO",
-  "teaser": "U.S. stocks ended mixed ahead of Anthropic’s IPO as Nvidia’s efforts to draw to a close to questions around exit of its former leader Jensen Huang failed to stabilize its stock or quell fears about its “neocloud” customers.",
-  "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-nvidia-falls-ahead-of-anthropic-ipo-c7de4692?mod=rss_markets_main",
-  "published": "2026-11-18T22:14:00+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "3b011864337a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Challenger Rejects New $4.4 Billion Daiichi Life Takeover Bid",
-  "teaser": "Challenger Ltd. has rebuffed a revised A$6.5 billion ($4.4 billion) takeover offer from Daiichi Life Group Inc., marking the second rejection in a month for the Japanese insurer.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/challenger-rejects-new-4-4-billion-daiichi-life-takeover-bid",
-  "published": "2026-11-18T22:08:57+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "2de53283d092",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "US Stock Futures Climb on Anthropic IPO Pricing: Markets Wrap",
-  "teaser": "US equity-index futures advanced after Anthropic PBC priced its initial public offering above the marketed range, putting investor appetite for the technology sector to a fresh test following recent losses.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
-  "published": "2026-11-18T22:07:41+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "64d4bb67d42a",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic raises $81bn in record IPO",
-  "teaser": "AI giant prices offering above targeted range and upsizes deal after drawing bumper demand from investors",
-  "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
-  "published": "2026-11-18T22:04:50+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "f931f757f3ba",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nvidia Says It’s ‘Business as Usual’ After Huang’s Ouster. Wall Street Doesn’t Buy It.",
-  "teaser": "The AI chip-making giant’s shares fell for a fifth-straight session after its much-awaited earnings call fell flat.",
-  "link": "https://www.wsj.com/finance/stocks/nvidia-says-its-business-as-usual-after-huangs-ouster-wall-street-doesnt-buy-it-954290c4?mod=rss_markets_main",
-  "published": "2026-11-18T22:01:00+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "89ded08b1778",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
-  "teaser": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-  "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-  "published": "2026-11-18T22:00:00+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "fbbc04a0dc98",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
-  "teaser": "Contrarian buy signals typically don’t come until sentiment has dropped further than they have so far",
-  "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
-  "published": "2026-11-18T21:58:00+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "5c8c246d0128",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Farm Group Says Ex-CEO Misused Funds for Vacation Home and Plane",
-  "teaser": "When Matt Carstens stepped down as chief executive officer of Landus, the board of Iowa’s largest farm cooperative expressed gratitude for his “forward-thinking” leadership.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/farm-group-says-ex-ceo-misused-funds-for-vacation-home-and-plane",
-  "published": "2026-11-18T21:48:16+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "19a789dac9e5",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Russian accused of spying on Palantir over assistance to Ukraine",
-  "teaser": "Prosecutors say suspect entered US from Mexico and stalked employees at Silicon Valley tech group",
-  "link": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a?syn-25a6b1a6=1",
-  "published": "2026-11-18T21:44:59+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "15025798ff80",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Bloomberg New Economy Forum Opening Welcome Remarks",
-  "teaser": "John Micklethwait, Editor-in-Chief, Bloomberg, delivers welcome remarks at the 2026 Bloomberg New Economy Forum in Delhi. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-opening-welcome-remarks-video",
-  "published": "2026-11-18T21:42:44+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "b5c3a72e39cd",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Tech Stocks Boosted by Cybersecurity Rally",
-  "teaser": "Plus, Nvidia slips after earnings and a Fed governor pushes for an aggressive hike",
-  "link": "https://www.wsj.com/finance/stocks/tech-stocks-boosted-by-cybersecurity-rally-5f9ff803?mod=rss_markets_main",
-  "published": "2026-11-18T21:40:00+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "c2072979ee3e",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
-  "teaser": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
-  "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
-  "published": "2026-11-18T21:19:00+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "97c8e40bb54e",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
-  "teaser": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
-  "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
-  "published": "2026-11-18T21:01:00+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "f58aac49692d",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
-  "teaser": "Colette Kress addresses ‘all-hands’ meeting as departed founder Jensen Huang manoeuvres for a return",
-  "link": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
-  "published": "2026-11-18T20:40:19+00:00",
-  "seen": "2026-11-19T00:30:32+00:00"
- },
- {
-  "id": "f0f797ea85c3",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday",
-  "teaser": "After waiting 13 years for this videogame, almost one-fifth of workers are said to be taking Thursday off to play ‘Grand Theft Auto VI’ when it drops",
-  "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-  "published": "2026-11-18T20:29:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "97705135b868",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "CoreWeave Says Nvidia Is ‘Not One Person,’ Remains a Key Partner",
-  "teaser": "CoreWeave Inc. has moved to dispel concerns that Jensen Huang’s exit from Nvidia Corp. could affect the chipmaker’s support for neoclouds, with strategy leader Ben Richardson saying it plans to keep working with the company. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/coreweave-says-nvidia-remains-a-key-partner-video",
-  "published": "2026-11-18T20:20:20+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "0f3d289a19c3",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
-  "teaser": "The 25-year-old AI trader has held talks about employing leverage again and raising funds after wipeout nearly toppled firm",
-  "link": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
-  "published": "2026-11-18T20:15:44+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "372e88185da7",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Citi settles sex harassment case alleging threats to managing director",
-  "teaser": "Wall Street bank resolves lawsuit filed by former markets executive who accused it of fostering a culture of sexual abuse",
-  "link": "https://www.ft.com/content/1e37b3de-6691-4edc-a3d3-e96eb73affed?syn-25a6b1a6=1",
-  "published": "2026-11-18T19:52:21+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "8409d850e2fa",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Leveraged ETF Race Heats Up Even Before Stock’s Debut",
-  "teaser": "A slew of leveraged ETFs tied to SpaceX launched soon after its public debut, but only one managed to attract meaningful assets. That experience has raised the stakes for Anthropic: Issuers are racing to get out front in hopes that their fund becomes the one that captures the…",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-leveraged-etf-race-heats-up-even-before-stock-s-debut",
-  "published": "2026-11-18T19:49:06+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "c9bcd104c52a",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-  "teaser": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
-  "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
-  "published": "2026-11-18T19:47:05+00:00",
-  "seen": "2026-11-20T04:30:31+00:00"
  }
 ]
