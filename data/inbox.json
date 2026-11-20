@@ -2354,6 +2354,17 @@
   "seen": "2026-11-19T20:40:46+00:00"
  },
  {
+  "id": "82bae788ff37",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "What to Know About Anthropic’s Record-Breaking IPO",
+  "teaser": "Shares in the maker of the Claude chatbot began trading midday Thursday.",
+  "link": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main",
+  "published": "2026-11-19T18:14:00+00:00",
+  "seen": "2026-11-20T20:30:35+00:00"
+ },
+ {
   "id": "5591e008c561",
   "source": "MarketWatch",
   "lang": "en",
@@ -3285,17 +3296,6 @@
   "title": "Nvidia Is the Central Bank to AI’s Circular Economy. See Where the Money Goes.",
   "teaser": "The company has struck at least 293 deals since 2023 and amassed a more than $100 billion investment portfolio.",
   "link": "https://www.wsj.com/finance/stocks/nvidia-is-the-central-bank-to-ais-circular-economy-see-where-the-money-goes-da480b61?mod=rss_markets_main",
-  "published": "2026-11-19T10:30:00+00:00",
-  "seen": "2026-11-19T11:44:32+00:00"
- },
- {
-  "id": "041d3822365d",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Is Anthropic Worth $1.1 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
-  "teaser": "The company’s complex structure and funding make for confusing valuation math.",
-  "link": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main",
   "published": "2026-11-19T10:30:00+00:00",
   "seen": "2026-11-19T11:44:32+00:00"
  }
