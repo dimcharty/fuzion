@@ -1,5 +1,148 @@
 [
  {
+  "id": "6cacbce15024",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "IDR/USD: Why Indonesia’s Rupiah Is So Weak And What It Means For the Economy",
+  "teaser": "Indonesia’s rupiah — Asia’s worst-performing currency this year — has been under pressure since late 2024, as investors have grown increasingly concerned about the country’s fiscal outlook. Before the current period of volatility, the currency hadn’t traded at such low levels…",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/idr-usd-why-indonesia-s-rupiah-is-so-weak-and-what-it-means-for-the-economy",
+  "published": "2026-11-20T05:42:07+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "891840b05aae",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Cambodia Sees Growth Risk as High US Rates Hit Economy",
+  "teaser": "National Bank of Cambodia Governor Chea Serey says her country faces pressure from elevated US rates, imported inflation and higher funding costs because of its dollarized economy. She adds that the government remains more optimistic than the International Monetary Fund on…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-20/cambodia-sees-growth-risk-as-high-us-rates-hit-economy-video",
+  "published": "2026-11-20T05:09:32+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "fb635d8eceb2",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic’s Wall Street stimulus fades",
+  "teaser": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
+  "link": "https://www.ft.com/content/4f7cf30e-5c9a-489f-bd01-2283a6c9d0e9?syn-25a6b1a6=1",
+  "published": "2026-11-20T05:00:26+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "cf8738295f10",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
+  "teaser": "Tight correlation between crude prices and borrowing costs has broken down",
+  "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
+  "published": "2026-11-20T05:00:26+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "42003d05f93e",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Can Nvidia learn from AIG’s mistakes?",
+  "teaser": "The chip giant’s role as the quasi-central bank of AI is reminiscent of the insurance company’s position before the subprime mortgage bubble",
+  "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
+  "published": "2026-11-20T05:00:17+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "f6bdbc3834f1",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
+  "teaser": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
+  "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
+  "published": "2026-11-20T05:00:17+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "bf9b0897f9b5",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "How pensions ate the state",
+  "teaser": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
+  "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
+  "published": "2026-11-20T05:00:08+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "a62258e99e35",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "China prepares to restart US private equity investments after pullback",
+  "teaser": "Beijing’s flagship sovereign wealth fund leading push for special terms to protect against disaster scenarios to unlock funding",
+  "link": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
+  "published": "2026-11-20T05:00:07+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "8c7e782c7198",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Cyberattacks Drive Claims Surge at Japan Insurers",
+  "teaser": "Japan’s biggest property insurers are reporting a sharp jump in cyber insurance claims as artificial intelligence-driven attacks grow more sophisticated and hacking incidents surge nationwide.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-fueled-cyberattacks-drive-claims-surge-at-japan-insurers",
+  "published": "2026-11-20T04:55:02+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "7dbb7047ba63",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China Has Capacity, But Maybe Not the Will to Boost Fuel Exports",
+  "teaser": "China has the greatest ability to boost global fuel supplies after it agreed with the US and Russia to do so, although whether Beijing will follow through on the pledge is doubtful.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/china-has-capacity-but-maybe-not-the-will-to-boost-fuel-exports",
+  "published": "2026-11-20T04:50:25+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "0a34988ef77f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Yen Outperforms G-10 Peers as Tech Selloff Fuels Haven Demand",
+  "teaser": "The yen led gains among Group of 10 currencies on Friday as investors sought havens amid a deepening selloff in technology stocks that has spilled into Asia trading.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/yen-outperforms-g-10-peers-as-tech-selloff-fuels-haven-demand",
+  "published": "2026-11-20T04:41:20+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "018b1511ff9b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Treasuries Eye Longest Rally in Five Months on Haven Demand",
+  "teaser": "Treasuries are headed for their longest rally in almost five months, as mounting doubts over the artificial intelligence trade deepen a global stock selloff and drive investors toward haven assets.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand",
+  "published": "2026-11-20T04:33:23+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
+  "id": "5f4a84fedb41",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Pakistan Minister Makes Rare India Visit for Regional Forum",
+  "teaser": "Pakistan’s Climate Change Minister Musadik Malik arrived in New Delhi Friday for a two-day regional forum, the first such high-level visit since 2023, though it signals no broader thaw in ties between the neighbors.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/pakistan-minister-makes-rare-india-visit-for-regional-forum",
+  "published": "2026-11-20T04:32:39+00:00",
+  "seen": "2026-11-20T05:44:44+00:00"
+ },
+ {
   "id": "a937395ac6b8",
   "source": "Bloomberg",
   "lang": "en",
@@ -3155,148 +3298,5 @@
   "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
   "published": "2026-11-18T19:47:05+00:00",
   "seen": "2026-11-20T04:30:31+00:00"
- },
- {
-  "id": "54a6882c3e76",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Fed Minutes Leave Door Open to Larger December Rate Hike",
-  "teaser": "Minutes of the Federal Open Market Committee’s Oct. 27-28 meeting show nearly all Federal Reserve officials agreed they would likely have to raise interest rates “in the months ahead” to return inflation to their 2% target in a timely manner. Michael McKee reports. (Source:…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/fed-minutes-leave-door-open-to-larger-december-rate-hike-video",
-  "published": "2026-11-18T19:43:20+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "3a261481b746",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-  "teaser": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
-  "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-  "published": "2026-11-18T19:41:59+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "d690caa12512",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
-  "teaser": "The Trump administration and Congress have been rushing to address the series of technology failures that have hit the U.S. over the past week, with Vice President J.D. Vance withdrawing from an event Wednesday in order to take part in meetings on the issue.",
-  "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
-  "published": "2026-11-18T19:39:00+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "1caf8ffa292c",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Fed minutes show growing unease about the outlook for inflation",
-  "teaser": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
-  "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-  "published": "2026-11-18T19:38:00+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "9ae6057ed93b",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Venture Global Pushes to Expand LNG Production Amid Demand Growth Expectations",
-  "teaser": "The liquefied natural gas producer is making headway on two expansion projects that will help take production capacity past 100 million metric tons a year before the end of 2030.",
-  "link": "https://www.wsj.com/business/energy-oil/venture-global-pushes-to-expand-lng-production-amid-demand-growth-expectations-067008cf?mod=rss_markets_main",
-  "published": "2026-11-18T19:27:00+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "4894ffda7210",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Meet the European Central Bank’s new squad",
-  "teaser": "A Spaniard, a German and a Frenchwoman",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
-  "published": "2026-11-18T19:24:30+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "e48ffab676f8",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Need Accountability, Transparency in FAA Funding, Says Sen. Capito",
-  "teaser": "Republican Senator Shelley Moore Capito of West Virginia talks about government funding, energy permitting reform and concerns about advanced chips going to China. Capito said that there needs to be more a 'accountability' and 'transparency' for FAA funding, adding that…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/need-accountability-transparency-in-faa-funding-capito-video",
-  "published": "2026-11-18T19:23:56+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "6b349ced7a5b",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Fed’s Barr Says Higher Rates Are Likely ‘Appropriate’",
-  "teaser": "Federal Reserve Governor Michael Barr says higher interest rates would likely be appropriate to help tame inflation that continues to squeeze American households. He speaks at the New York Fed's Making Missing Markets event. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/fed-s-barr-says-higher-rates-are-likely-appropriate-video",
-  "published": "2026-11-18T19:00:54+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "dbea10a75a84",
-  "source": "Federal Reserve",
-  "lang": "en",
-  "weight": 8,
-  "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-  "teaser": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-  "published": "2026-11-18T19:00:00+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "f7787dfba78a",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Новини 18 листопада: план ЄС на 45 мільярдів євро, обвал нафтопереробки РФ",
-  "teaser": "",
-  "link": "https://epravda.com.ua/finances/finansuvannya-yes-naftopererobka-rf-kurs-yevro-golovne-za-18-listopada-827793/",
-  "published": "2026-11-18T19:00:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "9d36092f0ec7",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "US Carrier Leaves Persian Gulf for Japan, Leaving Two in Region",
-  "teaser": "One of three US aircraft carrier strike groups in the Persian Gulf region to enforce the naval blockade against Iran has left the region and is likely returning to its home port, according to two US officials.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/us-carrier-leaves-persian-gulf-for-japan-leaving-two-in-region",
-  "published": "2026-11-18T18:56:08+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
- },
- {
-  "id": "5cbf14ef7603",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "ЄЦБ побачив у гонці за ШІ небезпечні паралелі з кризою 2008 року",
-  "teaser": "",
-  "link": "https://epravda.com.ua/finances/yecb-pobachiv-u-borgovomu-bumi-shi-paraleli-z-finansovimi-bulbashkami-827789/",
-  "published": "2026-11-18T18:45:00+00:00",
-  "seen": "2026-11-18T20:35:39+00:00"
- },
- {
-  "id": "6724637a15be",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "BOE to Test How Private Credit Could Amplify Shocks",
-  "teaser": "Hedge fund investors warned that stress is building across credit markets, with the weakest CCC borrowers particularly vulnerable as higher rates, loose documentation and deteriorating underwriting raise default risks. They also pointed to emerging strains in private credit and…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/boe-to-test-how-private-credit-could-amplify-shocks-video",
-  "published": "2026-11-18T18:39:19+00:00",
-  "seen": "2026-11-18T20:30:10+00:00"
  }
 ]
