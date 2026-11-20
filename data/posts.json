@@ -1,5 +1,36 @@
 [
  {
+  "id": "digest-2026-11-20",
+  "kind": "digest",
+  "category": "digest",
+  "title_uk": "Ранковий дайджест: 20 листопада",
+  "summary_uk": "Три головні події фінансового світу за минулу добу.",
+  "source": "Fuzion Societe",
+  "link": "https://t.me/fuzionsoc",
+  "items": [
+   {
+    "title_uk": "Акції Anthropic зросли на 17% після рекордного виходу на Wall Street",
+    "summary_uk": "Розробник ШІ на чолі з Даріо Амодеї залучив 81 млрд доларів у збільшеному публічному розміщенні, а в перший день торгів його акції подорожчали на 17%.",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1"
+   },
+   {
+    "title_uk": "Азійські біржі падають: IPO Anthropic не зупинило розпродаж акцій ШІ",
+    "summary_uk": "У п'ятницю вранці фондові ринки Азії знизилися — навіть гучний дебют Anthropic не переломив падіння акцій компаній зі сфери штучного інтелекту.",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main"
+   },
+   {
+    "title_uk": "Зустріч Трампа, Сі та Путіна дала мало конкретних результатів",
+    "summary_uk": "Лідери США, Китаю та Росії зустрілися на полях саміту АТЕС у Шеньчжені й пообіцяли наростити світові поставки пального, але відчутних домовленостей майже немає.",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/trilateral-talks-yield-few-concrete-results"
+   }
+  ],
+  "published": "2026-11-20T05:44:34+00:00",
+  "added": "2026-11-20T05:44:34+00:00"
+ },
+ {
   "id": "e3d361c0b90e",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
@@ -1250,16 +1281,6 @@
   "summary_uk": "Міністерство торгівлі США оголосило про нове правило, яке має обмежити віддалений доступ Китаю до передових чипів. Після цього акції Nvidia продовжили зниження, пише MarketWatch.",
   "category": "companies",
   "published": "2026-11-16T15:22:00+00:00",
-  "added": "2026-11-16T16:30:37+00:00"
- },
- {
-  "id": "8908f147eca0",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-16/canada-inflation-holds-steady-at-3-1-in-october",
-  "title_uk": "Канадський долар упав до мінімуму з 2025 року після даних про інфляцію 3,1%",
-  "summary_uk": "Річна інфляція в Канаді у жовтні залишилася на рівні 3,1%: споживчі ціни підштовхували вгору дорожчі енергоносії. Водночас подешевшали тарифи мобільного зв'язку, а зростання орендної плати сповільнилося. На цьому тлі курс канадського долара опустився до найнижчого рівня з 2025 року, повідомляє Bloomberg.",
-  "category": "economy",
-  "published": "2026-11-16T13:30:01+00:00",
   "added": "2026-11-16T16:30:37+00:00"
  }
 ]
