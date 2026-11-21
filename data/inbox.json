@@ -1,5 +1,71 @@
 [
  {
+  "id": "abf9bc70588c",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+  "teaser": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+  "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+  "published": "2026-11-21T20:15:00+00:00",
+  "seen": "2026-11-21T20:30:24+00:00"
+ },
+ {
+  "id": "70723a2bbabc",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+  "teaser": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+  "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+  "published": "2026-11-21T19:45:00+00:00",
+  "seen": "2026-11-21T20:30:24+00:00"
+ },
+ {
+  "id": "0371485c3a10",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+  "teaser": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+  "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+  "published": "2026-11-21T19:23:00+00:00",
+  "seen": "2026-11-21T20:30:24+00:00"
+ },
+ {
+  "id": "2833f47e06de",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
+  "teaser": "We analyzed everything from estate planning to retirement income options at some of the larger registered investment advisor firms to help retirees select a firm that could best connect them with a fiduciary financial advisor.",
+  "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
+  "published": "2026-11-21T18:30:00+00:00",
+  "seen": "2026-11-21T20:30:24+00:00"
+ },
+ {
+  "id": "ebe348207bfa",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+  "teaser": "This one, simple, low-pain tax solves all the problems.",
+  "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+  "published": "2026-11-21T18:20:00+00:00",
+  "seen": "2026-11-21T20:30:24+00:00"
+ },
+ {
+  "id": "f9529e46a104",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
+  "teaser": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US",
+  "link": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
+  "published": "2026-11-21T17:52:20+00:00",
+  "seen": "2026-11-21T20:30:24+00:00"
+ },
+ {
   "id": "ec64a1e8c3ad",
   "source": "Financial Times",
   "lang": "en",
@@ -548,6 +614,17 @@
   "link": "https://www.ft.com/content/3333e0cf-c3d8-4836-92c7-a84878e802a3?syn-25a6b1a6=1",
   "published": "2026-11-21T05:00:45+00:00",
   "seen": "2026-11-21T05:44:07+00:00"
+ },
+ {
+  "id": "8afd22be9370",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Miguel Ángel Félix Gallardo, drug lord, 1946-2026",
+  "teaser": "Nicknamed ‘the godfather’, he built a criminal network in Mexico that transformed the global narcotics industry",
+  "link": "https://www.ft.com/content/fbf39142-a256-4fa8-a689-e958d80112a4?syn-25a6b1a6=1",
+  "published": "2026-11-21T05:00:45+00:00",
+  "seen": "2026-11-21T20:30:24+00:00"
  },
  {
   "id": "900f954ea7c6",
@@ -3220,83 +3297,6 @@
   "teaser": "Bloomberg Green convened industry leaders, policymakers, and climate innovators during Climate Week NYC to explore what's next in the transition to a more resilient and future-ready world. (Source: Bloomberg)",
   "link": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-green-new-york-2026-highlights-video",
   "published": "2026-11-19T20:01:26+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "7816a3b669c5",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Australia’s Leader to Navigate Trade, Security in Talks With Xi",
-  "teaser": "Australian Prime Minister Anthony Albanese will aim to navigate delicate security and trade issues when he meets Chinese President Xi Jinping on Friday, seeking to ease access for commodities to its biggest export partner.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/australia-s-leader-to-navigate-trade-security-in-talks-with-xi",
-  "published": "2026-11-19T20:00:00+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "2777bdc6c31b",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic IPO Said to Draw Over $9.4 Billion in Japan Order Book",
-  "teaser": "Anthropic PBC drew orders for more than three times the shares available in the Japan tranche of its US initial public offering.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-draw-over-9-4-billion-in-japan-order-book",
-  "published": "2026-11-19T20:00:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
- },
- {
-  "id": "9a08e90b363f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Fed's Barr Says Inflation Calls for Further Policy Adjustment",
-  "teaser": "Federal Reserve Governor Michael Barr says inflation is too high and monetary policy needs to be adjusted further to balance risks at FinRegLab's AI Symposium. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/fed-s-barr-says-inflation-calls-for-policy-adjustment-video",
-  "published": "2026-11-19T19:59:01+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "d733fbdb5781",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Traders and Investors Want to Exercise Their Convictions: Bilal Little",
-  "teaser": "Bilal Little, global ETF strategist at Direxion, joins Scarlet Fu on a special edition of “Bloomberg Markets.” Providers have filed for more than 20 exchange-traded products to amplify daily moves on Anthropic, both on the upside and the downside, as firms including Direxion,…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/traders-and-investors-act-on-convictions-bilal-little-video",
-  "published": "2026-11-19T19:47:41+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "66ba76fc23de",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Big Checks and Big Blobs of Compute",
-  "teaser": "Our first public frontier AI company is here.",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/big-checks-and-big-blobs-of-compute",
-  "published": "2026-11-19T19:42:17+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "4c87ed53883a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Crunch Fitness Sells $800 Million of ABS Tied to Franchise Deals",
-  "teaser": "Crunch Fitness sold $800 million of asset backed securities on Thursday, the latest in a recent streak of whole-business bond deals.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/crunch-fitness-sells-800-million-of-abs-tied-to-franchise-deals",
-  "published": "2026-11-19T19:25:15+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "661ac518375e",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Leveraged ETF Race Heats Up",
-  "teaser": "Bilal Little, global ETF strategist at Direxion, joins Scarlet Fu on a special edition of “Bloomberg Markets.” Providers have filed for more than 20 exchange-traded products to amplify daily moves on Anthropic, both on the upside and the downside, as firms including Direxion,…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-leveraged-etf-race-heats-up-video",
-  "published": "2026-11-19T19:23:40+00:00",
   "seen": "2026-11-19T20:30:13+00:00"
  }
 ]
