@@ -1,5 +1,49 @@
 [
  {
+  "id": "4749a04829b9",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
+  "teaser": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress",
+  "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
+  "published": "2026-11-21T12:00:08+00:00",
+  "seen": "2026-11-21T12:30:58+00:00"
+ },
+ {
+  "id": "29e1e1ebf7c5",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Traders start to move US copper to China as Trump tariff fears ease",
+  "teaser": "Acute Chinese shortage and high local premium create lucrative arbitrage",
+  "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+  "published": "2026-11-21T12:00:08+00:00",
+  "seen": "2026-11-21T12:30:58+00:00"
+ },
+ {
+  "id": "c58d8da5fef8",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
+  "teaser": "Investors are now more focused on protecting their portfolios than looking for bargains",
+  "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+  "published": "2026-11-21T12:00:00+00:00",
+  "seen": "2026-11-21T12:30:58+00:00"
+ },
+ {
+  "id": "8e72c71d3f21",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
+  "teaser": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in neutral waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic shipping routes.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+  "published": "2026-11-21T11:44:46+00:00",
+  "seen": "2026-11-21T12:30:58+00:00"
+ },
+ {
   "id": "e796a2b480e1",
   "source": "Bloomberg",
   "lang": "en",
@@ -141,6 +185,17 @@
   "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
   "published": "2026-11-21T05:00:16+00:00",
   "seen": "2026-11-21T05:44:07+00:00"
+ },
+ {
+  "id": "3bd46d01e84a",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Russia and Ukraine’s drone war sends optical fibre prices soaring",
+  "teaser": "Kyiv’s drone advantage is threatened by sixfold price surge in key anti-jamming commodity",
+  "link": "https://www.ft.com/content/339c3a72-bce5-44ed-bc6c-c8a8199cfb40?syn-25a6b1a6=1",
+  "published": "2026-11-21T05:00:08+00:00",
+  "seen": "2026-11-21T12:30:58+00:00"
  },
  {
   "id": "0d9a23002b10",
@@ -3242,61 +3297,6 @@
   "teaser": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
   "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
   "published": "2026-11-19T15:52:00+00:00",
-  "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "98f5687d2144",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Tod’s Nears €400 Million Debt Refinance Backed by Group’s Owners",
-  "teaser": "Tod’s SpA is close to securing a €400 million ($439 million) debt refinancing backstopped by its owners that would ease financial pressure on the Italian luxury group, according to people familiar with the matter.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/tod-s-nears-400-million-debt-refinance-backed-by-group-s-owners",
-  "published": "2026-11-19T15:50:42+00:00",
-  "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "35fce99cda05",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Міністр енергетики США не бачить ознак, що ЄС хоче повернутися до енергоносіїв РФ",
-  "teaser": "Міністр енергетики США Кріс Райт заявив, що не бачить жодних ознак зацікавленості будь-якої європейської країни у відновленні імпорту російських енергоносіїв, відповідаючи на запитання щодо повідомлень ЗМІ про нібито плани США сприяти продажу російського газу до Європи.",
-  "link": "https://epravda.com.ua/energetika/u-ssha-ne-vvazhayut-shcho-yes-gotoviy-povernutis-do-gazu-ta-nafti-z-rf-827831/",
-  "published": "2026-11-19T15:48:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
- },
- {
-  "id": "3525bc99c762",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "“Grand Theft Auto VI” Blurs Fiction and Reality",
-  "teaser": "Grand Theft Auto once sparked public outrage, lawsuits and congressional scrutiny. Now it’s the biggest game in the world. Bloomberg Opinion columnist Gearoid Reidy explains how our society has come to resemble a world that GTA once satirized. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/opinion-gta-blurs-fiction-and-reality-video",
-  "published": "2026-11-19T15:47:35+00:00",
-  "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "caf9a7ff1514",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Shares Indicated to Open 25% Above IPO",
-  "teaser": "Anthropic shares are set to soar when they start trading on Thursday, after the AI lab’s $107.3 billion IPO and private placement broke SpaceX’s record for the biggest-ever offering. The company behind the Claude chatbot and its seven co-founders raised $81.3 billion in an IPO…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-indicated-to-open-25-above-ipo-video",
-  "published": "2026-11-19T15:43:02+00:00",
-  "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "c3ddb5aff261",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Set for Historic Debut on the Nasdaq",
-  "teaser": "Anthropic is set to be the biggest IPO of all time. The opening share price keeps rising. The IPO price was $83 per share. Bloomberg's Ryan Gould and Mandeep Singh of Bloomberg Intelligence set the stage for us. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-set-for-historic-debut-on-the-nasdaq-video",
-  "published": "2026-11-19T15:34:26+00:00",
   "seen": "2026-11-19T16:30:38+00:00"
  }
 ]
