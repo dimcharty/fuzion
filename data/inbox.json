@@ -1,5 +1,71 @@
 [
  {
+  "id": "e45a8a7386eb",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China Military Bans SF Express From Procurement Over Misconduct",
+  "teaser": "SF Express Co., a leading Chinese delivery and logistics company, has been suspended from participating in military-wide procurement of goods, engineering and services over alleged violations.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
+  "published": "2026-11-21T05:00:48+00:00",
+  "seen": "2026-11-21T05:44:07+00:00"
+ },
+ {
+  "id": "47fa5953d11c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Sam Houser, the Rockstar gamer behind ‘Grand Theft Auto’",
+  "teaser": "With ‘GTA VI’, his franchise has set a new record in global entertainment",
+  "link": "https://www.ft.com/content/3333e0cf-c3d8-4836-92c7-a84878e802a3?syn-25a6b1a6=1",
+  "published": "2026-11-21T05:00:45+00:00",
+  "seen": "2026-11-21T05:44:07+00:00"
+ },
+ {
+  "id": "900f954ea7c6",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "The manufacturing of novelty",
+  "teaser": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things",
+  "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
+  "published": "2026-11-21T05:00:36+00:00",
+  "seen": "2026-11-21T05:44:07+00:00"
+ },
+ {
+  "id": "d2ef14e6431d",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
+  "teaser": "Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says",
+  "link": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
+  "published": "2026-11-21T05:00:35+00:00",
+  "seen": "2026-11-21T05:44:07+00:00"
+ },
+ {
+  "id": "accaacdca57c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "The AI cyber threat is already here",
+  "teaser": "The freezer war is just a start",
+  "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
+  "published": "2026-11-21T05:00:16+00:00",
+  "seen": "2026-11-21T05:44:07+00:00"
+ },
+ {
+  "id": "77025bc916e3",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Vietnam Amends Laws to Speed Land Clearance, Development of New Projects",
+  "teaser": "Vietnam’s National Assembly passed land law amendments aimed at speeding up site clearance and unblocking of property and infrastructure projects as the government seeks to achieve its multiyear double-digit economic growth target.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-21/vietnam-amends-laws-to-speed-land-clearance-development-of-new-projects",
+  "published": "2026-11-21T04:51:42+00:00",
+  "seen": "2026-11-21T05:44:07+00:00"
+ },
+ {
   "id": "77f2688d9283",
   "source": "Bloomberg",
   "lang": "en",
@@ -1472,6 +1538,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-20/how-an-american-ai-company-uses-chinese-open-weight-models",
   "published": "2026-11-20T09:00:00+00:00",
   "seen": "2026-11-20T11:45:04+00:00"
+ },
+ {
+  "id": "7655dd6d8577",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Billionaire Raises $720 Million Private Credit for Megha Buyout",
+  "teaser": "Indian billionaire P.V. Krishna Reddy has secured about 67 billion rupees ($720 million) from global private credit investors to buy out his uncle’s stake in Megha Engineering & Infrastructures Ltd., according to people familiar with the matter, in a layered transaction that is…",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout",
+  "published": "2026-11-20T08:57:50+00:00",
+  "seen": "2026-11-21T05:44:07+00:00"
  },
  {
   "id": "db961f9a7d06",
@@ -3221,82 +3298,5 @@
   "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
   "published": "2026-11-19T14:52:00+00:00",
   "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "9d0f36a1833f",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "KKR Invests in India Renewables Business Run by Petronas-Backed Gentari",
-  "teaser": "Investment firm KKR made a minority investment in a renewable-energy platform in India run by Gentari, an entity established by Malaysia’s national oil and gas company.",
-  "link": "https://www.wsj.com/pro/private-equity/kkr-invests-in-india-renewables-business-run-by-petronas-backed-gentari-a096348c?mod=rss_markets_main",
-  "published": "2026-11-19T14:51:00+00:00",
-  "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "adbbf08a4bfd",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
-  "teaser": "A number of public pension plans already have a stake in Anthropic.",
-  "link": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
-  "published": "2026-11-19T14:48:00+00:00",
-  "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "eb8a66491dda",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "У колишнього податківця конфіскують активи на сім мільйонів: він програв апеляцію",
-  "teaser": "Апеляція залишила без змін рішення суду першої інстанції про визнання необґрунтованими активів родини колишнього начальника відділу Державної податкової служби в Сумській області.",
-  "link": "https://epravda.com.ua/biznes/u-kolishnogo-podatkivcya-konfiskuyut-aktivi-na-sim-milyoniv-vin-prograv-apelyaciyu-827828/",
-  "published": "2026-11-19T14:45:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
- },
- {
-  "id": "a076a7c69063",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic IPO Allocates Nothing to Most Institutional Orders",
-  "teaser": "Anthropic PBC’s initial public offering left more than half of the institutional investors bidding for stock without any shares, according to people familiar with the matter.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers",
-  "published": "2026-11-19T14:35:54+00:00",
-  "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "f4528ae77ada",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Canada Producer Prices Rise Again in October, Buoyed by Energy Products",
-  "teaser": "Statistics Canada’s industrial product price index increased 0.3% in October from the month before, a softer advance than the downwardly revised 1.5% increase in September.",
-  "link": "https://www.wsj.com/economy/canada-producer-prices-rise-again-in-october-buoyed-by-energy-products-e2caa281?mod=rss_markets_main",
-  "published": "2026-11-19T14:35:00+00:00",
-  "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "e5813a69c83c",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Shoprite Moves to End Tycoon Wiese’s Dual-Class Shares",
-  "teaser": "Shoprite Holdings Ltd. moved to dismantle a 25-year-old structure that gives billionaire Christo Wiese voting rights that are disproportionately larger than his actual economic interest in Africa’s biggest supermarket retailer.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/shoprite-moves-to-dismantle-tycoon-wiese-s-dual-class-structure",
-  "published": "2026-11-19T14:23:58+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "297bd40792fb",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "У Києві – тимчасові зміни в роботі метрополітену",
-  "teaser": "Поїзди київського метро на \"червоній\" лінії тимчасово рухатимуться від станції Академмістечко до Театральної і Арсенальної до Академмістечка.",
-  "link": "https://epravda.com.ua/biznes/u-kiyevi-timchasovi-zmini-v-roboti-metropolitenu-827826/",
-  "published": "2026-11-19T14:15:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
  }
 ]
