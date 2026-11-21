@@ -1,5 +1,65 @@
 [
  {
+  "id": "b8da9a24e52c",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60?syn-25a6b1a6=1",
+  "title_uk": "Британія та ЄС уклали угоду, що стала першим кроком до перегляду Brexit",
+  "summary_uk": "Прем'єр-міністр Британії Енді Бернем уклав у Брюсселі знакову угоду з Євросоюзом про тісніші відносини після Brexit. Втім, домовленість затьмарили суперечка щодо плати за навчання в університетах і питання про те, куди рухатимуться стосунки сторін далі.",
+  "category": "world",
+  "published": "2026-11-20T15:57:09+00:00",
+  "added": "2026-11-21T00:29:47+00:00"
+ },
+ {
+  "id": "4da447f6aea9",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=rss_markets_main",
+  "title_uk": "Нафта в п'ятницю розвернулася до зниження після початкового зростання",
+  "summary_uk": "Ціни на нафту в п'ятницю втратили ранні здобутки й пішли вниз. Трейдери зважували покращення світової пропозиції та постійні загрози для перевезень нафти з Близького Сходу. Для України, яка імпортує пальне, світові ціни на нафту впливають на вартість бензину й дизеля.",
+  "category": "energy",
+  "published": "2026-11-20T12:37:00+00:00",
+  "added": "2026-11-21T00:29:47+00:00"
+ },
+ {
+  "id": "54cc23446c79",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
+  "title_uk": "Акції американських страховиків і лікарень падають через пропозицію Medicare for All",
+  "summary_uk": "Інвестори шукали захисту від розпродажу в секторі охорони здоров'я, але цього тижня акції UnitedHealth, Humana та CVS Health знизилися. Тиск на них посилила нова пропозиція запровадити в США загальне державне медичне страхування Medicare for All.",
+  "category": "markets",
+  "published": "2026-11-20T15:53:00+00:00",
+  "added": "2026-11-21T00:29:47+00:00"
+ },
+ {
+  "id": "e84def67155c",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories",
+  "title_uk": "Трамп намагається завадити техгігантам будувати дата-центри за межами США",
+  "summary_uk": "Компанії, що розвивають інфраструктуру для штучного інтелекту, дедалі частіше планують нові дата-центри за кордоном, адже в самих США політики й мешканці насторожено ставляться до таких об'єктів. Президент пригрозив санкціями компаніям, які будують центри поза США, однак фондовий ринок продовжив падіння.",
+  "category": "policy",
+  "published": "2026-11-20T18:57:00+00:00",
+  "added": "2026-11-21T00:29:47+00:00"
+ },
+ {
+  "id": "c11a8b392bb9",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/asset-backed-debt-sales-top-post-gfc-record-on-ai-strength",
+  "title_uk": "Продажі облігацій, забезпечених активами, втретє поспіль б'ють рекорд після кризи 2008 року",
+  "summary_uk": "Обсяг розміщень цінних паперів, забезпечених активами (ABS), уже третій рік поспіль перевищує найвищий рівень від часів світової фінансової кризи. Попит підтримують компанії, що будують інфраструктуру для ШІ й позичають на ринку, а також страхові компанії з великими вільними коштами.",
+  "category": "markets",
+  "published": "2026-11-20T19:41:53+00:00",
+  "added": "2026-11-21T00:29:47+00:00"
+ },
+ {
+  "id": "2c9c18a61326",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
+  "title_uk": "Облігації Аргентини вперше за два роки опустилися до проблемного рівня",
+  "summary_uk": "Глобальна втеча інвесторів від ризику вдарила по Аргентині в слабкий момент. Розпродаж її облігацій, який підживлюють побоювання щодо виборів наступного року, посилився, і борг країни вперше за два роки перейшов у категорію проблемного (distressed).",
+  "category": "economy",
+  "published": "2026-11-20T18:12:35+00:00",
+  "added": "2026-11-21T00:29:47+00:00"
+ },
+ {
   "id": "c0da7ec0e124",
   "source": "MarketWatch",
   "link": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
@@ -1201,65 +1261,5 @@
   "category": "markets",
   "published": "2026-11-17T05:11:00+00:00",
   "added": "2026-11-17T12:30:00+00:00"
- },
- {
-  "id": "00f0df361cde",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main",
-  "title_uk": "Акції Deutsche Bank впали після масштабного витоку документів про зв'язки з російськими олігархами",
-  "summary_uk": "Акції Deutsche Bank знизилися після публікацій медіа на основі злитих внутрішніх документів. За ними, банк залучав російських олігархів як клієнтів і планував розширювати бізнес у Росії незадовго до повномасштабного вторгнення в Україну.",
-  "category": "banks",
-  "published": "2026-11-17T09:22:00+00:00",
-  "added": "2026-11-17T12:30:00+00:00"
- },
- {
-  "id": "ce72cee59128",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main",
-  "title_uk": "Золото тримається на найнижчому рівні більш ніж за рік",
-  "summary_uk": "Дорогоцінний метал не може відновитися після падіння до мінімумів понад річної давнини. Тиск чинять міцний долар і ставки інвесторів на жорсткішу політику ФРС, через які золото стає менш привабливим.",
-  "category": "markets",
-  "published": "2026-11-17T00:47:00+00:00",
-  "added": "2026-11-17T08:29:52+00:00"
- },
- {
-  "id": "47d53645ced4",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-is-set-to-hold-rates-as-global-risks-support-caution",
-  "title_uk": "Угорщина, ймовірно, утретє поспіль залишить облікову ставку без змін",
-  "summary_uk": "Центробанк Угорщини, за очікуваннями, не змінюватиме ставку вже третій місяць. Регулятор зважує пожвавлення інфляції на тлі зростання вартості запозичень у світі, тож схиляється до обережності.",
-  "category": "economy",
-  "published": "2026-11-17T05:00:00+00:00",
-  "added": "2026-11-17T08:29:52+00:00"
- },
- {
-  "id": "cca4c40ca00a",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-17/aluminum-squeeze-intensifies-lme-traders-scrambling-for-metal",
-  "title_uk": "Дефіцит алюмінію на ринку посилюється",
-  "summary_uk": "Пропозиція алюмінію стає дедалі жорсткішою: найближчі ф'ючерсні контракти особливо напружені, і трейдери шукають, де взяти метал. Дефіцит сировини може позначитися на витратах виробників, які використовують алюміній.",
-  "category": "markets",
-  "published": "2026-11-17T05:24:17+00:00",
-  "added": "2026-11-17T08:29:52+00:00"
- },
- {
-  "id": "4d6edea879f6",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a?syn-25a6b1a6=1",
-  "title_uk": "Банки намагаються скоротити кредитні ризики, пов'язані зі ШІ",
-  "summary_uk": "Кредитори продають борги, пов'язані з дата-центрами та чипами, повідомляє FT. Причина — зростання суспільного спротиву, який може зірвати великі інфраструктурні проєкти у сфері штучного інтелекту.",
-  "category": "banks",
-  "published": "2026-11-17T05:00:14+00:00",
-  "added": "2026-11-17T08:29:52+00:00"
- },
- {
-  "id": "ea88cc45f560",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca?syn-25a6b1a6=1",
-  "title_uk": "Президент Фінляндії закликав лідерів Європи напряму говорити з Путіним",
-  "summary_uk": "Александр Стубб вважає безвідповідальним те, що Європа доручила переговори США. На його думку, європейські лідери мають самі вести діалог із Путіним. Для України це сигнал, що в ЄС посилюється дискусія про роль Європи в переговорах щодо завершення війни.",
-  "category": "world",
-  "published": "2026-11-17T05:00:25+00:00",
-  "added": "2026-11-17T08:29:52+00:00"
  }
 ]
