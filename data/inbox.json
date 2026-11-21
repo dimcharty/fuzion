@@ -1,5 +1,49 @@
 [
  {
+  "id": "e796a2b480e1",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "How AI Is Forcing China to Reshape Industrial Policy",
+  "teaser": "Kyle Chan on Beijing's plan to become technologically self-reliant.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
+  "published": "2026-11-21T09:00:13+00:00",
+  "seen": "2026-11-21T11:08:46+00:00"
+ },
+ {
+  "id": "3d913b7fc6c5",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
+  "teaser": "At a factory in Germany, there are increasingly hours when it is simply too expensive to produce steel.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
+  "published": "2026-11-21T09:00:00+00:00",
+  "seen": "2026-11-21T11:08:46+00:00"
+ },
+ {
+  "id": "5e2cc75378d3",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)",
+  "teaser": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about…",
+  "link": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
+  "published": "2026-11-21T09:00:00+00:00",
+  "seen": "2026-11-21T11:08:46+00:00"
+ },
+ {
+  "id": "7c528fadd502",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
+  "teaser": "Webuild SpA, Italy’s biggest construction company, completed its tender offer for smaller competitor Trevi, adding to a string of acquisitions.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
+  "published": "2026-11-21T08:42:34+00:00",
+  "seen": "2026-11-21T11:08:46+00:00"
+ },
+ {
   "id": "658056f8a985",
   "source": "Financial Times",
   "lang": "en",
@@ -3254,49 +3298,5 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-set-for-historic-debut-on-the-nasdaq-video",
   "published": "2026-11-19T15:34:26+00:00",
   "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "ae00f3db7ea0",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Mexican Peso Hits 17-Month Low as Fed Outlook Rattles Markets",
-  "teaser": "The Mexican peso sank past the 19-per-dollar mark to its lowest in over a year, as the prospect of further Federal Reserve tightening intensified a selloff fueled by Mexico’s dovish monetary stance.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets",
-  "published": "2026-11-19T15:34:06+00:00",
-  "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "3847b7e0e31d",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Putin invites European leaders to Moscow",
-  "teaser": "Russian leader signals Russia is unwilling to relax hardline demands for ending Ukraine conflict",
-  "link": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
-  "published": "2026-11-19T15:24:55+00:00",
-  "seen": "2026-11-19T16:30:38+00:00"
- },
- {
-  "id": "2a2b061b5ff3",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Правоохоронці проводять обшуки у Державіаслужбі – джерела УП",
-  "teaser": "Служба безпеки України та Київська обласна прокуратура 19 листопада проводять обшуки в Державній авіаційній службі",
-  "link": "https://epravda.com.ua/biznes/pravoohoronci-provodyat-obshuki-u-derzhaviasluzhbi-dzherela-up-827830/",
-  "published": "2026-11-19T15:17:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
- },
- {
-  "id": "c52b5bfd7b87",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "SpaceX Sells $32 Billion of AI Chip Debt at Yields Topping 8%",
-  "teaser": "SpaceX sold $32 billion of bonds to fund its purchase of artificial intelligence chips on Thursday, in a complicated and relatively high-yielding transaction that may serve as a model for a wave of similar financings to come.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday",
-  "published": "2026-11-19T15:07:20+00:00",
-  "seen": "2026-11-20T02:21:48+00:00"
  }
 ]
