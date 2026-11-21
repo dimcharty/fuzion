@@ -1,5 +1,71 @@
 [
  {
+  "id": "ec64a1e8c3ad",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+  "teaser": "Acquisition would help AWS compete with Nvidia in race for computing power",
+  "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+  "published": "2026-11-21T17:21:36+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "699965c167dc",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+  "teaser": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+  "published": "2026-11-21T17:01:32+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "149cf7e3a7a2",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Alice Huang’s links to the chip underworld",
+  "teaser": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+  "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+  "published": "2026-11-21T17:00:10+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "f5d8562472c6",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "What It’s Like to Retire in Thailand",
+  "teaser": "It’s hot, humid and costs a bit more than we anticipated. But we love the life we’ve built here.",
+  "link": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7?mod=rss_markets_main",
+  "published": "2026-11-21T17:00:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "93f92bb58e46",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+  "teaser": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+  "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+  "published": "2026-11-21T16:50:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "3024aa095fea",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Підпільне виробництво сигарет: БЕБ викрило фабрику \"групи Монако\" – ЗМІ",
+  "teaser": "Фабрика, яка виробляла контрафактні сигарети і яку викрило БЕБ, належала утримувачам так званої \"групи Монако\".",
+  "link": "https://epravda.com.ua/biznes/pidpilne-virobnictvo-sigaret-beb-vikrilo-fabriku-grupi-monako-zmi-827902/",
+  "published": "2026-11-21T15:58:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
   "id": "d28788a0ec66",
   "source": "Bloomberg",
   "lang": "en",
@@ -44,6 +110,28 @@
   "seen": "2026-11-21T16:30:50+00:00"
  },
  {
+  "id": "a2baf74492b3",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+  "teaser": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+  "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+  "published": "2026-11-21T15:15:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "50b661d49468",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У КМДА повідомили, які автобуси відновили рух на лівий берег Південним мостом",
+  "teaser": "У Києві відновлюють рух громадського транспорту з правого на лівий берег Південним мостом, з правого на лівий берег курсуватимуть три автобусні маршрути.",
+  "link": "https://epravda.com.ua/biznes/na-pivdennomu-mostu-vidnovlyuyut-ruh-gromadskogo-transportu-z-pravogo-na-liviy-bereg-kiyeva-827901/",
+  "published": "2026-11-21T15:14:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
   "id": "fde09a1cc263",
   "source": "Bloomberg",
   "lang": "en",
@@ -66,6 +154,28 @@
   "seen": "2026-11-21T16:30:50+00:00"
  },
  {
+  "id": "13cf8b551ff6",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "На лівому березі Києва стабілізували водопостачання",
+  "teaser": "Тиск у водопровідних мережах Лівого берега столиці стабілізувався та відповідає нормативним показникам.",
+  "link": "https://epravda.com.ua/biznes/na-livomu-berezi-kiyeva-stabilizuvali-vodopostachannya-827900/",
+  "published": "2026-11-21T14:55:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "ffcb5499294c",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Патрульна поліція повідомила, як організовано рух Південним мостом у Києві",
+  "teaser": "У Києві рух Південним мостом з правого на лівий берег наразі дозволили лише громадському транспорту.",
+  "link": "https://epravda.com.ua/biznes/patrulna-policiya-povidomila-yak-organizovano-ruh-pivdennim-mostom-u-kiyevi-827899/",
+  "published": "2026-11-21T14:47:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
   "id": "873100a9a9d2",
   "source": "Bloomberg",
   "lang": "en",
@@ -75,6 +185,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
   "published": "2026-11-21T14:24:08+00:00",
   "seen": "2026-11-21T16:30:50+00:00"
+ },
+ {
+  "id": "508d7f050ea0",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Німеччина передасть Україні два локомотива для євроколії",
+  "teaser": "Німеччина передасть Україні два локомотива для європейської колії шириною 1 435 мм, продовжується пошук європейського фінансування для отримання ще 30 локомотивів.",
+  "link": "https://epravda.com.ua/biznes/nimechchina-peredast-ukrajini-dva-lokomotiva-dlya-yevrokoliji-827898/",
+  "published": "2026-11-21T14:13:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
  },
  {
   "id": "1252cb01de9d",
@@ -143,6 +264,17 @@
   "seen": "2026-11-21T16:30:50+00:00"
  },
  {
+  "id": "21073cb78425",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Біткоїн впав до найнижчого за два роки рівня",
+  "teaser": "Біткоїн впав до найнижчого рівня за два роки, оскільки побоювання інвесторів щодо завищеної вартості акцій компаній у сфері штучного інтелекту посилили занепокоєння на ринках і спричинили падіння інших ризикових активів.",
+  "link": "https://epravda.com.ua/biznes/bitkojin-vpav-do-naynizhchogo-za-dva-roki-rivnya-827897/",
+  "published": "2026-11-21T13:10:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
   "id": "264c46d2afa0",
   "source": "Bloomberg",
   "lang": "en",
@@ -185,6 +317,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video",
   "published": "2026-11-21T12:59:40+00:00",
   "seen": "2026-11-21T16:30:50+00:00"
+ },
+ {
+  "id": "00dba3585b2a",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Дефіцит вагонів обмежує перевалку зерна на західному кордоні – агроекспортери",
+  "teaser": "Нестача вагонів європейської колії обмежує експортні можливості зернових терміналів на західному кордоні України.",
+  "link": "https://epravda.com.ua/biznes/deficit-vagoniv-obmezhuye-perevalku-zerna-na-zahidnomu-kordoni-agroeksporteri-827896/",
+  "published": "2026-11-21T12:32:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
  },
  {
   "id": "4749a04829b9",
@@ -231,6 +374,72 @@
   "seen": "2026-11-21T12:30:58+00:00"
  },
  {
+  "id": "26e03a869ba2",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Підсанкційна Кім залишила посаду гендиректора Wildberries",
+  "teaser": "Тетяна Кім, яка потрапила до санкційного списку Євросоюзу, пішла з посади генерального директора Wildberries.",
+  "link": "https://epravda.com.ua/biznes/pidsankciyna-kim-zalishila-posadu-gendirektora-wildberries-827895/",
+  "published": "2026-11-21T11:36:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "d9cb7f181358",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У Фінській затоці дрони атакували судно, яке йшло до Калінінграда – російські ЗМІ",
+  "teaser": "У Фінській затоці два дрони атакували вантажне судно, яке прямувало до Калінінграда, і яке, за даними медіа, перебуває під американськими санкціями з 2022 року.",
+  "link": "https://epravda.com.ua/biznes/u-finskiy-zatoci-droni-atakuvali-sudno-yake-yshlo-do-kaliningrada-827894/",
+  "published": "2026-11-21T10:47:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "bf1c31e52e01",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "США оголосили нові санкції проти Ірану, націлені на нафтовий сектор",
+  "teaser": "Сполучені Штати Америки оголосили санкції проти ключових \"нафтових довірених осіб\", на яких Іран покладається для забезпечення продажу нафти за кордон.",
+  "link": "https://epravda.com.ua/biznes/ssha-ogolosili-novi-sankciji-proti-iranu-nacileni-na-naftoviy-sektor-827893/",
+  "published": "2026-11-21T10:15:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "e9b178b65500",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "В окупованому Криму – масштабні знеструмлення",
+  "teaser": "У тимчасово окупованому Росією Криму – знову масштабні відключення світла: знеструмлені населені пункти п'яти районів та частина Білогорська.",
+  "link": "https://epravda.com.ua/biznes/v-okupovanomu-krimu-masshtabni-znestrumlennya-827892/",
+  "published": "2026-11-21T09:45:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "1b8e7b2fb9b0",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Ворог поцілив у підприємство на Чернігівщині: рятувальники загасили пожежу",
+  "teaser": "На Чернігівщині рятувальники ліквідували пожежу на підприємстві після російської атаки.",
+  "link": "https://epravda.com.ua/biznes/vorog-pociliv-u-pidpriyemstvo-na-chernigivshchini-ryatuvalniki-zagasili-pozhezhu-827891/",
+  "published": "2026-11-21T09:15:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
+  "id": "f0b4d9ce878a",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "ДСНС ліквідувало наслідки російського удару по підприємству на Рівненщині",
+  "teaser": "ДСНС завершило роботи з ліквідації наслідків російського удару по цивільному підприємству у Рівненській області.",
+  "link": "https://epravda.com.ua/biznes/dsns-likviduvalo-naslidki-rosiyskogo-udaru-po-pidpriyemstvu-na-rivnenshchini-827890/",
+  "published": "2026-11-21T09:05:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
   "id": "e796a2b480e1",
   "source": "Bloomberg",
   "lang": "en",
@@ -273,6 +482,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
   "published": "2026-11-21T08:42:34+00:00",
   "seen": "2026-11-21T11:08:46+00:00"
+ },
+ {
+  "id": "5c42deaf47f0",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "На Дніпропетровщині – аварійні відключення",
+  "teaser": "У Дніпрі і частині Дніпропетровщини за командою Укренерго запроваджені екстрені відключення.",
+  "link": "https://epravda.com.ua/biznes/na-dnipropetrovshchini-avariyni-vidklyuchennya-827889/",
+  "published": "2026-11-21T08:30:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
  },
  {
   "id": "658056f8a985",
@@ -405,6 +625,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-21/vietnam-amends-laws-to-speed-land-clearance-development-of-new-projects",
   "published": "2026-11-21T04:51:42+00:00",
   "seen": "2026-11-21T05:44:07+00:00"
+ },
+ {
+  "id": "e23e944af93d",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Nvidia affair puts Chinese spies in spotlight",
+  "teaser": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability",
+  "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+  "published": "2026-11-21T03:58:46+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
  },
  {
   "id": "77f2688d9283",
@@ -2827,6 +3058,17 @@
   "seen": "2026-11-20T00:30:35+00:00"
  },
  {
+  "id": "f7fdfe39ca07",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+  "teaser": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
+  "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
+  "published": "2026-11-19T21:56:00+00:00",
+  "seen": "2026-11-21T17:59:31+00:00"
+ },
+ {
   "id": "f395bc063808",
   "source": "Bloomberg",
   "lang": "en",
@@ -3056,247 +3298,5 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-leveraged-etf-race-heats-up-video",
   "published": "2026-11-19T19:23:40+00:00",
   "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "f7ffa6cc3eb2",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "The Xi, Trump, Putin meeting and the dawn of a post-western world",
-  "teaser": "The symbolism was the substance in Shenzhen",
-  "link": "https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7?syn-25a6b1a6=1",
-  "published": "2026-11-19T19:19:44+00:00",
-  "seen": "2026-11-20T04:30:31+00:00"
- },
- {
-  "id": "86d0b8ed8c04",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic IPO Sets New Standard: Rice Nelson",
-  "teaser": "Jaclyn Rice Nelson, co-founder & CEO of Tribe AI, joins Scarlet Fu on a special edition of “Bloomberg Markets.” They discuss the historic Anthropic IPO. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-sets-new-standard-rice-nelson-video",
-  "published": "2026-11-19T19:17:07+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "dd23ab610968",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
-  "teaser": "The Federal Reserve has warned employees at its regional outposts to expect lower pay increases next year, according to a memo viewed by Bloomberg News.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027",
-  "published": "2026-11-19T19:14:11+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "b3f470b81c37",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
-  "teaser": "The main engine of U.S. growth is in overdrive.",
-  "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
-  "published": "2026-11-19T19:13:00+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "af44c70e2105",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic IPO Backs Up Private Valuations: Schlossman",
-  "teaser": "Evan Schlossman, principal at Neostellar, joins Scarlet Fu on a special edition of “Bloomberg Markets.” They discuss Anthropic’s public trading debut and what it tells us about private market valuations. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-backs-up-private-valuations-schlossman-video",
-  "published": "2026-11-19T19:11:45+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "2ebae6e969e2",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic's Record-Breaking IPO",
-  "teaser": "\"Bloomberg Markets\" follows the market moves across every global asset class and discusses the biggest issues for Wall Street. Today's guests: Neostellar Principal Evan Schlossman, Tribe AI Co-Founder & CEO Jaclyn Rice Nelson, and Drexion ETF Strategist Bilal Little. (Source:…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video",
-  "published": "2026-11-19T19:00:20+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "f3c587b6783f",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Новини 19 листопада: IPO Anthropic",
-  "teaser": "Про що всі говорили сьогодні?",
-  "link": "https://epravda.com.ua/svit/novini-19-listopada-ipo-anthropic-827840/",
-  "published": "2026-11-19T19:00:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
- },
- {
-  "id": "85c5d31f6852",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-  "teaser": "The plan would free up hospital and nursing-home beds — and lower costs.",
-  "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-  "published": "2026-11-19T18:54:00+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "a99126454e64",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms",
-  "teaser": "‘So probably if I could rewind the clock, I would have spent less money,’ Tesla CEO says of his outlays for Republican candidates",
-  "link": "https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories",
-  "published": "2026-11-19T18:43:00+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "4fcd6ac84d19",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "AMD shares fall after short seller report on China links",
-  "teaser": "Chipmaker down by as much as 11% following warnings by Hunterbrook in the aftermath of Nvidia scandal",
-  "link": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
-  "published": "2026-11-19T18:40:23+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "3ae7b7d65e6f",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Deutsche Bank закривав низку рахунків компаній Ахметова через ризики фінзлочинів",
-  "teaser": "У 2019 році відділ протидії фінансовим злочинам Deutsche Bank вирішив припинити співпрацю з значною часткою бізнесу олігарха Ріната Ахметова.",
-  "link": "https://epravda.com.ua/finances/deutsche-bank-pripinyav-spivpracyu-z-deyakimi-kompaniyami-ahmetova-u-2019-roci-827839/",
-  "published": "2026-11-19T18:35:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
- },
- {
-  "id": "041d3822365d",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Is Anthropic Worth $2 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
-  "teaser": "The company’s complex structure and funding make for confusing valuation math.",
-  "link": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main",
-  "published": "2026-11-19T18:19:00+00:00",
-  "seen": "2026-11-21T00:30:03+00:00"
- },
- {
-  "id": "82bae788ff37",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "What to Know About Anthropic’s Record-Breaking IPO",
-  "teaser": "Shares in the maker of the Claude chatbot began trading midday Thursday.",
-  "link": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main",
-  "published": "2026-11-19T18:14:00+00:00",
-  "seen": "2026-11-20T20:30:35+00:00"
- },
- {
-  "id": "5591e008c561",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound",
-  "teaser": "This year’s bruising selloff in AST SpaceMobile shares may have gone too far, according to a new bull.",
-  "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
-  "published": "2026-11-19T18:07:00+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "4813fda2555b",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Anthropic побив рекорд вартості SpaceX, перевищивши позначку в 2 трильйони доларів",
-  "teaser": "Ринкова капіталізація Anthropic під час дебюту на Nasdaq у четвер сягнула 2,1 трлн доларів, значно перевищивши результат масштабного виходу SpaceX на біржу в червні, оскільки інвестори поспішили придбати акції першої у світі публічної компанії, що працює у сфері передових…",
-  "link": "https://epravda.com.ua/svit/anthropic-pobiv-rekord-vartosti-spacex-827838/",
-  "published": "2026-11-19T18:04:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
- },
- {
-  "id": "d68120705108",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
-  "teaser": "UnitedHealth’s stock has tumbled 20% over the past five days.",
-  "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-  "published": "2026-11-19T18:03:00+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "d89a30900887",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Canada’s Banking Regulator Moves to Level Playing Field for Smaller Lenders",
-  "teaser": "Canada’s financial-industry watchdog plans to soften capital requirements for smaller lenders in a bid to boost competition and break the hold of the handful of major banks on the industry.",
-  "link": "https://www.wsj.com/finance/regulation/canadas-banking-regulator-moves-to-level-playing-field-for-smaller-lenders-b8c5eae6?mod=rss_markets_main",
-  "published": "2026-11-19T17:21:00+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "a32f33c3849b",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Уряд спрямував 81,4 мільярда переважно на зарплати військовим",
-  "teaser": "19 листопада Кабінет міністрів спрямував додаткові 81,4 млрд грн на невідкладні потреби Міноборони.",
-  "link": "https://epravda.com.ua/power/uryad-spryamuvav-dodatkovi-koshti-na-zarplati-viyskovim-827837/",
-  "published": "2026-11-19T17:21:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
- },
- {
-  "id": "f8e21ebc2252",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nintendo Gains as ‘Roaring Kitty’ Posts Mario Character on X",
-  "teaser": "Nintendo Co.’s American depositary receipts soared Thursday after an account associated with Keith Gill, the online persona known as “Roaring Kitty,” posted an image of the firm’s mascot on X.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/nintendo-jumps-after-roaring-kitty-posts-mario-character-on-x",
-  "published": "2026-11-19T17:15:50+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "419de3d83722",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "До 12 годин без світла: в \"Укренерго\" розповіли про відключення на пʼятницю",
-  "teaser": "Завтра, 20 листопада, у частині регіонів України будуть застосовувати графіки відключення електроенергії.",
-  "link": "https://epravda.com.ua/energetika/u-p-yatnicyu-svitla-mozhe-ne-buti-ponad-12-godin-827836/",
-  "published": "2026-11-19T17:08:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
- },
- {
-  "id": "9e4113019ffe",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Life Insurers Are Lagging in Private Markets Risk Assessments, ex-Athora CRO Says",
-  "teaser": "Life insurers haven't built up the same kind of skills to analyze private market investments in the same way as banks have and the lag compared with deployment is \"fairly significant\" in areas like credit risk assessment, valuation and capital allocation, according to Lukas…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/life-insurers-lagging-in-private-market-risk-assessments-video",
-  "published": "2026-11-19T17:03:40+00:00",
-  "seen": "2026-11-20T16:31:09+00:00"
- },
- {
-  "id": "f149baa79ec6",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "US Sour Crude’s War Premium Vanishes as Oil Supply Surges",
-  "teaser": "The price of US sour oil has plunged, as a surge in crude supply from Venezuela, Canada and the Middle East gives refiners ample barrels to choose from.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/us-sour-crude-s-war-premium-vanishes-as-supply-surges",
-  "published": "2026-11-19T16:45:06+00:00",
-  "seen": "2026-11-20T02:21:48+00:00"
  }
 ]
