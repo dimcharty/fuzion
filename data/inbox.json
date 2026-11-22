@@ -1,5 +1,93 @@
 [
  {
+  "id": "bed09274f556",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "A rocky road to Irish unity",
+  "teaser": "Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland",
+  "link": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
+  "published": "2026-11-22T05:00:14+00:00",
+  "seen": "2026-11-22T06:53:42+00:00"
+ },
+ {
+  "id": "a89df1499854",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
+  "teaser": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid",
+  "link": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
+  "published": "2026-11-22T05:00:14+00:00",
+  "seen": "2026-11-22T06:53:42+00:00"
+ },
+ {
+  "id": "acca29b87f1c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Cheap Chinese ecommerce parcels flood the UK",
+  "teaser": "Value of small imported packages rose fourfold in the past two years as purchases from Asian online retail groups and platforms boomed",
+  "link": "https://www.ft.com/content/2b2824e2-16b9-4621-85a0-7dad220644d5?syn-25a6b1a6=1",
+  "published": "2026-11-22T05:00:14+00:00",
+  "seen": "2026-11-22T06:53:42+00:00"
+ },
+ {
+  "id": "158486d69ad8",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
+  "teaser": "A flat hierarchy and micromanagement can concentrate power dangerously at the top",
+  "link": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
+  "published": "2026-11-22T05:00:06+00:00",
+  "seen": "2026-11-22T06:53:42+00:00"
+ },
+ {
+  "id": "41cc30f38a04",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "The ‘austere’ conservative poised to lead Spain with the far right",
+  "teaser": "Alberto Núñez Feijóo is on course to become the country’s next prime minister — but only with the backing of the Vox party",
+  "link": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1",
+  "published": "2026-11-22T05:00:06+00:00",
+  "seen": "2026-11-22T06:53:42+00:00"
+ },
+ {
+  "id": "f517e7ee2f9c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+  "teaser": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
+  "link": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+  "published": "2026-11-22T05:00:06+00:00",
+  "seen": "2026-11-22T06:53:42+00:00"
+ },
+ {
+  "id": "f2f349e0614c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Amazon’s AI resistance: workers ready for battle over data centres",
+  "teaser": "Tech company’s plans for rapid expansion face opposition from the public and its own employees",
+  "link": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80?syn-25a6b1a6=1",
+  "published": "2026-11-22T05:00:06+00:00",
+  "seen": "2026-11-22T06:53:42+00:00"
+ },
+ {
+  "id": "e1a800843e3c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
+  "teaser": "Co-investors in buyout funds frustrated at being forced out when assets are sold into continuation vehicles",
+  "link": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1",
+  "published": "2026-11-22T05:00:06+00:00",
+  "seen": "2026-11-22T06:53:42+00:00"
+ },
+ {
   "id": "d139da33bad3",
   "source": "Bloomberg",
   "lang": "en",
@@ -3210,93 +3298,5 @@
   "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
   "published": "2026-11-19T21:56:00+00:00",
   "seen": "2026-11-21T17:59:31+00:00"
- },
- {
-  "id": "f395bc063808",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "NY’s Largest Mall Debt Now Controlled by Billionaire Namdar",
-  "teaser": "The debt on Destiny USA, New York state’s largest shopping center, has been acquired by Namdar Realty Group, a Long Island-based real estate firm known for distressed retail real estate deals.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/ny-s-largest-mall-debt-now-controlled-by-billionaire-namdar",
-  "published": "2026-11-19T21:51:06+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "d02e7fe44b21",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Two Big Debuts Fail To Boost Stocks",
-  "teaser": "Plus, cyber fears hit financials and Williams-Sonoma gets cooked",
-  "link": "https://www.wsj.com/finance/stocks/two-big-debuts-fail-to-boost-stocks-b68b79b1?mod=rss_markets_main",
-  "published": "2026-11-19T21:43:00+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "586ca917116a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Shenkman, Blackstone, GDA Among Lenders to Take Over Vivid",
-  "teaser": "A group of lenders including Blackstone Inc. and Shenkman Capital Management are set to take over Vivid Seats Inc. in a deal that would reduce the ticket reseller’s net debt by more than $200 million, according to people familiar with the matter.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/blackstone-among-lenders-taking-over-ticket-reseller-vivid-seats",
-  "published": "2026-11-19T21:22:45+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "4460d2fd5d32",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic shares jump 17% after record Wall Street listing",
-  "teaser": "AI group led by Dario Amodei raises $81bn in upsized public offering",
-  "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
-  "published": "2026-11-19T21:02:09+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "0b914081ddcf",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Australian PM to meet Xi Jinping as iron ore tensions loom",
-  "teaser": "Prime Minister Anthony Albanese to hold bilateral talks with China’s president on Friday",
-  "link": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1",
-  "published": "2026-11-19T21:00:10+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "8d023ae83690",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Tata Sons Board Meet Next Week to Revisit Listing Issue Amid Row",
-  "teaser": "India’s Tata Group is entering a critical fortnight as the conglomerate’s controlling shareholders and holding company has back-to-back meetings amid a governance dispute that has spilled beyond the boardroom.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/tata-sons-largest-shareholder-meets-to-discuss-listing-amid-rift",
-  "published": "2026-11-19T21:00:00+00:00",
-  "seen": "2026-11-20T16:31:09+00:00"
- },
- {
-  "id": "6f18a38c50a0",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Oil Futures End Volatile Session Near Flat",
-  "teaser": "Oil futures finished little changed as renewed concerns about possible escalation in the Middle East were tempered by improving global supply.",
-  "link": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-supply-outlook-middle-east-shipping-risks-224e2724?mod=rss_markets_main",
-  "published": "2026-11-19T20:49:00+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "ba96ccac064a",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Law firms that caved to Trump brace for scrutiny from new Congress",
-  "teaser": "Firms are hiring outside lawyers as Democrats probe deals they struck with the president",
-  "link": "https://www.ft.com/content/4e712188-9dfc-4e2a-b997-3dacde95bf08?syn-25a6b1a6=1",
-  "published": "2026-11-19T20:35:00+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
  }
 ]
