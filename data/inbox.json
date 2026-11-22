@@ -1,5 +1,16 @@
 [
  {
+  "id": "fb0127a77dd4",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+  "teaser": "“Hotel rooms can cost as much as $400 per night.”",
+  "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+  "published": "2026-11-22T00:03:00+00:00",
+  "seen": "2026-11-22T00:30:42+00:00"
+ },
+ {
   "id": "e6c49131f66b",
   "source": "MarketWatch",
   "lang": "en",
@@ -3286,17 +3297,6 @@
   "teaser": "Two prepaid energy deals totaling $3 billion, which featured Google parent company Alphabet Inc. as funding recipient, were delayed due to lackluster investor demand amid market volatility, according to a person familiar with the matter.",
   "link": "https://www.bloomberg.com/news/articles/2026-11-19/google-tied-prepaid-bond-deals-delayed-due-to-lackluster-demand",
   "published": "2026-11-19T20:10:10+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "fd311a6b564f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "War-Driven Cost Squeeze Alarms Companies, Bank of America Says",
-  "teaser": "What began as an oil-market shock from the Iran war has broadened into a cost squeeze across the US, with business owners growing significantly more concerned about commodity prices.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
-  "published": "2026-11-19T20:04:12+00:00",
   "seen": "2026-11-19T20:30:13+00:00"
  }
 ]
