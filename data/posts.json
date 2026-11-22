@@ -1,5 +1,45 @@
 [
  {
+  "id": "01aedb7040e6",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
+  "title_uk": "Негода на півдні Бразилії зруйнувала містечко і загрожує врожаю",
+  "summary_uk": "У п'ятницю потужний шторм ударив по штату Ріу-Гранді-ду-Сул і спустошив невелике сільське містечко. Є побоювання, що подальші дощі та сильний вітер пошкодять ключові аграрні райони регіону.",
+  "category": "world",
+  "published": "2026-11-22T14:41:40+00:00",
+  "added": "2026-11-22T20:30:15+00:00"
+ },
+ {
+  "id": "88475a61e1ed",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/iqvia-closes-in-on-1-1-billion-takeover-of-uk-drug-services-group-quotient",
+  "title_uk": "IQVIA близька до купівлі британської Quotient Sciences приблизно за $1,1 млрд",
+  "summary_uk": "Американська компанія з клінічних досліджень IQVIA завершує переговори про поглинання британської групи Quotient Sciences, що надає послуги фармацевтам. Угода має посилити роль IQVIA у виведенні нових ліків на ринок.",
+  "category": "companies",
+  "published": "2026-11-22T14:33:23+00:00",
+  "added": "2026-11-22T20:30:15+00:00"
+ },
+ {
+  "id": "1c4f007e6cc3",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
+  "title_uk": "Британський оператор дата-центрів Nscale скорочує витрати перед IPO на $35 млрд",
+  "summary_uk": "Компанія Nscale, яка планує вийти на біржу з оцінкою близько $35 млрд, призупинила найм на всі посади, крім критично важливих, і скоротила витрати. Про це повідомляє Financial Times.",
+  "category": "companies",
+  "published": "2026-11-22T11:32:52+00:00",
+  "added": "2026-11-22T20:30:15+00:00"
+ },
+ {
+  "id": "ec304ffde72e",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
+  "title_uk": "Демократи в Конгресі США хочуть скасувати податкову й тарифну політику Трампа",
+  "summary_uk": "Ричард Ніл, один із провідних демократів у Конгресі, пообіцяв провести слухання щодо ключових економічних рішень президента. За даними Financial Times, демократи прагнутимуть розвернути податкові зміни та мита, запроваджені Трампом.",
+  "category": "policy",
+  "published": "2026-11-22T11:00:05+00:00",
+  "added": "2026-11-22T20:30:15+00:00"
+ },
+ {
   "id": "d6d28b06e4a5",
   "source": "MarketWatch",
   "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
@@ -1242,45 +1282,5 @@
   "category": "companies",
   "published": "2026-11-18T10:00:00+00:00",
   "added": "2026-11-18T20:29:54+00:00"
- },
- {
-  "id": "f0b137f5a252",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/copper-at-lowest-since-april-amid-ai-market-turmoil-chinese-demand-concerns-4325361e?mod=rss_markets_main",
-  "title_uk": "Мідь подешевшала до мінімуму з квітня",
-  "summary_uk": "Ціна міді опустилася нижче $13 000 за тонну. На метал тиснуть сильніший долар, побоювання щодо слабшого попиту промисловості Китаю та розпродаж акцій компаній, пов'язаних зі штучним інтелектом. Ці чинники переважили навіть скорочення пропозиції міді на ринку.",
-  "category": "markets",
-  "published": "2026-11-18T16:26:00+00:00",
-  "added": "2026-11-18T20:29:54+00:00"
- },
- {
-  "id": "b6b70931238e",
-  "source": "CNBC",
-  "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-  "title_uk": "Воллер із ФРС допустив підвищення ставки одразу на пів відсоткового пункта",
-  "summary_uk": "Член ради керуючих ФРС Крістофер Воллер заявив, що центробанку, можливо, доведеться «шокувати» ринок підвищенням ставки на 0,5 п.п. Причина — інфляція, яка тривалий час тримається вище цілі у 2%. Жорсткіша політика ФРС зазвичай зміцнює долар, що впливає й на курси валют країн, що розвиваються.",
-  "category": "policy",
-  "published": "2026-11-18T15:13:39+00:00",
-  "added": "2026-11-18T20:29:54+00:00"
- },
- {
-  "id": "d189655d1889",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1",
-  "title_uk": "Масаєсі Сон назвав помилкою те, що SoftBank не інвестував в Anthropic",
-  "summary_uk": "Засновник SoftBank Масаєсі Сон визнав, що японська група помилилася, не вклавши гроші в Anthropic. На той момент SoftBank уже інвестував у головного конкурента — OpenAI. Заява звучить напередодні IPO Anthropic, яке може стати одним із найбільших в історії.",
-  "category": "companies",
-  "published": "2026-11-18T07:56:06+00:00",
-  "added": "2026-11-18T16:30:19+00:00"
- },
- {
-  "id": "607d5fb20fe6",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1",
-  "title_uk": "Демократи перевіряють, чи допоміг Латнік фірмі Cantor уникнути збитків на Nvidia",
-  "summary_uk": "Американські законодавці-демократи вимагають інформацію про те, чи впливала на рішення міністра торгівлі США Говарда Латніка інвестиційна компанія Cantor, пов'язана з його родиною. Йдеться про можливе уникнення фірмою втрат на акціях Nvidia.",
-  "category": "policy",
-  "published": "2026-11-18T09:45:07+00:00",
-  "added": "2026-11-18T16:30:19+00:00"
  }
 ]
