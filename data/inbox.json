@@ -1,5 +1,49 @@
 [
  {
+  "id": "761ad9ae0373",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+  "teaser": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+  "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+  "published": "2026-11-22T16:18:00+00:00",
+  "seen": "2026-11-22T16:30:26+00:00"
+ },
+ {
+  "id": "52100f89d495",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "By The Way: Headlines You May Have Missed",
+  "teaser": "A gift of GTA VI coming with a contract, what that SNL ‘Sister’ sketch says about American healthcare, Robert Pattinson as Bond, and the F1 aspirations of children: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see.…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video",
+  "published": "2026-11-22T16:17:05+00:00",
+  "seen": "2026-11-22T16:30:26+00:00"
+ },
+ {
+  "id": "f8a075353f50",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
+  "teaser": "Former US Ambassador to Japan Rahm Emanuel tells Bloomberg This Weekend that he is seriously considering a 2028 presidential run as he lays out an economic vision focused on reforming capitalism, combating corruption and strengthening the middle class. Speaking with hosts David…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
+  "published": "2026-11-22T15:52:02+00:00",
+  "seen": "2026-11-22T16:30:26+00:00"
+ },
+ {
+  "id": "ab495253f16b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+  "teaser": "Wall Street strategist Ed Yardeni cut his S&P 500 Index year-end forecast for the second time in about two months in the wake of a powerful stock selloff that pushed the benchmark into a technical correction.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
+  "published": "2026-11-22T15:18:13+00:00",
+  "seen": "2026-11-22T16:30:26+00:00"
+ },
+ {
   "id": "7c92d479beaf",
   "source": "MarketWatch",
   "lang": "en",
@@ -9,6 +53,17 @@
   "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
   "published": "2026-11-22T15:01:00+00:00",
   "seen": "2026-11-22T15:21:48+00:00"
+ },
+ {
+  "id": "e791d01d2b6f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
+  "teaser": "The stomach-churning selloff that rocked equities has options traders girding for more volatility ahead.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+  "published": "2026-11-22T15:00:00+00:00",
+  "seen": "2026-11-22T16:30:26+00:00"
  },
  {
   "id": "01aedb7040e6",
@@ -3243,60 +3298,5 @@
   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
   "published": "2026-11-20T00:38:00+00:00",
   "seen": "2026-11-20T02:21:48+00:00"
- },
- {
-  "id": "ea2c0d2c93ed",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Oil Rises Amid Middle East Tensions",
-  "teaser": "Oil rose amid Middle East tensions. A projectile launched by Yemen’s Iranian-backed Houthi rebels struck the tallest tower in Saudi Arabia’s capital on Thursday.",
-  "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
-  "published": "2026-11-20T00:24:00+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "7cf96acef931",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Dollar Heads for Fourth Week of Gains Following Anthropic IPO",
-  "teaser": "The dollar is headed for a fourth straight weekly gain as demand tied to the Anthropic PBC IPO further lifts the currency that has been supported by expectations of further Federal Reserve interest-rate hikes and elevated US Treasury yields.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/dollar-heads-for-fourth-week-of-gains-following-anthropic-ipo",
-  "published": "2026-11-20T00:20:47+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "f3a9e9945639",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Gold Falls, Weighed by Elevated Yields, Strong Dollar",
-  "teaser": "Gold declined in Asian trade. Elevated Treasury yields and a strong dollar are raising the cost of holding the nonyielding yellow metal, said Critical Metals.",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main",
-  "published": "2026-11-20T00:18:00+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "15f1d8c94111",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
-  "teaser": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
-  "link": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
-  "published": "2026-11-20T00:15:12+00:00",
-  "seen": "2026-11-20T02:21:48+00:00"
- },
- {
-  "id": "671671fe7d05",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment",
-  "teaser": "Asian currencies consolidated against the dollar in early trade, but may be weighed by risk-off sentiment spurred by Wall Street’s slide overnight.",
-  "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
-  "published": "2026-11-20T00:13:00+00:00",
-  "seen": "2026-11-20T00:30:35+00:00"
  }
 ]
