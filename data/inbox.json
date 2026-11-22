@@ -1,5 +1,38 @@
 [
  {
+  "id": "d139da33bad3",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China Investigates CNPC Deputy General Manager for Corruption",
+  "teaser": "Xie Jun, a deputy general manager at China National Petroleum Corp., is under investigation for suspected “serious violations” of discipline and law, the nation’s top anti-graft authority said in a statement on Sunday.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-investigates-cnpc-deputy-general-manager-for-corruption",
+  "published": "2026-11-22T03:36:34+00:00",
+  "seen": "2026-11-22T05:44:30+00:00"
+ },
+ {
+  "id": "69ca35b35188",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Australian Opposition Calls for Changes to Gas Reservation Plan",
+  "teaser": "Australia’s opposition coalition party has raised more concerns about the government’s plan for liquefied natural gas exporters to increase supply to the domestic market, ahead of the legislation being voted on this week.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/australian-opposition-calls-for-changes-to-gas-reservation-plan",
+  "published": "2026-11-22T02:08:07+00:00",
+  "seen": "2026-11-22T05:44:30+00:00"
+ },
+ {
+  "id": "ee1c65033c42",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "India’s $126bn insurance sector slams proposed commission cap",
+  "teaser": "Industry argues regulation would hamper growth of a market that only recently opened up fully to foreign investment",
+  "link": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1",
+  "published": "2026-11-22T01:30:02+00:00",
+  "seen": "2026-11-22T05:44:30+00:00"
+ },
+ {
   "id": "fb0127a77dd4",
   "source": "MarketWatch",
   "lang": "en",
@@ -9,6 +42,17 @@
   "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
   "published": "2026-11-22T00:03:00+00:00",
   "seen": "2026-11-22T00:30:42+00:00"
+ },
+ {
+  "id": "216430f08308",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+  "teaser": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+  "published": "2026-11-22T00:00:00+00:00",
+  "seen": "2026-11-22T05:44:30+00:00"
  },
  {
   "id": "e6c49131f66b",
@@ -3254,49 +3298,5 @@
   "link": "https://www.ft.com/content/4e712188-9dfc-4e2a-b997-3dacde95bf08?syn-25a6b1a6=1",
   "published": "2026-11-19T20:35:00+00:00",
   "seen": "2026-11-20T00:30:35+00:00"
- },
- {
-  "id": "c74256fff44a",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Nvidia’s stock falls further. It has lost $611 billion in six trading days.",
-  "teaser": "There are only 23 companies in the world with a market capitalization of $611 billion or higher",
-  "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-  "published": "2026-11-19T20:33:00+00:00",
-  "seen": "2026-11-19T20:40:46+00:00"
- },
- {
-  "id": "68e7e2546bb2",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Why Walmart is making a bigger bet on fast-food delivery",
-  "teaser": "The retail giant says around 90% of spending at fast-food chains occurs within a few miles from a Walmart.",
-  "link": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
-  "published": "2026-11-19T20:24:00+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "b083a7295890",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "U.S. Diesel Prices to Continue to Fall in Relief for Consumers, U.S. Energy Secretary Says",
-  "teaser": "Diesel prices are likely to continue falling from record highs as refined products from the Persian Gulf return to the market and unsanctioned Russian diesel adds to the downward pressure on prices, said Energy Secretary Chris Wright.",
-  "link": "https://www.wsj.com/business/energy-oil/u-s-diesel-prices-to-continue-to-fall-in-relief-for-consumers-u-s-energy-secretary-says-cfe83c18?mod=rss_markets_main",
-  "published": "2026-11-19T20:12:00+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
- },
- {
-  "id": "aff2d7f2e2df",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Google-Tied Prepaid Bond Deals Delayed Due to Lackluster Demand",
-  "teaser": "Two prepaid energy deals totaling $3 billion, which featured Google parent company Alphabet Inc. as funding recipient, were delayed due to lackluster investor demand amid market volatility, according to a person familiar with the matter.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/google-tied-prepaid-bond-deals-delayed-due-to-lackluster-demand",
-  "published": "2026-11-19T20:10:10+00:00",
-  "seen": "2026-11-19T20:30:13+00:00"
  }
 ]
