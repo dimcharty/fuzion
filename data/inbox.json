@@ -1,5 +1,38 @@
 [
  {
+  "id": "b36381fd751a",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Ron Johnson’s Social Security gaffe buried important news",
+  "teaser": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
+  "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+  "published": "2026-11-22T21:28:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
+ },
+ {
+  "id": "c78f6be97d2e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Aussie Seen Rebounding Against Kiwi From Worst Month Since 2022",
+  "teaser": "Australia’s dollar is poised to rebound against its New Zealand counterpart after sliding toward its steepest monthly drop in four years as sticky inflation challenges bets on domestic interest-rate cuts, analysts say.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/aussie-seen-rebounding-against-kiwi-from-worst-month-since-2022",
+  "published": "2026-11-22T21:16:37+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
+ },
+ {
+  "id": "3e879bcc0620",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
+  "teaser": "Since the fundamental outlook did not change dramatically during last week’s massive selloff in stocks and many valuation measures are now screaming bargain, contrarian impulses to buy the dip are running strong.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
+  "published": "2026-11-22T20:31:44+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
+ },
+ {
   "id": "116a5f790cd5",
   "source": "MarketWatch",
   "lang": "en",
@@ -165,6 +198,17 @@
   "seen": "2026-11-22T16:30:26+00:00"
  },
  {
+  "id": "ce609b54cae3",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "За тиждень Нацбанк продав $1,46 мільярда на міжбанку",
+  "teaser": "За тиждень з 16 по 20 листопада Національний банк (НБУ) продав на міжбанку 1,462 млрд дол., при цьому не купував валюту.",
+  "link": "https://epravda.com.ua/finances/za-tizhden-nbu-prodav-1-46-mlrd-dolariv-na-mizhbanku-827911/",
+  "published": "2026-11-22T16:00:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
+ },
+ {
   "id": "f8a075353f50",
   "source": "Bloomberg",
   "lang": "en",
@@ -174,6 +218,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
   "published": "2026-11-22T15:52:02+00:00",
   "seen": "2026-11-22T16:30:26+00:00"
+ },
+ {
+  "id": "57d2469150b8",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "В Україні створять єдину платформу для скарг про відсутність світла, тепла та води",
+  "teaser": "Міністерство цифрової трансформації та Міністерством розвитку громад та територій скоро запустять єдину цифрову платформу, де українці зможуть повідомляти про відсутність світла, тепла чи води.",
+  "link": "https://epravda.com.ua/energetika/v-ukrajini-zapustyat-platformu-dlya-skarg-na-svitlo-teplo-y-vodu-827913/",
+  "published": "2026-11-22T15:45:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
  },
  {
   "id": "ab495253f16b",
@@ -207,6 +262,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
   "published": "2026-11-22T15:00:00+00:00",
   "seen": "2026-11-22T16:30:26+00:00"
+ },
+ {
+  "id": "1e2572ef1a91",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Росіяни вдарили по дільниці газової служби та двох АЗС",
+  "teaser": "Російські війська вдарили авіабомбою по дільниці газової служби на Дніпропетровщині та атакували дві АЗС Укрнафти на Запоріжжі.",
+  "link": "https://epravda.com.ua/energetika/rosiya-vdarila-po-dilnici-gazovoji-sluzhbi-ta-dvoh-azs-v-ukrajini-827912/",
+  "published": "2026-11-22T14:55:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
  },
  {
   "id": "01aedb7040e6",
@@ -319,6 +385,17 @@
   "seen": "2026-11-22T15:21:48+00:00"
  },
  {
+  "id": "e87a5219cc90",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У більшій частині Одеси відновили подачу води",
+  "teaser": "Водопостачання відновили більш ніж у половині Одесі, а в районах, де залишаються проблеми, – працюють бювети та організували підвезення води.",
+  "link": "https://epravda.com.ua/infrastruktura/u-bilshiy-chastini-odesi-vidnovili-vodopostachannya-meriya-827910/",
+  "published": "2026-11-22T13:25:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
+ },
+ {
   "id": "0985be62eab7",
   "source": "Bloomberg",
   "lang": "en",
@@ -339,6 +416,17 @@
   "link": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
   "published": "2026-11-22T13:00:06+00:00",
   "seen": "2026-11-22T15:21:48+00:00"
+ },
+ {
+  "id": "e94c0d30d1c4",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "З початку року аграрії зібрали на 10% більше зерна, ніж торік – Держстат",
+  "teaser": "Українські аграрії станом на 1 листопада 2026 року зібрали 46,9 млн тонн зернових і зернобобових культур, що на 9,7%, або 4,16 млн тонн більше, аніж на відповідну дату 2025 року.",
+  "link": "https://epravda.com.ua/biznes/urozhay-zerna-v-ukrajini-zris-na-10-z-pochatku-roku-derzhstat-827909/",
+  "published": "2026-11-22T12:40:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
  },
  {
   "id": "5a3ba6ae7b31",
@@ -383,6 +471,17 @@
   "link": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
   "published": "2026-11-22T12:00:06+00:00",
   "seen": "2026-11-22T20:30:29+00:00"
+ },
+ {
+  "id": "74c1782cd15d",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Російські атаки призвели до знеструмлень у п’яти областях України",
+  "teaser": "Впродовж доби Росія атакувала низку об'єктів енергетики, внаслідок чого на ранок знеструмлена частина споживачів у Дніпровській, Житомирській, Рівненській, Одеській та Харківській областях.",
+  "link": "https://epravda.com.ua/energetika/ataki-rf-sprichinili-znestrumlennya-v-p-yati-oblastyah-ukrajini-827907/",
+  "published": "2026-11-22T11:40:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
  },
  {
   "id": "1c4f007e6cc3",
@@ -473,6 +572,17 @@
   "seen": "2026-11-22T15:21:48+00:00"
  },
  {
+  "id": "fdadf285e9b5",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Водопостачання на правому березі Києва поступово відновлюється",
+  "teaser": "Київводоканалу вдалося відновити основні технологічні процеси та налагодити роботу помпового обладнання, необхідного для стабілізації водопостачання правобережної частини столиці.",
+  "link": "https://epravda.com.ua/infrastruktura/vodopostachannya-na-pravomu-berezi-kiyeva-pochinayut-vidnovlyuvati-827908/",
+  "published": "2026-11-22T10:50:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
+ },
+ {
   "id": "730625e1b8a6",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -506,6 +616,17 @@
   "seen": "2026-11-22T15:21:48+00:00"
  },
  {
+  "id": "cdaf328f2ca3",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Школи Одеси переводять на онлайн-навчання через енергетичний колапс",
+  "teaser": "З 23 до 27 листопада включно школи Одеси навчатимуть дистанційно через значні перебої з теплом, світлом та водою.",
+  "link": "https://epravda.com.ua/energetika/shkoli-odesi-perevodyat-na-distanciyku-cherez-pereboji-zi-svitlom-827906/",
+  "published": "2026-11-22T10:15:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
+ },
+ {
   "id": "281537550430",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -515,6 +636,39 @@
   "link": "https://www.wsj.com/personal-finance/retirement/baby-boomers-aging-eec29458?mod=rss_markets_main",
   "published": "2026-11-22T10:00:00+00:00",
   "seen": "2026-11-22T20:30:29+00:00"
+ },
+ {
+  "id": "c2c18a960cbf",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Постачальник не встиг поставити Міноборони костюми й комбінезони: присудили штраф",
+  "teaser": "Господарський суд Чернівецької області зобов'язав ТОВ \"Тактик про\" сплатити держпідприємству \"Агенція оборонних закупівель\" 16,97 млн грн штрафних санкцій за затримку поставок літніх польових костюмів і вогнезахисних комбінезонів.",
+  "link": "https://epravda.com.ua/oborona/sud-cherniveckoji-oblasti-shtraf-16-97-mln-grn-z-taktik-pro-na-korist-agenciji-oboronnih-zakupivel-827904/",
+  "published": "2026-11-22T09:27:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
+ },
+ {
+  "id": "e507ce852837",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Уражене дроном біля Фінляндії російське судно продовжує палати",
+  "teaser": "У фінських територіальних водах триває операція з гасіння пожежі на судні Sparta II, яке РФ використовувала для військових операцій.",
+  "link": "https://epravda.com.ua/svit/urazhene-dronami-sudno-rf-sparta-ii-dosi-gasyat-bilya-finlyandiji-827905/",
+  "published": "2026-11-22T08:25:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
+ },
+ {
+  "id": "0cbb066c8a2a",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Новокаховський завод позивався до Путіна й російських мільярдерів: що вирішив суд",
+  "teaser": "Господарський суд Одеської області стягнув із Російської Федерації на користь \"Новокаховський електромеханічний завод\" 11,54 млн грн упущеної вигоди. Підприємство намагалося стягнути кошти з Володимира Путіна.",
+  "link": "https://epravda.com.ua/biznes/sud-styagnuv-z-rosiji-11-54-mln-grn-na-korist-novokahovskogo-zavodu-827903/",
+  "published": "2026-11-22T07:35:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
  },
  {
   "id": "bed09274f556",
@@ -2882,6 +3036,17 @@
   "seen": "2026-11-20T11:45:04+00:00"
  },
  {
+  "id": "e3d361c0b90e",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "European Tech Stocks Tumble as AI Selloff Intensifies",
+  "teaser": "European AI stocks dropped sharply as a global selloff intensified.",
+  "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
+  "published": "2026-11-20T09:02:00+00:00",
+  "seen": "2026-11-22T21:49:27+00:00"
+ },
+ {
   "id": "769159133e19",
   "source": "Bloomberg",
   "lang": "en",
@@ -3133,170 +3298,5 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-20/idr-usd-why-indonesia-s-rupiah-is-so-weak-and-what-it-means-for-the-economy",
   "published": "2026-11-20T05:42:07+00:00",
   "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "fc283a6b3755",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "So, Anthropic is finally a public company. What now?",
-  "teaser": "A blockbuster IPO postmortem",
-  "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
-  "published": "2026-11-20T05:19:35+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "891840b05aae",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Cambodia Sees Growth Risk as High US Rates Hit Economy",
-  "teaser": "National Bank of Cambodia Governor Chea Serey says her country faces pressure from elevated US rates, imported inflation and higher funding costs because of its dollarized economy. She adds that the government remains more optimistic than the International Monetary Fund on…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/cambodia-sees-growth-risk-as-high-us-rates-hit-economy-video",
-  "published": "2026-11-20T05:09:32+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "fb635d8eceb2",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic’s Wall Street stimulus fades",
-  "teaser": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
-  "link": "https://www.ft.com/content/4f7cf30e-5c9a-489f-bd01-2283a6c9d0e9?syn-25a6b1a6=1",
-  "published": "2026-11-20T05:00:26+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "cf8738295f10",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
-  "teaser": "Tight correlation between crude prices and borrowing costs has broken down",
-  "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
-  "published": "2026-11-20T05:00:26+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "42003d05f93e",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Can Nvidia learn from AIG’s mistakes?",
-  "teaser": "The chip giant’s role as the quasi-central bank of AI is reminiscent of the insurance company’s position before the subprime mortgage bubble",
-  "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
-  "published": "2026-11-20T05:00:17+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "f6bdbc3834f1",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
-  "teaser": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
-  "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
-  "published": "2026-11-20T05:00:17+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "a857581b711c",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Why Britons can feel smugger than the French",
-  "teaser": "It’s not a competition, but if it were, the UK economy would be winning",
-  "link": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1",
-  "published": "2026-11-20T05:00:17+00:00",
-  "seen": "2026-11-20T12:31:09+00:00"
- },
- {
-  "id": "bf9b0897f9b5",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "How pensions ate the state",
-  "teaser": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
-  "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
-  "published": "2026-11-20T05:00:08+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "a62258e99e35",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "China prepares to restart US private equity investments after pullback",
-  "teaser": "Beijing’s flagship sovereign wealth fund leading push for special terms to protect against disaster scenarios to unlock funding",
-  "link": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
-  "published": "2026-11-20T05:00:07+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "8c7e782c7198",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Cyberattacks Drive Claims Surge at Japan Insurers",
-  "teaser": "Japan’s biggest property insurers are reporting a sharp jump in cyber insurance claims as artificial intelligence-driven attacks grow more sophisticated and hacking incidents surge nationwide.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-fueled-cyberattacks-drive-claims-surge-at-japan-insurers",
-  "published": "2026-11-20T04:55:02+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "7dbb7047ba63",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "China Has Capacity, But Maybe Not the Will to Boost Fuel Exports",
-  "teaser": "China has the greatest ability to boost global fuel supplies after it agreed with the US and Russia to do so, although whether Beijing will follow through on the pledge is doubtful.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/china-has-capacity-but-maybe-not-the-will-to-boost-fuel-exports",
-  "published": "2026-11-20T04:50:25+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "0a34988ef77f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Yen Outperforms G-10 Peers as Tech Selloff Fuels Haven Demand",
-  "teaser": "The yen led gains among Group of 10 currencies on Friday as investors sought havens amid a deepening selloff in technology stocks that has spilled into Asia trading.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/yen-outperforms-g-10-peers-as-tech-selloff-fuels-haven-demand",
-  "published": "2026-11-20T04:41:20+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "018b1511ff9b",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Treasuries Eye Longest Rally in Five Months on Haven Demand",
-  "teaser": "Treasuries are headed for their longest rally in almost five months, as mounting doubts over the artificial intelligence trade deepen a global stock selloff and drive investors toward haven assets.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand",
-  "published": "2026-11-20T04:33:23+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "5f4a84fedb41",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Pakistan Minister Makes Rare India Visit for Regional Forum",
-  "teaser": "Pakistan’s Climate Change Minister Musadik Malik arrived in New Delhi Friday for a two-day regional forum, the first such high-level visit since 2023, though it signals no broader thaw in ties between the neighbors.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/pakistan-minister-makes-rare-india-visit-for-regional-forum",
-  "published": "2026-11-20T04:32:39+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
- },
- {
-  "id": "a937395ac6b8",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "ARK Invest's Cathie Wood on Anthropic, Nvidia",
-  "teaser": "Cathie Wood, Founder, CEO & CIO at ARK Invest, discusses her exposure to Anthropic following the AI lab's historic IPO and her views on investing in innovation. She speaks on \"ETF IQ Asia.\" (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/ark-invest-s-cathie-wood-on-anthropic-nvidia-video",
-  "published": "2026-11-20T04:22:07+00:00",
-  "seen": "2026-11-20T04:30:31+00:00"
  }
 ]
