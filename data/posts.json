@@ -1,5 +1,36 @@
 [
  {
+  "id": "digest-2026-11-22",
+  "kind": "digest",
+  "category": "digest",
+  "title_uk": "Ранковий дайджест: 22 листопада",
+  "summary_uk": "Три головні події фінансового світу за минулу добу.",
+  "source": "Fuzion Societe",
+  "link": "https://t.me/fuzionsoc",
+  "items": [
+   {
+    "title_uk": "Wall Street шукає опору для ставки на ШІ після розпродажу на тлі IPO Anthropic",
+    "summary_uk": "Місяць для ринку акцій видався важким: його похитнули раптове усунення Дженсена Хуанга з Nvidia та впевнена перемога демократів на проміжних виборах.",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout"
+   },
+   {
+    "title_uk": "Росія заявила про атаку дронів на вантажне судно у Фінській затоці",
+    "summary_uk": "За версією Москви, судно йшло до Калінінграда; інцидент показує зростання ризиків для російського експорту енергоносіїв і продовольства через Балтику.",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland"
+   },
+   {
+    "title_uk": "Amazon наближається до купівлі ШІ-стартапу Decart за $7,5 млрд",
+    "summary_uk": "Угода має допомогти хмарному підрозділу AWS конкурувати з Nvidia у перегонах за обчислювальні потужності.",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1"
+   }
+  ],
+  "published": "2026-11-22T05:44:16+00:00",
+  "added": "2026-11-22T05:44:16+00:00"
+ },
+ {
   "id": "70723a2bbabc",
   "source": "MarketWatch",
   "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
@@ -1250,16 +1281,6 @@
   "summary_uk": "Ціни на базові держоблігації США зростають уже третій день. Їх підтримують обережні настрої інвесторів і припущення, що більшу частину очікуваних підвищень ставки ФРС ринок уже врахував у цінах.",
   "category": "markets",
   "published": "2026-11-18T05:19:28+00:00",
-  "added": "2026-11-18T08:30:40+00:00"
- },
- {
-  "id": "b549fa7ca417",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/smaller-tankers--hormuz-shuttle-trade-oil-flows-wti-brent-crude",
-  "title_uk": "Нафту через Ормузьку протоку дедалі частіше везуть менші танкери",
-  "summary_uk": "Через атаки на супертанкери великих суден для перевезення нафти в Перській затоці бракує, тож експортери дедалі більше переходять на менші танкери. Це допомагає підтримувати потік сировини через Ормузьку протоку — один із ключових маршрутів світового нафтового ринку.",
-  "category": "energy",
-  "published": "2026-11-18T05:18:18+00:00",
   "added": "2026-11-18T08:30:40+00:00"
  }
 ]
