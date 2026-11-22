@@ -1,5 +1,55 @@
 [
  {
+  "id": "d6d28b06e4a5",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
+  "title_uk": "Фондовий ринок США увійшов у корекцію напередодні Дня подяки",
+  "summary_uk": "Американські акції опинилися в корекції перед святом Дня подяки, а частина паперів уже на «ведмежому» ринку. MarketWatch зауважує, що спад припадає на вкрай важливий для торгівлі сезон святкових покупок.",
+  "category": "markets",
+  "published": "2026-11-22T14:00:00+00:00",
+  "added": "2026-11-22T16:30:15+00:00"
+ },
+ {
+  "id": "20297f1296ef",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/oil-shock-response-sets-emerging-market-bond-winners-and-losers",
+  "title_uk": "Нафтовий шок розділив облігації країн, що розвиваються, на фаворитів і аутсайдерів",
+  "summary_uk": "Паливні субсидії дедалі помітніше розводять ринки, що розвиваються, в очах інвесторів, пише Bloomberg. Перевагу отримують облігації держав, які пішли на болісні кроки й урізали такі субсидії.",
+  "category": "markets",
+  "published": "2026-11-22T13:30:00+00:00",
+  "added": "2026-11-22T16:30:15+00:00"
+ },
+ {
+  "id": "37ebe1ed4d6f",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
+  "title_uk": "Кліматичні переговори завершилися провалом через суперечку щодо викопного палива",
+  "summary_uk": "Учасники міжнародних кліматичних переговорів не дійшли згоди після протистояння щодо майбутнього викопного палива. Головний розкол пролягав між арабською групою країн і коаліцією на чолі з ЄС, що оголило глибші геополітичні розбіжності.",
+  "category": "energy",
+  "published": "2026-11-22T13:50:41+00:00",
+  "added": "2026-11-22T16:30:15+00:00"
+ },
+ {
+  "id": "e4c9ff8bbfd8",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+  "title_uk": "Китай, Тайвань і Південна Корея рятують фондові ринки після обвалу на Wall Street",
+  "summary_uk": "Азійська влада посилює заходи, щоб зупинити поглиблення розпродажу акцій після п'ятничного падіння в США. Китай пом'якшив вимоги до маржинального кредитування, а Тайвань і Південна Корея запускають інтервенції; Сеул, зокрема, готує стабілізаційний фонд для підтримки ринку.",
+  "category": "markets",
+  "published": "2026-11-22T11:06:19+00:00",
+  "added": "2026-11-22T16:30:15+00:00"
+ },
+ {
+  "id": "a6339c1d6757",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
+  "title_uk": "Санкційне російське судно горить у фінських водах після атаки дрона",
+  "summary_uk": "Російське судно, що перебуває під санкціями, спалахнуло у водах Фінляндії після удару дрона, повідомляє Financial Times. Прем'єр-міністр Фінляндії заявив, що війна підбирається впритул до кордонів його країни.",
+  "category": "world",
+  "published": "2026-11-22T14:15:40+00:00",
+  "added": "2026-11-22T16:30:15+00:00"
+ },
+ {
   "id": "d139da33bad3",
   "source": "Bloomberg",
   "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-investigates-cnpc-deputy-general-manager-for-corruption",
@@ -1232,55 +1282,5 @@
   "category": "policy",
   "published": "2026-11-18T09:45:07+00:00",
   "added": "2026-11-18T16:30:19+00:00"
- },
- {
-  "id": "989d6efd48de",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-18/india-says-us-trade-deal-nearly-ready-signing-may-take-time",
-  "title_uk": "Індія заявила, що торговельна угода зі США майже готова",
-  "summary_uk": "Секретар Міністерства торгівлі Індії Раджеш Агравал повідомив, що переговори зі США щодо торговельної угоди можуть невдовзі завершитися. Водночас він застеріг, що на підписання та запуск домовленостей може знадобитися більше часу.",
-  "category": "world",
-  "published": "2026-11-18T11:29:16+00:00",
-  "added": "2026-11-18T16:30:19+00:00"
- },
- {
-  "id": "5e491b225aef",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?mod=rss_markets_main",
-  "title_uk": "Ф'ючерси на акції зростають після сильного звіту Nvidia",
-  "summary_uk": "Технологічні акції по всьому світу пішли вгору після того, як Nvidia відзвітувала краще за очікування ринку. Результати чипмейкера заспокоїли інвесторів, які останніми днями тікали з акцій компаній, пов'язаних зі штучним інтелектом.",
-  "category": "markets",
-  "published": "2026-11-18T09:37:00+00:00",
-  "added": "2026-11-18T16:30:19+00:00"
- },
- {
-  "id": "5295c2810e8a",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/ecb-s-vujcic-says-december-rate-hike-looks-very-likely-video",
-  "title_uk": "Віцепрезидент ЄЦБ Вуйчич вважає підвищення ставки в грудні дуже ймовірним",
-  "summary_uk": "Борис Вуйчич, віцепрезидент Європейського центробанку, в інтерв'ю Bloomberg назвав грудневе підвищення ставки майже вирішеною справою. За його словами, інфляція в єврозоні поширюється, тож нові підвищення можливі й у 2027 році. Для України політика ЄЦБ важлива через курс євро та вартість запозичень у Європі.",
-  "category": "banks",
-  "published": "2026-11-18T12:00:45+00:00",
-  "added": "2026-11-18T16:30:19+00:00"
- },
- {
-  "id": "fb8ead3db91d",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=rss_markets_main",
-  "title_uk": "Нафта дешевшає через очікування надлишку пропозиції",
-  "summary_uk": "Ціни на нафту в середу знизилися: трейдери зважують ймовірність глобального перевиробництва. Цей чинник поки переважує нову напругу на Близькому Сході та загрози для танкерних перевезень у регіоні.",
-  "category": "energy",
-  "published": "2026-11-18T08:55:00+00:00",
-  "added": "2026-11-18T12:30:01+00:00"
- },
- {
-  "id": "3b145f9d2ffb",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/uk-inflation-print-at-fastest-in-a-year-comes-with-few-surprises",
-  "title_uk": "Інфляція у Великій Британії досягла найвищого рівня за рік",
-  "summary_uk": "Свіжі дані показали найшвидше зростання цін у Великій Британії за останні дванадцять місяців, проте ринки сприйняли їх без особливих сюрпризів. Деталі — в оригінальному матеріалі Bloomberg.",
-  "category": "economy",
-  "published": "2026-11-18T07:50:32+00:00",
-  "added": "2026-11-18T12:30:01+00:00"
  }
 ]
