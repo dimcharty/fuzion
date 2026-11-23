@@ -1,5 +1,55 @@
 [
  {
+  "id": "0e1ef746ff90",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
+  "title_uk": "Нафта дешевшає на тлі втечі інвесторів від ризику",
+  "summary_uk": "Ціни на нафту знизилися на старті тижня. Тиск на ринок чинять обережні настрої інвесторів після п'ятничного обвалу світових фондових ринків.",
+  "category": "energy",
+  "published": "2026-11-23T00:41:00+00:00",
+  "added": "2026-11-23T04:30:04+00:00"
+ },
+ {
+  "id": "8fcae0fb4449",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
+  "title_uk": "Золото дорожчає після обвалу минулого тижня",
+  "summary_uk": "Ціна золота пішла вгору на початку нового тижня. Аналітики вважають це радше технічним відскоком після різкого падіння, якого метал зазнав минулого тижня.",
+  "category": "markets",
+  "published": "2026-11-23T00:58:00+00:00",
+  "added": "2026-11-23T04:30:04+00:00"
+ },
+ {
+  "id": "0623566cbd05",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/gold-deluge-keeps-china-s-1-trillion-trade-surplus-in-check",
+  "title_uk": "Рекордний імпорт золота стримує торговельний профіцит Китаю в $1 трлн",
+  "summary_uk": "Від початку року Китай імпортував золота на рекордні $209 млрд, що помітно зменшує його торговельний профіцит. Хвиля закупівель почалася після обіцянки керівництва країни перетворити Китай на світовий ринок збуту, а не лише на виробника.",
+  "category": "world",
+  "published": "2026-11-22T23:00:00+00:00",
+  "added": "2026-11-23T04:30:04+00:00"
+ },
+ {
+  "id": "51f336f1c0b8",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
+  "title_uk": "Мідь на Лондонській біржі металів опустилася нижче $12 000 за тонну",
+  "summary_uk": "Ціна міді на LME впала нижче позначки $12 000 за тонну, продовживши різкий розпродаж на ринку металів. Учасники ринку дедалі більше сумніваються, що попит з боку штучного інтелекту буде таким високим, як очікувалося.",
+  "category": "markets",
+  "published": "2026-11-23T01:05:30+00:00",
+  "added": "2026-11-23T04:30:04+00:00"
+ },
+ {
+  "id": "9edcdf98dbe5",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+  "title_uk": "Розпродаж технологічних акцій в Азії поглиблюється, Корея втрачає понад 3%",
+  "summary_uk": "У понеділок азійські ринки продовжили падіння слідом за різким спадом на Wall Street у п'ятницю. Найсильніше просіли акції в Південній Кореї — більш як на 3%, і тиск зосереджений на технологічному секторі.",
+  "category": "markets",
+  "published": "2026-11-23T01:55:07+00:00",
+  "added": "2026-11-23T04:30:04+00:00"
+ },
+ {
   "id": "70bc10bc9058",
   "source": "Bloomberg",
   "link": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
@@ -1232,55 +1282,5 @@
   "category": "ukraine",
   "published": "2026-11-18T21:44:59+00:00",
   "added": "2026-11-19T04:30:04+00:00"
- },
- {
-  "id": "ccfad00fd7a4",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video",
-  "title_uk": "Anthropic оцінила акції на IPO в $83 — вище за заявлений діапазон",
-  "summary_uk": "Розробник ШІ Anthropic разом зі співзасновниками залучив $107,3 млрд через розширене IPO та приватне розміщення. Компанія продала 956,4 млн акцій, а співзасновники — ще 23,6 млн, усі по $83, що перевищує діапазон, з яким розміщення пропонували інвесторам.",
-  "category": "companies",
-  "published": "2026-11-19T00:45:46+00:00",
-  "added": "2026-11-19T04:30:04+00:00"
- },
- {
-  "id": "74b7080cb273",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/business/deals/textron-selling-industrial-segment-to-kingswood-capital-for-1-2-billion-5caba969?mod=rss_markets_main",
-  "title_uk": "Textron продає промисловий підрозділ Kingswood Capital за $1,2 млрд",
-  "summary_uk": "Американський концерн Textron підписав остаточну угоду про продаж свого промислового сегмента структурі інвестиційної компанії Kingswood Capital Management. Після сплати податків і витрат на угоду Textron розраховує отримати близько $1,1 млрд чистими.",
-  "category": "companies",
-  "published": "2026-11-18T13:11:00+00:00",
-  "added": "2026-11-19T00:30:19+00:00"
- },
- {
-  "id": "fc1cf14c8bf0",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-second-straight-week-086a0883?mod=rss_markets_main",
-  "title_uk": "Комерційні запаси нафти в США зростають другий тиждень поспіль",
-  "summary_uk": "За минулий тиждень комерційні запаси сирої нафти в США збільшилися на 3,4 млн барелів. Аналітики розраховували на значно менше зростання — приблизно на 1 млн барелів.",
-  "category": "energy",
-  "published": "2026-11-18T18:18:00+00:00",
-  "added": "2026-11-19T00:30:19+00:00"
- },
- {
-  "id": "af036f88df98",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/16a99ff4-6060-4c81-8c4f-7e43503e4a11?syn-25a6b1a6=1",
-  "title_uk": "JPMorgan знижує ціну, щоб продати «завислий» борг софтверної компанії",
-  "summary_uk": "JPMorgan та інші банки намагаються позбутися приблизно $2 млрд боргу, який раніше не вдалося продати інвесторам. Для цього вони виходять на ринок високодохідних облігацій і пропонують помітні знижки, тож дохідність сягає двозначних значень.",
-  "category": "banks",
-  "published": "2026-11-18T16:30:02+00:00",
-  "added": "2026-11-19T00:30:19+00:00"
- },
- {
-  "id": "54a6882c3e76",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-18/fed-minutes-leave-door-open-to-larger-december-rate-hike-video",
-  "title_uk": "Протокол ФРС залишив можливість для суттєвішого підвищення ставки в грудні",
-  "summary_uk": "Згідно з протоколом засідання Комітету з відкритого ринку ФРС 27–28 жовтня, майже всі посадовці погодилися, що найближчими місяцями ставку, ймовірно, доведеться підвищувати, щоб приборкати інфляцію. Документ не виключає і більшого кроку вже в грудні.",
-  "category": "policy",
-  "published": "2026-11-18T19:43:20+00:00",
-  "added": "2026-11-19T00:30:19+00:00"
  }
 ]
