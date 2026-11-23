@@ -1,5 +1,65 @@
 [
  {
+  "id": "97aff51dc296",
+  "source": "European Central Bank",
+  "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+  "title_uk": "ЄЦБ розширює прийняття активів на основі DLT як застави Євросистеми",
+  "summary_uk": "Європейський центральний банк оголосив, що розширює можливості використання активів, випущених на технології розподіленого реєстру (DLT), як прийнятної застави в операціях Євросистеми. Деталі — в оригінальному повідомленні ЄЦБ.",
+  "category": "banks",
+  "published": "2026-11-23T10:00:00+00:00",
+  "added": "2026-11-23T16:30:04+00:00"
+ },
+ {
+  "id": "59b6db76ccc4",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09?mod=rss_markets_main",
+  "title_uk": "Дохідність облігацій США та Європи знову зростає після різкого падіння",
+  "summary_uk": "Дохідність казначейських облігацій США та державних облігацій європейських країн у понеділок підвищилася. Таким чином ринок частково скоригував значне зниження дохідності, яке спостерігалося минулого тижня.",
+  "category": "markets",
+  "published": "2026-11-23T09:25:00+00:00",
+  "added": "2026-11-23T16:30:04+00:00"
+ },
+ {
+  "id": "559598839ae4",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+  "title_uk": "Акції Nvidia зростають: адміністрація Трампа хоче повернення Дженсена Хуанга",
+  "summary_uk": "У понеділок папери Nvidia подорожчали після вихідних, протягом яких адміністрація Трампа виступила за відновлення Дженсена Хуанга на посаді керівника компанії. Nvidia перебуває в центрі розпродажу технологічних акцій, що минулого тижня охопив світові ринки.",
+  "category": "companies",
+  "published": "2026-11-23T12:26:00+00:00",
+  "added": "2026-11-23T16:30:04+00:00"
+ },
+ {
+  "id": "051bdf6ee42a",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/top-cobalt-producer-congo-will-ban-exports-again-as-prices-slide",
+  "title_uk": "ДР Конго знову забороняє експорт кобальту через падіння цін",
+  "summary_uk": "Демократична Республіка Конго, найбільший у світі виробник кобальту, з кінця місяця повторно запроваджує заборону на експорт цього металу. Так влада країни намагається зупинити здешевлення сировини, яка використовується у виробництві акумуляторів.",
+  "category": "markets",
+  "published": "2026-11-23T12:00:31+00:00",
+  "added": "2026-11-23T16:30:04+00:00"
+ },
+ {
+  "id": "55d7c21b8df7",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
+  "title_uk": "CrowdStrike купує Zscaler за $44 млрд в обмін на акції",
+  "summary_uk": "Американська компанія з кібербезпеки CrowdStrike погодилася придбати конкурента Zscaler в угоді на $44 млрд, яка буде оплачена повністю акціями. За даними FT, угода укладається на тлі хвилі технологічних збоїв, з якими стикаються бізнес і уряди по всьому світу.",
+  "category": "companies",
+  "published": "2026-11-23T11:02:10+00:00",
+  "added": "2026-11-23T16:30:04+00:00"
+ },
+ {
+  "id": "eb43352d71df",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/small-refinery-in-southern-russia-halts-operations-after-attack",
+  "title_uk": "Невеликий НПЗ на півдні Росії зупинив роботу після удару дронів",
+  "summary_uk": "Нафтопереробний завод на півдні Росії призупинив роботу після атаки безпілотників, повідомляє Bloomberg. Удар відбувся на тлі взаємних атак Москви та Києва на енергетичну інфраструктуру, які впливають на паливний ринок обох країн.",
+  "category": "ukraine",
+  "published": "2026-11-23T11:30:44+00:00",
+  "added": "2026-11-23T16:30:04+00:00"
+ },
+ {
   "id": "c73c858311c1",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/business/earnings/julius-baer-profit-climbs-as-inflows-boost-assets-under-management-633d56a2?mod=rss_markets_main",
@@ -1222,65 +1282,5 @@
   "category": "companies",
   "published": "2026-11-19T10:30:00+00:00",
   "added": "2026-11-19T16:30:28+00:00"
- },
- {
-  "id": "e9e16a1b1943",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main",
-  "title_uk": "Ф'ючерси на Nasdaq зросли перед стартом торгів акціями Anthropic",
-  "summary_uk": "Ф'ючерси на американські індекси, зокрема на Nasdaq, пішли вгору до відкриття ринку. Настрої інвесторів покращилися після того, як Anthropic встановила ціну IPO вище за очікування — це передбачає оцінку компанії приблизно в $1,5 трлн, пише The Wall Street Journal.",
-  "category": "markets",
-  "published": "2026-11-19T09:47:00+00:00",
-  "added": "2026-11-19T16:30:28+00:00"
- },
- {
-  "id": "7c51872533c4",
-  "source": "The Economist",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
-  "title_uk": "Дохідність облігацій зростає по всьому світу, крім Китаю",
-  "summary_uk": "За даними The Economist, Китай вибивається із глобальної тенденції зростання дохідності держоблігацій. Народний банк Китаю знизив процентні ставки, хоча й без великого бажання.",
-  "category": "economy",
-  "published": "2026-11-19T10:04:37+00:00",
-  "added": "2026-11-19T12:30:42+00:00"
- },
- {
-  "id": "3492c13bdbdf",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/taiwan-tightens-short-selling-curbs-to-help-support-stock-market",
-  "title_uk": "Тайвань посилив обмеження на короткі продажі, щоб підтримати фондовий ринок",
-  "summary_uk": "Регулятор фінансового ринку Тайваню запровадив жорсткіші правила для коротких продажів. Місцевий ринок акцій іде до найбільшого місячного падіння з часів світової фінансової кризи 2008 року.",
-  "category": "markets",
-  "published": "2026-11-19T06:46:54+00:00",
-  "added": "2026-11-19T12:30:42+00:00"
- },
- {
-  "id": "cfb89713dcfb",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
-  "title_uk": "Авіаудар влучив у штаб-квартиру суверенного фонду Саудівської Аравії",
-  "summary_uk": "Удару зазнала штаб-квартира Public Investment Fund — одного з найвпливовіших інвестиційних фондів світу. Атака сталася на тлі майже щоденних обстрілів королівства з боку хуситів, повідомляє Financial Times.",
-  "category": "world",
-  "published": "2026-11-19T09:41:38+00:00",
-  "added": "2026-11-19T12:30:42+00:00"
- },
- {
-  "id": "884e4442a40a",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
-  "title_uk": "Anthropic виходить на Уолл-стріт із найбільшим IPO в історії",
-  "summary_uk": "Акції Anthropic, розробника чат-бота Claude, починають торгуватися на біржі. Компанія залучила загалом $107 млрд, що робить це розміщення найбільшим за всю історію, пише Financial Times.",
-  "category": "markets",
-  "published": "2026-11-19T10:58:44+00:00",
-  "added": "2026-11-19T12:30:42+00:00"
- },
- {
-  "id": "6b868a90f975",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video",
-  "title_uk": "Трамп, Сі та Путін провели безпрецедентну тристоронню зустріч",
-  "summary_uk": "Президенти США, Китаю та Росії вперше зустрілися втрьох, повідомляє Bloomberg. Переговори відбулися на тлі спроб стабілізувати відносини між Вашингтоном і Пекіном та триваючих бойових дій між Росією та Україною.",
-  "category": "world",
-  "published": "2026-11-19T11:01:45+00:00",
-  "added": "2026-11-19T12:30:42+00:00"
  }
 ]
