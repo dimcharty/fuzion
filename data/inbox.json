@@ -1,5 +1,93 @@
 [
  {
+  "id": "5dd03296a89e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "South Africa’s Woolworths, Momentum Face Investor Pay Challenges",
+  "teaser": "Three of South Africa’s best-known companies will face challenges on issues including their pay policies and the independence of some of their directors at annual general meetings over the next week.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/south-africa-s-woolworths-momentum-face-investor-pay-challenges",
+  "published": "2026-11-23T04:00:00+00:00",
+  "seen": "2026-11-23T04:30:19+00:00"
+ },
+ {
+  "id": "1b24a14139d5",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "India Stocks Erase Yearly Losses as Foreign Buying Spurs Rebound",
+  "teaser": "Indian shares advanced on Monday, recouping all their losses this year following a return of foreign money and the recent unraveling of the AI trade that revived demand for overlooked markets.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/india-stocks-erase-yearly-losses-as-foreign-buying-spurs-rebound",
+  "published": "2026-11-23T03:50:16+00:00",
+  "seen": "2026-11-23T04:30:19+00:00"
+ },
+ {
+  "id": "89298ee7dc50",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Will Tata be able to list India’s biggest company?",
+  "teaser": "Bankers say feud between scion and chair makes initial public offering difficult as conglomerate faces pressure from regulators",
+  "link": "https://www.ft.com/content/0f2e8392-8d51-440a-928c-e47402017128?syn-25a6b1a6=1",
+  "published": "2026-11-23T03:36:27+00:00",
+  "seen": "2026-11-23T04:30:19+00:00"
+ },
+ {
+  "id": "f4e714c045fd",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "South Korea Says Market Measures Will Ease Investor Jitters",
+  "teaser": "South Korea reiterated its commitment to stabilize equity markets, but the measures failed to soothe investor sentiment, with the benchmark Kospi slumping another 5% on Monday following last week’s selloff.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-says-market-measures-will-ease-investor-jitters",
+  "published": "2026-11-23T03:09:14+00:00",
+  "seen": "2026-11-23T04:30:19+00:00"
+ },
+ {
+  "id": "1ace08c26619",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "India’s Appeal Grows as Global Tech Selloff Deepens",
+  "teaser": "India’s appeal as an anti-AI market is growing as the global tech selloff deepens. From stocks to the currency, Indian assets are drawing fresh foreign interest as several tailwinds fall into place. Bloomberg’s Abhishek Vishnoi explains what to watch this week. (Source:…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-23/india-s-appeal-grows-as-global-tech-selloff-deepens-video",
+  "published": "2026-11-23T03:08:54+00:00",
+  "seen": "2026-11-23T04:30:19+00:00"
+ },
+ {
+  "id": "801c8d7ef299",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+  "teaser": "After a turbulent IPO, the startup’s credit rating will affect its capital plans and the future of the AI industry.",
+  "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+  "published": "2026-11-23T03:00:00+00:00",
+  "seen": "2026-11-23T04:30:19+00:00"
+ },
+ {
+  "id": "b6757117623e",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "BYD hit after court bars SUV from EU over Land Rover design copy",
+  "teaser": "Ruling marks significant setback for Chinese carmaker’s ambitions to expand in Europe",
+  "link": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614?syn-25a6b1a6=1",
+  "published": "2026-11-23T02:48:12+00:00",
+  "seen": "2026-11-23T04:30:19+00:00"
+ },
+ {
+  "id": "3119386edf2f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "European Gas Surges as Cold Snap Threatens Tight Inventories",
+  "teaser": "European natural gas prices jumped after temperature forecasts shifted sharply lower, which could put further pressure on inventories already depleted by export disruptions stemming from the US-Iran war.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
+  "published": "2026-11-23T02:46:27+00:00",
+  "seen": "2026-11-23T04:30:19+00:00"
+ },
+ {
   "id": "648b1730353b",
   "source": "Bloomberg",
   "lang": "en",
@@ -3209,94 +3297,6 @@
   "teaser": "Plus, Kushner floats a Ukraine peace deal that would upend U.S. policy, and the snack sailors aboard the USS George Washington can’t get enough of.",
   "link": "https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b?mod=rss_markets_main",
   "published": "2026-11-20T10:59:00+00:00",
-  "seen": "2026-11-20T11:45:04+00:00"
- },
- {
-  "id": "e67a0715d127",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Ivory Coast to Raise Mineral-Royalty Rates Before IMF Talks",
-  "teaser": "Ivory Coast plans to raise royalties paid by mining companies to boost government revenue before potential talks with the International Monetary Fund on a new financing program.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/ivory-coast-to-raise-mineral-royalty-rates-before-imf-talks",
-  "published": "2026-11-20T10:56:41+00:00",
-  "seen": "2026-11-20T11:45:04+00:00"
- },
- {
-  "id": "3f54ac0789dd",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "The Seven Charts That Explain the New Normal for Oil Prices",
-  "teaser": "Traders and analysts say oil prices of around $85 to $95 a barrel are poised to be the reality for the foreseeable future.",
-  "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7?mod=rss_markets_main",
-  "published": "2026-11-20T10:56:00+00:00",
-  "seen": "2026-11-20T11:45:04+00:00"
- },
- {
-  "id": "d57dd9bd3c42",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "CATL, Luxshare to Join Hong Kong Tech Index in Major Revamp",
-  "teaser": "Contemporary Amperex Technology Co. Ltd., Luxshare Precision Industry Co. and ASMPT Ltd. are among the stocks that will be added to Hong Kong’s Hang Seng Tech Index in a major expansion to better reflect China’s vast technology sector.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/catl-luxshare-to-join-hong-kong-tech-index-in-major-revamp",
-  "published": "2026-11-20T10:36:55+00:00",
-  "seen": "2026-11-20T11:45:04+00:00"
- },
- {
-  "id": "95768eecc9e5",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Germany Consumers Buy Heating Oil as Winter Looms Despite High Prices",
-  "teaser": "Germans are finally piling back into the heating oil market, having put off buying for much of the year because of soaring prices.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/germans-buy-heating-oil-as-winter-looms-despite-high-prices-caused-by-iran-war",
-  "published": "2026-11-20T10:34:45+00:00",
-  "seen": "2026-11-20T11:45:04+00:00"
- },
- {
-  "id": "944b92dc5e44",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Indian Refiners Race to Secure Oil Tankers as Freight Costs Rise",
-  "teaser": "Indian refiners are rushing to lock in tankers on long-term contracts to secure crude supplies as persistent disruptions in the Persian Gulf drive up freight costs and tighten vessel availability.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/india-refiners-race-to-secure-oil-tankers-as-freight-costs-surge",
-  "published": "2026-11-20T10:34:25+00:00",
-  "seen": "2026-11-20T11:45:04+00:00"
- },
- {
-  "id": "59919dee740f",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
-  "teaser": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift.",
-  "link": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_markets_main",
-  "published": "2026-11-20T10:30:00+00:00",
-  "seen": "2026-11-20T11:45:04+00:00"
- },
- {
-  "id": "77f2fd701560",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Saudis Make Deal With Japan to Replenish Depleted Oil Stocks",
-  "teaser": "Saudi Arabia reached an agreement to help replenish Japan’s depleted crude stockpiles and expand the kingdom’s own storage capacity in the Asian country.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/saudis-make-deal-with-japan-to-replenish-depleted-oil-stockpiles",
-  "published": "2026-11-20T10:20:42+00:00",
-  "seen": "2026-11-20T11:45:04+00:00"
- },
- {
-  "id": "4e283f45608a",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-  "teaser": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
-  "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-  "published": "2026-11-20T10:15:00+00:00",
   "seen": "2026-11-20T11:45:04+00:00"
  }
 ]
