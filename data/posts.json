@@ -1,5 +1,55 @@
 [
  {
+  "id": "0ff1873946d3",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
+  "title_uk": "Акції UnitedHealth, Humana і CVS падають через перевірку рейтингів Medicare Advantage",
+  "summary_uk": "Папери найбільших американських медичних страховиків знизилися після того, як влада США взялася за рейтинги приватної програми Medicare Advantage. Компанії опинилися під пильною увагою щодо своєї ділової практики, можливі зміни в самій програмі.",
+  "category": "companies",
+  "published": "2026-11-23T14:39:00+00:00",
+  "added": "2026-11-23T20:30:33+00:00"
+ },
+ {
+  "id": "41085ca8b8cd",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1",
+  "title_uk": "Макрон пропонує закріпити в Конституції Франції «золоте правило» бюджету",
+  "summary_uk": "Президент Франції запропонував конституційну реформу, яка обмежила б державні витрати та стримувала дефіцит бюджету в майбутньому. Схожі ідеї раніше висували й опоненти Макрона.",
+  "category": "policy",
+  "published": "2026-11-23T13:22:36+00:00",
+  "added": "2026-11-23T20:30:33+00:00"
+ },
+ {
+  "id": "c951ab4692b7",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/forint-jumps-after-hungary-softens-interest-rate-guidance",
+  "title_uk": "Угорський форинт подорожчав після пом'якшення сигналів центробанку щодо ставок",
+  "summary_uk": "Курс форинта різко зріс після того, як Національний банк Угорщини змінив формулювання своїх прогнозів щодо монетарної політики. Регулятор пояснив, що після розпродажу на ринку можливості для зниження ставок стали обмеженішими.",
+  "category": "banks",
+  "published": "2026-11-23T14:23:04+00:00",
+  "added": "2026-11-23T20:30:33+00:00"
+ },
+ {
+  "id": "b33f655e37ef",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/us-business-activity-expands-at-slowest-pace-in-four-months",
+  "title_uk": "Ділова активність у США зростає найповільніше за чотири місяці",
+  "summary_uk": "Зростання ділової активності в американській економіці сповільнилося до найнижчого темпу за останні чотири місяці. На виробників і сферу послуг тиснуть високі ціни, затримки поставок та обмежені виробничі потужності.",
+  "category": "economy",
+  "published": "2026-11-23T14:45:00+00:00",
+  "added": "2026-11-23T20:30:33+00:00"
+ },
+ {
+  "id": "74b338c68d71",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+  "title_uk": "Рада директорів Nvidia повернула Дженсена Хуанга на посаду генерального директора",
+  "summary_uk": "Рада директорів Nvidia несподівано змінила свою позицію та відновила співзасновника компанії Дженсена Хуанга на посаді CEO. Після цього рішення акції виробника чипів для ШІ різко пішли вгору.",
+  "category": "companies",
+  "published": "2026-11-23T15:43:06+00:00",
+  "added": "2026-11-23T20:30:33+00:00"
+ },
+ {
   "id": "97aff51dc296",
   "source": "European Central Bank",
   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
@@ -1232,55 +1282,5 @@
   "category": "ukraine",
   "published": "2026-11-19T11:48:38+00:00",
   "added": "2026-11-19T20:30:01+00:00"
- },
- {
-  "id": "aa7070b97712",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1",
-  "title_uk": "Золото не захистило інвесторів під час недавнього падіння техакцій",
-  "summary_uk": "Дорогоцінний метал роками вважали інструментом диверсифікації портфеля. Однак, як зазначає Financial Times, під час нещодавнього спаду акцій технологічних компаній золото не виконало цієї захисної ролі, і інтерес інвесторів до нього слабшає.",
-  "category": "markets",
-  "published": "2026-11-19T05:00:17+00:00",
-  "added": "2026-11-19T16:30:28+00:00"
- },
- {
-  "id": "8d126069fb6b",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
-  "title_uk": "Прибутки хмарного бізнесу Alibaba повністю з'їдають збитки її ШІ-лабораторій",
-  "summary_uk": "Хмарний підрозділ китайського інтернет-гіганта Alibaba розвивається успішно. Проте, за даними MarketWatch, збитки напряму досліджень штучного інтелекту повністю нівелюють цей прибуток.",
-  "category": "companies",
-  "published": "2026-11-19T11:54:00+00:00",
-  "added": "2026-11-19T16:30:28+00:00"
- },
- {
-  "id": "8240c2dc86f5",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/chinese-chip-design-stocks-sink-on-concerns-over-foundry-access",
-  "title_uk": "Акції китайських розробників чипів впали через ризик втратити доступ до фабрик",
-  "summary_uk": "Інвестори побоюються, що закордонні виробники мікросхем можуть відмовлятися від замовлень китайських компаній, оскільки США посилюють контроль над технологіями. На цьому тлі котирування розробників чипів у Китаї різко знизилися, пише Bloomberg.",
-  "category": "markets",
-  "published": "2026-11-19T06:24:05+00:00",
-  "added": "2026-11-19T16:30:28+00:00"
- },
- {
-  "id": "3441f3e9e3ec",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-19/new-world-shares-tank-54-to-head-for-worst-week-on-rights-issue",
-  "title_uk": "Акції гонконзького забудовника New World обвалилися на 54% через випуск прав",
-  "summary_uk": "Папери New World Development ідуть до найгіршого тижня в історії компанії. Інвесторів налякав випуск прав на акції з великим дисконтом, а аналітики знизили рекомендації щодо цього забудовника з високим боргом, повідомляє Bloomberg.",
-  "category": "companies",
-  "published": "2026-11-19T04:38:20+00:00",
-  "added": "2026-11-19T16:30:28+00:00"
- },
- {
-  "id": "50173f4f1593",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/stocks/nvidia-is-the-central-bank-to-ais-circular-economy-see-where-the-money-goes-da480b61?mod=rss_markets_main",
-  "title_uk": "Nvidia з 2023 року уклала щонайменше 293 інвестиційні угоди",
-  "summary_uk": "За підрахунками The Wall Street Journal, Nvidia відтоді сформувала інвестиційний портфель вартістю понад $100 млрд. Видання описує чипмейкера як своєрідний «центробанк» для галузі ШІ, у якій гроші циркулюють між постачальниками та клієнтами по колу.",
-  "category": "companies",
-  "published": "2026-11-19T10:30:00+00:00",
-  "added": "2026-11-19T16:30:28+00:00"
  }
 ]
