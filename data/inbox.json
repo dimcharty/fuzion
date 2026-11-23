@@ -1,5 +1,16 @@
 [
  {
+  "id": "de15d48e95ea",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Rene Haas affirms ‘long-term commitment’ to Arm after Nvidia approach",
+  "teaser": "UK chip company CEO signs new contract just weeks after being approached as possible candidate to replace Jensen Huang",
+  "link": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
+  "published": "2026-11-23T12:28:53+00:00",
+  "seen": "2026-11-23T12:51:59+00:00"
+ },
+ {
   "id": "0e7a9e1b7687",
   "source": "MarketWatch",
   "lang": "en",
@@ -22,6 +33,17 @@
   "seen": "2026-11-23T12:30:49+00:00"
  },
  {
+  "id": "5ad321f9d8e7",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "The trouble with the middle powers project",
+  "teaser": "Smaller nations are already dangerously dependent — and US and Chinese dominance of AI will only compound their problems",
+  "link": "https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1",
+  "published": "2026-11-23T12:25:47+00:00",
+  "seen": "2026-11-23T12:51:59+00:00"
+ },
+ {
   "id": "0b1117d12e99",
   "source": "MarketWatch",
   "lang": "en",
@@ -42,6 +64,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-23/mahanadi-coalfields-953-million-india-ipo-subscribed-1-5-times",
   "published": "2026-11-23T12:15:01+00:00",
   "seen": "2026-11-23T12:30:49+00:00"
+ },
+ {
+  "id": "3eb2078fab33",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "European Banks Set to Fire Up M&A Talks, Morgan Stanley Says",
+  "teaser": "The success of current deals across Europe’s banking sector and potentially softer regulation is likely to fuel boardroom talks about cross-border acquisitions next year, according to Morgan Stanley analysts.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/european-banks-set-to-fire-up-m-a-talks-morgan-stanley-says",
+  "published": "2026-11-23T12:12:17+00:00",
+  "seen": "2026-11-23T12:51:59+00:00"
  },
  {
   "id": "b10b2e0db178",
@@ -3080,6 +3113,17 @@
   "seen": "2026-11-21T00:30:03+00:00"
  },
  {
+  "id": "997da43c4e8d",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+  "teaser": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+  "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+  "published": "2026-11-20T21:10:48+00:00",
+  "seen": "2026-11-23T12:51:59+00:00"
+ },
+ {
   "id": "e140f732019d",
   "source": "Financial Times",
   "lang": "en",
@@ -3253,50 +3297,6 @@
   "teaser": "Sales of asset-backed securities have surpassed their highest level since the Great Financial Crisis for a third straight year, as builders of artificial intelligence infrastructure continue to tap markets for financing and cash-rich insurance firms hunt for high-yielding debt.",
   "link": "https://www.bloomberg.com/news/articles/2026-11-20/asset-backed-debt-sales-top-post-gfc-record-on-ai-strength",
   "published": "2026-11-20T19:41:53+00:00",
-  "seen": "2026-11-20T20:24:54+00:00"
- },
- {
-  "id": "50c8cd3e7c7f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Canada Stocks Eye Longest Losing Streak Since 2023 on Tech Rout",
-  "teaser": "Canada’s major equities index is on track to fall for seven straight sessions in a broad selloff sparked by technology and commodities stocks on Friday, marking the benchmark’s longest losing streak in three years.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/canada-stocks-eye-longest-losing-streak-since-2023-on-tech-rout",
-  "published": "2026-11-20T19:41:51+00:00",
-  "seen": "2026-11-20T20:24:54+00:00"
- },
- {
-  "id": "65323d48aed5",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Trump seeks Ukraine peace deal before January",
-  "teaser": "US officials keen to secure agreement between Vladimir Putin and Volodymyr Zelenskyy before Democrats take over Congress",
-  "link": "https://www.ft.com/content/6c1b8a64-35f9-4aba-8605-45a4abdce6b8?syn-25a6b1a6=1",
-  "published": "2026-11-20T19:32:15+00:00",
-  "seen": "2026-11-20T20:24:54+00:00"
- },
- {
-  "id": "e00699406fe1",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "ETFs: High Conviction Through Novel Strategies",
-  "teaser": "Inkoo Kang, Executive Director of Tactical Products at ProShares, Ryan Lee, SVP of Product & Strategy at Direxion ETFs, and Corgi's Chief Investment Strategist Jeff Weniger join Bloomberg Intelligence's Athanasios Psarofagis at the Bloomberg ETFs in Depth conference in New York…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-high-conviction-through-novel-strategies-video",
-  "published": "2026-11-20T19:29:35+00:00",
-  "seen": "2026-11-20T20:24:54+00:00"
- },
- {
-  "id": "b45cd1f0cb59",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "How Tokenization Could Change the ETF Market",
-  "teaser": "Giang Bui, Head of Issuer Growth at Securitize, Jason Emery, Head of Product Management at DTCC Digital Assets, and Will Peck, Head of WisdomTree Onchain, join Bloomberg Intelligence's James Seyffart at the Bloomberg ETFs in Depth conference in New York on November 19, 2026. The…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/how-tokenization-could-change-the-etf-market-video",
-  "published": "2026-11-20T19:29:00+00:00",
   "seen": "2026-11-20T20:24:54+00:00"
  }
 ]
