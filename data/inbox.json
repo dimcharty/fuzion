@@ -1,5 +1,115 @@
 [
  {
+  "id": "59ed46ef367e",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asian Currencies Mixed as Traders Digest Divergent Signals",
+  "teaser": "Asian currencies were mixed against the dollar as traders digest divergent signals.",
+  "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+  "published": "2026-11-23T00:24:00+00:00",
+  "seen": "2026-11-23T00:30:07+00:00"
+ },
+ {
+  "id": "43e16a85d7a0",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand",
+  "teaser": "US Treasury futures declined as demand for havens eased after US stock futures advanced.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
+  "published": "2026-11-22T23:59:06+00:00",
+  "seen": "2026-11-23T00:30:07+00:00"
+ },
+ {
+  "id": "e68aaf3281a3",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Latest Oil Market News and Analysis for Nov. 23",
+  "teaser": "Oil declined as traders weighed signs of robust crude exports against the prospect of escalating hostilities in the Middle East.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+  "published": "2026-11-22T23:06:06+00:00",
+  "seen": "2026-11-23T00:30:07+00:00"
+ },
+ {
+  "id": "e156ac142c5d",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Stock Traders Brace For More Volatility After Tech-Driven Rout",
+  "teaser": "Wall Street enters the new trading week under intense pressure after a violent rotation out of US stocks left investors wondering if more pain is in store.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+  "published": "2026-11-22T23:04:42+00:00",
+  "seen": "2026-11-23T00:30:07+00:00"
+ },
+ {
+  "id": "fc8d3b43beed",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
+  "teaser": "The $577 billion Hong Kong market has tell-tale signs of artificially inflated trading, insiders say.",
+  "link": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
+  "published": "2026-11-22T23:00:17+00:00",
+  "seen": "2026-11-23T00:30:07+00:00"
+ },
+ {
+  "id": "0623566cbd05",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
+  "teaser": "China’s gold imports surged to a record $209 billion so far this year, in an unprecedented buying spree that followed a promise by top officials to make their country into the world’s marketplace instead of just its factory.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/gold-deluge-keeps-china-s-1-trillion-trade-surplus-in-check",
+  "published": "2026-11-22T23:00:00+00:00",
+  "seen": "2026-11-23T00:30:07+00:00"
+ },
+ {
+  "id": "955ab8ae245e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Live: Asia-Pacific Stocks, Currencies React After Nasdaq, S&P 500 Selloff",
+  "teaser": "",
+  "link": "https://www.bloomberg.com/news/live-blog/2026-11-22/asia-market-open",
+  "published": "2026-11-22T22:56:32+00:00",
+  "seen": "2026-11-23T00:30:07+00:00"
+ },
+ {
+  "id": "900a5fbe1bdb",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "House Democrats to start new Congress with largest majority this century",
+  "teaser": "Lawmakers plan to use powers to investigate claims of corruption levelled at Trump administration",
+  "link": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1",
+  "published": "2026-11-22T22:10:45+00:00",
+  "seen": "2026-11-23T00:30:07+00:00"
+ },
+ {
+  "id": "dbda121af27e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Nasdaq, S&P 500 Futures Bounce After Friday’s Rout: Markets Wrap",
+  "teaser": "US equity-index futures opened higher in early Asian trading as buyers returned following Friday’s sharp selloff sparked by an unwinding of the artificial intelligence trade. Treasury bond futures fell.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+  "published": "2026-11-22T22:02:27+00:00",
+  "seen": "2026-11-23T00:30:07+00:00"
+ },
+ {
+  "id": "2a629e8cce95",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Opinion | How to Kill a Bull Market",
+  "teaser": "Politicians have a say in how deep the AI correction becomes.",
+  "link": "https://www.wsj.com/opinion/how-to-kill-a-bull-market-ai-policy-15fb5af6?mod=rss_markets_main",
+  "published": "2026-11-22T22:01:00+00:00",
+  "seen": "2026-11-23T00:30:07+00:00"
+ },
+ {
   "id": "b36381fd751a",
   "source": "MarketWatch",
   "lang": "en",
@@ -3188,115 +3298,5 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-20/metro-bank-draws-early-interest-from-barclays-lone-star",
   "published": "2026-11-20T07:28:32+00:00",
   "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "8fe2ee830da0",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Tech Valuation Plunge Brings Some Opportunities: Taking Stock",
-  "teaser": "The sharp drop in the valuations of technology stocks, especially those linked to the artificial intelligence trade, is fueling debate over whether too much negativity has already been priced in.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/tech-valuation-plunge-brings-some-opportunities-taking-stock",
-  "published": "2026-11-20T07:27:02+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "4db343220531",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Can Manchester United's New Coach Fix All the Problems?",
-  "teaser": "Manchester United's new coach Mauricio Pochettino is walking into a club beset by competing egos, poor commercial decisions and a clash between its owners, according to interviews with more than a dozen current and former executives. Bloomberg's David Hellier has the details.…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/can-manchester-united-s-new-coach-fix-all-the-problems-video",
-  "published": "2026-11-20T07:23:56+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "00072a17246d",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "India-US Trade Ties After Shenzhen Meeting",
-  "teaser": "Asia Society Australia Senior Fellow Premesha Saha discusses India-US relations following the ASEAN and APEC meetings. She says India is preserving its strategic autonomy while maintaining ties with the US. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/india-us-trade-ties-after-shenzhen-meeting-video",
-  "published": "2026-11-20T07:23:42+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "18170fbf4df2",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Soars Then Slips as AI Trade Fears Linger",
-  "teaser": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source:…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/insight-with-haslinda-amin-11-20-2026-video",
-  "published": "2026-11-20T07:14:36+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "1fbf9b23ebe5",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "European Stocks Join Global Selloff",
-  "teaser": "",
-  "link": "https://www.bloomberg.com/news/live-blog/2026-11-20/ftse-100-live-updates-pound-gilts-stocks-selloff-ai-what-s-moving-uk-markets-right-now-markets-today",
-  "published": "2026-11-20T06:46:27+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "eead23010147",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Goldman Sachs on India, Korea Opportunities",
-  "teaser": "Goldman Sachs Chief Regional Equity Strategist for Asia Pacific Timothy Moe says uncertainty and de-risking are weighing on the broader AI trade. Speaking with Bloomberg's Haslinda Amin and Avril Hong, he also outlines the case for India, and explains why they prefer Korea over…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-sachs-on-anthropic-india-korea-opportunities-video",
-  "published": "2026-11-20T06:35:32+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "baadf93f66af",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Asia Stocks Drop in Wake of Anthropic's Record Debut",
-  "teaser": "\"Bloomberg: The China Show\" is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/the-china-show-11-20-2026-video",
-  "published": "2026-11-20T06:34:41+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "01b742e66cd5",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Goldman’s Moe on Uncertainties Around the AI Trade",
-  "teaser": "Goldman Sachs Chief Regional Equity Strategist for Asia Pacific Timothy Moe describes some of the broader pressures on AI-related stocks. He speaks as investors contend with worries over Nvidia, political developments in the US and opposition to data centers. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-s-moe-on-uncertainties-around-the-ai-trade-video",
-  "published": "2026-11-20T06:12:53+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "c0afdda5c5f6",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
-  "teaser": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
-  "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
-  "published": "2026-11-20T05:45:11+00:00",
-  "seen": "2026-11-20T08:30:52+00:00"
- },
- {
-  "id": "6cacbce15024",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "IDR/USD: Why Indonesia’s Rupiah Is So Weak And What It Means For the Economy",
-  "teaser": "Indonesia’s rupiah — Asia’s worst-performing currency this year — has been under pressure since late 2024, as investors have grown increasingly concerned about the country’s fiscal outlook. Before the current period of volatility, the currency hadn’t traded at such low levels…",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/idr-usd-why-indonesia-s-rupiah-is-so-weak-and-what-it-means-for-the-economy",
-  "published": "2026-11-20T05:42:07+00:00",
-  "seen": "2026-11-20T05:44:44+00:00"
  }
 ]
