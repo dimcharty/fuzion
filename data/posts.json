@@ -1,5 +1,36 @@
 [
  {
+  "id": "digest-2026-11-23",
+  "kind": "digest",
+  "category": "digest",
+  "title_uk": "Ранковий дайджест: 23 листопада",
+  "summary_uk": "Три головні події фінансового світу за минулу добу.",
+  "source": "Fuzion Societe",
+  "link": "https://t.me/fuzionsoc",
+  "items": [
+   {
+    "title_uk": "Розпродаж технологічних акцій поширився на Азію",
+    "summary_uk": "Корейський фондовий ринок просів більш ніж на 3% слідом за різким падінням Уолл-стріт у п'ятницю.",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1"
+   },
+   {
+    "title_uk": "Ціни на газ у Європі різко зросли через прогноз похолодання",
+    "summary_uk": "Морози загрожують європейським запасам газу, які вже виснажені перебоями експорту через війну США та Ірану.",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories"
+   },
+   {
+    "title_uk": "Уолл-стріт очікує «сміттєвого» кредитного рейтингу для Anthropic",
+    "summary_uk": "Після бурхливого IPO компанія зобов'язалася витратити $900 млрд, і її рейтинг вплине на плани залучення капіталу.",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main"
+   }
+  ],
+  "published": "2026-11-23T05:44:00+00:00",
+  "added": "2026-11-23T05:44:00+00:00"
+ },
+ {
   "id": "0e1ef746ff90",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
@@ -1271,16 +1302,6 @@
   "summary_uk": "Технологічна група відклала ініціативу, яка дозволила б засновнику Марку Цукербергу продавати частину своїх акцій, не втрачаючи контролю над компанією.",
   "category": "companies",
   "published": "2026-11-18T23:57:06+00:00",
-  "added": "2026-11-19T04:30:04+00:00"
- },
- {
-  "id": "19a789dac9e5",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a?syn-25a6b1a6=1",
-  "title_uk": "У США росіянина звинуватили у шпигунстві за Palantir через допомогу компанії Україні",
-  "summary_uk": "За версією американських прокурорів, підозрюваний потрапив до США з Мексики та стежив за працівниками технологічної компанії Palantir у Кремнієвій долині. Справа пов'язана з підтримкою, яку Palantir надає Україні.",
-  "category": "ukraine",
-  "published": "2026-11-18T21:44:59+00:00",
   "added": "2026-11-19T04:30:04+00:00"
  }
 ]
