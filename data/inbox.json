@@ -1,5 +1,27 @@
 [
  {
+  "id": "70198f2ea636",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Nikkei Rises 2.7%, Led by Chip, Metals Stocks",
+  "teaser": "Japanese stocks were higher in early trade as Jensen Huang’s return as the Nvidia chief executive revives an artificial-intelligence trade.",
+  "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
+  "published": "2026-11-24T00:48:00+00:00",
+  "seen": "2026-11-24T00:55:06+00:00"
+ },
+ {
+  "id": "519716230c66",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asian tech stocks surge in wake of Jensen Huang’s return",
+  "teaser": "Nvidia chief executive’s reinstatement sent Wall Street shares higher",
+  "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+  "published": "2026-11-24T00:30:51+00:00",
+  "seen": "2026-11-24T00:55:06+00:00"
+ },
+ {
   "id": "f28a8309d9c8",
   "source": "Bloomberg",
   "lang": "en",
@@ -3275,28 +3297,6 @@
   "teaser": "У Києві рух Південним мостом з правого на лівий берег наразі дозволили лише громадському транспорту.",
   "link": "https://epravda.com.ua/biznes/patrulna-policiya-povidomila-yak-organizovano-ruh-pivdennim-mostom-u-kiyevi-827899/",
   "published": "2026-11-21T14:47:00+00:00",
-  "seen": "2026-11-21T17:59:31+00:00"
- },
- {
-  "id": "873100a9a9d2",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Shenzhen Wants to Become a Cultural Capital",
-  "teaser": "Bloomberg’s Tiffany Ap tells Bloomberg This Weekend how Shenzhen is spending billions on museums as the technology and manufacturing hub tries to establish itself as a cultural destination and attract talent and tourism. Speaking with hosts David Gura and Christina Ruffini, Ap…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
-  "published": "2026-11-21T14:24:08+00:00",
-  "seen": "2026-11-21T16:30:50+00:00"
- },
- {
-  "id": "508d7f050ea0",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Німеччина передасть Україні два локомотива для євроколії",
-  "teaser": "Німеччина передасть Україні два локомотива для європейської колії шириною 1 435 мм, продовжується пошук європейського фінансування для отримання ще 30 локомотивів.",
-  "link": "https://epravda.com.ua/biznes/nimechchina-peredast-ukrajini-dva-lokomotiva-dlya-yevrokoliji-827898/",
-  "published": "2026-11-21T14:13:00+00:00",
   "seen": "2026-11-21T17:59:31+00:00"
  }
 ]
