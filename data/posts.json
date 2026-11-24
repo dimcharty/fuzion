@@ -1,5 +1,65 @@
 [
  {
+  "id": "02ca3a4d25b8",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
+  "title_uk": "Ціни на газ у Європі трохи знизилися, але лишаються високими",
+  "summary_uk": "Європейський природний газ подешевшав на початку торгів, однак трейдерів і далі турбують похолодання та низький рівень заповнення сховищ. Ознаки зростання попиту не дають цінам суттєво опуститися. Вартість газу в ЄС важлива й для України, яка імпортує паливо з Європи.",
+  "category": "energy",
+  "published": "2026-11-24T08:54:00+00:00",
+  "added": "2026-11-24T16:30:07+00:00"
+ },
+ {
+  "id": "b0951e4ac336",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+  "title_uk": "Ф'ючерси на Nasdaq знижуються після потужного ралі через повернення Хуанга в Nvidia",
+  "summary_uk": "Після понеділкового зростання ринку ф'ючерси на індекс Nasdaq пішли вниз. Інвестори зважують сумніви щодо повернення Дженсена Хуанга на посаду CEO Nvidia та щодо масштабних інвестицій у штучний інтелект.",
+  "category": "markets",
+  "published": "2026-11-24T10:13:00+00:00",
+  "added": "2026-11-24T16:30:07+00:00"
+ },
+ {
+  "id": "bc9058b8abe3",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+  "title_uk": "Акції Anthropic на премаркеті опустилися нижче ціни IPO в $83",
+  "summary_uk": "Акції розробника штучного інтелекту Anthropic у торгах до відкриття біржі ненадовго впали нижче $83 — ціни, за якою їх продавали на IPO. Тим самим зникли прибутки інвесторів, які купили папери під час рекордного розміщення компанії.",
+  "category": "markets",
+  "published": "2026-11-24T11:19:24+00:00",
+  "added": "2026-11-24T16:30:07+00:00"
+ },
+ {
+  "id": "606adcc8d726",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/commerzbank-weighs-partial-withdrawal-from-us-treasury-market",
+  "title_uk": "Commerzbank розглядає часткове згортання торгівлі держоблігаціями США",
+  "summary_uk": "Німецький Commerzbank, за даними джерел Bloomberg, обдумує скорочення своєї участі в торгівлі казначейськими облігаціями США. Це відбувається на тлі підготовки США до запровадження нових вимог щодо клірингу таких паперів.",
+  "category": "banks",
+  "published": "2026-11-24T07:35:48+00:00",
+  "added": "2026-11-24T16:30:07+00:00"
+ },
+ {
+  "id": "712562f8fa50",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+  "title_uk": "Sanofi купує американську біотехкомпанію Insmed за $41 млрд",
+  "summary_uk": "Французький фармвиробник Sanofi погодився заплатити $41 млрд за Insmed — це найбільша угода в біотехнологіях майже за три роки. Покупка має допомогти компенсувати втрати від завершення патентного захисту одного з ключових препаратів Sanofi.",
+  "category": "companies",
+  "published": "2026-11-24T09:14:00+00:00",
+  "added": "2026-11-24T16:30:07+00:00"
+ },
+ {
+  "id": "c04294837066",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1",
+  "title_uk": "Українські дрони б'ють по російських кораблях у трьох морях — FT",
+  "summary_uk": "За даними Financial Times, українські безпілотники уражають військові кораблі та вантажні судна Росії не лише в Чорному морі, а й у Балтійському та Середземному. Ще один російський військовий корабель затонув. Для України це питання безпеки чорноморського судноплавства, через яке йде експорт.",
+  "category": "ukraine",
+  "published": "2026-11-24T11:51:27+00:00",
+  "added": "2026-11-24T16:30:07+00:00"
+ },
+ {
   "id": "356407001672",
   "source": "Financial Times",
   "link": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
@@ -1222,65 +1282,5 @@
   "category": "energy",
   "published": "2026-11-20T04:50:25+00:00",
   "added": "2026-11-20T16:30:55+00:00"
- },
- {
-  "id": "c7fe2a8766c9",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/metro-bank-draws-early-interest-from-barclays-lone-star",
-  "title_uk": "Barclays і Lone Star виявили ранній інтерес до купівлі Metro Bank",
-  "summary_uk": "Британський Metro Bank, який виставив себе на продаж, уже привертає перших потенційних покупців, серед яких Barclays і Lone Star. Про це Bloomberg повідомили обізнані з ситуацією джерела.",
-  "category": "banks",
-  "published": "2026-11-20T07:28:32+00:00",
-  "added": "2026-11-20T12:30:56+00:00"
- },
- {
-  "id": "af20bca6c460",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
-  "title_uk": "Фондовий ринок Тайваню йде до найгіршого тижня з 1991 року",
-  "summary_uk": "Тайванські акції, серед яких переважають технологічні компанії, у п'ятницю знову зазнали розпродажу на тлі сумнівів щодо буму штучного інтелекту. Попри заходи з підтримки ринку, головний індекс острова може завершити тиждень найгірше з 1991 року.",
-  "category": "markets",
-  "published": "2026-11-20T02:29:57+00:00",
-  "added": "2026-11-20T12:30:56+00:00"
- },
- {
-  "id": "b38513beb1a8",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
-  "title_uk": "Акції Anthropic дешевшають, а S&P 500 прямує до найдовшої серії падінь з 2020 року",
-  "summary_uk": "Розпродаж у технологічному секторі посилюється, і під тиском опинилися навіть акції Anthropic, яка щойно вийшла на біржу. Індекс S&P 500 рухається до найтривалішої низхідної серії з 2020 року.",
-  "category": "markets",
-  "published": "2026-11-20T10:08:25+00:00",
-  "added": "2026-11-20T12:30:56+00:00"
- },
- {
-  "id": "a66c0cf5425a",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c?mod=rss_markets_main",
-  "title_uk": "Золото й срібло подешевшали до мінімумів більш ніж за рік",
-  "summary_uk": "Ціни на золото та срібло опустилися до найнижчих рівнів більш ніж за рік. Очікування жорсткішої монетарної політики, схоже, переважили традиційний попит на золото як на захисний актив з боку обережних інвесторів.",
-  "category": "markets",
-  "published": "2026-11-20T11:39:00+00:00",
-  "added": "2026-11-20T12:30:56+00:00"
- },
- {
-  "id": "2b1aa4a1a445",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/business/deals/tpg-corpay-to-buy-finance-platform-bill-for-about-6-billion-9f8be10c?mod=rss_markets_main",
-  "title_uk": "TPG і Corpay купують фінансову платформу Bill приблизно за $6 млрд",
-  "summary_uk": "Bill Holdings, платформа для фінансових операцій бізнесу, буде продана в угоді вартістю близько $6 млрд. Контрольний пакет отримає інвестиційна компанія TPG, а платіжна компанія Corpay придбає міноритарну частку.",
-  "category": "companies",
-  "published": "2026-11-19T23:48:00+00:00",
-  "added": "2026-11-20T08:30:38+00:00"
- },
- {
-  "id": "ea2c0d2c93ed",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
-  "title_uk": "Нафта дорожчає після удару хуситів по хмарочосу в Ер-Ріяді",
-  "summary_uk": "Ціни на нафту зросли через напруження на Близькому Сході. У четвер снаряд, випущений єменськими хуситами, яких підтримує Іран, влучив у найвищу будівлю столиці Саудівської Аравії.",
-  "category": "energy",
-  "published": "2026-11-20T00:24:00+00:00",
-  "added": "2026-11-20T08:30:38+00:00"
  }
 ]
