@@ -1,5 +1,137 @@
 [
  {
+  "id": "681e74310f2e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Australia Bonds Set for Longest Rally Since June on RBA Cut Bets",
+  "teaser": "Australia’s bond market is heading for its longest rally in over five months as mounting signs of economic weakness fuel bets the Reserve Bank’s next move will be an interest-rate cut.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/australia-bonds-set-for-longest-rally-since-june-on-rba-cut-bets",
+  "published": "2026-11-24T04:06:12+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "356407001672",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Singapore is no backdoor for US chips, PM says",
+  "teaser": "Lawrence Wong vows city-state will not let companies break law by circumventing export controls",
+  "link": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
+  "published": "2026-11-24T03:46:42+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "d4955a2838b9",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "GQG Shares Set for Record Surge in Sydney With AI Trade Revival",
+  "teaser": "GQG Partners Inc.’s Australia-listed shares are on track for a record daily gain, as a rebound in the artificial intelligence trade drew investors back into Rajiv Jain’s beaten-down investment firm.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/gqg-shares-set-for-record-surge-in-sydney-with-ai-trade-revival",
+  "published": "2026-11-24T03:42:00+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "3411016ce166",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports",
+  "teaser": "Shares in Chinese cobalt producers surged after the Democratic Republic of Congo slapped an export ban on the battery metal from the end of the month in a bid to arrest a price decline.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/shares-in-chinese-cobalt-producers-jump-after-congo-bans-exports",
+  "published": "2026-11-24T03:17:56+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "9402acf98323",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
+  "teaser": "Japanese government bonds rallied across the curve after a three-day holiday, with gains holding even as domestic equities surged on easing concerns over the outlook for artificial intelligence investment.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/japanese-bonds-rally-across-curve-as-domestic-stocks-surge",
+  "published": "2026-11-24T03:07:20+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "aa36c57f3bc0",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "U.S. Treasurys Edge Lower Amid Higher Fed Rate-Hike Prospects",
+  "teaser": "U.S. Treasurys edged lower in price terms in the Asian session amid higher prospects for Fed rate hikes.",
+  "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
+  "published": "2026-11-24T03:00:00+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "012b324bfc0a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Copper Resumes Decline as Investors Look Beyond Drama at Nvidia",
+  "teaser": "Copper resumed a decline after a spike driven by Jensen Huang’s return to Nvidia Corp., with investors still cautious about demand.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
+  "published": "2026-11-24T02:38:19+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "c001ea324a61",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
+  "teaser": "Saudi national is also alleged to have photographed confidential documents",
+  "link": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
+  "published": "2026-11-24T01:31:42+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "7ccc19f41349",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Copper Smelters Face Worsening Squeeze as Negotiations Stall",
+  "teaser": "Copper smelters are bracing for a period of extreme financial pressure as closely-watched negotiations over supply contracts for next year go down to the wire.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/copper-smelters-face-worsening-squeeze-as-negotiations-stall",
+  "published": "2026-11-24T01:29:41+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "4e6f333e31b9",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Malaysia Index Rejig Puts Tech, Power Stocks in Focus for 2027",
+  "teaser": "Malaysia is gearing up for the first major overhaul of its equity benchmark in 17 years, a shake-up that may channel more investor money into technology and energy companies just as traders rethink the profitability of the AI trade.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/malaysia-index-rejig-puts-tech-power-stocks-in-focus-for-2027",
+  "published": "2026-11-24T01:12:37+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "eb72734e6bd5",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Keppel Agrees to Merge Telecom Firms M1 and Starhub",
+  "teaser": "Asset manager Keppel Ltd. agreed to combine M1 Ltd. with Starhub Ltd. in an all-share deal, bringing together two of Singapore’s major telecommunications operators following months of talks.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
+  "published": "2026-11-24T01:07:27+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
+  "id": "466c506a4e01",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Gold Rises Amid Risk-on Sentiment Across Markets",
+  "teaser": "Gold continued to rise in early Asian trade after rallying overnight.",
+  "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
+  "published": "2026-11-24T01:04:00+00:00",
+  "seen": "2026-11-24T04:30:45+00:00"
+ },
+ {
   "id": "70198f2ea636",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -3165,138 +3297,6 @@
   "teaser": "It’s hot, humid and costs a bit more than we anticipated. But we love the life we’ve built here.",
   "link": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7?mod=rss_markets_main",
   "published": "2026-11-21T17:00:00+00:00",
-  "seen": "2026-11-21T17:59:31+00:00"
- },
- {
-  "id": "93f92bb58e46",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-  "teaser": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-  "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-  "published": "2026-11-21T16:50:00+00:00",
-  "seen": "2026-11-21T17:59:31+00:00"
- },
- {
-  "id": "3024aa095fea",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Підпільне виробництво сигарет: БЕБ викрило фабрику \"групи Монако\" – ЗМІ",
-  "teaser": "Фабрика, яка виробляла контрафактні сигарети і яку викрило БЕБ, належала утримувачам так званої \"групи Монако\".",
-  "link": "https://epravda.com.ua/biznes/pidpilne-virobnictvo-sigaret-beb-vikrilo-fabriku-grupi-monako-zmi-827902/",
-  "published": "2026-11-21T15:58:00+00:00",
-  "seen": "2026-11-21T17:59:31+00:00"
- },
- {
-  "id": "d28788a0ec66",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-  "teaser": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-  "published": "2026-11-21T15:43:12+00:00",
-  "seen": "2026-11-21T16:30:50+00:00"
- },
- {
-  "id": "691aeea036b1",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly",
-  "teaser": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
-  "published": "2026-11-21T15:31:22+00:00",
-  "seen": "2026-11-21T16:30:50+00:00"
- },
- {
-  "id": "1e909d774291",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Thanksgiving Dinner Is Moving to Restaurants",
-  "teaser": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining out increasingly attractive. Speaking with hosts David Gura and Christina…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
-  "published": "2026-11-21T15:28:00+00:00",
-  "seen": "2026-11-21T16:30:50+00:00"
- },
- {
-  "id": "009da9d0502f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "The 1982 War Still Haunts the Middle East",
-  "teaser": "Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues to shape conflicts in the region today. Speaking with hosts David Gura and…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
-  "published": "2026-11-21T15:19:32+00:00",
-  "seen": "2026-11-21T16:30:50+00:00"
- },
- {
-  "id": "a2baf74492b3",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-  "teaser": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-  "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-  "published": "2026-11-21T15:15:00+00:00",
-  "seen": "2026-11-21T17:59:31+00:00"
- },
- {
-  "id": "50b661d49468",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "У КМДА повідомили, які автобуси відновили рух на лівий берег Південним мостом",
-  "teaser": "У Києві відновлюють рух громадського транспорту з правого на лівий берег Південним мостом, з правого на лівий берег курсуватимуть три автобусні маршрути.",
-  "link": "https://epravda.com.ua/biznes/na-pivdennomu-mostu-vidnovlyuyut-ruh-gromadskogo-transportu-z-pravogo-na-liviy-bereg-kiyeva-827901/",
-  "published": "2026-11-21T15:14:00+00:00",
-  "seen": "2026-11-21T17:59:31+00:00"
- },
- {
-  "id": "fde09a1cc263",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Is AI a Bubble? History Offers Some Clues",
-  "teaser": "Bloomberg Opinion columnist Justin Fox tells Bloomberg This Weekend that history offers warning signs for financial bubbles, but little reliable guidance about exactly when they will burst, making debt and investor sentiment important risks to watch amid the AI boom. Speaking…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
-  "published": "2026-11-21T15:09:32+00:00",
-  "seen": "2026-11-21T16:30:50+00:00"
- },
- {
-  "id": "c3f832d5a946",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
-  "teaser": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-  "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-  "published": "2026-11-21T15:00:00+00:00",
-  "seen": "2026-11-21T16:30:50+00:00"
- },
- {
-  "id": "13cf8b551ff6",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "На лівому березі Києва стабілізували водопостачання",
-  "teaser": "Тиск у водопровідних мережах Лівого берега столиці стабілізувався та відповідає нормативним показникам.",
-  "link": "https://epravda.com.ua/biznes/na-livomu-berezi-kiyeva-stabilizuvali-vodopostachannya-827900/",
-  "published": "2026-11-21T14:55:00+00:00",
-  "seen": "2026-11-21T17:59:31+00:00"
- },
- {
-  "id": "ffcb5499294c",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Патрульна поліція повідомила, як організовано рух Південним мостом у Києві",
-  "teaser": "У Києві рух Південним мостом з правого на лівий берег наразі дозволили лише громадському транспорту.",
-  "link": "https://epravda.com.ua/biznes/patrulna-policiya-povidomila-yak-organizovano-ruh-pivdennim-mostom-u-kiyevi-827899/",
-  "published": "2026-11-21T14:47:00+00:00",
   "seen": "2026-11-21T17:59:31+00:00"
  }
 ]
