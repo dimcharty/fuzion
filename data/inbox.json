@@ -1,5 +1,60 @@
 [
  {
+  "id": "1252cb01de9d",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
+  "teaser": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
+  "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+  "published": "2026-11-24T20:58:00+00:00",
+  "seen": "2026-11-24T21:15:29+00:00"
+ },
+ {
+  "id": "7c1e89919eeb",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
+  "teaser": "JPMorgan Chase & Co. strategists see US stocks advancing through the end of 2027, with artificial intelligence remaining a driving force behind earnings growth.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
+  "published": "2026-11-24T20:55:49+00:00",
+  "seen": "2026-11-24T21:15:29+00:00"
+ },
+ {
+  "id": "bc222e748d7e",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+  "teaser": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company",
+  "link": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
+  "published": "2026-11-24T20:43:06+00:00",
+  "seen": "2026-11-24T21:15:29+00:00"
+ },
+ {
+  "id": "55f1d79b591e",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
+  "teaser": "Congress appears even more likely to OK new restrictions on the chip giant’s dealings with China — and it’s calling for more investigations, additional hearings and briefings",
+  "link": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
+  "published": "2026-11-24T20:42:00+00:00",
+  "seen": "2026-11-24T21:15:29+00:00"
+ },
+ {
+  "id": "100acaff7095",
+  "source": "The Economist",
+  "lang": "en",
+  "weight": 9,
+  "title": "Are America’s supply chains really more vulnerable than China’s?",
+  "teaser": "Mapping the vulnerabilities in global commerce",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+  "published": "2026-11-24T20:34:14+00:00",
+  "seen": "2026-11-24T21:15:29+00:00"
+ },
+ {
   "id": "60114b342dae",
   "source": "MarketWatch",
   "lang": "en",
@@ -240,6 +295,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-24/zelenskyy-congress-should-press-russia-if-talks-fail-video",
   "published": "2026-11-24T17:51:47+00:00",
   "seen": "2026-11-24T20:30:16+00:00"
+ },
+ {
+  "id": "56a42c660c23",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Bank of Canada Shakes Up Core Measures, Focuses on 2% Inflation Target",
+  "teaser": "The Bank of Canada is changing the metrics it uses to weigh underlying price pressures as part of its new monetary policy framework, Governor Tiff Macklem said.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-fades-core-inflation-switches-gauges",
+  "published": "2026-11-24T17:25:52+00:00",
+  "seen": "2026-11-24T21:15:29+00:00"
  },
  {
   "id": "14658f281866",
@@ -3231,72 +3297,6 @@
   "teaser": "Anthropic shares rise premarket",
   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main",
   "published": "2026-11-23T09:52:53+00:00",
-  "seen": "2026-11-23T12:30:49+00:00"
- },
- {
-  "id": "786b8cad329d",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Stock Futures Rally as Dust Settles After AI-Driven Selloff",
-  "teaser": "Stock futures climbed sharply as investors cautiously moved to buy the dip.",
-  "link": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
-  "published": "2026-11-23T09:50:00+00:00",
-  "seen": "2026-11-23T12:30:49+00:00"
- },
- {
-  "id": "8eefd73bc11d",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Stocks are serving up a ‘fat pitch’ for investors right now, says Morgan Stanley’s top strategist",
-  "teaser": "Morgan Stanley points to trough Nasdaq valuations, implied earnings declines and a capitulation in both sentiment and positioning as reasons to be bullish.",
-  "link": "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a?mod=mw_rss_topstories",
-  "published": "2026-11-23T09:40:00+00:00",
-  "seen": "2026-11-23T12:30:49+00:00"
- },
- {
-  "id": "59b6db76ccc4",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls",
-  "teaser": "Treasury yields and European government bond yields rose, correcting some of last week’s significant declines.",
-  "link": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09?mod=rss_markets_main",
-  "published": "2026-11-23T09:25:00+00:00",
-  "seen": "2026-11-23T12:30:49+00:00"
- },
- {
-  "id": "0749b309ec7b",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "India Banking Cash Turns to Deficit for First Time Since June",
-  "teaser": "India’s banking system liquidity slipped into deficit for the first time in about five months, as recent tax outflows reduced cash with lenders.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-banking-cash-turns-to-deficit-for-first-time-since-june",
-  "published": "2026-11-23T08:42:10+00:00",
-  "seen": "2026-11-23T12:30:49+00:00"
- },
- {
-  "id": "253c6273050a",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade",
-  "teaser": "The big question for traders is whether the S&P 500’s swift fall into a correction is the start of something much worse for the stock market or actually a harbinger of a reversal.",
-  "link": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories",
-  "published": "2026-11-23T08:37:00+00:00",
-  "seen": "2026-11-23T12:30:49+00:00"
- },
- {
-  "id": "6220c9c84d7b",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Capita Dives 74% as CEO Exit Marks UK Outsourcer’s Downfall",
-  "teaser": "Capita Plc lost almost three-quarters of its value after the British company parted with its chief executive officer, warned of a fresh hit to profit and moved to issue new equity following growing problems with one of the government’s biggest outsourcing contracts.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/capita-plunges-57-as-ceo-quits-over-botched-pensions-contract",
-  "published": "2026-11-23T08:22:21+00:00",
   "seen": "2026-11-23T12:30:49+00:00"
  }
 ]
