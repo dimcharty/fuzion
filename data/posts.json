@@ -1,5 +1,36 @@
 [
  {
+  "id": "digest-2026-11-24",
+  "kind": "digest",
+  "category": "digest",
+  "title_uk": "Ранковий дайджест: 24 листопада",
+  "summary_uk": "Три головні події фінансового світу за минулу добу.",
+  "source": "Fuzion Societe",
+  "link": "https://t.me/fuzionsoc",
+  "items": [
+   {
+    "title_uk": "Повернення Дженсена Хуанга в Nvidia підстьобнуло ралі на Волл-стріт",
+    "summary_uk": "Акції в США різко зросли після того, як Nvidia відновила Хуанга на посаді гендиректора, і інвестори знову повірили в тему ШІ.",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-jump-as-huang-return-triggers-ai-rally-7c008308?mod=rss_markets_main"
+   },
+   {
+    "title_uk": "Джон Вільямс із ФРС допустив поступове підвищення ставок",
+    "summary_uk": "Впливовий посадовець ФРС вказав, що для боротьби з інфляцією ставки, ймовірно, згодом доведеться підняти, і чекає її наближення до 2% у 2027-му.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+   },
+   {
+    "title_uk": "Невеликий НПЗ на півдні Росії зупинився після атаки дронів",
+    "summary_uk": "Завод призупинив роботу після удару безпілотників на тлі взаємних атак Москви та Києва на енергетичну інфраструктуру.",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/small-refinery-in-southern-russia-halts-operations-after-attack"
+   }
+  ],
+  "published": "2026-11-24T05:44:40+00:00",
+  "added": "2026-11-24T05:44:40+00:00"
+ },
+ {
   "id": "f28a8309d9c8",
   "source": "Bloomberg",
   "link": "https://www.bloomberg.com/news/articles/2026-11-24/us-senate-probes-vance-role-in-vitol-choice-for-venezuela-oil",
@@ -1272,15 +1303,5 @@
   "category": "world",
   "published": "2026-11-20T01:15:46+00:00",
   "added": "2026-11-20T04:30:14+00:00"
- },
- {
-  "id": "c78897278219",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1",
-  "title_uk": "Загострення в Перській затоці посилює побоювання нової війни з Іраном",
-  "summary_uk": "Тиждень взаємних ударів і погроз між Іраном та США наблизив дві країни до нового повномасштабного протистояння, вважають аналітики, яких цитує Financial Times. Ситуація в регіоні важлива для світових цін на нафту та газ.",
-  "category": "world",
-  "published": "2026-11-19T14:53:28+00:00",
-  "added": "2026-11-20T00:30:20+00:00"
  }
 ]
