@@ -1,5 +1,181 @@
 [
  {
+  "id": "c62165b70a4e",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Страшніше за вимкнення світла. Що робити в разі поломки генератора",
+  "teaser": "В Україні за чотири роки сформувався новий великий ринок – ремонту та обслуговування генераторів. Скільки на цьому заробляють?",
+  "link": "https://epravda.com.ua/energetika/remont-generatoriv-rinok-cini-ta-popit-u-biznesu-ta-naselennya-828005/",
+  "published": "2026-11-25T04:00:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "f6147ee850b7",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
+  "teaser": "Copper ticked higher and aluminum steadied after a major selloff across metals on Tuesday, as traders awaited US inflation data that will feed into the Federal Reserve’s next decision on interest rates.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
+  "published": "2026-11-25T03:57:12+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "06e3e1964d69",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asian markets lose ground as AI fears return",
+  "teaser": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+  "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+  "published": "2026-11-25T03:52:20+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "3008ac6b3647",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Japan’s 40-Year Bond Sale Draws Weaker Demand on Risk Off Mood",
+  "teaser": "Japan’s 40-year government bond auction on Wednesday drew weaker demand as global risk-off sentiment weighed on investor appetite.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/japan-40-year-bond-sale-sees-weaker-demand-than-12-month-average-mwvkr2jb",
+  "published": "2026-11-25T03:39:10+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "c58667bc5ee8",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Singapore Dollar Weakens as Focus Turns to U.S. Econ Data",
+  "teaser": "The Singapore dollar weakens against its U.S. counterpart in Asia.",
+  "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+  "published": "2026-11-25T03:27:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "c287ddd50807",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
+  "teaser": "Starbucks Corp. has tapped advisers to prepare for a potential sale of its Japan business for several billion dollars, according to people familiar with the matter.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
+  "published": "2026-11-25T03:10:23+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "d616a4fef65b",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
+  "teaser": "Relief from Jensen Huang’s Nvidia return waned and doubts about the artificial-intelligence trade crept in.",
+  "link": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
+  "published": "2026-11-25T02:53:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "2ee289f7e9a4",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
+  "teaser": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
+  "published": "2026-11-25T02:45:27+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "704f992aaa37",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "India’s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks",
+  "teaser": "Meanwhile, a cash crunch in India’s banking system is forcing lenders to borrow at higher costs.",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-25/india-s-anti-ai-stock-trade-confronts-rich-valuations-global-tariff-risks",
+  "published": "2026-11-25T02:30:28+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "1d3cd7e103e9",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Rakuten Credit Risk Surges After Yen Bond Offering Scrapped",
+  "teaser": "Rakuten Group Inc.’s credit risk surged by the most since April 2025 after the company scrapped plans to raise about ¥150 billion ($942 million) in the bond market.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/rakuten-credit-risk-surges-after-yen-bond-offering-scrapped",
+  "published": "2026-11-25T02:23:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "f2e6ae36d31a",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Will the Nvidia fallout kill off Asia’s data centre boom?",
+  "teaser": "Projects that touted chip access to Chinese customers face tighter US scrutiny",
+  "link": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
+  "published": "2026-11-25T02:04:15+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "24c7171c3f5d",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
+  "teaser": "The U.S. economy would take a painful hit, but the magnitude of the fallout remains a live debate among economists.",
+  "link": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3?mod=rss_markets_main",
+  "published": "2026-11-25T02:00:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "f508a277d88c",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Oil Futures Decline as Traders Weigh Competing Supply Risks",
+  "teaser": "Oil futures declined in Asia as traders weigh the risk of oversupply against continued attacks in the Strait of Hormuz.",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
+  "published": "2026-11-25T02:00:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "beb48015fbf6",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "India Pension Funds Pivot to Bonds as Equity Exposure Nears Cap",
+  "teaser": "India’s biggest pension funds are directing more of their inflows to government bonds as they near a regulatory threshold on equity investments, just as local stocks rebound from a bruising selloff.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/india-pension-funds-pivot-to-bonds-as-equity-exposure-nears-cap",
+  "published": "2026-11-25T01:30:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "dd9641ab20f4",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+  "teaser": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+  "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+  "published": "2026-11-25T01:13:56+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "d1d9044389d2",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Australia’s Hot Inflation Vindicates RBA’s Hawkish Policy Stance",
+  "teaser": "Australia’s core inflation unexpectedly accelerated in October, highlighting persistent price pressures in the economy and vindicating Reserve Bank officials’ hawkish commentary.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+  "published": "2026-11-25T00:32:01+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
   "id": "271845140fc0",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -242,6 +418,17 @@
   "seen": "2026-11-25T00:30:36+00:00"
  },
  {
+  "id": "ffc9529500e1",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+  "teaser": "“Retirement is a financial status, not an age.”",
+  "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+  "published": "2026-11-24T21:30:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
   "id": "dd17b0ae149e",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -341,6 +528,17 @@
   "seen": "2026-11-24T20:30:16+00:00"
  },
  {
+  "id": "5ed29b54fbcc",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Керівник САП розповів, де ховається найбільше підозрюваних у корупції",
+  "teaser": "За інформацією Спеціалізованої антикорупційної прокуратури (САП), найбільше підозрюваних у корупції осіб переховується в Австрії, а саме в її столиці – Відні.",
+  "link": "https://epravda.com.ua/finances/naybilshe-pidozryuvanih-u-korupciji-perehovuyetsya-u-vidni-sap-828000/",
+  "published": "2026-11-24T20:00:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
   "id": "30333922e465",
   "source": "Bloomberg",
   "lang": "en",
@@ -361,6 +559,17 @@
   "link": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
   "published": "2026-11-24T19:48:00+00:00",
   "seen": "2026-11-24T20:30:16+00:00"
+ },
+ {
+  "id": "b8aab400770a",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Галущенко може повернутися до СІЗО: у САП назвали умову",
+  "teaser": "Ексміністр енергетики та юстиції Герман Галущенко, якого підозрюють у корупції, може повернутися до СІЗО: попередню заставу передадуть АРМА, а Галущенку оберуть новий запобіжний захід, якщо він не внесе кошти наново.",
+  "link": "https://epravda.com.ua/energetika/galushchenko-mozhe-povernutisya-do-sizo-nazvano-umovu-golova-sap-828003/",
+  "published": "2026-11-24T19:40:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
  },
  {
   "id": "6863371c3fbc",
@@ -396,6 +605,17 @@
   "seen": "2026-11-24T20:30:16+00:00"
  },
  {
+  "id": "b0c0fc090cb9",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Конверти депутатам могли надходити з шахрайських кол-центрів – керівник САП",
+  "teaser": "Спеціалізована антикорупційна прокуратура (САП) розглядає слідчу версію про те, що кошти у конвертах для нардепів могли надходити з шахрайських кол-центрів.",
+  "link": "https://epravda.com.ua/power/groshi-v-konvertah-nardepam-mogli-yti-z-kol-centriv-sap-828001/",
+  "published": "2026-11-24T19:20:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
   "id": "b2213b06233a",
   "source": "Bloomberg",
   "lang": "en",
@@ -429,6 +649,28 @@
   "seen": "2026-11-24T20:30:16+00:00"
  },
  {
+  "id": "b6913b5dc326",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Новини 24 листопада: Україна протестує проти росіян в МАГАТЕ",
+  "teaser": "",
+  "link": "https://epravda.com.ua/svit/golovni-novini-priznachennya-rosiyanina-v-magate-akciji-anthropic-828004/",
+  "published": "2026-11-24T19:00:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
+  "id": "40eb81f591d4",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "На Одещині в 15 разів зросла кількість локальних аварій: у ДТЕК пояснили причину",
+  "teaser": "На Одещині після останніх російських обстрілів у 15 разів зросла кількість локальних аварій в електромережах.",
+  "link": "https://epravda.com.ua/energetika/lokalni-avariji-na-odeshchini-zrosli-v-15-raziv-poradi-dtek-828002/",
+  "published": "2026-11-24T18:50:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
   "id": "c67c97dba850",
   "source": "Bloomberg",
   "lang": "en",
@@ -460,6 +702,17 @@
   "link": "https://www.bloomberg.com/news/newsletters/2026-11-24/ai-is-a-financing-story",
   "published": "2026-11-24T18:42:57+00:00",
   "seen": "2026-11-24T20:30:16+00:00"
+ },
+ {
+  "id": "3a9b30c3b01b",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У середу світла в українців може не бути до 12 годин",
+  "teaser": "У середу, 25 листопада, у частині областей цілодобово діятимуть планові відключення електроенергії.",
+  "link": "https://epravda.com.ua/energetika/vidklyuchennya-svitla-25-listopada-diyatimut-grafiki-do-3-cherg-827999/",
+  "published": "2026-11-24T18:40:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
  },
  {
   "id": "b6c4ab980679",
@@ -517,6 +770,17 @@
   "seen": "2026-11-24T20:30:16+00:00"
  },
  {
+  "id": "db9c02da05a0",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "\"Ситуація важка\": у частині Дніпропетровщини запровадили екстрені відключення",
+  "teaser": "За командою Укренерго в Дніпрі, Дніпровському, Павлоградському, Синельниківському та Самарівському районах Дніпропетровщини запровадили екстрені відключення.",
+  "link": "https://epravda.com.ua/energetika/na-dnipropetrovshchini-zaprovadili-ekstreni-vidklyuchennya-svitla-827998/",
+  "published": "2026-11-24T18:20:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
   "id": "4324b4b8cde2",
   "source": "MarketWatch",
   "lang": "en",
@@ -561,6 +825,17 @@
   "seen": "2026-11-24T20:30:16+00:00"
  },
  {
+  "id": "de70c73c67ca",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "У Києві тепер можна відстежувати рух транспорту навіть під час тривоги",
+  "teaser": "У міському застосунку \"Київ Цифровий\" тепер можна відстежувати рух наземного транспорту в режимі реального часу навіть під час повітряних тривог.",
+  "link": "https://epravda.com.ua/infrastruktura/u-kiyevi-cifrovomu-teper-vidno-transport-pid-chas-trivogi-827997/",
+  "published": "2026-11-24T17:30:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
   "id": "56a42c660c23",
   "source": "Bloomberg",
   "lang": "en",
@@ -594,6 +869,17 @@
   "seen": "2026-11-24T20:30:16+00:00"
  },
  {
+  "id": "e68c2787bab4",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Кількість російських атак на об’єкти Нафтогазу від початку війни перевищила 800",
+  "teaser": "Від початку повномасштабного вторгнення Росія здійснила понад 800 атак на об'єкти Групи Нафтогаз.",
+  "link": "https://epravda.com.ua/energetika/rosiya-ponad-800-raziv-atakuvala-ob-yekti-naftogazu-za-chas-viyni-827996/",
+  "published": "2026-11-24T17:00:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
   "id": "c967df2cec82",
   "source": "Financial Times",
   "lang": "en",
@@ -603,6 +889,17 @@
   "link": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
   "published": "2026-11-24T16:30:35+00:00",
   "seen": "2026-11-24T20:30:16+00:00"
+ },
+ {
+  "id": "bc4c0e9e2e8b",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Категоричний протест: уряд відреагував на призначення росіянина у верхівку МАГАТЕ",
+  "teaser": "Міністерство закордонних справ та Міністерство енергетики України висловили глибоке обурення рішенням генерального директора Міжнародного агентства з атомної енергії (МАГАТЕ) Рафаеля Гроссі призначити своїм заступником підсанкційного російського посадовця Алєксєя Ферапонтова.",
+  "link": "https://epravda.com.ua/svit/ukrajina-vislovila-protest-cherez-priznachennya-rosiyanina-v-magate-827995/",
+  "published": "2026-11-24T16:30:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
  },
  {
   "id": "db5f2399ea3d",
@@ -693,6 +990,17 @@
   "seen": "2026-11-24T16:30:21+00:00"
  },
  {
+  "id": "460fd15a441b",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "НБУ заборонив \"Альянс Капітал Груп\" здійснювати валютні операції",
+  "teaser": "Нацбанк відкликав ліцензію на здійснення валютних операцій ТОВ \"ФК \"Альянс Капітал Груп\" через низку виявлених порушень.",
+  "link": "https://epravda.com.ua/biznes/nbu-vidklikav-licenziyu-na-zdiysnennya-valyutnih-operaciy-u-alyans-kapital-grup-827994/",
+  "published": "2026-11-24T15:57:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
   "id": "4c5beba78ea7",
   "source": "Financial Times",
   "lang": "en",
@@ -704,6 +1012,17 @@
   "seen": "2026-11-24T16:30:21+00:00"
  },
  {
+  "id": "0fcbd054b11c",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Стійкість і запуск новинок: завдяки чому IDS Ukraine збільшила податкові відрахування у 2026 році",
+  "teaser": "",
+  "link": "https://epravda.com.ua/press/stiykist-i-zapusk-novinok-zavdyaki-chomu-ids-ukraine-zbilshila-podatkovi-vidrahuvannya-u-2026-roci-827993/",
+  "published": "2026-11-24T15:46:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
+ },
+ {
   "id": "a0bb922b0514",
   "source": "Bloomberg",
   "lang": "en",
@@ -713,6 +1032,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-billionaire-sets-blockbuster-refinery-listing-for-dec-1",
   "published": "2026-11-24T15:42:55+00:00",
   "seen": "2026-11-24T16:30:21+00:00"
+ },
+ {
+  "id": "5a2d32c903ff",
+  "source": "Економічна правда",
+  "lang": "uk",
+  "weight": 7,
+  "title": "Акції розробника Claude впали нижче рівня початкового розміщення",
+  "teaser": "Акції компанії Anthropic, розробника Claude, на початку торгів на біржі США у вівторок опустилися нижче ціни первинного публічного розміщення (IPO) у 83 долари.",
+  "link": "https://epravda.com.ua/svit/akciji-anthropic-vpali-nizhche-cini-ipo-na-birzhi-ssha-reuters-827992/",
+  "published": "2026-11-24T15:35:00+00:00",
+  "seen": "2026-11-25T04:19:04+00:00"
  },
  {
   "id": "261b905f38d5",
@@ -2968,335 +3298,5 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-23/canadian-stocks-recover-as-huang-s-return-fuels-metals-tech",
   "published": "2026-11-23T15:50:34+00:00",
   "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "34e887f43003",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Woolworths Investors Reject Pay Report in Shareholder Rebuke",
-  "teaser": "Shareholders in Woolworths Holdings Ltd. overwhelmingly rejected the South African retailer’s remuneration report, delivering a sharp rebuke over executive pay as new rules give investors greater say over compensation.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/woolworths-investors-reject-pay-report-in-shareholder-rebuke",
-  "published": "2026-11-23T15:45:38+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "74b338c68d71",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nvidia reinstates Jensen Huang as chief executive",
-  "teaser": "Startling reversal of board’s position on disgraced co-founder sends AI giant’s share price soaring",
-  "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
-  "published": "2026-11-23T15:43:06+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "ea7155002957",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Укрзалізниця освоїла повний капремонт польських поїздів PESA",
-  "teaser": "Укрзалізниця освоїла повний цикл капітального ремонту дизель-поїзда польського виробництва PESA: всі роботи виконувалися в умовах постійної загрози російських атак.",
-  "link": "https://epravda.com.ua/biznes/ukrzaliznicya-osvojila-povniy-kapremont-polskih-pojizdiv-pesa-827945/",
-  "published": "2026-11-23T15:30:00+00:00",
-  "seen": "2026-11-24T05:45:01+00:00"
- },
- {
-  "id": "bd6e8b5ca4e6",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "У агросекторі України зростає ризик банкрутств – ЗМІ",
-  "teaser": "У аграрному секторі України зростає ризик банкрутств через атаки у Чорному морі та обмеження доступу до фінансування, що чинить тиск на фермерів.",
-  "link": "https://epravda.com.ua/biznes/u-agrosektori-ukrajini-zrostaye-rizik-bankrutstv-827942/",
-  "published": "2026-11-23T15:10:00+00:00",
-  "seen": "2026-11-24T05:45:01+00:00"
- },
- {
-  "id": "12d2c604726c",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "AI-Linked Stocks Take Off as Nvidia Brings Back ‘Black Jacket’",
-  "teaser": "Shares of companies tied to artificial intelligence surged Monday after Nvidia Corp. reinstated Jensen Huang as president and chief executive officer, effective immediately.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/ai-linked-stocks-take-off-after-nvidia-reinstates-jensen-huang",
-  "published": "2026-11-23T15:04:13+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "faa2ec2971fe",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Shares Fluctuate as AI Sector Rallies on Nvidia CEO Return",
-  "teaser": "Anthropic PBC shares turned negative in early Monday trading, with the artificial intelligence lab lagging behind the rest of the sector’s rebound following the reinstatement of Nvidia Corp.’s Jensen Huang.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-shares-churn-defying-ai-trade-rally-on-huang-s-return",
-  "published": "2026-11-23T14:51:48+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "0713d5897ace",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Stellantis Quits Auto Racing as CEO Ramps Up Cost Cuts",
-  "teaser": "Stellantis NV is withdrawing from auto racing, as the car manufacturer pushes ahead with cost cuts and a turnaround plan that’s struggling to win over investors.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/stellantis-pulls-out-of-auto-racing-as-ceo-ramps-up-cost-cuts",
-  "published": "2026-11-23T14:45:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "b33f655e37ef",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "US Business Activity Expands at Slowest Pace in Four Months",
-  "teaser": "US business activity expanded at the slowest pace in four months as high prices, shipping delays and capacity constraints weighed on factory owners and service providers.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/us-business-activity-expands-at-slowest-pace-in-four-months",
-  "published": "2026-11-23T14:45:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "81f115038142",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Gold Rebounds After Sharpest Weekly Decline Since March",
-  "teaser": "Gold prices surged nearly 5%, extending earlier gains after suffering their steepest weekly decline since March, as markets rebounded following Nvidia’s reinstatement of Jensen Huang as CEO.",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-rebounds-after-sharpest-weekly-decline-since-march-deaa4b87?mod=rss_markets_main",
-  "published": "2026-11-23T14:44:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "d6255fd51a48",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
-  "teaser": "The Nvidia founder and his wife have control over 870 million Nvidia shares, including through trusts and other entities.",
-  "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
-  "published": "2026-11-23T14:44:00+00:00",
-  "seen": "2026-11-24T20:30:16+00:00"
- },
- {
-  "id": "0ff1873946d3",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
-  "teaser": "The health insurers are facing scrutiny over their business practices and potential changes to the private Medicare program.",
-  "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
-  "published": "2026-11-23T14:39:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "dd6e64bcc52a",
-  "source": "European Central Bank",
-  "lang": "en",
-  "weight": 8,
-  "title": "Philip R. Lane: Climate change and monetary policy",
-  "teaser": "",
-  "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
-  "published": "2026-11-23T14:30:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "c951ab4692b7",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Forint Jumps After Hungary Softens Interest-Rate Guidance",
-  "teaser": "The Hungarian forint jumped after the central bank softened its monetary policy guidance, citing a more limited room to cut interest rates after a market selloff.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/forint-jumps-after-hungary-softens-interest-rate-guidance",
-  "published": "2026-11-23T14:23:04+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "801c8d7ef299",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
-  "teaser": "After a turbulent IPO, the startup’s credit rating will affect its capital plans and the future of the AI industry.",
-  "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
-  "published": "2026-11-23T14:20:00+00:00",
-  "seen": "2026-11-24T20:30:16+00:00"
- },
- {
-  "id": "cbb47ad7196a",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-  "teaser": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor.",
-  "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-  "published": "2026-11-23T14:06:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "41085ca8b8cd",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Macron proposes French budget ‘golden rule’",
-  "teaser": "President suggests constitutional reform to cap government spending and keep future deficits in check, echoing proposals by opponents",
-  "link": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1",
-  "published": "2026-11-23T13:22:36+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "d59a16505e18",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Tech, Media & Telecom Roundup: Market Talk",
-  "teaser": "Find insight on Hana Microelectronics, Netease, XLSMART Telecom Sejahtera and more in the latest Market Talks covering Technology, Media and Telecom.",
-  "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-196a238a?mod=rss_markets_main",
-  "published": "2026-11-23T13:18:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "059868b34376",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Financial Services Roundup: Market Talk",
-  "teaser": "Find insight on Julius Baer, Bank of Korea and more in the latest Market Talks covering Financial Services.",
-  "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-59d5ef65?mod=rss_markets_main",
-  "published": "2026-11-23T13:13:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "4d27f5361150",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Brazil’s Real Weakens Past 6 Per Dollar as Selloff Extends",
-  "teaser": "The Brazilian real tumbled past 6 reais per dollar, extending a post-election selloff fueled by concerns over the country’s fiscal outlook.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-s-real-weakens-past-6-per-dollar-as-lula-selloff-extends",
-  "published": "2026-11-23T13:11:14+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "875dc7917049",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Poland’s IPO Rush Builds as Defense Firms Join Listings Wave",
-  "teaser": "Poland’s IPO revival is gathering momentum, as companies tied to the country’s record military buildup bolster the listings pipeline.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/poland-s-ipo-rush-builds-as-defense-firms-join-listings-wave",
-  "published": "2026-11-23T13:08:47+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "00ddd438864f",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Basic Materials Roundup: Market Talk",
-  "teaser": "Find insight on Bellevue Gold, BHP and more in the latest Market Talks covering Basic Materials.",
-  "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=rss_markets_main",
-  "published": "2026-11-23T13:07:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "90ae00b3f023",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Energy & Utilities Roundup: Market Talk",
-  "teaser": "Find insight on Drax, BCPG and more in the latest Market Talks covering Energy and Utilities.",
-  "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-39f5dead?mod=rss_markets_main",
-  "published": "2026-11-23T13:02:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "e5cc70260fa7",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Health Care Roundup: Market Talk",
-  "teaser": "Find insight on Bayer, Alkem Laboratories, Takeda Pharmaceutical and more in the latest Market Talks covering Health Care.",
-  "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d350f360?mod=rss_markets_main",
-  "published": "2026-11-23T12:52:00+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "de15d48e95ea",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Rene Haas affirms ‘long-term commitment’ to Arm after Nvidia approach",
-  "teaser": "UK chip company CEO signs new contract just weeks after being approached as possible candidate to replace Jensen Huang",
-  "link": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
-  "published": "2026-11-23T12:28:53+00:00",
-  "seen": "2026-11-23T12:51:59+00:00"
- },
- {
-  "id": "0e7a9e1b7687",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Trump wants Jensen Huang back at Nvidia. What will it take to stop the tech selloff?",
-  "teaser": "What to watch in AI earnings this Thanksgiving week. Plus, why memory stocks look so cheap, how much less you’ll pay at the pump and a $100,000 pottery-studio dilemma.",
-  "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
-  "published": "2026-11-23T12:26:00+00:00",
-  "seen": "2026-11-23T12:30:49+00:00"
- },
- {
-  "id": "559598839ae4",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang",
-  "teaser": "Shares in Nvidia rose on Monday after a weekend of more developments, including the Trump administration pushing for the reinstatement of Jensen Huang to lead the company.",
-  "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-  "published": "2026-11-23T12:26:00+00:00",
-  "seen": "2026-11-23T12:30:49+00:00"
- },
- {
-  "id": "5ad321f9d8e7",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "The trouble with the middle powers project",
-  "teaser": "Smaller nations are already dangerously dependent — and US and Chinese dominance of AI will only compound their problems",
-  "link": "https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1",
-  "published": "2026-11-23T12:25:47+00:00",
-  "seen": "2026-11-23T12:51:59+00:00"
- },
- {
-  "id": "0b1117d12e99",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
-  "teaser": "CrowdStrike on Monday said it will acquire Zscaler in an all-stock transaction that values the company at approximately $43.9 billion.",
-  "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
-  "published": "2026-11-23T12:16:00+00:00",
-  "seen": "2026-11-23T12:30:49+00:00"
- },
- {
-  "id": "78d1c4aa2a2f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Mahanadi Coalfields’ $953 Million India IPO Subscribed 1.5 Times",
-  "teaser": "Mahanadi Coalfields Ltd.’s $953 million initial public offering was subscribed 1.5 times as bidding closed Monday, driven by strong demand from institutional investors.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/mahanadi-coalfields-953-million-india-ipo-subscribed-1-5-times",
-  "published": "2026-11-23T12:15:01+00:00",
-  "seen": "2026-11-23T12:30:49+00:00"
- },
- {
-  "id": "3eb2078fab33",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "European Banks Set to Fire Up M&A Talks, Morgan Stanley Says",
-  "teaser": "The success of current deals across Europe’s banking sector and potentially softer regulation is likely to fuel boardroom talks about cross-border acquisitions next year, according to Morgan Stanley analysts.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/european-banks-set-to-fire-up-m-a-talks-morgan-stanley-says",
-  "published": "2026-11-23T12:12:17+00:00",
-  "seen": "2026-11-23T12:51:59+00:00"
  }
 ]
