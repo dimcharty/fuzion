@@ -1,5 +1,104 @@
 [
  {
+  "id": "80aa14513417",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Kochugovindan: Tech Volatility Is Here to Stay",
+  "teaser": "Aberdeen Investments Senior Research Economist Sree Kochugovindan says the AI trade faces further downside risks as investors scrutinize valuations, earnings potential and returns on investment. She also discusses the outlook for US consumer spending, inflation and Federal…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
+  "published": "2026-11-25T05:37:11+00:00",
+  "seen": "2026-11-25T05:45:11+00:00"
+ },
+ {
+  "id": "d6c0cc3cacf6",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Indian Stocks Extend World-Beating Run as AI Selloff Resumes",
+  "teaser": "Indian stocks surged, extending their world-beating November rally as renewed selling in global artificial intelligence names bolstered a rotation toward markets with limited exposure to the theme.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
+  "published": "2026-11-25T05:04:20+00:00",
+  "seen": "2026-11-25T05:45:11+00:00"
+ },
+ {
+  "id": "cbb4215275d0",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Malaysia Government Likely to Serve Full Term, Anwar Aide Says",
+  "teaser": "Malaysian Prime Minister Anwar Ibrahim’s government is likely to serve until the end of its term despite recent speculation over an early election, according to his senior political adviser Zafrul Aziz.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
+  "published": "2026-11-25T05:03:48+00:00",
+  "seen": "2026-11-25T05:45:11+00:00"
+ },
+ {
+  "id": "99ebd6cd56f9",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang",
+  "teaser": "Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling midterms defeat",
+  "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1",
+  "published": "2026-11-25T05:00:32+00:00",
+  "seen": "2026-11-25T05:45:11+00:00"
+ },
+ {
+  "id": "b20cd1feb40c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "A French crisis would be a threat — and opportunity — for Europe",
+  "teaser": "A far-right victory could spark fiscal chaos, but it might end up strengthening the EU",
+  "link": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b",
+  "published": "2026-11-25T05:00:32+00:00",
+  "seen": "2026-11-25T05:45:11+00:00"
+ },
+ {
+  "id": "3eb8b02c220f",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Trump shelves plans for business deals with Russia",
+  "teaser": "US no longer sees economic co-operation as an incentive for Putin to end his full-scale invasion of Ukraine",
+  "link": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
+  "published": "2026-11-25T05:00:12+00:00",
+  "seen": "2026-11-25T05:45:11+00:00"
+ },
+ {
+  "id": "71afc2e72161",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Europe must not accept ‘hybrid’ warfare as normal, defence chief warns",
+  "teaser": "Comments follow surge in attempted sabotage and arson attacks on defence facilities, airports and other critical infrastructure",
+  "link": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
+  "published": "2026-11-25T05:00:12+00:00",
+  "seen": "2026-11-25T05:45:11+00:00"
+ },
+ {
+  "id": "9f61c757d04c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "How an ex-McKinsey partner is using new money to chase old wealth",
+  "teaser": "Backed by Abu Dhabi’s Mubadala Capital, Corient has bought 57 firms serving high-net-worth clients — and is on the hunt for more",
+  "link": "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1",
+  "published": "2026-11-25T05:00:04+00:00",
+  "seen": "2026-11-25T05:45:11+00:00"
+ },
+ {
+  "id": "3aefd2ba5e95",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
+  "teaser": "Malaysia’s largest bank is reviewing its portfolio for potential exposure to the latest US chip curbs, as it assesses how the restrictions could affect data center clients and their funding needs.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
+  "published": "2026-11-25T04:35:30+00:00",
+  "seen": "2026-11-25T05:45:11+00:00"
+ },
+ {
   "id": "9756f3dce911",
   "source": "Bloomberg",
   "lang": "en",
@@ -3199,104 +3298,5 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
   "published": "2026-11-23T17:36:34+00:00",
   "seen": "2026-11-24T00:30:42+00:00"
- },
- {
-  "id": "6c4b61ab3a8c",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Opinion | Government Gets a Tax Windfall From Anthropic",
-  "teaser": "U.S. companies take a large share of the burden.",
-  "link": "https://www.wsj.com/opinion/government-gets-a-tax-windfall-from-anthropic-790b0571?mod=rss_markets_main",
-  "published": "2026-11-23T17:31:00+00:00",
-  "seen": "2026-11-23T20:30:44+00:00"
- },
- {
-  "id": "73f1587a0be0",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Світла може не бути 14 годин: як вимикатимуть електрику 24 листопада",
-  "teaser": "",
-  "link": "https://epravda.com.ua/energetika/vidklyuchennya-svitla-24-listopada-zastosovuvatimut-do-3-5-chergi-827953/",
-  "published": "2026-11-23T17:20:00+00:00",
-  "seen": "2026-11-24T05:45:01+00:00"
- },
- {
-  "id": "f465134918db",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Huang is back because he left Nvidia no choice",
-  "teaser": "Nvidia took Huang back because his failures left the company with no other options",
-  "link": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1",
-  "published": "2026-11-23T17:17:50+00:00",
-  "seen": "2026-11-23T20:30:44+00:00"
- },
- {
-  "id": "255e18ad8b69",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Найнижчі показники за шість років: в Україні реєструють все менше ІТ-ФОПів",
-  "teaser": "За десять місяців жінки відкрили в Україні 7 730 ФОПів в ІТ-галузі, тоді як чоловіки — 10 450, і це найнижчі показники за останні шість років.",
-  "link": "https://epravda.com.ua/biznes/naynizhchi-pokazniki-za-shist-rokiv-v-ukrajini-reyestruyut-vse-menshe-it-fopiv-827949/",
-  "published": "2026-11-23T17:00:00+00:00",
-  "seen": "2026-11-24T05:45:01+00:00"
- },
- {
-  "id": "325a364b8fd4",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Huang’s return is a triumph of money over morals",
-  "teaser": "The chipmaker’s soaring stock suggests investors are on board with its co-founder’s astonishing comeback",
-  "link": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
-  "published": "2026-11-23T16:51:47+00:00",
-  "seen": "2026-11-23T20:30:44+00:00"
- },
- {
-  "id": "7a594fa05845",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "ЄС заборонить своїм компаніям допомагати Росії ремонтувати НПЗ",
-  "teaser": "",
-  "link": "https://epravda.com.ua/energetika/yes-proponuye-zaboroniti-dopomogu-v-remonti-rosiyskih-npz-827950/",
-  "published": "2026-11-23T16:50:00+00:00",
-  "seen": "2026-11-24T05:45:01+00:00"
- },
- {
-  "id": "27a6b98c06ec",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "На Дніпропетровщині ворог поцілив у інфраструктуру та АЗС",
-  "teaser": "На Дніпропетровщині у шести районах російські війська поцілили у інфраструктуру, склади та автозаправну станцію та житлові будинки.",
-  "link": "https://epravda.com.ua/biznes/na-dnipropetrovshchini-vorog-pociliv-u-infrastrukturu-ta-azs-827951/",
-  "published": "2026-11-23T16:42:00+00:00",
-  "seen": "2026-11-24T05:45:01+00:00"
- },
- {
-  "id": "cc59920e4520",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Analyst Backs Huang’s Return, Cautiously",
-  "teaser": "Pierre Ferragu, New Street Research Global Team head of technology infrastructure joined Bloomberg Open Interest to weigh in on Nvidia’s board bringing Jensen Huang back, whether the decision protects shareholders or dents the board’s credibility, and what the ongoing…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-23/analyst-backs-huang-s-return-cautiously-video",
-  "published": "2026-11-23T16:16:15+00:00",
-  "seen": "2026-11-23T16:30:19+00:00"
- },
- {
-  "id": "1084db92836c",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Українці на чверть збільшили відрахування військового збору",
-  "teaser": "За десять місяців платники податків перерахували до держбюджету 163,1 млрд грн військового збору, що на 23,8 %, більше, ніж за аналогічний період минулого року.",
-  "link": "https://epravda.com.ua/biznes/ukrajinci-na-chvert-zbilshili-vidrahuvannya-viyskovogo-zboru-827948/",
-  "published": "2026-11-23T16:10:00+00:00",
-  "seen": "2026-11-24T05:45:01+00:00"
  }
 ]
