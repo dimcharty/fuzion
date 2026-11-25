@@ -1,5 +1,55 @@
 [
  {
+  "id": "f508a277d88c",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
+  "title_uk": "Нафта дешевшає: ринок зважує ризики надлишку пропозиції та атаки в Ормузі",
+  "summary_uk": "Ф'ючерси на нафту знизилися під час азійських торгів. Трейдери зіставляють загрозу надлишку пропозиції з тривалими атаками в Ормузькій протоці. Ціна нафти впливає на вартість пального в Україні та на доходи російського бюджету.",
+  "category": "energy",
+  "published": "2026-11-25T02:00:00+00:00",
+  "added": "2026-11-25T08:30:24+00:00"
+ },
+ {
+  "id": "b2f33d6089e0",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
+  "title_uk": "Акції Anthropic опустилися нижче ціни IPO",
+  "summary_uk": "Папери розробника моделі Claude у вівторок упали нижче ціни розміщення — це вже третя поспіль сесія зниження. За даними The Wall Street Journal, IPO Anthropic стало найбільшим в історії, однак ставка інвесторів на нього швидко втрачає позиції.",
+  "category": "companies",
+  "published": "2026-11-24T22:07:00+00:00",
+  "added": "2026-11-25T08:30:24+00:00"
+ },
+ {
+  "id": "2ee289f7e9a4",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
+  "title_uk": "Акції TSMC і SK Hynix знизилися: ейфорія від повернення Хуанга швидко згасла",
+  "summary_uk": "У середу азійські фондові ринки втратили оптимізм, викликаний поверненням Дженсена Хуанга до керівництва Nvidia. Інвестори знову зосередилися на побоюваннях щодо глобальної торгівлі акціями компаній штучного інтелекту, що вдарило по паперах TSMC і SK Hynix.",
+  "category": "markets",
+  "published": "2026-11-25T02:45:27+00:00",
+  "added": "2026-11-25T08:30:24+00:00"
+ },
+ {
+  "id": "e56b9f64e334",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+  "title_uk": "Золото тримається на мінімумах після нових тарифних планів Білого дому",
+  "summary_uk": "Ціна золота не відновилася після падіння: нові плани Білого дому щодо мит потягнули вниз фондові ринки й посилили очікування, що ФРС підвищить ставку. Підвищення ставок у США зазвичай зміцнює долар, що важливо і для курсу гривні та вартості зовнішніх запозичень.",
+  "category": "markets",
+  "published": "2026-11-24T23:51:22+00:00",
+  "added": "2026-11-25T08:30:24+00:00"
+ },
+ {
+  "id": "3eb8b02c220f",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
+  "title_uk": "Трамп відклав плани ділових угод з Росією",
+  "summary_uk": "Адміністрація США більше не розглядає економічну співпрацю як стимул для Путіна припинити повномасштабне вторгнення в Україну, повідомляє Financial Times. Це означає, що Вашингтон відмовляється від пропозицій бізнесових домовленостей із Москвою як інструменту мирного процесу.",
+  "category": "ukraine",
+  "published": "2026-11-25T05:00:12+00:00",
+  "added": "2026-11-25T08:30:24+00:00"
+ },
+ {
   "id": "digest-2026-11-25",
   "kind": "digest",
   "category": "digest",
@@ -1252,56 +1302,6 @@
   "summary_uk": "Президент США обмірковує нові удари по Ірану, тоді як американські військові застерігають від надмірного навантаження на сили. За словами посадовців, безстрокові розгортання та можливі скорочення бюджету можуть підірвати боєготовність, якщо конфлікт триватиме й у новому році.",
   "category": "world",
   "published": "2026-11-20T20:19:49+00:00",
-  "added": "2026-11-21T04:30:53+00:00"
- },
- {
-  "id": "c6385a723f30",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-selloff-boosts-haven-demand-for-yen-franc-as-dollar-slips",
-  "title_uk": "Розпродаж у секторі ШІ підвищив попит на єну та франк, долар слабшає",
-  "summary_uk": "Японська єна і швейцарський франк випередили інші основні валюти, оскільки інвестори шукали захисту від сумнівів щодо стійкості буму штучного інтелекту. Долар США водночас опинився під тиском.",
-  "category": "markets",
-  "published": "2026-11-20T17:00:06+00:00",
-  "added": "2026-11-21T04:30:53+00:00"
- },
- {
-  "id": "63169e68ade9",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-20/crowdstrike-said-in-talks-to-buy-zscaler-video",
-  "title_uk": "CrowdStrike веде переговори про купівлю Zscaler",
-  "summary_uk": "Компанія з кібербезпеки CrowdStrike обговорює придбання конкурента Zscaler, повідомляють джерела Bloomberg. Якщо угоду укладуть, вона може стати однією з найбільших в історії галузі кібербезпеки.",
-  "category": "companies",
-  "published": "2026-11-20T21:53:30+00:00",
-  "added": "2026-11-21T04:30:53+00:00"
- },
- {
-  "id": "f334935a6553",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
-  "title_uk": "Акції Anthropic на другий день торгів майже опустилися до ціни IPO",
-  "summary_uk": "Папери Anthropic знову дешевшали на другий день після виходу на біржу і в певний момент торгувалися лише на 5 центів вище за ціну розміщення. Після невдалого дебюту на ринку почали шукати винних.",
-  "category": "companies",
-  "published": "2026-11-21T02:16:00+00:00",
-  "added": "2026-11-21T04:30:53+00:00"
- },
- {
-  "id": "6db58f120f92",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-  "title_uk": "Акції виробників чипів втратили $2,3 трлн за тиждень",
-  "summary_uk": "Ринкова вартість американських напівпровідникових компаній за тиждень скоротилася приблизно на $2,3 трлн на тлі паніки довкола угод, пов'язаних зі штучним інтелектом. Ключовий індекс сектору показав найгірший тижневий результат за 25 років.",
-  "category": "markets",
-  "published": "2026-11-20T22:44:00+00:00",
-  "added": "2026-11-21T04:30:53+00:00"
- },
- {
-  "id": "4371c6cf8e98",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-  "title_uk": "Індекси S&P 500 і Dow увійшли в корекцію, Nasdaq мав найгірший тиждень з 2020 року",
-  "summary_uk": "Американські індекси S&P 500 та Dow Jones за підсумками тижня опинилися в зоні корекції, а Nasdaq пережив найслабший тиждень від 2020 року. Уперше з квітня 2025 року всі 11 секторів S&P 500 втратили за тиждень понад 1%.",
-  "category": "markets",
-  "published": "2026-11-20T22:46:00+00:00",
   "added": "2026-11-21T04:30:53+00:00"
  }
 ]
