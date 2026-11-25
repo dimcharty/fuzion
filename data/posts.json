@@ -1,5 +1,65 @@
 [
  {
+  "id": "a3170ad2ff7b",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
+  "title_uk": "Shein заплатить $100 млн для врегулювання претензій американського регулятора",
+  "summary_uk": "Федеральна торгова комісія США звинуватила Shein в оманливих заявах: бавовна, яку постачальники ритейлера видавали за американську, нібито була вирощена в Китаї. Компанія погодилася сплатити $100 млн, щоб закрити справу.",
+  "category": "companies",
+  "published": "2026-11-24T23:48:33+00:00",
+  "added": "2026-11-25T04:30:33+00:00"
+ },
+ {
+  "id": "dfe5d6d6774c",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/iraq-rejects-opec-assessment-of-its-oil-production-capacity",
+  "title_uk": "Ірак відкинув оцінку OPEC+ своїх потужностей видобутку нафти",
+  "summary_uk": "За даними джерел, Ірак не погодився з оцінкою його нафтовидобувних потужностей, яку замовив альянс OPEC+. Це може спричинити суперечку на ключовій зустрічі цих вихідних, де обговорюватимуть квоти видобутку.",
+  "category": "energy",
+  "published": "2026-11-24T17:04:34+00:00",
+  "added": "2026-11-25T04:30:33+00:00"
+ },
+ {
+  "id": "f11ef2854a23",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main",
+  "title_uk": "Венесуела оприлюднила борг на рівні $237 млрд",
+  "summary_uk": "Венесуела розкрила загальний обсяг боргу в $237 млрд — більше, ніж очікувалося. Ця цифра підкреслює, з якими труднощами стикається тимчасовий уряд країни, що має підтримку США.",
+  "category": "world",
+  "published": "2026-11-24T21:55:00+00:00",
+  "added": "2026-11-25T04:30:33+00:00"
+ },
+ {
+  "id": "d1d9044389d2",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+  "title_uk": "Базова інфляція в Австралії несподівано прискорилася в жовтні",
+  "summary_uk": "Базові ціни в Австралії у жовтні зросли швидше, ніж очікували. Дані свідчать про стійкий інфляційний тиск і підтримують жорстку риторику Резервного банку Австралії, представники якого раніше попереджали про ризики.",
+  "category": "economy",
+  "published": "2026-11-25T00:32:01+00:00",
+  "added": "2026-11-25T04:30:33+00:00"
+ },
+ {
+  "id": "482bf646b519",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
+  "title_uk": "Індекс Nikkei впав на 2,8% через падіння акцій чипмейкерів",
+  "summary_uk": "Японські акції знизилися після різкого зростання у вівторок: ентузіазм щодо повернення Дженсена Хуанга на посаду керівника Nvidia швидко вичерпався. Найбільше тиснули на ринок папери компаній, пов'язаних із виробництвом чипів.",
+  "category": "markets",
+  "published": "2026-11-25T00:21:00+00:00",
+  "added": "2026-11-25T04:30:33+00:00"
+ },
+ {
+  "id": "e68c2787bab4",
+  "source": "Економічна правда",
+  "link": "https://epravda.com.ua/energetika/rosiya-ponad-800-raziv-atakuvala-ob-yekti-naftogazu-za-chas-viyni-827996/",
+  "title_uk": "Росія атакувала об'єкти Нафтогазу понад 800 разів від початку вторгнення",
+  "summary_uk": "За даними групи Нафтогаз, з початку повномасштабної війни Росія здійснила понад 800 атак на її об'єкти. Це показує масштаб тиску на газову інфраструктуру України напередодні зими, коли енергосистема й так працює з відключеннями.",
+  "category": "ukraine",
+  "published": "2026-11-24T17:00:00+00:00",
+  "added": "2026-11-25T04:30:33+00:00"
+ },
+ {
   "id": "527af39fbba6",
   "source": "CNBC",
   "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
@@ -1222,65 +1282,5 @@
   "category": "world",
   "published": "2026-11-20T15:57:09+00:00",
   "added": "2026-11-21T00:29:47+00:00"
- },
- {
-  "id": "4da447f6aea9",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=rss_markets_main",
-  "title_uk": "Нафта в п'ятницю розвернулася до зниження після початкового зростання",
-  "summary_uk": "Ціни на нафту в п'ятницю втратили ранні здобутки й пішли вниз. Трейдери зважували покращення світової пропозиції та постійні загрози для перевезень нафти з Близького Сходу. Для України, яка імпортує пальне, світові ціни на нафту впливають на вартість бензину й дизеля.",
-  "category": "energy",
-  "published": "2026-11-20T12:37:00+00:00",
-  "added": "2026-11-21T00:29:47+00:00"
- },
- {
-  "id": "54cc23446c79",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
-  "title_uk": "Акції американських страховиків і лікарень падають через пропозицію Medicare for All",
-  "summary_uk": "Інвестори шукали захисту від розпродажу в секторі охорони здоров'я, але цього тижня акції UnitedHealth, Humana та CVS Health знизилися. Тиск на них посилила нова пропозиція запровадити в США загальне державне медичне страхування Medicare for All.",
-  "category": "markets",
-  "published": "2026-11-20T15:53:00+00:00",
-  "added": "2026-11-21T00:29:47+00:00"
- },
- {
-  "id": "e84def67155c",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories",
-  "title_uk": "Трамп намагається завадити техгігантам будувати дата-центри за межами США",
-  "summary_uk": "Компанії, що розвивають інфраструктуру для штучного інтелекту, дедалі частіше планують нові дата-центри за кордоном, адже в самих США політики й мешканці насторожено ставляться до таких об'єктів. Президент пригрозив санкціями компаніям, які будують центри поза США, однак фондовий ринок продовжив падіння.",
-  "category": "policy",
-  "published": "2026-11-20T18:57:00+00:00",
-  "added": "2026-11-21T00:29:47+00:00"
- },
- {
-  "id": "c11a8b392bb9",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/asset-backed-debt-sales-top-post-gfc-record-on-ai-strength",
-  "title_uk": "Продажі облігацій, забезпечених активами, втретє поспіль б'ють рекорд після кризи 2008 року",
-  "summary_uk": "Обсяг розміщень цінних паперів, забезпечених активами (ABS), уже третій рік поспіль перевищує найвищий рівень від часів світової фінансової кризи. Попит підтримують компанії, що будують інфраструктуру для ШІ й позичають на ринку, а також страхові компанії з великими вільними коштами.",
-  "category": "markets",
-  "published": "2026-11-20T19:41:53+00:00",
-  "added": "2026-11-21T00:29:47+00:00"
- },
- {
-  "id": "2c9c18a61326",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
-  "title_uk": "Облігації Аргентини вперше за два роки опустилися до проблемного рівня",
-  "summary_uk": "Глобальна втеча інвесторів від ризику вдарила по Аргентині в слабкий момент. Розпродаж її облігацій, який підживлюють побоювання щодо виборів наступного року, посилився, і борг країни вперше за два роки перейшов у категорію проблемного (distressed).",
-  "category": "economy",
-  "published": "2026-11-20T18:12:35+00:00",
-  "added": "2026-11-21T00:29:47+00:00"
- },
- {
-  "id": "c0da7ec0e124",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
-  "title_uk": "Alphabet уперше за понад два роки обігнав Nvidia за ринковою вартістю",
-  "summary_uk": "Після тривалого падіння акцій Nvidia опустилася на четверте місце серед найдорожчих компаній США — після Apple, Microsoft і Alphabet. Такого не траплялося понад два роки.",
-  "category": "markets",
-  "published": "2026-11-20T19:23:00+00:00",
-  "added": "2026-11-20T20:30:24+00:00"
  }
 ]
