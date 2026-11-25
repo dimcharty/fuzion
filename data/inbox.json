@@ -1,5 +1,104 @@
 [
  {
+  "id": "a4319b35a326",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
+  "teaser": "Commercial crude oil stocks rose by 1.1 million barrels last week, matching expectations in a Wall Street Journal survey of analysts.",
+  "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-90dfcab0?mod=rss_markets_main",
+  "published": "2026-11-25T16:29:00+00:00",
+  "seen": "2026-11-25T16:31:02+00:00"
+ },
+ {
+  "id": "b6100c63f4ff",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
+  "teaser": "Plus some advice on cutting your Thanksgiving grocery tab.",
+  "link": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
+  "published": "2026-11-25T16:21:00+00:00",
+  "seen": "2026-11-25T16:31:02+00:00"
+ },
+ {
+  "id": "b2d00cbfb984",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Core PCE Momentum Remained Elevated in October",
+  "teaser": "US consumer spending stalled in October after surging earlier in the year, suggesting households took a breather heading into the holiday season. Inflation-adjusted personal spending was little changed from a month earlier, according to Bureau of Economic Analysis data released…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-25/core-pce-momentum-remained-elevated-in-october-video",
+  "published": "2026-11-25T16:19:34+00:00",
+  "seen": "2026-11-25T16:31:02+00:00"
+ },
+ {
+  "id": "bf2fd0f90e18",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "The RealReal CEO Sees Resale’s Structural Shift",
+  "teaser": "Data shows that consumer spending stalled in October. The RealReal CEO Rati Sahi Levesque joined Bloomberg Open Interest to talk about what she is seeing and how shoppers are turning to resale for value. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-25/the-realreal-ceo-sees-resale-s-structural-shift-video",
+  "published": "2026-11-25T16:15:46+00:00",
+  "seen": "2026-11-25T16:31:02+00:00"
+ },
+ {
+  "id": "a7c9040e7914",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Europe Diesel Demand on Course to Fall Below Covid Levels",
+  "teaser": "Europe’s diesel demand is on course to be lower this year than during the Covid pandemic, a sign of how the Iran war is hitting oil consumption and squeezing consumers’ wallets.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/europe-diesel-demand-on-course-to-fall-below-covid-levels",
+  "published": "2026-11-25T16:13:35+00:00",
+  "seen": "2026-11-25T16:31:02+00:00"
+ },
+ {
+  "id": "f1f0e951b4ac",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Upgrade to US GDP figures keeps December rate rise in play for Fed",
+  "teaser": "Bureau of Economic Analysis said economy grew at annualised rate of 4.3% in third quarter, up from initial estimate of 3.4%",
+  "link": "https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3?syn-25a6b1a6=1",
+  "published": "2026-11-25T16:07:13+00:00",
+  "seen": "2026-11-25T16:31:02+00:00"
+ },
+ {
+  "id": "227955ce8fef",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Hassett Sees a “Goldilocks” Economy",
+  "teaser": "White House economic adviser Kevin Hassett says strong investment and growth point to a “Goldilocks” economy, with inflation not accelerating. He also weighs in on Fed policy, Nvidia’s national importance, and the upcoming Lisa Cook hearing. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-25/hassett-sees-a-goldilocks-economy-video",
+  "published": "2026-11-25T15:49:47+00:00",
+  "seen": "2026-11-25T16:31:02+00:00"
+ },
+ {
+  "id": "182dff8bbaa1",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Dubai Bank Merger to Create $159 Billion Islamic Lending Giant",
+  "teaser": "Dubai Islamic Bank PJSC said it’s buying Emirates Islamic Bank PJSC in a deal that will create one of the world’s largest listed Islamic-banking groups, with assets of about $159 billion.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/dubai-bank-merger-to-create-159-billion-islamic-lending-giant",
+  "published": "2026-11-25T15:48:08+00:00",
+  "seen": "2026-11-25T16:31:02+00:00"
+ },
+ {
+  "id": "d540fe45c028",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in",
+  "teaser": "Based on where retail investors bought Nvidia’s stock on the dip last week, their gains are nearly all gone, according to Vanda Research.",
+  "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+  "published": "2026-11-25T15:43:00+00:00",
+  "seen": "2026-11-25T16:31:02+00:00"
+ },
+ {
   "id": "1fadb0698147",
   "source": "Bloomberg",
   "lang": "en",
@@ -20,6 +119,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-25/air-india-chief-seeks-to-cut-650-million-in-costs-this-year",
   "published": "2026-11-25T15:20:13+00:00",
   "seen": "2026-11-25T15:39:09+00:00"
+ },
+ {
+  "id": "f2d205d9772f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "JPMorgan Backs Drone Engine Maker’s $10 Million Muni Bond Sale",
+  "teaser": "A drone engine manufacturer is making its debut in the US municipal bond market with a familiar name standing behind the debt: JPMorgan Chase & Co.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-backs-drone-engine-maker-s-10-million-muni-bond-sale",
+  "published": "2026-11-25T15:20:02+00:00",
+  "seen": "2026-11-25T16:31:02+00:00"
  },
  {
   "id": "b10d7353b2fc",
@@ -3188,115 +3298,5 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-24/msci-says-no-change-in-indonesia-market-consultation-process",
   "published": "2026-11-24T04:13:48+00:00",
   "seen": "2026-11-24T05:45:01+00:00"
- },
- {
-  "id": "681e74310f2e",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Australia Bonds Set for Longest Rally Since June on RBA Cut Bets",
-  "teaser": "Australia’s bond market is heading for its longest rally in over five months as mounting signs of economic weakness fuel bets the Reserve Bank’s next move will be an interest-rate cut.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/australia-bonds-set-for-longest-rally-since-june-on-rba-cut-bets",
-  "published": "2026-11-24T04:06:12+00:00",
-  "seen": "2026-11-24T04:30:45+00:00"
- },
- {
-  "id": "940e90949f6e",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Ремонт дорожчає: чому ростуть ціни на будматеріали і чого чекати",
-  "teaser": "",
-  "link": "https://epravda.com.ua/biznes/budivelna-galuz-ukrajini-zrostannya-cin-na-materiali-ta-energonosiji-827956/",
-  "published": "2026-11-24T04:00:00+00:00",
-  "seen": "2026-11-24T05:45:01+00:00"
- },
- {
-  "id": "356407001672",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Singapore is no backdoor for US chips, PM says",
-  "teaser": "Lawrence Wong vows city-state will not let companies break law by circumventing export controls",
-  "link": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
-  "published": "2026-11-24T03:46:42+00:00",
-  "seen": "2026-11-24T04:30:45+00:00"
- },
- {
-  "id": "d4955a2838b9",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "GQG Shares Set for Record Surge in Sydney With AI Trade Revival",
-  "teaser": "GQG Partners Inc.’s Australia-listed shares are on track for a record daily gain, as a rebound in the artificial intelligence trade drew investors back into Rajiv Jain’s beaten-down investment firm.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/gqg-shares-set-for-record-surge-in-sydney-with-ai-trade-revival",
-  "published": "2026-11-24T03:42:00+00:00",
-  "seen": "2026-11-24T04:30:45+00:00"
- },
- {
-  "id": "3411016ce166",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports",
-  "teaser": "Shares in Chinese cobalt producers surged after the Democratic Republic of Congo slapped an export ban on the battery metal from the end of the month in a bid to arrest a price decline.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/shares-in-chinese-cobalt-producers-jump-after-congo-bans-exports",
-  "published": "2026-11-24T03:17:56+00:00",
-  "seen": "2026-11-24T04:30:45+00:00"
- },
- {
-  "id": "9402acf98323",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
-  "teaser": "Japanese government bonds rallied across the curve after a three-day holiday, with gains holding even as domestic equities surged on easing concerns over the outlook for artificial intelligence investment.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/japanese-bonds-rally-across-curve-as-domestic-stocks-surge",
-  "published": "2026-11-24T03:07:20+00:00",
-  "seen": "2026-11-24T04:30:45+00:00"
- },
- {
-  "id": "aa36c57f3bc0",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "U.S. Treasurys Edge Lower Amid Higher Fed Rate-Hike Prospects",
-  "teaser": "U.S. Treasurys edged lower in price terms in the Asian session amid higher prospects for Fed rate hikes.",
-  "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
-  "published": "2026-11-24T03:00:00+00:00",
-  "seen": "2026-11-24T04:30:45+00:00"
- },
- {
-  "id": "012b324bfc0a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Copper Resumes Decline as Investors Look Beyond Drama at Nvidia",
-  "teaser": "Copper resumed a decline after a spike driven by Jensen Huang’s return to Nvidia Corp., with investors still cautious about demand.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
-  "published": "2026-11-24T02:38:19+00:00",
-  "seen": "2026-11-24T04:30:45+00:00"
- },
- {
-  "id": "0954460e787d",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Tokyo Core Used-Condo Prices Fall for First Time Since 2013",
-  "teaser": "Prices of used condominiums in central Tokyo fell from a year earlier for the first time in more than 13 years, a sign that the market is cooling amid higher interest rates and a glut in inventories.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/central-tokyo-used-condo-prices-fall-for-first-time-since-2013",
-  "published": "2026-11-24T02:22:06+00:00",
-  "seen": "2026-11-24T05:45:01+00:00"
- },
- {
-  "id": "c001ea324a61",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
-  "teaser": "Saudi national is also alleged to have photographed confidential documents",
-  "link": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
-  "published": "2026-11-24T01:31:42+00:00",
-  "seen": "2026-11-24T04:30:45+00:00"
  }
 ]
