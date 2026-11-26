@@ -1,5 +1,36 @@
 [
  {
+  "id": "digest-2026-11-26",
+  "kind": "digest",
+  "category": "digest",
+  "title_uk": "Ранковий дайджест: 26 листопада",
+  "summary_uk": "Три головні події фінансового світу за минулу добу.",
+  "source": "Fuzion Societe",
+  "link": "https://t.me/fuzionsoc",
+  "items": [
+   {
+    "title_uk": "Тодд Боелі домовився про купівлю закордонних активів «Лукойлу»",
+    "summary_uk": "Продаж міжнародного бізнесу російської нафтової компанії став наслідком санкцій США, запроваджених для тиску на Москву в переговорах щодо війни в Україні.",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a?mod=rss_markets_main"
+   },
+   {
+    "title_uk": "Nasdaq 100 підійшов до межі ведмежого ринку, але відіграв більшість втрат",
+    "summary_uk": "Через сумніви щодо буму ШІ техакції різко падали, проте покупці на просіданні допомогли індексу завершити день зниженням лише на 1%.",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-pare-ai-driven-losses-as-dip-buyers-emerge-video"
+   },
+   {
+    "title_uk": "Перегляд ВВП США зберігає шанси на підвищення ставки ФРС у грудні",
+    "summary_uk": "За уточненими даними BEA, у третьому кварталі економіка США зростала на 4,3% у річному вимірі замість попередньо оцінених 3,4%.",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3?syn-25a6b1a6=1"
+   }
+  ],
+  "published": "2026-11-26T05:44:31+00:00",
+  "added": "2026-11-26T05:44:31+00:00"
+ },
+ {
   "id": "19c7121dfc34",
   "source": "MarketWatch",
   "link": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
@@ -1250,16 +1281,6 @@
   "summary_uk": "Уряд Австралії хоче зобов'язати експортерів скрапленого газу постачати більше палива всередину країни. Опозиційна коаліція висловила нові застереження щодо цього плану перед голосуванням за законопроєкт цього тижня.",
   "category": "energy",
   "published": "2026-11-22T02:08:07+00:00",
-  "added": "2026-11-22T08:29:48+00:00"
- },
- {
-  "id": "216430f08308",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-  "title_uk": "Акції китайських ШІ-компаній втратили $1,7 трлн капіталізації",
-  "summary_uk": "Ставка на китайські технологічні компанії, які наздоганяли США у сфері штучного інтелекту, ще недавно була однією з найпопулярніших на ринку. Тепер ця торгівля перетворилася на збиткову для інвесторів.",
-  "category": "markets",
-  "published": "2026-11-22T00:00:00+00:00",
   "added": "2026-11-22T08:29:48+00:00"
  }
 ]
