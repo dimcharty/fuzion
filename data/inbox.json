@@ -1,5 +1,126 @@
 [
  {
+  "id": "6c3734f70827",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Opinion | Zohran Mamdani Has a Nvidia Revelation",
+  "teaser": "New York’s mayor discovers that city pensions depend on stock-market returns.",
+  "link": "https://www.wsj.com/opinion/zohran-mamdani-has-a-nvidia-revelation-1e048235?mod=rss_markets_main",
+  "published": "2026-11-26T19:05:00+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "ffc9529500e1",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+  "teaser": "“Retirement is a financial status, not an age.”",
+  "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+  "published": "2026-11-26T19:00:00+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "a24c67f164b6",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Opinion | Does Nvidia Really Need Its Brilliant Nutjob?",
+  "teaser": "President Trump brought back Jensen Huang before investors could fully assess his value to the company.",
+  "link": "https://www.wsj.com/opinion/does-nvidia-really-need-its-brilliant-nutjob-33b21d47?mod=rss_markets_main",
+  "published": "2026-11-26T18:10:00+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "0e3d614c320d",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "New Zealand Poised to Learn Who Can Form Its Next Government",
+  "teaser": "New Zealand will learn Friday who is in a position to form its next government, three weeks after an election that was too close to call.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/new-zealand-poised-to-learn-who-can-form-its-next-government",
+  "published": "2026-11-26T18:00:00+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "52318fa01d37",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
+  "teaser": "Banks have lined up €550 million ($603.5 million) of loans to back KKR & Co.’s acquisition of packaging company Logoplaste, according to people familiar with the situation.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
+  "published": "2026-11-26T17:47:30+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "19064ed384cc",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Kazakhstan Encouraged Local Banks to Finance Deal for Gold Miner",
+  "teaser": "Kazakhstan has encouraged domestic banks to lend more than $1 billion to construction tycoon Shakhmurat Mutalip and revised financing regulations to help him buy gold miner AK Altynalmas JSC, according to people familiar with the matter.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/kazakhstan-encouraged-local-banks-to-finance-deal-for-gold-miner",
+  "published": "2026-11-26T17:35:40+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "e854f7a6b156",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+  "teaser": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
+  "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+  "published": "2026-11-26T17:13:40+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "25bf36ef95bc",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Two Italians killed in Iranian strike on Kuwait",
+  "teaser": "Rheinmetall workers are the first reported deaths from Iranian attacks since Washington and Tehran restarted exchanging fire this month",
+  "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+  "published": "2026-11-26T16:57:26+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "993efd22d9be",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Israel’s Eisenkot takes steps towards replacing Netanyahu",
+  "teaser": "Opposition leader’s deals with two parties advance plans to oust prime minister",
+  "link": "https://www.ft.com/content/a0731abb-c7bf-421b-9486-682114c705ff",
+  "published": "2026-11-26T16:51:18+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "afcad6da2704",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Stellantis to Pause More Europe Plants as Chinese Rivals Advance",
+  "teaser": "Stellantis NV is planning further plant stoppages in Europe in the coming weeks as the carmaker grapples with mounting competition, high costs and weak demand for some models.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/stellantis-to-pause-more-europe-plants-as-chinese-rivals-advance",
+  "published": "2026-11-26T16:49:16+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "4d86bdfc16bf",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Trans-Oil Warns of Going-Concern Risk Pending Debt Waiver",
+  "teaser": "Trans-Oil Group has yet to secure a waiver after breaching financial covenants on a key export facility, adding to liquidity pressure at the agricultural commodities firm.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/trans-oil-warns-of-going-concern-risk-pending-debt-waiver",
+  "published": "2026-11-26T16:39:29+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
   "id": "23e8b9bfb1a8",
   "source": "Bloomberg",
   "lang": "en",
@@ -86,6 +207,17 @@
   "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
   "published": "2026-11-26T15:13:00+00:00",
   "seen": "2026-11-26T16:31:02+00:00"
+ },
+ {
+  "id": "6c8ca329b52f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Bawag’s €1.6 Billion PTSB Deal Rejected by Irish High Court",
+  "teaser": "The Irish High Court declined to approve Bawag Group AG’s takeover of Irish lender Permanent TSB Group Holdings Plc, saying that the Austrian bank must also seek approval of minority shareholders.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/irish-high-court-refuses-to-approve-bawag-s-ptsb-deal",
+  "published": "2026-11-26T15:09:23+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
  },
  {
   "id": "0cb17b518431",
@@ -1573,6 +1705,17 @@
   "seen": "2026-11-26T00:23:46+00:00"
  },
  {
+  "id": "f508a277d88c",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Crude Posts Back-to-Back Gains on Middle East Tension",
+  "teaser": "Oil futures rose for a second straight session as expectations for a global supply surplus were tempered by continuing tension in the Middle East.",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
+  "published": "2026-11-25T22:09:00+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
   "id": "1f0bcc851ab2",
   "source": "Bloomberg",
   "lang": "en",
@@ -2398,6 +2541,17 @@
   "seen": "2026-11-25T15:39:09+00:00"
  },
  {
+  "id": "dd9641ab20f4",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+  "teaser": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+  "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+  "published": "2026-11-25T14:29:00+00:00",
+  "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
   "id": "fae92f847f0f",
   "source": "Financial Times",
   "lang": "en",
@@ -3144,159 +3298,5 @@
   "link": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
   "published": "2026-11-25T05:00:12+00:00",
   "seen": "2026-11-25T05:45:11+00:00"
- },
- {
-  "id": "71afc2e72161",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Europe must not accept ‘hybrid’ warfare as normal, defence chief warns",
-  "teaser": "Comments follow surge in attempted sabotage and arson attacks on defence facilities, airports and other critical infrastructure",
-  "link": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
-  "published": "2026-11-25T05:00:12+00:00",
-  "seen": "2026-11-25T05:45:11+00:00"
- },
- {
-  "id": "9f61c757d04c",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "How an ex-McKinsey partner is using new money to chase old wealth",
-  "teaser": "Backed by Abu Dhabi’s Mubadala Capital, Corient has bought 57 firms serving high-net-worth clients — and is on the hunt for more",
-  "link": "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1",
-  "published": "2026-11-25T05:00:04+00:00",
-  "seen": "2026-11-25T05:45:11+00:00"
- },
- {
-  "id": "3aefd2ba5e95",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
-  "teaser": "Malaysia’s largest bank is reviewing its portfolio for potential exposure to the latest US chip curbs, as it assesses how the restrictions could affect data center clients and their funding needs.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
-  "published": "2026-11-25T04:35:30+00:00",
-  "seen": "2026-11-25T05:45:11+00:00"
- },
- {
-  "id": "9756f3dce911",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Xi Probes Shanghai Boss, Widening Political Shakeup",
-  "teaser": "China has opened an investigation into Chen Jining, a member of the country's elite Politburo and the party chief of Shanghai, for suspected serious violations of law and discipline. Bloomberg Economics' Neil Thomas has the context. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
-  "published": "2026-11-25T04:25:11+00:00",
-  "seen": "2026-11-25T04:30:44+00:00"
- },
- {
-  "id": "ae80859a868a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Dangote Refinery Set to Become Africa’s Biggest Listed Company",
-  "teaser": "Dangote Petroleum Refinery and Petrochemicals FZE will rank as the biggest company with a primary listing in Africa once it makes its trading debut in Lagos, far exceeding the size of the next-largest business on the continent.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-refinery-set-to-become-africa-s-biggest-listed-company",
-  "published": "2026-11-25T04:15:00+00:00",
-  "seen": "2026-11-25T04:30:44+00:00"
- },
- {
-  "id": "c62165b70a4e",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Страшніше за вимкнення світла. Що робити в разі поломки генератора",
-  "teaser": "В Україні за чотири роки сформувався новий великий ринок – ремонту та обслуговування генераторів. Скільки на цьому заробляють?",
-  "link": "https://epravda.com.ua/energetika/remont-generatoriv-rinok-cini-ta-popit-u-biznesu-ta-naselennya-828005/",
-  "published": "2026-11-25T04:00:00+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "f6147ee850b7",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
-  "teaser": "Copper ticked higher and aluminum steadied after a major selloff across metals on Tuesday, as traders awaited US inflation data that will feed into the Federal Reserve’s next decision on interest rates.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
-  "published": "2026-11-25T03:57:12+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "06e3e1964d69",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Asian markets lose ground as AI fears return",
-  "teaser": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
-  "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
-  "published": "2026-11-25T03:52:20+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "3008ac6b3647",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Japan’s 40-Year Bond Sale Draws Weaker Demand on Risk Off Mood",
-  "teaser": "Japan’s 40-year government bond auction on Wednesday drew weaker demand as global risk-off sentiment weighed on investor appetite.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/japan-40-year-bond-sale-sees-weaker-demand-than-12-month-average-mwvkr2jb",
-  "published": "2026-11-25T03:39:10+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "c58667bc5ee8",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Singapore Dollar Weakens as Focus Turns to U.S. Econ Data",
-  "teaser": "The Singapore dollar weakens against its U.S. counterpart in Asia.",
-  "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-  "published": "2026-11-25T03:27:00+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "c287ddd50807",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
-  "teaser": "Starbucks Corp. has tapped advisers to prepare for a potential sale of its Japan business for several billion dollars, according to people familiar with the matter.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
-  "published": "2026-11-25T03:10:23+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "d616a4fef65b",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
-  "teaser": "Relief from Jensen Huang’s Nvidia return waned and doubts about the artificial-intelligence trade crept in.",
-  "link": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
-  "published": "2026-11-25T02:53:00+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "2ee289f7e9a4",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
-  "teaser": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
-  "published": "2026-11-25T02:45:27+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "704f992aaa37",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "India’s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks",
-  "teaser": "Meanwhile, a cash crunch in India’s banking system is forcing lenders to borrow at higher costs.",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-25/india-s-anti-ai-stock-trade-confronts-rich-valuations-global-tariff-risks",
-  "published": "2026-11-25T02:30:28+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
  }
 ]
