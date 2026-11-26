@@ -1,5 +1,71 @@
 [
  {
+  "id": "f4adc197f060",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Marc Levinson on How UPS Created Modern Logistics",
+  "teaser": "The forgotten history of one of the world's most important companies.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics",
+  "published": "2026-11-26T09:00:22+00:00",
+  "seen": "2026-11-26T09:33:34+00:00"
+ },
+ {
+  "id": "e07d972099b1",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Turkey’s Defense Chief to Meet Hegseth to Discuss Russian S-400s",
+  "teaser": "Turkey’s Defense Minister Yasar Guler will meet his American counterpart Pete Hegseth in the US next week, as Ankara steps up efforts to resolve tensions over its purchase of a Russian air defense system.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-s-defense-chief-to-meet-hegseth-to-discuss-russian-s-400s",
+  "published": "2026-11-26T09:00:01+00:00",
+  "seen": "2026-11-26T09:33:34+00:00"
+ },
+ {
+  "id": "3d4535f17565",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Odd Lots: Levinson on How UPS Created Modern Logistics (Podcast)",
+  "teaser": "UPS was founded nearly a century ago in the basement of a Seattle saloon by James E. Casey and his business partner Claude Ryan. They initially called the company American Messenger Company, and the first iteration of the firm that became UPS was a bike courier service. It is…",
+  "link": "https://www.bloomberg.com/news/audio/2026-11-26/odd-lots-levinson-on-how-ups-created-modern-logistics-podcast",
+  "published": "2026-11-26T09:00:00+00:00",
+  "seen": "2026-11-26T09:33:34+00:00"
+ },
+ {
+  "id": "b92f0ff8c09b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "UniCredit Clears Final Hurdle to Take Over Commerzbank",
+  "teaser": "UniCredit cleared the final regulatory hurdle to take control of Commerzbank, and plans to propose its CEO, Andrea Orcel, as chairman of the German bank’s supervisory board. Bloomberg's Steven Arons reports. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video",
+  "published": "2026-11-26T08:50:20+00:00",
+  "seen": "2026-11-26T09:33:34+00:00"
+ },
+ {
+  "id": "c95932322ee0",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Global stocks steady after volatile US trading over AI risks",
+  "teaser": "Tech shares hit this month by fears over whether an AI boom can be sustained",
+  "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+  "published": "2026-11-26T08:31:48+00:00",
+  "seen": "2026-11-26T09:33:34+00:00"
+ },
+ {
+  "id": "9414d048288a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asian Stock Markets Are Cheap Enough Now: Market Analysis",
+  "teaser": "Tom Mackenzie, Skylar Montgomery Koning and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-26/asian-stock-markets-are-cheap-enough-now-3-minutes-mliv-video",
+  "published": "2026-11-26T08:29:51+00:00",
+  "seen": "2026-11-26T09:33:34+00:00"
+ },
+ {
   "id": "b6330985e09f",
   "source": "Bloomberg",
   "lang": "en",
@@ -108,6 +174,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-26/banks-seek-rbi-fx-swaps-after-record-inflows-into-indian-stocks",
   "published": "2026-11-26T07:10:15+00:00",
   "seen": "2026-11-26T08:30:33+00:00"
+ },
+ {
+  "id": "6e938d50bd37",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Qatar Has Boosted LNG Exports to Their Highest Since February",
+  "teaser": "Qatar’s liquefied natural gas exports have risen to the highest since the start of the US-Iran war, overcoming disruptions in the Strait of Hormuz and boosting supply to Europe and Asia as the regions enter the peak winter demand season.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/qatar-has-boosted-lng-exports-to-their-highest-since-february",
+  "published": "2026-11-26T07:08:15+00:00",
+  "seen": "2026-11-26T09:33:34+00:00"
  },
  {
   "id": "0225853f8e30",
@@ -2893,6 +2970,17 @@
   "seen": "2026-11-25T00:30:36+00:00"
  },
  {
+  "id": "9e7eff0e02ae",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+  "teaser": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+  "link": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+  "published": "2026-11-24T21:53:00+00:00",
+  "seen": "2026-11-26T09:33:34+00:00"
+ },
+ {
   "id": "54826f9e9675",
   "source": "Bloomberg",
   "lang": "en",
@@ -3210,93 +3298,5 @@
   "link": "https://epravda.com.ua/energetika/vidklyuchennya-svitla-25-listopada-diyatimut-grafiki-do-3-cherg-827999/",
   "published": "2026-11-24T18:40:00+00:00",
   "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "b6c4ab980679",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "The expanding boundaries of the Ukraine war",
-  "teaser": "Kyiv has a right to strike Russian targets but needs to choose them with care",
-  "link": "https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6?syn-25a6b1a6=1",
-  "published": "2026-11-24T18:38:23+00:00",
-  "seen": "2026-11-24T20:30:16+00:00"
- },
- {
-  "id": "c84df890b210",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-  "teaser": "The product, the first one beyond event contracts, was introduced in May.",
-  "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-  "published": "2026-11-24T18:34:55+00:00",
-  "seen": "2026-11-24T20:30:16+00:00"
- },
- {
-  "id": "26c4ace1c9f1",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Micron’s stock falls as an analyst warns about a future supply glut",
-  "teaser": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
-  "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-  "published": "2026-11-24T18:33:00+00:00",
-  "seen": "2026-11-24T20:30:16+00:00"
- },
- {
-  "id": "527af39fbba6",
-  "source": "CNBC",
-  "lang": "en",
-  "weight": 6,
-  "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-  "teaser": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
-  "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-  "published": "2026-11-24T18:28:33+00:00",
-  "seen": "2026-11-24T20:30:16+00:00"
- },
- {
-  "id": "59b50ab9bfbb",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
-  "teaser": "Even for Seaport analyst Ron Jewsikow, Tesla’s robotaxi progress is now “impossible to ignore.”",
-  "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
-  "published": "2026-11-24T18:28:00+00:00",
-  "seen": "2026-11-24T20:30:16+00:00"
- },
- {
-  "id": "db9c02da05a0",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "\"Ситуація важка\": у частині Дніпропетровщини запровадили екстрені відключення",
-  "teaser": "За командою Укренерго в Дніпрі, Дніпровському, Павлоградському, Синельниківському та Самарівському районах Дніпропетровщини запровадили екстрені відключення.",
-  "link": "https://epravda.com.ua/energetika/na-dnipropetrovshchini-zaprovadili-ekstreni-vidklyuchennya-svitla-827998/",
-  "published": "2026-11-24T18:20:00+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "4324b4b8cde2",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-  "teaser": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
-  "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-  "published": "2026-11-24T18:14:00+00:00",
-  "seen": "2026-11-24T20:30:16+00:00"
- },
- {
-  "id": "f482055c649b",
-  "source": "The Economist",
-  "lang": "en",
-  "weight": 9,
-  "title": "Copper shows how AI is messing with markets",
-  "teaser": "The pitfalls of being a proxy bet for a technological revolution",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
-  "published": "2026-11-24T18:12:38+00:00",
-  "seen": "2026-11-24T20:30:16+00:00"
  }
 ]
