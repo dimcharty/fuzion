@@ -1,5 +1,65 @@
 [
  {
+  "id": "e0ff03ee2daf",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/embraer-sinks-most-since-may-as-us-proposes-brazil-aircraft-levy",
+  "title_uk": "Акції Embraer впали майже на 10% через пропоноване мито США на бразильські літаки",
+  "summary_uk": "Папери бразильського авіавиробника Embraer у Сан-Паулу зазнали найбільшого падіння з травня. Причиною стала пропозиція США запровадити додаткове 10-відсоткове мито на літаки, які експортуються з Бразилії.",
+  "category": "companies",
+  "published": "2026-11-25T14:02:53+00:00",
+  "added": "2026-11-26T00:30:43+00:00"
+ },
+ {
+  "id": "401c20c4d5ef",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/bnp-paribas-hit-by-higher-capital-surcharge-under-new-gsib-list",
+  "title_uk": "Для BNP Paribas підвищили надбавку до капіталу як для системного банку",
+  "summary_uk": "Рада з фінансової стабільності перевела французький банк BNP Paribas до іншої категорії у списку глобальних системно важливих банків. Через це вимога до його капіталу зросла на 50 базисних пунктів.",
+  "category": "banks",
+  "published": "2026-11-25T20:03:35+00:00",
+  "added": "2026-11-26T00:30:43+00:00"
+ },
+ {
+  "id": "f23f7d855ef1",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
+  "title_uk": "Nasdaq під час торгів падав на 4,5%, але скоротив втрати",
+  "summary_uk": "Середа видалася для Волл-стріт хаотичною: індекс Nasdaq Composite в моменті обвалювався на 4,5%, після чого значну частину падіння було відіграно. Інвестори досі не можуть знайти опору в умовах нової турбулентності навколо акцій ШІ-компаній.",
+  "category": "markets",
+  "published": "2026-11-25T21:48:00+00:00",
+  "added": "2026-11-26T00:30:43+00:00"
+ },
+ {
+  "id": "a5aef3037997",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+  "title_uk": "Підрозділ Мінфіну США з фінансових злочинів FinCEN зазнав ймовірної кібератаки",
+  "summary_uk": "FinCEN, який відстежує відмивання коштів у США, вимкнув свої системи після виявлення несанкціонованого доступу. Інцидент посилює занепокоєння щодо вразливості державних технологічних систем.",
+  "category": "policy",
+  "published": "2026-11-25T17:45:30+00:00",
+  "added": "2026-11-26T00:30:43+00:00"
+ },
+ {
+  "id": "51428c4310ba",
+  "source": "Економічна правда",
+  "link": "https://epravda.com.ua/svit/zamorozheni-aktivi-rosiji-u-shveycariji-zrosli-do-8-5-mlrd-frankiv-828044/",
+  "title_uk": "Заморожені російські активи у Швейцарії перевищили $10 млрд",
+  "summary_uk": "Обсяг заблокованих у Швейцарії російських активів зріс і тепер становить понад 10 млрд доларів. Доля заморожених коштів Росії лишається одним із ключових питань фінансування відновлення України.",
+  "category": "ukraine",
+  "published": "2026-11-25T16:11:00+00:00",
+  "added": "2026-11-26T00:30:43+00:00"
+ },
+ {
+  "id": "cb4eef16a731",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a?mod=rss_markets_main",
+  "title_uk": "Тодд Боелі домовився про купівлю закордонних активів «Лукойлу»",
+  "summary_uk": "Власник «Лос-Анджелес Доджерс» Тодд Боелі уклав угоду щодо міжнародного бізнесу російського «Лукойлу». Продаж став наслідком американських санкцій проти активів компанії, якими адміністрація Трампа тисне на Москву в переговорах щодо війни в Україні.",
+  "category": "ukraine",
+  "published": "2026-11-25T18:41:00+00:00",
+  "added": "2026-11-26T00:30:43+00:00"
+ },
+ {
   "id": "a4319b35a326",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-90dfcab0?mod=rss_markets_main",
@@ -1222,65 +1282,5 @@
   "category": "ukraine",
   "published": "2026-11-21T14:13:00+00:00",
   "added": "2026-11-22T00:30:19+00:00"
- },
- {
-  "id": "691aeea036b1",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
-  "title_uk": "Goldman Sachs запропонував SpaceX схему фінансування ШІ-чипів без тиску на баланс",
-  "summary_uk": "Bloomberg пише, що Goldman Sachs понад рік шукав спосіб профінансувати закупівлю чипів для штучного інтелекту так, щоб не перевантажувати баланси компаній боргом. Схема, запропонована SpaceX, допомагає розв'язати цю проблему боргового фінансування ШІ. Деталі — в оригінальній публікації.",
-  "category": "banks",
-  "published": "2026-11-21T15:31:22+00:00",
-  "added": "2026-11-21T20:30:07+00:00"
- },
- {
-  "id": "21073cb78425",
-  "source": "Економічна правда",
-  "link": "https://epravda.com.ua/biznes/bitkojin-vpav-do-naynizhchogo-za-dva-roki-rivnya-827897/",
-  "title_uk": "Біткоїн опустився до мінімуму за два роки",
-  "summary_uk": "Ціна біткоїна впала до найнижчого рівня за останні два роки. Тиск на криптовалюту посилили побоювання інвесторів щодо надмірно високих оцінок компаній штучного інтелекту, які погіршили настрої на ринках загалом.",
-  "category": "crypto",
-  "published": "2026-11-21T13:10:00+00:00",
-  "added": "2026-11-21T20:30:07+00:00"
- },
- {
-  "id": "cc825ef57461",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-  "title_uk": "Wall Street шукає опору для ШІ-ралі після провального дебюту Anthropic",
-  "summary_uk": "Фондовий ринок США завершує важкий місяць: інвесторів похитнули усунення Дженсена Хуанга з посади в Nvidia та переконлива перемога демократів на проміжних виборах. Після розпродажу, пов'язаного з Anthropic, учасники ринку з'ясовують, що може підтримати акції компаній штучного інтелекту.",
-  "category": "markets",
-  "published": "2026-11-21T13:00:00+00:00",
-  "added": "2026-11-21T20:30:07+00:00"
- },
- {
-  "id": "ec64a1e8c3ad",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
-  "title_uk": "Amazon наближається до угоди про купівлю ШІ-стартапу Decart за $7,5 млрд",
-  "summary_uk": "За даними Financial Times, Amazon близька до придбання стартапу у сфері штучного інтелекту Decart приблизно за 7,5 млрд доларів. Угода має посилити позиції хмарного підрозділу AWS у конкуренції з Nvidia за обчислювальні потужності.",
-  "category": "companies",
-  "published": "2026-11-21T17:21:36+00:00",
-  "added": "2026-11-21T20:30:07+00:00"
- },
- {
-  "id": "00dba3585b2a",
-  "source": "Економічна правда",
-  "link": "https://epravda.com.ua/biznes/deficit-vagoniv-obmezhuye-perevalku-zerna-na-zahidnomu-kordoni-agroeksporteri-827896/",
-  "title_uk": "Нестача вагонів європейської колії гальмує експорт зерна через західний кордон",
-  "summary_uk": "Агроекспортери скаржаться, що зернові термінали на західному кордоні України не можуть працювати на повну потужність: бракує вагонів під колію 1435 мм. Для українського агроекспорту залізничний маршрут до ЄС залишається одним із ключових каналів збуту.",
-  "category": "ukraine",
-  "published": "2026-11-21T12:32:00+00:00",
-  "added": "2026-11-21T20:30:07+00:00"
- },
- {
-  "id": "e45a8a7386eb",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
-  "title_uk": "Армія Китаю відсторонила SF Express від військових закупівель",
-  "summary_uk": "Одну з найбільших китайських логістичних компаній SF Express позбавили права брати участь у закупівлях товарів, робіт і послуг для всієї армії. Причиною названо ймовірні порушення, повідомляє Bloomberg.",
-  "category": "companies",
-  "published": "2026-11-21T05:00:48+00:00",
-  "added": "2026-11-21T16:30:37+00:00"
  }
 ]
