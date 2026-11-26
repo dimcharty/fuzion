@@ -1,5 +1,38 @@
 [
  {
+  "id": "7bc0c651e30b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Ford CEO on Le Mans, New Electric Pickup and Trade Talks",
+  "teaser": "Bloomberg’s Matt Miller sits down with Ford CEO Jim Farley to talk racing, Ford’s planned $30,000 electric pickup, Chinese EV competition and USMCA trade talks, zeroing in on how to protect US auto manufacturing while competing on a global stage. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-26/ford-ceo-on-le-mans-new-electric-pickup-and-trade-talks-video",
+  "published": "2026-11-26T20:00:15+00:00",
+  "seen": "2026-11-26T20:30:20+00:00"
+ },
+ {
+  "id": "b5f0eb7ee387",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
+  "teaser": "An ironworkers’ retirement plan is now fully funded, thanks largely to the U.S. stock market’s yearslong rally.",
+  "link": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
+  "published": "2026-11-26T19:55:00+00:00",
+  "seen": "2026-11-26T20:30:20+00:00"
+ },
+ {
+  "id": "47220126e5de",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
+  "teaser": "Ghana redeemed a four-year domestic bond three months ahead of maturity, as the government sought to bolster investor confidence in an economy recovering from a debt restructuring.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
+  "published": "2026-11-26T19:31:46+00:00",
+  "seen": "2026-11-26T20:30:20+00:00"
+ },
+ {
   "id": "6c3734f70827",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -1782,6 +1815,17 @@
   "seen": "2026-11-26T00:23:46+00:00"
  },
  {
+  "id": "c58667bc5ee8",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "U.S. Dollar Slips After Muted Reaction to U.S. Data",
+  "teaser": "The dollar turned lower as earlier strength following a raft of economic indicators faded.",
+  "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+  "published": "2026-11-25T21:28:00+00:00",
+  "seen": "2026-11-26T20:30:20+00:00"
+ },
+ {
   "id": "23344be08b45",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -3253,50 +3297,6 @@
   "teaser": "Malaysian Prime Minister Anwar Ibrahim’s government is likely to serve until the end of its term despite recent speculation over an early election, according to his senior political adviser Zafrul Aziz.",
   "link": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
   "published": "2026-11-25T05:03:48+00:00",
-  "seen": "2026-11-25T05:45:11+00:00"
- },
- {
-  "id": "99ebd6cd56f9",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang",
-  "teaser": "Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling midterms defeat",
-  "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1",
-  "published": "2026-11-25T05:00:32+00:00",
-  "seen": "2026-11-25T05:45:11+00:00"
- },
- {
-  "id": "b20cd1feb40c",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "A French crisis would be a threat — and opportunity — for Europe",
-  "teaser": "A far-right victory could spark fiscal chaos, but it might end up strengthening the EU",
-  "link": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b",
-  "published": "2026-11-25T05:00:32+00:00",
-  "seen": "2026-11-25T05:45:11+00:00"
- },
- {
-  "id": "c99c2bd884c8",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "A French crisis would be a threat — and opportunity — for Europe",
-  "teaser": "A far-right victory could spark fiscal chaos, but it might end up strengthening the EU",
-  "link": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b?syn-25a6b1a6=1",
-  "published": "2026-11-25T05:00:32+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "3eb8b02c220f",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Trump shelves plans for business deals with Russia",
-  "teaser": "US no longer sees economic co-operation as an incentive for Putin to end his full-scale invasion of Ukraine",
-  "link": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
-  "published": "2026-11-25T05:00:12+00:00",
   "seen": "2026-11-25T05:45:11+00:00"
  }
 ]
