@@ -1,5 +1,148 @@
 [
  {
+  "id": "e935c4593137",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Indonesia Must Grow Faster as Its Population Ages, OECD Says",
+  "teaser": "Indonesia will need to grow faster over the next two decades to become a high-income country by 2045, a task that will get harder as its population ages, according to the OECD.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/indonesia-must-grow-faster-as-its-population-ages-oecd-says",
+  "published": "2026-11-26T05:28:06+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "b0de9391458f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Canada Pitches Infrastructure Plan to UAE Investors",
+  "teaser": "Canada is entering a shifting global order from a position of strength, Finance Minister François-Philippe Champagne told Bloomberg TV in Dubai. He’s urging Middle Eastern investors to deploy long-term capital into the country’s infrastructure plan. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-26/canada-pitches-infrastructure-plan-to-uae-investors-video",
+  "published": "2026-11-26T05:16:18+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "9adde10cda38",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "DHL's Venter: Supply Chain Resilience Is Key to Growth",
+  "teaser": "DHL Supply Chain CEO Hendrik Venter says resilience is becoming a strategic advantage, as tariffs and geopolitical disruptions make global supply chains more complex. He says first-time outsourcing accounted for more than 40 percent of DHL’s 12 percent year-on-year growth in the…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-26/dhl-s-venter-supply-chain-resilience-is-key-to-growth-video",
+  "published": "2026-11-26T05:15:33+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "0769f64cce62",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Software stocks spared in tech rout as AI narrative shifts",
+  "teaser": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
+  "link": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
+  "published": "2026-11-26T05:00:29+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "b63ff3c4fd00",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Nvidia halts chip shipments to south-east Asia",
+  "teaser": "Move comes as US steps up export controls to prevent Chinese access to AI computing power",
+  "link": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
+  "published": "2026-11-26T05:00:19+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "22e29f6ad6e7",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Huang’s return is a terrible signal for US capitalism",
+  "teaser": "Nvidia scandal highlights why the shareholder rights that are now under threat are so important",
+  "link": "https://www.ft.com/content/cd688a72-04ed-40fb-9c26-5cae522a0abd",
+  "published": "2026-11-26T05:00:19+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "a2fc05a9164d",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Paris and Berlin seek to shield EU budget from Marine Le Pen",
+  "teaser": "France requests an extra €35bn for farmers to raise the cost of far-right leader picking apart deal on bloc’s budget if she becomes president",
+  "link": "https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1",
+  "published": "2026-11-26T05:00:19+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "0212635a6295",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Angry young men turn against their elders in ‘two Spains’ election",
+  "teaser": "Voters set to oust Pedro Sánchez and propel radical right into a coalition government for first time since Franco",
+  "link": "https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1",
+  "published": "2026-11-26T05:00:19+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "064aab2a947e",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Saudi Arabia prepares to delay flagship mining conference as attacks continue",
+  "teaser": "Future Minerals Forum likely to be pushed back from January due to regional conflict",
+  "link": "https://www.ft.com/content/325b93d6-bc2e-4dd3-9941-cf4688aca11d?syn-25a6b1a6=1",
+  "published": "2026-11-26T05:00:19+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "be68390e03fb",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Britain’s 1,000-year-old tax travails",
+  "teaser": "Strained public finances and a reluctance to cut spending have shaped a tax system with comical distortions",
+  "link": "https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1",
+  "published": "2026-11-26T05:00:12+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "06a43d604a82",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "How ‘Friendsgiving’ took over in America",
+  "teaser": "Changing demographics mean traditions that were once reserved for relatives are being shared with friends",
+  "link": "https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3",
+  "published": "2026-11-26T05:00:11+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "f573af37d31b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Australia Firms See Inflation Holding Over 4% for Next 12 Months",
+  "teaser": "Australian businesses expect inflation will remain well above the top of the Reserve Bank’s 2-3% target band for the next 12 months, even after policymakers delivered five interest-rate hikes this year to try to rein in consumer prices.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
+  "published": "2026-11-26T04:30:00+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
+  "id": "8b19aff4fbdd",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China-Backed Pakistan Exchange Prepares to Launch Stock Options",
+  "teaser": "The Pakistani bourse is looking to introduce equity options next year, giving investors another tool to bet on a market that’s tripled over the past three years.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/china-backed-pakistan-exchange-prepares-to-launch-stock-options",
+  "published": "2026-11-26T04:00:15+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
+ },
+ {
   "id": "95194aa61acf",
   "source": "Bloomberg",
   "lang": "en",
@@ -559,6 +702,17 @@
   "link": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
   "published": "2026-11-25T21:23:00+00:00",
   "seen": "2026-11-26T00:23:46+00:00"
+ },
+ {
+  "id": "b86cbc4bb0e4",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
+  "teaser": "US tariff rates announced Wednesday put pressure on India to agree to a trade deal or face a higher levy, leaving exporters and investors with little clarity on the trade outlook.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
+  "published": "2026-11-25T21:03:17+00:00",
+  "seen": "2026-11-26T05:44:45+00:00"
  },
  {
   "id": "67b851b23834",
@@ -3143,160 +3297,6 @@
   "teaser": "Billionaire Aliko Dangote’s oil refinery will start trading in Nigeria’s commercial hub of Lagos as soon as next week, completing Africa’s biggest initial public offering yet, according to people familiar with the matter.",
   "link": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-billionaire-sets-blockbuster-refinery-listing-for-dec-1",
   "published": "2026-11-24T15:42:55+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "5a2d32c903ff",
-  "source": "Економічна правда",
-  "lang": "uk",
-  "weight": 7,
-  "title": "Акції розробника Claude впали нижче рівня початкового розміщення",
-  "teaser": "Акції компанії Anthropic, розробника Claude, на початку торгів на біржі США у вівторок опустилися нижче ціни первинного публічного розміщення (IPO) у 83 долари.",
-  "link": "https://epravda.com.ua/svit/akciji-anthropic-vpali-nizhche-cini-ipo-na-birzhi-ssha-reuters-827992/",
-  "published": "2026-11-24T15:35:00+00:00",
-  "seen": "2026-11-25T04:19:04+00:00"
- },
- {
-  "id": "261b905f38d5",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "BioNTech founders to raise $1bn for cancer start-up",
-  "teaser": "Plural leads funding round for oncology company to be helmed by Uğur Şahin and Özlem Türeci",
-  "link": "https://www.ft.com/content/00eace12-390a-492d-ae91-639ae0ac93f5?syn-25a6b1a6=1",
-  "published": "2026-11-24T15:31:46+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "39d0cbfbde52",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Walking Clubs Are the Antidote to Fitness Culture",
-  "teaser": "Running is out, walking is in. Young adults are ditching intense cardio as they turn to slower ways to exercise. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-24/walking-clubs-are-the-antidote-to-fitness-culture-video",
-  "published": "2026-11-24T15:28:29+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "0c51dc73ad28",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "LME Tightens Rules on Big Positions to Ease Aluminum Squeeze",
-  "teaser": "The London Metal Exchange moved to address a massive squeeze that has roiled the aluminum market, taking aim at traders with large positions.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/lme-tightens-rules-on-big-positions-to-address-aluminum-squeeze",
-  "published": "2026-11-24T15:28:27+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "991fadfdebce",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "New Balance Turns 'Dad Shoe' Into Trendy Hit With Gen Z",
-  "teaser": "New Balance turns 120 years old this year and shows no signs of slowing down. The Boston-based footwear and fashion company is racing ahead to meet some ambitious sales goals. Bloomberg's Romaine Bostick spoke to New Balance President and CEO Joe Preston and Kevin FitzPatrick,…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-24/new-balance-turns-dad-shoe-into-trendy-hit-with-gen-z-video",
-  "published": "2026-11-24T15:28:18+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "4b28d61064ee",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "NYC Calls on Kalshi, Polymarket to Testify on Marketing to Youth",
-  "teaser": "New York City lawmakers called on executives from the largest prediction markets to testify as the City Council investigates whether the platforms used deceptive marketing tactics to attract younger users who allegedly lost money at disproportionate rates.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/nyc-calls-on-kalshi-polymarket-to-testify-on-marketing-to-youth",
-  "published": "2026-11-24T15:21:17+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "ba51d92909fe",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Anthropic’s stock just broke below its IPO price for the first time",
-  "teaser": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after their debut on the Nasdaq.",
-  "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-  "published": "2026-11-24T15:21:00+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "e8f64e3fc98c",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Brazil Real Rallies on Reports Lula Backs Further Spending Curbs",
-  "teaser": "The Brazilian real rallied by the most in nearly two months after reports that President Luiz Inácio Lula da Silva is backing further moves to curb government spending, easing the concerns about the budget deficit that dragged the currency down sharply after his surprise…",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
-  "published": "2026-11-24T15:12:01+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "ff4b89aa0d83",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
-  "teaser": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
-  "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
-  "published": "2026-11-24T14:59:00+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "0f0bfe58c26c",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Petrobras aumenta investimentos com alta do petróleo",
-  "teaser": "Mariana Durão fala sobre o novo plano de cinco anos de investimentos da Petrobras, com mais dinheiro na produção e refino do petróleo. Edição de Patrícia Xavier (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-24/petrobras-aumenta-investimentos-com-alta-do-petroleo-video",
-  "published": "2026-11-24T14:55:44+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "d74bd3c1d373",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Senegal Debt Rework Risks Delay on Budget, Morgan Stanley Says",
-  "teaser": "Morgan Stanley is skeptical of Senegal completing a debt restructuring by a self-imposed year-end deadline as an impasse over the budget risks stalling the process.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/senegal-debt-rework-risks-delay-on-budget-morgan-stanley-says",
-  "published": "2026-11-24T14:46:17+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "ac3249192158",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "MI5 warns UK companies supplying Ukraine military about Russian sabotage risk",
-  "teaser": "Acts could include arson attacks carried out by proxy agents, say security chiefs",
-  "link": "https://www.ft.com/content/d9f17145-cdc0-424a-bace-7147a971d0ab?syn-25a6b1a6=1",
-  "published": "2026-11-24T14:30:21+00:00",
-  "seen": "2026-11-24T16:30:21+00:00"
- },
- {
-  "id": "cbb47ad7196a",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-  "teaser": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a fiduciary financial advisor.",
-  "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-  "published": "2026-11-24T14:01:00+00:00",
-  "seen": "2026-11-25T04:30:44+00:00"
- },
- {
-  "id": "01994fd9e21a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
-  "teaser": "Avoiding down days in the stock market often means missing out on the biggest gains. Those who cashed out after US equities reeled last week just learned that lesson the hard way.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
-  "published": "2026-11-24T13:41:59+00:00",
   "seen": "2026-11-24T16:30:21+00:00"
  }
 ]
