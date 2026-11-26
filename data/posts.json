@@ -1,5 +1,65 @@
 [
  {
+  "id": "19c7121dfc34",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+  "title_uk": "SpaceX і Маск передадуть близько $17,8 млрд на «рахунки Трампа»",
+  "summary_uk": "SpaceX надасть по одній новій акції класу A кожному активному «рахунку Трампа», а Ілон Маск подвоїть цей внесок власним подарунком. Загальна сума пожертви оцінюється приблизно в $17,8 млрд.",
+  "category": "companies",
+  "published": "2026-11-25T21:50:00+00:00",
+  "added": "2026-11-26T04:29:54+00:00"
+ },
+ {
+  "id": "67b851b23834",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
+  "title_uk": "Targa Resources веде переговори про купівлю трубопровідної компанії Kinetik",
+  "summary_uk": "Американська Targa Resources обговорює придбання публічної компанії Kinetik Holdings, що володіє трубопроводами і частково належить Blackstone, повідомляє Bloomberg з посиланням на обізнані джерела. Угода стала б великим об'єднанням у трубопровідному секторі США.",
+  "category": "companies",
+  "published": "2026-11-25T21:00:57+00:00",
+  "added": "2026-11-26T04:29:54+00:00"
+ },
+ {
+  "id": "4fb96ec4ffd7",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
+  "title_uk": "Золото дешевшає через очікування нового підвищення ставки ФРС",
+  "summary_uk": "На початку азійських торгів ціна золота трохи знизилася. Свіжі дані про інфляцію у США посилили очікування, що Федеральна резервна система й надалі підвищуватиме процентні ставки.",
+  "category": "markets",
+  "published": "2026-11-26T00:24:00+00:00",
+  "added": "2026-11-26T04:29:54+00:00"
+ },
+ {
+  "id": "8fadf88ff4d4",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
+  "title_uk": "Азійські акції зростають після пізнього відновлення на Wall Street",
+  "summary_uk": "Фондові ринки Азії пішли вгору слідом за США, де наприкінці сесії покупці скористалися просіданням цін і відіграли частину втрат. Водночас сумніви щодо стійкості буму довкола штучного інтелекту підштовхують інвесторів до безпечніших казначейських облігацій США.",
+  "category": "markets",
+  "published": "2026-11-25T22:10:42+00:00",
+  "added": "2026-11-26T04:29:54+00:00"
+ },
+ {
+  "id": "7b6b3f78a654",
+  "source": "MarketWatch",
+  "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+  "title_uk": "ФРС: інфляція у США не послаблюється напередодні грудневого рішення щодо ставки",
+  "summary_uk": "Федеральна резервна система в середу повідомила, що стійка інфляція й надалі залишається проблемою для економіки, яка продовжує зростати. Ця оцінка з'явилася перед грудневим засіданням, на якому розглядатиметься підвищення процентних ставок у США.",
+  "category": "economy",
+  "published": "2026-11-25T19:39:00+00:00",
+  "added": "2026-11-26T04:29:54+00:00"
+ },
+ {
+  "id": "ca2e4bb4c3e6",
+  "source": "Економічна правда",
+  "link": "https://epravda.com.ua/biznes/obov-yazkovi-ukrittya-dlya-biznesu-vidterminuvali-na-piv-roku-828048/",
+  "title_uk": "Уряд дав бізнесу ще пів року на виконання вимог щодо укриттів",
+  "summary_uk": "Кабмін продовжив до 4 червня 2027 року перехідний період, протягом якого підприємства мають забезпечити захист працівників і відвідувачів під час «жовтого» рівня повітряної тривоги. Без цього рішення бізнес без укриттів мав би зупиняти роботу за таким сигналом уже з 5 грудня.",
+  "category": "ukraine",
+  "published": "2026-11-25T16:55:00+00:00",
+  "added": "2026-11-26T04:29:54+00:00"
+ },
+ {
   "id": "e0ff03ee2daf",
   "source": "Bloomberg",
   "link": "https://www.bloomberg.com/news/articles/2026-11-25/embraer-sinks-most-since-may-as-us-proposes-brazil-aircraft-levy",
@@ -1201,86 +1261,5 @@
   "category": "markets",
   "published": "2026-11-22T00:00:00+00:00",
   "added": "2026-11-22T08:29:48+00:00"
- },
- {
-  "id": "f517e7ee2f9c",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
-  "title_uk": "Постачальники підняли ціни на сервери для ШІ до 45% вже після підписання угод",
-  "summary_uk": "Dell, HPE, Lenovo і Supermicro вимагають більше за обладнання для штучного інтелекту через кілька місяців після укладення контрактів. Подорожчання серед інших зачепило торговельні компанії, які купують ці сервери.",
-  "category": "companies",
-  "published": "2026-11-22T05:00:06+00:00",
-  "added": "2026-11-22T08:29:48+00:00"
- },
- {
-  "id": "a89df1499854",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
-  "title_uk": "Вартість запозичень Аргентини зросла на тлі падіння популярності Мілея",
-  "summary_uk": "Інвестори занепокоєні фінансовими планами президента Аргентини Хав'єра Мілея та зниженням його рейтингів напередодні спроби переобратися. Через це країні стало дорожче позичати гроші на ринку.",
-  "category": "world",
-  "published": "2026-11-22T05:00:14+00:00",
-  "added": "2026-11-22T08:29:48+00:00"
- },
- {
-  "id": "digest-2026-11-22",
-  "kind": "digest",
-  "category": "digest",
-  "title_uk": "Ранковий дайджест: 22 листопада",
-  "summary_uk": "Три головні події фінансового світу за минулу добу.",
-  "source": "Fuzion Societe",
-  "link": "https://t.me/fuzionsoc",
-  "items": [
-   {
-    "title_uk": "Wall Street шукає опору для ставки на ШІ після розпродажу на тлі IPO Anthropic",
-    "summary_uk": "Місяць для ринку акцій видався важким: його похитнули раптове усунення Дженсена Хуанга з Nvidia та впевнена перемога демократів на проміжних виборах.",
-    "source": "Bloomberg",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout"
-   },
-   {
-    "title_uk": "Росія заявила про атаку дронів на вантажне судно у Фінській затоці",
-    "summary_uk": "За версією Москви, судно йшло до Калінінграда; інцидент показує зростання ризиків для російського експорту енергоносіїв і продовольства через Балтику.",
-    "source": "Bloomberg",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland"
-   },
-   {
-    "title_uk": "Amazon наближається до купівлі ШІ-стартапу Decart за $7,5 млрд",
-    "summary_uk": "Угода має допомогти хмарному підрозділу AWS конкурувати з Nvidia у перегонах за обчислювальні потужності.",
-    "source": "Financial Times",
-    "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1"
-   }
-  ],
-  "published": "2026-11-22T05:44:16+00:00",
-  "added": "2026-11-22T05:44:16+00:00"
- },
- {
-  "id": "70723a2bbabc",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-  "title_uk": "Продажі житла у США на рекордному мінімумі, і покупці диктують умови",
-  "summary_uk": "Американський ринок житла переживає рекордно низькі продажі на тлі рекордних цін та іпотечних ставок близько 7%. За словами ріелторів, нечисленні покупці, які лишилися на ринку, дедалі частіше нав'язують продавцям свої умови.",
-  "category": "economy",
-  "published": "2026-11-21T19:45:00+00:00",
-  "added": "2026-11-22T00:30:19+00:00"
- },
- {
-  "id": "3024aa095fea",
-  "source": "Економічна правда",
-  "link": "https://epravda.com.ua/biznes/pidpilne-virobnictvo-sigaret-beb-vikrilo-fabriku-grupi-monako-zmi-827902/",
-  "title_uk": "БЕБ викрило підпільну сигаретну фабрику, пов'язану з «групою Монако»",
-  "summary_uk": "Бюро економічної безпеки викрило фабрику, яка виготовляла контрафактні сигарети. За даними ЗМІ, підприємство належало утримувачам так званої «групи Монако». Нелегальне виробництво тютюну означає втрати бюджету від несплачених акцизів.",
-  "category": "ukraine",
-  "published": "2026-11-21T15:58:00+00:00",
-  "added": "2026-11-22T00:30:19+00:00"
- },
- {
-  "id": "508d7f050ea0",
-  "source": "Економічна правда",
-  "link": "https://epravda.com.ua/biznes/nimechchina-peredast-ukrajini-dva-lokomotiva-dlya-yevrokoliji-827898/",
-  "title_uk": "Німеччина передасть Україні два локомотиви для європейської колії",
-  "summary_uk": "Україна отримає від Німеччини два локомотиви під європейську колію шириною 1435 мм. Тим часом триває пошук європейського фінансування ще на 30 таких локомотивів. Рухомий склад під євроколію потрібен для перевезень через західний кордон.",
-  "category": "ukraine",
-  "published": "2026-11-21T14:13:00+00:00",
-  "added": "2026-11-22T00:30:19+00:00"
  }
 ]
