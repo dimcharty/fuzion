@@ -1,5 +1,55 @@
 [
  {
+  "id": "60d3ee50b135",
+  "source": "CNBC",
+  "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+  "title_uk": "Індекс S&P 500 опинився в зоні корекції після листопадового розпродажу",
+  "summary_uk": "Падіння акцій у листопаді відправило S&P 500 у стан корекції. Водночас, як нагадує CNBC, історично корекція не завжди переростає у ведмежий ринок чи рецесію.",
+  "category": "markets",
+  "published": "2026-11-27T12:06:17+00:00",
+  "added": "2026-11-27T20:30:23+00:00"
+ },
+ {
+  "id": "352d8d1b0c96",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
+  "title_uk": "Ф'ючерси на газ у США подешевшали після переходу на січневий контракт",
+  "summary_uk": "Американські ф'ючерси на природний газ знизилися, коли найближчим на Nymex став січневий контракт. Учасники ринку очікують відносно м'якої зими.",
+  "category": "energy",
+  "published": "2026-11-27T14:35:00+00:00",
+  "added": "2026-11-27T20:30:23+00:00"
+ },
+ {
+  "id": "0cf6970f4fae",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/stocks/dubais-benchmark-stock-index-erases-wartime-losses-as-banks-property-shares-rise-8b5a7a52?mod=rss_markets_main",
+  "title_uk": "Головний індекс Дубая відіграв усі втрати з початку війни",
+  "summary_uk": "Біржовий індекс Дубая піднявся вище рівня закриття 27 лютого — останньої сесії перед початком війни. Зростання тягнуть акції банків і девелоперів, а від початку листопада індекс додав майже 14%.",
+  "category": "markets",
+  "published": "2026-11-27T10:16:00+00:00",
+  "added": "2026-11-27T20:30:23+00:00"
+ },
+ {
+  "id": "9372a375c03d",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/how-an-aluminum-squeeze-brought-the-lme-to-the-brink-of-crisis-again",
+  "title_uk": "Дефіцит алюмінію знову поставив Лондонську біржу металів на межу кризи",
+  "summary_uk": "На початку листопада світовий ринок алюмінію охопив історичний дефіцит пропозиції. За даними Bloomberg, Лондонська біржа металів (LME) отримувала дедалі відчайдушніші звернення учасників із проханням втрутитися в ситуацію.",
+  "category": "markets",
+  "published": "2026-11-27T15:01:52+00:00",
+  "added": "2026-11-27T20:30:23+00:00"
+ },
+ {
+  "id": "fe5626924d60",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/russia-to-ban-exports-of-key-staple-buckwheat-to-protect-supply",
+  "title_uk": "Росія тимчасово заборонить експорт гречки через прискорення інфляції",
+  "summary_uk": "Москва вводить тимчасову заборону на вивезення гречки, щоб убезпечити внутрішні запаси цього базового продукту. Рішення ухвалено на тлі прискорення інфляції в Росії — ще один сигнал напруження в економіці країни-агресора.",
+  "category": "world",
+  "published": "2026-11-27T14:33:28+00:00",
+  "added": "2026-11-27T20:30:23+00:00"
+ },
+ {
   "id": "162ece2e7e67",
   "source": "Financial Times",
   "link": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
@@ -1232,55 +1282,5 @@
   "category": "companies",
   "published": "2026-11-23T22:21:44+00:00",
   "added": "2026-11-24T04:30:30+00:00"
- },
- {
-  "id": "b80a3f6b1eb7",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
-  "title_uk": "Нафта трохи дорожчає після падіння до мінімуму з серпня",
-  "summary_uk": "На ранніх азійських торгах ф'ючерси на нафту дещо піднялися. Напередодні ціни закрилися на найнижчому рівні з серпня, тож нинішнє зростання трейдери пояснюють технічним відновленням після спаду.",
-  "category": "energy",
-  "published": "2026-11-23T23:38:00+00:00",
-  "added": "2026-11-24T04:30:30+00:00"
- },
- {
-  "id": "05612c099916",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/2c1fcdc0-eb16-4cee-9041-736527c2ae83?syn-25a6b1a6=1",
-  "title_uk": "Мішель Боумен із ФРС перевіряють на можливе порушення «тихого періоду»",
-  "summary_uk": "Одна з керівниць ФРС Мішель Боумен опинилася під перевіркою: вона виступила на закритій вечері Bank of America лише через кілька годин після засідання центробанку. З'ясовують, чи не порушила вона правила, які обмежують публічні виступи посадовців навколо засідань.",
-  "category": "banks",
-  "published": "2026-11-23T23:18:55+00:00",
-  "added": "2026-11-24T04:30:30+00:00"
- },
- {
-  "id": "5b5a2db04132",
-  "source": "CNBC",
-  "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-  "title_uk": "Джон Вільямс із ФРС допускає підвищення ставок з часом через інфляцію",
-  "summary_uk": "Очільник ФРБ Нью-Йорка Джон Вільямс дав зрозуміти, що для стримування інфляції ставки, ймовірно, доведеться з часом підвищувати. Водночас він висловив упевненість, що у 2027 році інфляція наблизиться до цільових 2%. Курс ФРС впливає на долар і вартість запозичень у всьому світі.",
-  "category": "policy",
-  "published": "2026-11-23T21:02:17+00:00",
-  "added": "2026-11-24T04:30:30+00:00"
- },
- {
-  "id": "b256ac88c829",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
-  "title_uk": "Повернення Дженсена Хуанга в Nvidia підняло ринки акцій від Уолл-стріт до Азії",
-  "summary_uk": "Рада директорів Nvidia повернула Дженсена Хуанга на посаду гендиректора, і це відродило оптимізм щодо штучного інтелекту. Для Уолл-стріт понеділок став найкращим днем з квітня 2025 року, а у вівторок хвиля зростання перекинулася на азійські біржі.",
-  "category": "markets",
-  "published": "2026-11-23T22:06:46+00:00",
-  "added": "2026-11-24T04:30:30+00:00"
- },
- {
-  "id": "34c711d61e88",
-  "source": "MarketWatch",
-  "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
-  "title_uk": "Трамп допускає обмеження ставок за кредитними картками",
-  "summary_uk": "Президент США Дональд Трамп заявив, що відкритий до ідеї встановити граничні відсоткові ставки за кредитними картками. Заява пролунала напередодні сезону святкових покупок, проте конкретних рішень поки немає.",
-  "category": "banks",
-  "published": "2026-11-23T18:55:00+00:00",
-  "added": "2026-11-24T00:30:27+00:00"
  }
 ]
