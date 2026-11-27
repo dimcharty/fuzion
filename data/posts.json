@@ -1,5 +1,65 @@
 [
  {
+  "id": "37c53964f6b5",
+  "source": "CNBC",
+  "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+  "title_uk": "Експорт напівпровідників уперше перевищив експорт нафти й газу",
+  "summary_uk": "За даними CNBC, у 2026 році експорт чипів уперше обійшов експорт нафти та газу. Попит на напівпровідники підживлює бум штучного інтелекту, тож чипи дедалі частіше називають «новою нафтою».",
+  "category": "markets",
+  "published": "2026-11-26T13:19:25+00:00",
+  "added": "2026-11-27T00:30:07+00:00"
+ },
+ {
+  "id": "b5f0eb7ee387",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
+  "title_uk": "Пенсійні фонди американських промислових робітників несподівано відновилися",
+  "summary_uk": "Пенсійний план профспілки монтажників металоконструкцій у США тепер повністю профінансований. Головна причина, за даними The Wall Street Journal, — багаторічне зростання американського фондового ринку.",
+  "category": "economy",
+  "published": "2026-11-26T19:55:00+00:00",
+  "added": "2026-11-27T00:30:07+00:00"
+ },
+ {
+  "id": "25bf36ef95bc",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+  "title_uk": "Двоє італійців загинули внаслідок іранського удару по Кувейту",
+  "summary_uk": "Загиблі були працівниками німецького оборонного концерну Rheinmetall. За даними Financial Times, це перші повідомлені жертви іранських атак відтоді, як цього місяця США та Іран відновили обмін ударами. Ескалація в Перській затоці залишається чинником ризику для нафтового ринку.",
+  "category": "world",
+  "published": "2026-11-26T16:57:26+00:00",
+  "added": "2026-11-27T00:30:07+00:00"
+ },
+ {
+  "id": "e854f7a6b156",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+  "title_uk": "Ендрю Бейлі: невипущені моделі ШІ викликали побоювання щодо шифрування",
+  "summary_uk": "Голова Банку Англії Ендрю Бейлі заявив, що ще не оприлюднені моделі штучного інтелекту породили занепокоєння щодо надійності шифрування. Прориви в математиці посилили страхи, що дані у фінансових системах можуть опинитися під загрозою.",
+  "category": "banks",
+  "published": "2026-11-26T17:13:40+00:00",
+  "added": "2026-11-27T00:30:07+00:00"
+ },
+ {
+  "id": "0cb17b518431",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/mexican-peso-sees-worst-losing-streak-since-2021-on-carry-unwind",
+  "title_uk": "Мексиканський песо падає найдовшою серією з 2021 року через згортання керрі-трейду",
+  "summary_uk": "Песо Мексики йде до найтривалішої смуги знецінення за п'ять років. Інвестори переходять у захисні активи, а популярна стратегія керрі-трейду, коли позичають у дешевих валютах і вкладають у дохідніші, розвалюється. Це ознака відпливу капіталу з ринків, що розвиваються.",
+  "category": "markets",
+  "published": "2026-11-26T15:07:52+00:00",
+  "added": "2026-11-27T00:30:07+00:00"
+ },
+ {
+  "id": "70d5b96e282d",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n",
+  "title_uk": "Іспанець Пабло Ернандес де Кос має стати наступним президентом ЄЦБ",
+  "summary_uk": "55-річний Пабло Ернандес де Кос, за даними Bloomberg, змінить Крістін Лагард на чолі Європейського центрального банку. Він керуватиме боротьбою єврозони з інфляцією та можливими потрясіннями на ринку облігацій. Політика ЄЦБ безпосередньо впливає на курс євро до гривні та вартість запозичень у Європі.",
+  "category": "banks",
+  "published": "2026-11-26T14:05:43+00:00",
+  "added": "2026-11-27T00:30:07+00:00"
+ },
+ {
   "id": "4063c5e83742",
   "source": "Bloomberg",
   "link": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
@@ -1201,86 +1261,5 @@
   "category": "companies",
   "published": "2026-11-23T02:48:12+00:00",
   "added": "2026-11-23T08:30:39+00:00"
- },
- {
-  "id": "1b24a14139d5",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/india-stocks-erase-yearly-losses-as-foreign-buying-spurs-rebound",
-  "title_uk": "Індійські акції відіграли всі втрати з початку року завдяки іноземним інвесторам",
-  "summary_uk": "У понеділок фондовий ринок Індії зріс і повністю компенсував падіння з початку року. Підтримку дали повернення іноземного капіталу та розворот у торгівлі акціями ШІ, через який інвестори знову звернули увагу на ринки, що раніше були поза фокусом.",
-  "category": "markets",
-  "published": "2026-11-23T03:50:16+00:00",
-  "added": "2026-11-23T08:30:39+00:00"
- },
- {
-  "id": "801c8d7ef299",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
-  "title_uk": "Wall Street очікує для боргу Anthropic рейтингу нижче інвестиційного рівня",
-  "summary_uk": "Anthropic взяла на себе зобов'язання витратити $900 млрд, і після непростого IPO інвестори очікують, що кредитний рейтинг компанії опиниться в «сміттєвій» категорії. Від цієї оцінки залежатимуть можливості стартапу залучати капітал, а також перспективи всієї галузі штучного інтелекту.",
-  "category": "companies",
-  "published": "2026-11-23T03:00:00+00:00",
-  "added": "2026-11-23T08:30:39+00:00"
- },
- {
-  "id": "3119386edf2f",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
-  "title_uk": "Ціни на газ у Європі різко зросли через прогноз похолодання",
-  "summary_uk": "Європейський газ подорожчав після того, як синоптики суттєво знизили прогноз температур. Похолодання може ще більше навантажити сховища, які вже спустошені через перебої з експортом унаслідок війни США та Ірану. Для України, що залежить від європейського газового ринку, це важливий сигнал перед зимою.",
-  "category": "energy",
-  "published": "2026-11-23T02:46:27+00:00",
-  "added": "2026-11-23T08:30:39+00:00"
- },
- {
-  "id": "digest-2026-11-23",
-  "kind": "digest",
-  "category": "digest",
-  "title_uk": "Ранковий дайджест: 23 листопада",
-  "summary_uk": "Три головні події фінансового світу за минулу добу.",
-  "source": "Fuzion Societe",
-  "link": "https://t.me/fuzionsoc",
-  "items": [
-   {
-    "title_uk": "Розпродаж технологічних акцій поширився на Азію",
-    "summary_uk": "Корейський фондовий ринок просів більш ніж на 3% слідом за різким падінням Уолл-стріт у п'ятницю.",
-    "source": "Financial Times",
-    "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1"
-   },
-   {
-    "title_uk": "Ціни на газ у Європі різко зросли через прогноз похолодання",
-    "summary_uk": "Морози загрожують європейським запасам газу, які вже виснажені перебоями експорту через війну США та Ірану.",
-    "source": "Bloomberg",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories"
-   },
-   {
-    "title_uk": "Уолл-стріт очікує «сміттєвого» кредитного рейтингу для Anthropic",
-    "summary_uk": "Після бурхливого IPO компанія зобов'язалася витратити $900 млрд, і її рейтинг вплине на плани залучення капіталу.",
-    "source": "The Wall Street Journal",
-    "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main"
-   }
-  ],
-  "published": "2026-11-23T05:44:00+00:00",
-  "added": "2026-11-23T05:44:00+00:00"
- },
- {
-  "id": "0e1ef746ff90",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
-  "title_uk": "Нафта дешевшає на тлі втечі інвесторів від ризику",
-  "summary_uk": "Ціни на нафту знизилися на старті тижня. Тиск на ринок чинять обережні настрої інвесторів після п'ятничного обвалу світових фондових ринків.",
-  "category": "energy",
-  "published": "2026-11-23T00:41:00+00:00",
-  "added": "2026-11-23T04:30:04+00:00"
- },
- {
-  "id": "8fcae0fb4449",
-  "source": "The Wall Street Journal",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
-  "title_uk": "Золото дорожчає після обвалу минулого тижня",
-  "summary_uk": "Ціна золота пішла вгору на початку нового тижня. Аналітики вважають це радше технічним відскоком після різкого падіння, якого метал зазнав минулого тижня.",
-  "category": "markets",
-  "published": "2026-11-23T00:58:00+00:00",
-  "added": "2026-11-23T04:30:04+00:00"
  }
 ]
