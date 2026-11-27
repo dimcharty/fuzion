@@ -1,5 +1,181 @@
 [
  {
+  "id": "effe755380f5",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asian Currencies Might Be Weighed by AI Uncertainties",
+  "teaser": "Asian currencies could be weighed down by artificial intelligence uncertainties, DBS said.",
+  "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+  "published": "2026-11-27T02:44:00+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "5afacb54b0c6",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
+  "teaser": "Firms have raised about $18.6 billion through IPOs this year, with a flurry of deals expected in December.",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
+  "published": "2026-11-27T02:30:22+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "dd63ee04379c",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
+  "teaser": "Short-term Japanese government bond yields rose as elevated Tokyo inflation data boosted expectations for the Bank of Japan to increase rates.",
+  "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+  "published": "2026-11-27T02:16:00+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "67f624446ba7",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "IMF Sees Emerging Risks in Australia’s $3.1 Trillion of Pensions",
+  "teaser": "The International Monetary Fund has flagged a series of emerging risks in Australia’s fast-growing pension system, including the challenge of keeping more assets liquid as a wave of workers enters retirement.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/imf-sees-emerging-risks-in-australia-s-3-1-trillion-of-pensions",
+  "published": "2026-11-27T02:15:34+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "7011ce038812",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asian Markets Mostly Higher as Sentiment Stabilizes",
+  "teaser": "Asian markets tracked gains in U.S. stock futures as sentiment around artificial intelligence stabilized.",
+  "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
+  "published": "2026-11-27T02:13:00+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "9532fe5aff06",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO",
+  "teaser": "Mahanadi Coalfields Ltd., a unit of state-owned Coal India Ltd., is set to start trading Friday after its initial public offering in the first listing since India’s market regulator barred publishing so-called gray-market prices for IPO shares.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo",
+  "published": "2026-11-27T02:00:00+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "0ae160be2c2e",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
+  "teaser": "Oil prices were mixed in early Asian trade. Rising attacks on energy infrastructure across the Middle East have raised concerns of further supply disruptions, ANZ said.",
+  "link": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+  "published": "2026-11-27T01:48:00+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "f1e48e82b6b9",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "How Volatility is Undermining the Carry Trade",
+  "teaser": "The carry trade, in which investors borrow in currencies like the yen, euro, and dollar, is becoming harder to navigate after delivering strong returns earlier in the year. Bloomberg's Garfield Reynolds discusses how market changes are impacting the strategy's appeal. (Source:…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
+  "published": "2026-11-27T01:40:01+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "a97948818a09",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "South Korea Reportedly Mulls Expanding Stock Stabilization Fund",
+  "teaser": "South Korea is considering expanding its 10.76 trillion won ($8 billion) stock market stabilization fund as authorities prepare to intervene amid heightened volatility, Maeil Business Newspaper reported.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/south-korea-reportedly-mulls-expanding-stock-stabilization-fund",
+  "published": "2026-11-27T01:22:32+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "4aa74108936b",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
+  "teaser": "Australia’s monetary authorities should stand ready to raise interest rates further if price pressures are more persistent, the International Monetary Fund said, while calling on the government to deliver on pledges to tighten fiscal policy.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
+  "published": "2026-11-27T01:10:12+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "60e8e0833be6",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Brazil Assets Rally After Lula Names Banker as Finance Minister",
+  "teaser": "Brazilian assets gained after one of the country’s best-known bankers was named the new finance minister.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+  "published": "2026-11-27T01:08:00+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "df380e45d351",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Modi Critics Face Growing Constraints on Travel, Speech in India",
+  "teaser": "When activist Saurav Das tried to board a flight from New Delhi to London this week, Indian authorities stopped him from leaving the country. Days earlier, a Norwegian journalist critical of Prime Minister Narendra Modi’s government faced the opposite problem: she was prevented…",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/modi-critics-face-growing-constraints-on-travel-speech-in-india",
+  "published": "2026-11-27T01:00:00+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "ec81eab244f0",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Lula names banker as Brazil finance minister in attempt to calm markets",
+  "teaser": "Luiz Carlos Trabuco’s appointment follows a sell-off in the country’s assets",
+  "link": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
+  "published": "2026-11-27T00:59:07+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "cb0919a9d4c6",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Singapore Wealth Firm Farro Plans Hong Kong Office With 20 Hires",
+  "teaser": "Singapore-based multi-family office Farro Capital is expanding to Hong Kong, with a plan to hire 20 staff and manage an additional $1 billion in the city within 18 months.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-wealth-firm-farro-plans-hong-kong-office-with-20-hires",
+  "published": "2026-11-27T00:50:40+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "8b5bc09727cc",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Japan GPIF to Brief on Every Asset-Mix Review, Not Just Some",
+  "teaser": "Japan’s Government Pension Investment Fund is now reporting the results of every review of its strategic asset allocation to its board, rather than only sometimes when deemed necessary.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-gpif-to-brief-on-every-asset-mix-review-not-just-some",
+  "published": "2026-11-27T00:34:44+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "92521bde9b9a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
+  "teaser": "Japan Tobacco Inc. shares gained after news that the cigarette maker is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
+  "published": "2026-11-27T00:26:05+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
   "id": "e15c3669762a",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -31,6 +207,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-27/us-plans-for-tariffs-face-pushback-video",
   "published": "2026-11-27T00:15:56+00:00",
   "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "5f0bad9317ca",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China Tech’s Earnings Offer Little Relief in Worst-Ever Year",
+  "teaser": "A gloomy earnings season for China tech is threatening to deepen the rout in the sector’s shares, as ballooning artificial intelligence spending and US chip curbs weigh on the outlook.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/china-tech-s-earnings-offer-little-relief-in-worst-ever-year",
+  "published": "2026-11-27T00:07:35+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
  },
  {
   "id": "8e2af7bb272e",
@@ -658,6 +845,17 @@
   "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
   "published": "2026-11-26T12:37:00+00:00",
   "seen": "2026-11-26T16:31:02+00:00"
+ },
+ {
+  "id": "d5bf32fe1c07",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Can AI replace economics PhDs?",
+  "teaser": "An interview with Jason Furman, economics professor at Harvard University and former chair of President Obama’s Council of Economic Advisors",
+  "link": "https://www.ft.com/content/e4d14f96-c223-4c80-ad93-28a8a545beb1?syn-25a6b1a6=1",
+  "published": "2026-11-26T12:30:06+00:00",
+  "seen": "2026-11-27T02:52:22+00:00"
  },
  {
   "id": "ce9f98e7b7b2",
@@ -3100,203 +3298,5 @@
   "link": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=rss_markets_main",
   "published": "2026-11-25T11:00:00+00:00",
   "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "73bd758881af",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "China Hits Back at New Trump Tariff Prospects",
-  "teaser": "China called the prospect of new US tariffs on its exports “political maneuvering” and said the two nations should work together to maintain their trade truce. Jensen Huang struck a somber tone a day after his reinstatement as Nvidia CEO, apologizing to employees during an…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/the-pulse-11-25-2026-video",
-  "published": "2026-11-25T10:51:01+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "7224a61c4e8b",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Where to Find Bargains After the AI Power Boom Reality Check",
-  "teaser": "The sharp correction to power stocks creates an opportunity for investors.",
-  "link": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
-  "published": "2026-11-25T10:30:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "3c020f71d2ac",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "ING Sees ‘Full Unwind’ in Emerging-Market Currencies Underway",
-  "teaser": "Emerging-market currencies face mounting pressure from the technology selloff, the risk of shrinking interest rate premiums and the threat of fresh global tariffs, according to strategists at ING Bank.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/ing-sees-full-unwind-in-emerging-market-currencies-underway",
-  "published": "2026-11-25T10:29:45+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "8424e9dc78e2",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Dangote Hires Veteran Oil Trader Jonathan Zarembok From Equinor",
-  "teaser": "Veteran oil trader Jonathan Zarembok is joining Dangote Group, which has a huge refinery in Nigeria and is expanding elsewhere in Africa, according to people familiar with the matter.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-hires-veteran-oil-trader-jonathan-zarembok-from-equinor",
-  "published": "2026-11-25T10:12:35+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "ffc7c2daf62c",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Deutsche Bank Is Among Biggest S&P 500 Bulls With 9,000 Target",
-  "teaser": "Deutsche Bank AG’s Binky Chadha is among the most bullish stock forecasters on Wall Street, predicting the S&P 500 will recover from its rout to rally 25% by the end of next year.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/deutsche-bank-is-among-biggest-s-p-500-bulls-with-9-000-target",
-  "published": "2026-11-25T10:06:53+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "b3fe24b1b44d",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "Kylie Jenner again relists concrete mansion in L.A. for $38 million",
-  "teaser": "Kylie Jenner’s fortress-like home is back on the market, this time with a fresh set of listing images—some of which have been enhanced by AI.",
-  "link": "https://www.marketwatch.com/story/kylie-jenner-again-relists-concrete-mansion-in-l-a-for-38-million-2e5143e5?mod=mw_rss_topstories",
-  "published": "2026-11-25T10:05:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "3b1d5c3b8f8f",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-  "teaser": "“I was paralyzed during the market downturn.”",
-  "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-  "published": "2026-11-25T10:05:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "6002c203fcdc",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Aareal Bank Nears Commercial Real Estate SRT With 12% Premium",
-  "teaser": "Aareal Bank AG is set to pay investors a premium of more than 12% to hedge part of the risk on a commercial real estate lending book worth around €2.5 billion ($2.7 billion) in only its second such deal.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/aareal-bank-nears-commercial-real-estate-srt-with-12-premium",
-  "published": "2026-11-25T10:04:32+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "b78ebe025755",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "NBA star Kevin Durant lists Arizona mansion for $13.9 million, a year after trade to Houston",
-  "teaser": "Houston Rockets star Kevin Durant has listed his sprawling Arizona property for $13.9 million—just three years after he picked up the palatial pad.",
-  "link": "https://www.marketwatch.com/story/nba-star-kevin-durant-lists-arizona-mansion-for-13-9-million-a-year-after-trade-to-houston-1b0ae57e?mod=mw_rss_topstories",
-  "published": "2026-11-25T10:01:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "9ca6d694b651",
-  "source": "European Central Bank",
-  "lang": "en",
-  "weight": 8,
-  "title": "Card payments edge past cash in shops; euro area consumers want both",
-  "teaser": "",
-  "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-  "published": "2026-11-25T10:00:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "0bc00d19461c",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
-  "teaser": "Investors await inflation data that could affect Fed's rate path, plus tariffs announcement",
-  "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
-  "published": "2026-11-25T09:56:46+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "62f7b68222a9",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
-  "teaser": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded.",
-  "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
-  "published": "2026-11-25T09:36:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "b13a5d544a3d",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
-  "teaser": "Airtel Mobile Commerce is expected to join London’s premier FTSE 100 index as part of the next quarterly review replacing IG Group Holdings, according to indicative data from FTSE Russell.",
-  "link": "https://www.wsj.com/finance/stocks/newly-listed-airtel-mobile-to-replace-ig-group-in-ftse-100-index-review-ad6b860c?mod=rss_markets_main",
-  "published": "2026-11-25T08:54:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "279b665e93c0",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "China Dismisses US Tariff Prospect as ‘Political Maneuvering’",
-  "teaser": "China called the prospect of new US tariffs on its exports “political maneuvering” and said the two nations should work together to maintain their trade truce.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/china-dismisses-us-tariff-prospect-as-political-maneuvering",
-  "published": "2026-11-25T07:57:21+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "1ef73dc219b8",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "UK Heating Bills Surge 26%, Adding to Inflation Pressure",
-  "teaser": "UK regulator lifts energy price cap by 26%",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-25/uk-heating-bills-surge-26-adding-to-inflation-pressure",
-  "published": "2026-11-25T07:51:47+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "9f0fcd7e0643",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
-  "teaser": "US stock futures signaled further declines as a global tech selloff continued to worry investors.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-  "published": "2026-11-25T07:51:43+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "9bfa1aaea90b",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Malaysia Says Too Early to See Impact of US Chip Curbs",
-  "teaser": "Malaysian Investment Development Authority Chairman, and Senior Political Advisor to the Malaysian Prime Minister, Zafrul Aziz, believes it's too early to see the impact of US chip curbs. The US recently announced it would enforce tighter control on the exports of advanced…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-says-too-early-to-see-impact-of-us-chip-curbs-video",
-  "published": "2026-11-25T07:48:37+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "94ae794fc1d2",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data",
-  "teaser": "Treasury yields fell as investors awaited October personal consumption expenditures inflation data and the second estimate of third-quarter gross domestic product.",
-  "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
-  "published": "2026-11-25T07:44:00+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
  }
 ]
