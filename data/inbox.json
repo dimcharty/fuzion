@@ -1,5 +1,71 @@
 [
  {
+  "id": "cd0aaf3b4536",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
+  "teaser": "Venture-capital firm Antler wants to grow the value of its portfolio to roughly $100 billion by 2027 as it continues hunting unicorns.",
+  "link": "https://www.wsj.com/finance/investing/venture-firm-antler-eyes-100-billion-in-portfolio-value-by-2027-cb405206?mod=rss_markets_main",
+  "published": "2026-11-27T04:21:00+00:00",
+  "seen": "2026-11-27T04:30:49+00:00"
+ },
+ {
+  "id": "805790edbfa0",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "An exiled former leader faces execution at home. Why does she want to go back?",
+  "teaser": "Ousted as Bangladesh’s prime minister two years ago, Sheikh Hasina says she will return next month despite being sentenced in absentia to death",
+  "link": "https://www.ft.com/content/80ab796b-c870-4f82-b630-514acb72f6ec?syn-25a6b1a6=1",
+  "published": "2026-11-27T04:00:58+00:00",
+  "seen": "2026-11-27T04:30:49+00:00"
+ },
+ {
+  "id": "18074209f182",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "What’s Driving Hong Kong Home Rents to New Highs",
+  "teaser": "Habitat Property Founder and CEO Victoria Allan tells Bloomberg TV that competing offers are pushing Hong Kong rents higher as returning expatriates, increased bank hiring and more arrivals from mainland China tighten housing supply. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-27/what-s-driving-hong-kong-home-rents-to-new-highs-video",
+  "published": "2026-11-27T03:41:24+00:00",
+  "seen": "2026-11-27T04:30:49+00:00"
+ },
+ {
+  "id": "372af929d862",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
+  "teaser": "Emerging-market equities in Asia were set for a weekly gain, clawing back some of a recent selloff as investors returned to technology shares and sentiment toward the artificial intelligence trade improved.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
+  "published": "2026-11-27T03:33:48+00:00",
+  "seen": "2026-11-27T04:30:49+00:00"
+ },
+ {
+  "id": "c34a5cda6da9",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Copper Rebounds From 11-Month Low on Return of Risk Appetite",
+  "teaser": "Copper extended its rebound from an 11-month low alongside technology stocks in Asia, as risk appetite returned across markets after weeks of volatility fueled by concerns over the artificial intelligence trade.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
+  "published": "2026-11-27T03:33:07+00:00",
+  "seen": "2026-11-27T04:30:49+00:00"
+ },
+ {
+  "id": "c51047a5ad1f",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Japan’s ‘Tokyo Drift’ Car Culture Draws Global Fans",
+  "teaser": "The latest Japan bucket-list attraction: the world of the Fast & Furious movie franchise. Japan’s car scene is drawing fans from around the world as tourists flock to see rare Toyota and Nissan models immortalized by the movies. Stefan Nicola has more. (Source: Bloomberg)",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-27/japan-s-tokyo-drift-car-culture-draws-global-fans-video",
+  "published": "2026-11-27T03:18:38+00:00",
+  "seen": "2026-11-27T04:30:49+00:00"
+ },
+ {
   "id": "effe755380f5",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -9,6 +75,17 @@
   "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
   "published": "2026-11-27T02:44:00+00:00",
   "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "e5b8fdbcb8be",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Treasuries Retreat as Gains in Equities Sap Demand for Havens",
+  "teaser": "Treasuries fell in light trading as the market reopened after the Thanksgiving holiday, with gains in Asian equities damping demand for haven assets.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
+  "published": "2026-11-27T02:43:08+00:00",
+  "seen": "2026-11-27T04:30:49+00:00"
  },
  {
   "id": "5afacb54b0c6",
@@ -97,6 +174,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-27/south-korea-reportedly-mulls-expanding-stock-stabilization-fund",
   "published": "2026-11-27T01:22:32+00:00",
   "seen": "2026-11-27T02:52:22+00:00"
+ },
+ {
+  "id": "3b1d5c3b8f8f",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+  "teaser": "Doing nothing and maintaining an even temperament is often the work of gods.",
+  "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+  "published": "2026-11-27T01:15:00+00:00",
+  "seen": "2026-11-27T04:30:49+00:00"
  },
  {
   "id": "4aa74108936b",
@@ -3209,94 +3297,6 @@
   "teaser": "Europe's industrial companies are under growing pressure from high energy and labor costs, weakening investment and intensifying global competition. McKinsey research finds that 45% of European industrial companies are showing signs of financial stress or distress but argues…",
   "link": "https://www.bloomberg.com/news/videos/2026-11-25/how-do-europe-s-companies-regain-their-edge-video",
   "published": "2026-11-25T11:42:01+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "9bc0c4a1e0f1",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "The AI Grinch Won’t Steal Christmas, but Watch Next Year",
-  "teaser": "Plus, Anthropic’s slide continues",
-  "link": "https://www.wsj.com/finance/stocks/the-ai-grinch-wont-steal-christmas-but-watch-next-year-b5b2dd7a?mod=rss_markets_main",
-  "published": "2026-11-25T11:31:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "c2dc3e143235",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
-  "teaser": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it is time to look more at adoption.",
-  "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
-  "published": "2026-11-25T11:27:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "0170a0f23e6d",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "The investigations facing Nvidia and Jensen Huang",
-  "teaser": "Returning CEO and chipmaker face scrutiny from federal and state authorities, Congress and shareholders",
-  "link": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
-  "published": "2026-11-25T11:25:34+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "fcf2344caf56",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nvidia’s Role as an Underwriter of the AI Boom",
-  "teaser": "Some of the best analysis and insight on investing, the wealth-management business and more.",
-  "link": "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800?mod=rss_markets_main",
-  "published": "2026-11-25T11:25:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "03201a089cdb",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Tech Selloff Rolls On as AI Worries Persist",
-  "teaser": "A global selloff in technology stocks is showing no sign of letting up as questions about the outlook for artificial intelligence pile up, with investors turning to bonds for safety. While technology stocks underperformed in Europe, the region’s greater exposure to defensive and…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video",
-  "published": "2026-11-25T11:20:46+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "ae06091666b7",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
-  "teaser": "The metal was heading for one of its worst monthly performances in more than a decade as investors retreated from riskier assets and tariff uncertainty clouded the global demand outlook.",
-  "link": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91?mod=rss_markets_main",
-  "published": "2026-11-25T11:03:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "492711226f00",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "The Car Industry Has a Seat-Belt Problem It Can’t Fix",
-  "teaser": "Plus, Jensen Huang’s vision for the new Nvidia is a lot like the old one, and our game tests whether you can secure your money for old age.",
-  "link": "https://www.wsj.com/personal-finance/the-car-industry-has-a-seat-belt-problem-it-cant-fix-0aa4be6e?mod=rss_markets_main",
-  "published": "2026-11-25T11:02:00+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "1d49c797cf4b",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
-  "teaser": "The chief executive wants to strike back against the U.K. after its cash-strapped government targeted banks for extra revenue.",
-  "link": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=rss_markets_main",
-  "published": "2026-11-25T11:00:00+00:00",
   "seen": "2026-11-25T12:30:47+00:00"
  }
 ]
