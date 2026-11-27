@@ -1,5 +1,159 @@
 [
  {
+  "id": "e15c3669762a",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Gold Stabilizes But Faces Fragile Recovery",
+  "teaser": "Gold prices were little changed. A hawkish Federal Reserve sets a high bar for a durable gold recovery, StoneX said.",
+  "link": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
+  "published": "2026-11-27T00:25:00+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "429cb937d88e",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Nikkei Rises 0.4%, Led by Banks, Trading Houses",
+  "teaser": "Japanese stocks were higher in early trade as recent selloffs in artificial intelligence-related stocks ease.",
+  "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+  "published": "2026-11-27T00:18:00+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "fc0d1a620add",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "US Plans for Tariffs Face Pushback",
+  "teaser": "Trading partners have responded to the latest US tariff plans with a mix of disappointment and protests, while some hold out the prospect for negotiations. Bloomberg's North Asia correspondent Minmin Low says China and the EU have made it clear that they will retaliate if…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-27/us-plans-for-tariffs-face-pushback-video",
+  "published": "2026-11-27T00:15:56+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "8e2af7bb272e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
+  "teaser": "Gold steadied, as traders weighed the prospect of Federal Reserve interest-rate hikes against a wider market recovery spurred by a rebound in US technology stocks.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+  "published": "2026-11-26T23:53:35+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "d8925bac9886",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
+  "teaser": "The dollar is poised for its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/-dollar-storm-greenback-on-track-for-longest-winning-run-since-2024",
+  "published": "2026-11-26T23:44:27+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "09f652f92d7e",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Japan Bank Shares Risk Further Unwind as Funding Cost Bites",
+  "teaser": "Japanese banking shares face increasing risk of an unwind as higher interest rates provide less of a boost to profits amid intensifying competition across the sector.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/japan-bank-shares-risk-further-unwind-as-funding-cost-bites",
+  "published": "2026-11-26T23:41:36+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "3d7b4624f3f6",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Lula Taps Bradesco Chair as Finance Chief to Soothe Markets",
+  "teaser": "President Luiz Inácio Lula da Silva tapped Bradesco Chairman Luiz Carlos Trabuco Cappi as finance minister, turning to one of Brazil’s best-known bankers to restore investor confidence in the nation’s finances.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/lula-taps-bradesco-chairman-as-finance-chief-to-reassure-markets",
+  "published": "2026-11-26T23:18:21+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "f194139ecb94",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Latest Oil Market News and Analysis for Nov. 27",
+  "teaser": "Oil headed for the first weekly gain this month as attacks on energy infrastructure and tankers in the Middle East raised concerns about escalating hostilities.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
+  "published": "2026-11-26T23:05:38+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "87346043d003",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Bankers Pay Up for Hong Kong Apartments as Rents Hit New Highs",
+  "teaser": "Hong Kong’s booming rental real estate market is spurring gains in previously underappreciated neighborhoods, as bankers pay up for apartments in one of the world’s most expensive places to live.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/bankers-pay-up-for-hong-kong-apartments-as-rents-hit-new-highs",
+  "published": "2026-11-26T23:00:00+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "a480ff4453db",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Euro Set for Biggest Drop in Two Decades Against Yuan This Year",
+  "teaser": "The euro is set for its biggest annual slide against the yuan in two decades, with European officials calling on China to let its currency strengthen further to curb surging imports.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/euro-set-for-biggest-drop-in-two-decades-against-yuan-this-year",
+  "published": "2026-11-26T23:00:00+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "c1f38d0051fb",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls",
+  "teaser": "The brutal selloff in Kioxia Holdings Corp. on worries over the AI boom’s sustainability has made it the cheapest Japanese blue chip, reinforcing bullish analyst calls.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/ai-rout-makes-kioxia-japan-s-cheapest-blue-chip-backing-bulls",
+  "published": "2026-11-26T22:30:13+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "4d1af77c24b4",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+  "teaser": "“Our financial and healthcare situation has become increasingly concerning.”",
+  "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+  "published": "2026-11-26T22:00:00+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "389374dfad16",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Asian Stocks Rise for Second Day, Crude Oil Gains: Markets Wrap",
+  "teaser": "Asian stocks extended their rebound as buyers returned to the artificial intelligence trade following weeks of volatility. Oil climbed after Yemen’s Houthi rebels struck a key Saudi refinery.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+  "published": "2026-11-26T21:59:57+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
+  "id": "a2baf74492b3",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+  "teaser": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+  "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+  "published": "2026-11-26T21:45:00+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
+ },
+ {
   "id": "7bc0c651e30b",
   "source": "Bloomberg",
   "lang": "en",
@@ -53,6 +207,17 @@
   "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
   "published": "2026-11-26T19:00:00+00:00",
   "seen": "2026-11-26T19:38:29+00:00"
+ },
+ {
+  "id": "8146ee86ed6c",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "SAP explores at least 10,000 job cuts",
+  "teaser": "European software group is latest to restructure as AI hits software sector",
+  "link": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
+  "published": "2026-11-26T18:24:34+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
  },
  {
   "id": "a24c67f164b6",
@@ -163,6 +328,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-26/wall-street-se-vuelve-mas-cauteloso-con-el-carry-trade-mwxrpht6",
   "published": "2026-11-26T16:29:26+00:00",
   "seen": "2026-11-26T16:31:02+00:00"
+ },
+ {
+  "id": "478ef0312369",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Do voters want vision or concision from politicians?",
+  "teaser": "Their flowery flights of rhetoric used to go on forever. Now they keep it brief",
+  "link": "https://www.ft.com/content/af51083d-f076-44c0-8858-c9e9d4487fcc?syn-25a6b1a6=1",
+  "published": "2026-11-26T16:16:34+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
  },
  {
   "id": "9404c60dfd39",
@@ -383,6 +559,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-26/uk-is-latest-big-european-economy-to-report-diesel-demand-slump",
   "published": "2026-11-26T13:51:48+00:00",
   "seen": "2026-11-26T16:31:02+00:00"
+ },
+ {
+  "id": "ae432f29cbda",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Australia Passes Gas Reserve Law in Upset to LNG Exporters",
+  "teaser": "Australia adopted a law requiring liquefied natural gas exporters to reserve as much as a fifth of their supply for the domestic market.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/australia-set-to-pass-gas-reserve-law-in-upset-to-lng-exporters",
+  "published": "2026-11-26T13:31:00+00:00",
+  "seen": "2026-11-27T00:30:21+00:00"
  },
  {
   "id": "c9eb4c2d4059",
@@ -3111,192 +3298,5 @@
   "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
   "published": "2026-11-25T07:44:00+00:00",
   "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "61bf33f94ff9",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Botswana to Take 5% Free Stake in Mines Dug on State Concessions",
-  "teaser": "Botswana will take a 5% stake in mines developed on prospecting concessions held by its newly formed exploration company.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/botswana-to-take-5-free-stake-in-mines-dug-on-state-concessions",
-  "published": "2026-11-25T07:42:11+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "bea2f9a63f24",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Malaysia's Pension Fund Favors Infrastructure Assets",
-  "teaser": "Malaysia's Employees Provident Fund CEO Ahmad Zulqarnain Onn says the EPF favors infrastructure in 2027. It's one of the world's oldest and largest pension funds, with total investment assets of over $350 billion. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\"…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-s-pension-fund-favors-infrastructure-assets-video",
-  "published": "2026-11-25T07:40:39+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "6173ae6ff546",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "AUD/USD: Aussie Set for Biggest Monthly Drop in Four Years as Stocks Fall",
-  "teaser": "The Australian dollar is poised for its biggest monthly slide in more than 13 years as it extended losses on Wednesday, with the weakness in global stocks damping demand for currencies linked to growth.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/aud-usd-aussie-set-for-biggest-monthly-drop-in-four-years-as-stocks-fall",
-  "published": "2026-11-25T07:28:30+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "ecfa342d3dbc",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "A 2018 Playbook Would Not Bode Well for Markets: Taking Stock",
-  "teaser": "Signs suggest the market is moving past peak fear, but investors need a fresh source of conviction before returning in force — especially as the current setup revives memories of 2018’s punishing selloff in risk assets.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/a-2018-playbook-would-not-bode-well-for-markets-taking-stock",
-  "published": "2026-11-25T07:24:39+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "cc96fe72731a",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "EasyJet Profit Hit By Iran War as Apollo Takeover Looms",
-  "teaser": "EasyJet Plc said the fallout from Middle East war eroded most of its profit in the fiscal year, with soaring fuel prices hitting the budget carrier as it prepares to be taken over by a US private equity firm early next year.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/easyjet-profit-hit-by-middle-east-war-as-apollo-takeover-looms",
-  "published": "2026-11-25T07:16:22+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "1bb79db77c11",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Neuberg Diagnostics Is Said to Pick Banks for $200 Million IPO",
-  "teaser": "Neuberg Diagnostics Pvt. has picked banks for an initial public offering that could raise as much as $200 million, according to people familiar with the matter, adding to a busy pipeline of Indian deals.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/neuberg-diagnostics-is-said-to-pick-banks-for-200-million-ipo",
-  "published": "2026-11-25T07:13:14+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "34f0818de283",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Restructuring Firm Interpath in Deal to Buy US Company, CEO Says",
-  "teaser": "Interpath Ltd. is pushing to expand in the US on the heels of being taken over by private equity firm Bridgepoint Group Plc, according to its chief executive officer, who dismissed concerns that a string of senior departures was hurting the restructuring firm.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/restructuring-firm-interpath-in-deal-to-buy-us-company-ceo-says",
-  "published": "2026-11-25T07:00:00+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "29303e1ce6c8",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Houthi Drone Hits Riyadh Financial District, Injuring 11 Amid Near-Daily Saudi Attacks",
-  "teaser": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video",
-  "published": "2026-11-25T06:57:52+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "c4f4e39fb5dd",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Dangote Refinery Said to List in Lagos on December 1",
-  "teaser": "Bloomberg understands billionaire Aliko Dangote’s oil refinery will start trading in Lagos as soon as next week. Dangote Petroleum Refinery & Petrochemicals debut is being set for December 1, in what will be Africa’s biggest IPO. Chief Africa correspondent, Jennifer Zabasajja…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-said-to-list-in-lagos-on-december-1-video",
-  "published": "2026-11-25T06:53:07+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "f7f926454d30",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Mizuho’s Avendus to Hire 75 Private Bankers Over Four Years",
-  "teaser": "Avendus Capital Pvt, majority-owned by Mizuho Financial Group Inc., plans to double its wealth managers to 150 over the next four years as it seeks a bigger share of India’s fast-growing but increasingly competitive market for rich clients.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/mizuho-s-avendus-to-hire-75-private-bankers-over-four-years",
-  "published": "2026-11-25T06:52:41+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "9ff0dac1e639",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Danantara Reports $634 Billion in Assets in First Audited Report",
-  "teaser": "Indonesian state investment agency Danantara reported consolidated assets of 11,607 trillion rupiah ($634.2 billion) at the end of 2025 in its first audited financial statements, falling short of the roughly $1 trillion figure officials have often cited for the state-company…",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/danantara-reports-634-billion-in-assets-in-first-audited-report",
-  "published": "2026-11-25T06:51:36+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "ccf5ee394d6f",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Treasury Rally Picks Up as Stock Selloff Dents Risk Appetite",
-  "teaser": "Treasuries rallied across the curve on Wednesday as renewed losses in technology shares dented investor appetite for risk assets.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-  "published": "2026-11-25T06:49:34+00:00",
-  "seen": "2026-11-25T12:30:47+00:00"
- },
- {
-  "id": "17d57bcbe3fa",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Dangote Refinery Set to Start Trading in Lagos on Dec. 1",
-  "teaser": "Dangote Petroleum Refinery and Petrochemicals FZE will rank as the biggest company with a primary listing in Africa once it makes its trading debut in Lagos. The operation owned by tycoon Aliko Dangote is valued at the equivalent of about $48 billion through its initial public…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-set-to-start-trading-in-lagos-on-dec-1-video",
-  "published": "2026-11-25T06:33:01+00:00",
-  "seen": "2026-11-25T15:39:09+00:00"
- },
- {
-  "id": "f466ee2a23c8",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Anthropic has pulled up the ladder",
-  "teaser": "By pushing its IPO to the limit, the Claude maker has made itself a hard act to follow",
-  "link": "https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d",
-  "published": "2026-11-25T06:00:02+00:00",
-  "seen": "2026-11-25T08:30:38+00:00"
- },
- {
-  "id": "80aa14513417",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Kochugovindan: Tech Volatility Is Here to Stay",
-  "teaser": "Aberdeen Investments Senior Research Economist Sree Kochugovindan says the AI trade faces further downside risks as investors scrutinize valuations, earnings potential and returns on investment. She also discusses the outlook for US consumer spending, inflation and Federal…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
-  "published": "2026-11-25T05:37:11+00:00",
-  "seen": "2026-11-25T05:45:11+00:00"
- },
- {
-  "id": "d6c0cc3cacf6",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Indian Stocks Extend World-Beating Run as AI Selloff Resumes",
-  "teaser": "Indian stocks surged, extending their world-beating November rally as renewed selling in global artificial intelligence names bolstered a rotation toward markets with limited exposure to the theme.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
-  "published": "2026-11-25T05:04:20+00:00",
-  "seen": "2026-11-25T05:45:11+00:00"
- },
- {
-  "id": "cbb4215275d0",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Malaysia Government Likely to Serve Full Term, Anwar Aide Says",
-  "teaser": "Malaysian Prime Minister Anwar Ibrahim’s government is likely to serve until the end of its term despite recent speculation over an early election, according to his senior political adviser Zafrul Aziz.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
-  "published": "2026-11-25T05:03:48+00:00",
-  "seen": "2026-11-25T05:45:11+00:00"
  }
 ]
