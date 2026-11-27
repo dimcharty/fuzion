@@ -1,5 +1,49 @@
 [
  {
+  "id": "a5d38a6c5558",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "S&P cuts France outlook to negative",
+  "teaser": "Rating agency says political instability will make it harder for the country to tackle its public deficit",
+  "link": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+  "published": "2026-11-27T21:34:13+00:00",
+  "seen": "2026-11-27T21:59:09+00:00"
+ },
+ {
+  "id": "3b91a12f9658",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+  "teaser": "S&P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually adopt the euro.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+  "published": "2026-11-27T21:19:31+00:00",
+  "seen": "2026-11-27T21:59:09+00:00"
+ },
+ {
+  "id": "580178b767ab",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+  "teaser": "Mexican airport operator Grupo Aeroportuario del Pacifico SAB de CV raised 7.8 billion pesos ($398 million) for an energy and infrastructure trust, less than originally planned and following months of delays.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+  "published": "2026-11-27T21:05:05+00:00",
+  "seen": "2026-11-27T21:59:09+00:00"
+ },
+ {
+  "id": "43b3d23818d7",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
+  "teaser": "Pedro Sánchez rallied voters to turn out in Sunday’s national election during his final campaign event, in a last-minute attempt to pull off an upset.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote",
+  "published": "2026-11-27T20:24:01+00:00",
+  "seen": "2026-11-27T21:59:09+00:00"
+ },
+ {
   "id": "fc0a8887bb2c",
   "source": "MarketWatch",
   "lang": "en",
@@ -251,6 +295,17 @@
   "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
   "published": "2026-11-27T15:52:00+00:00",
   "seen": "2026-11-27T16:31:14+00:00"
+ },
+ {
+  "id": "6c3765051a78",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+  "teaser": "“My wife stopped working outside the home in 1970.”",
+  "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+  "published": "2026-11-27T15:45:00+00:00",
+  "seen": "2026-11-27T21:59:09+00:00"
  },
  {
   "id": "7d5842d87536",
@@ -3242,61 +3297,6 @@
   "teaser": "Gold edged lower, after rising on Wednesday, as inflation data reinforced bets the Federal Reserve will hike interest rates further.",
   "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
   "published": "2026-11-26T00:18:09+00:00",
-  "seen": "2026-11-26T00:30:56+00:00"
- },
- {
-  "id": "f3ab882c45ab",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Emerging Asia’s Best Bond Rally Seen Extending in Philippines",
-  "teaser": "Philippine government bonds look poised to build on this month’s sharp rally as expectations of easing price pressures and a landmark global index inclusion may stimulate fresh demand next year, according to some market watchers.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/emerging-asia-s-best-bond-rally-seen-extending-in-philippines",
-  "published": "2026-11-26T00:05:45+00:00",
-  "seen": "2026-11-26T00:23:46+00:00"
- },
- {
-  "id": "20712555c0ba",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
-  "teaser": "The hedge fund that nearly went out of business after steep losses this summer said it has worked to learn from its mistakes.",
-  "link": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
-  "published": "2026-11-26T00:03:00+00:00",
-  "seen": "2026-11-26T00:23:46+00:00"
- },
- {
-  "id": "4c5da3cb0e74",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "China 2027 Growth to Top 4.5%, Ex-Official Says",
-  "teaser": "China’s economy is on track to grow more than 4.5% in 2027, according to former Vice Finance Minister Zhu Guangyao. Speaking to Bloomberg TV’s Avril Hong in Singapore on Wednesday, Zhu noted that Beijing still has room to loosen fiscal policy next year, while also stressing the…",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video",
-  "published": "2026-11-25T23:54:41+00:00",
-  "seen": "2026-11-26T00:23:46+00:00"
- },
- {
-  "id": "995a46727067",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Would-Be RadioShack Revivers Settle SEC Fraud Suit Allegations",
-  "teaser": "Three entrepreneurs accused of misleading investors about pandemic-era plans to revive distressed retailers including RadioShack and Pier 1 Imports agreed to pay more than $6.8 million to end a US regulator’s lawsuit claiming they were running a Ponzi-like scam.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/would-be-radioshack-revivers-settle-sec-fraud-suit-allegations",
-  "published": "2026-11-25T23:44:35+00:00",
-  "seen": "2026-11-26T00:23:46+00:00"
- },
- {
-  "id": "828a19753007",
-  "source": "MarketWatch",
-  "lang": "en",
-  "weight": 6,
-  "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-  "teaser": "“Given my age, I never make a major new purchase without thinking about the future.”",
-  "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-  "published": "2026-11-25T23:30:00+00:00",
   "seen": "2026-11-26T00:30:56+00:00"
  }
 ]
