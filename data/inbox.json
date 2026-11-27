@@ -1,5 +1,16 @@
 [
  {
+  "id": "34c711d61e88",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+  "teaser": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.",
+  "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+  "published": "2026-11-27T12:29:00+00:00",
+  "seen": "2026-11-27T12:30:44+00:00"
+ },
+ {
   "id": "a7fa7ec0a8e6",
   "source": "MarketWatch",
   "lang": "en",
@@ -3287,16 +3298,5 @@
   "link": "https://epravda.com.ua/finances/golovni-novini-legalizaciya-kriptovalyut-ta-cini-na-benzin-828053/",
   "published": "2026-11-25T19:00:00+00:00",
   "seen": "2026-11-26T00:23:46+00:00"
- },
- {
-  "id": "a9b1e6eaba1e",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Army Blows Up Hazardous Material With Worst Fears Unrealized",
-  "teaser": "The Army blew up five tons of hazardous materials stored at a facility in Iowa, with early indications suggesting planners had averted the worst-case scenario of a massive cloud of toxic lead wafting over surrounding communities. (Source: Bloomberg)",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/army-blows-up-hazardous-material-in-iowa-video",
-  "published": "2026-11-25T18:51:04+00:00",
-  "seen": "2026-11-25T20:30:52+00:00"
  }
 ]
