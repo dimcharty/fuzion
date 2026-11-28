@@ -1,5 +1,36 @@
 [
  {
+  "id": "digest-2026-11-28",
+  "kind": "digest",
+  "category": "digest",
+  "title_uk": "Ранковий дайджест: 28 листопада",
+  "summary_uk": "Три головні події фінансового світу за минулу добу.",
+  "source": "Fuzion Societe",
+  "link": "https://t.me/fuzionsoc",
+  "items": [
+   {
+    "title_uk": "Росія продовжила заборону експорту авіапального до березня",
+    "summary_uk": "Москва ще на чотири місяці обмежила більшість поставок авіапального за кордон, щоб забезпечити внутрішній ринок через удари України по НПЗ.",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/russia-extends-jet-fuel-export-ban-to-march-on-refinery-attacks"
+   },
+   {
+    "title_uk": "S&P погіршило прогноз кредитного рейтингу Франції до негативного",
+    "summary_uk": "Агентство вважає, що політична нестабільність ускладнить Франції скорочення дефіциту державного бюджету.",
+    "source": "Financial Times",
+    "link": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1"
+   },
+   {
+    "title_uk": "Ф'ючерси на акції США стрибнули: інвестори повертаються до ШІ-компаній",
+    "summary_uk": "Перед скороченою п'ятничною сесією ф'ючерси на Nasdaq додали 2,7%, зросли й контракти на S&P 500 та Dow Jones.",
+    "source": "The Wall Street Journal",
+    "link": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main"
+   }
+  ],
+  "published": "2026-11-28T05:44:36+00:00",
+  "added": "2026-11-28T05:44:36+00:00"
+ },
+ {
   "id": "d2d6221758a5",
   "source": "The Wall Street Journal",
   "link": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
@@ -1250,16 +1281,6 @@
   "summary_uk": "Ціни на нафту знизилися. Учасники ринку порівнюють імовірність глобального надлишку пропозиції з тривалими ризиками для перевезень енергоносіїв через конфлікт на Близькому Сході. Для України вартість нафти впливає на ціни пального на внутрішньому ринку.",
   "category": "energy",
   "published": "2026-11-24T08:27:00+00:00",
-  "added": "2026-11-24T12:30:37+00:00"
- },
- {
-  "id": "959613957820",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us",
-  "title_uk": "Китай відклав відповідь на чипові обмеження США та продовжив паузу в забороні експорту мінералів",
-  "summary_uk": "Пекін подовжив призупинення заборони на постачання до США кількох критично важливих мінералів, тим самим поки не відповівши на нові американські обмеження щодо чипів. Рішення ухвалили через кілька годин після того, як Дональд Трамп сприяв поверненню Дженсена Хуанга на посаду керівника Nvidia.",
-  "category": "world",
-  "published": "2026-11-24T08:56:34+00:00",
   "added": "2026-11-24T12:30:37+00:00"
  }
 ]
