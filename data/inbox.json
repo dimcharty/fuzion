@@ -1,5 +1,60 @@
 [
  {
+  "id": "aed167976779",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+  "teaser": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+  "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+  "published": "2026-11-28T16:00:00+00:00",
+  "seen": "2026-11-28T16:30:32+00:00"
+ },
+ {
+  "id": "bbb348cc29ff",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Nigeria Central Bank Plans 2027 Launch of Repo and Swap Markets",
+  "teaser": "Nigeria’s central bank is targeting the launch of a repo and overnight index swap market in the first quarter of 2027, as it seeks to strengthen liquidity management and improve the transmission of policy decisions.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-28/nigeria-central-bank-plans-2027-launch-of-repo-and-swap-markets",
+  "published": "2026-11-28T14:39:36+00:00",
+  "seen": "2026-11-28T16:30:32+00:00"
+ },
+ {
+  "id": "b40cb0c1c8f3",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "What’s the most tax-efficient way to donate to charity?",
+  "teaser": "How to make your donations beneficial for both you and the recipient",
+  "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+  "published": "2026-11-28T14:27:00+00:00",
+  "seen": "2026-11-28T16:30:32+00:00"
+ },
+ {
+  "id": "b303e5a6e91a",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Travel Demand Holds Despite Higher Prices",
+  "teaser": "Travelers are heading into 2027 facing higher airfares and hotel rates, as strong demand boosts cruises and changing travel patterns put pressure on theme parks. On Bloomberg This Weekend, senior credit analyst of Bloomberg Intelligence Jody Lurie and aviation and travel…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-28/travel-demand-holds-despite-higher-prices-video",
+  "published": "2026-11-28T14:08:59+00:00",
+  "seen": "2026-11-28T16:30:32+00:00"
+ },
+ {
+  "id": "89df906a8992",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Higher Prices Test Holiday Shoppers",
+  "teaser": "Holiday sales are expected to rise this season, but inflation means shoppers may be spending more without bringing home more goods, while value and convenience remain key drivers. On Bloomberg This Weekend, Bloomberg Intelligence Senior Retail Analyst Poonam Goyal tells hosts…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-28/higher-prices-test-holiday-shoppers-video",
+  "published": "2026-11-28T13:04:58+00:00",
+  "seen": "2026-11-28T16:30:32+00:00"
+ },
+ {
   "id": "82a337625c7f",
   "source": "MarketWatch",
   "lang": "en",
@@ -20,6 +75,17 @@
   "link": "https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=rss_markets_main",
   "published": "2026-11-28T12:02:00+00:00",
   "seen": "2026-11-28T12:30:38+00:00"
+ },
+ {
+  "id": "a42919f6405b",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "The outsider from Cannes shaking up France’s presidential race",
+  "teaser": "Rightwing mayor David Lisnard has surged in polls with punchy attacks on the bloated state and promises of radical spending cuts",
+  "link": "https://www.ft.com/content/7f3900c2-bce6-495e-a6c4-e1133a3c46e9?syn-25a6b1a6=1",
+  "published": "2026-11-28T12:00:03+00:00",
+  "seen": "2026-11-28T16:30:32+00:00"
  },
  {
   "id": "0eefb7e97aaf",
@@ -174,6 +240,17 @@
   "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
   "published": "2026-11-28T05:00:32+00:00",
   "seen": "2026-11-28T08:30:38+00:00"
+ },
+ {
+  "id": "543cc528b630",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "The little court that’s never been busier. Or under more pressure",
+  "teaser": "Critics are determined to dismantle it but the ICC’s trial of former Philippines president Rodrigo Duterte is the biggest in its history",
+  "link": "https://www.ft.com/content/1c5e962f-d2db-4ecc-8ab8-0294c1d41dbe",
+  "published": "2026-11-28T05:00:25+00:00",
+  "seen": "2026-11-28T16:30:32+00:00"
  },
  {
   "id": "aa60d73d786a",
@@ -3221,82 +3298,5 @@
   "link": "https://www.ft.com/content/125e9b6d-4e45-4554-9a86-a3ce172bcf65?syn-25a6b1a6=1",
   "published": "2026-11-26T05:01:09+00:00",
   "seen": "2026-11-26T16:31:02+00:00"
- },
- {
-  "id": "0769f64cce62",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Software stocks spared in tech rout as AI narrative shifts",
-  "teaser": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
-  "link": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
-  "published": "2026-11-26T05:00:29+00:00",
-  "seen": "2026-11-26T05:44:45+00:00"
- },
- {
-  "id": "b63ff3c4fd00",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nvidia halts chip shipments to south-east Asia",
-  "teaser": "Move comes as US steps up export controls to prevent Chinese access to AI computing power",
-  "link": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
-  "published": "2026-11-26T05:00:19+00:00",
-  "seen": "2026-11-26T05:44:45+00:00"
- },
- {
-  "id": "22e29f6ad6e7",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Huang’s return is a terrible signal for US capitalism",
-  "teaser": "Nvidia scandal highlights why the shareholder rights that are now under threat are so important",
-  "link": "https://www.ft.com/content/cd688a72-04ed-40fb-9c26-5cae522a0abd",
-  "published": "2026-11-26T05:00:19+00:00",
-  "seen": "2026-11-26T05:44:45+00:00"
- },
- {
-  "id": "a2fc05a9164d",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Paris and Berlin seek to shield EU budget from Marine Le Pen",
-  "teaser": "France requests an extra €35bn for farmers to raise the cost of far-right leader picking apart deal on bloc’s budget if she becomes president",
-  "link": "https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1",
-  "published": "2026-11-26T05:00:19+00:00",
-  "seen": "2026-11-26T05:44:45+00:00"
- },
- {
-  "id": "0212635a6295",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Angry young men turn against their elders in ‘two Spains’ election",
-  "teaser": "Voters set to oust Pedro Sánchez and propel radical right into a coalition government for first time since Franco",
-  "link": "https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1",
-  "published": "2026-11-26T05:00:19+00:00",
-  "seen": "2026-11-26T05:44:45+00:00"
- },
- {
-  "id": "064aab2a947e",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Saudi Arabia prepares to delay flagship mining conference as attacks continue",
-  "teaser": "Future Minerals Forum likely to be pushed back from January due to regional conflict",
-  "link": "https://www.ft.com/content/325b93d6-bc2e-4dd3-9941-cf4688aca11d?syn-25a6b1a6=1",
-  "published": "2026-11-26T05:00:19+00:00",
-  "seen": "2026-11-26T05:44:45+00:00"
- },
- {
-  "id": "be09c7c6d781",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Netanyahu using ‘racist attacks’ to stay in power, Israeli Arab leader says",
-  "teaser": "Head of largest Arab party says he is willing to work with Jewish opposition to remove prime minister’s far-right bloc",
-  "link": "https://www.ft.com/content/e61e27b6-6501-44f8-b3d2-558f7cf4dcae?syn-25a6b1a6=1",
-  "published": "2026-11-26T05:00:19+00:00",
-  "seen": "2026-11-26T08:30:33+00:00"
  }
 ]
