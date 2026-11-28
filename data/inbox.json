@@ -1,5 +1,60 @@
 [
  {
+  "id": "da84e34885f8",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch",
+  "teaser": "The mansion-like historic structure is being renovated for lounges and a dining room, kitchen and bar, city documents show.",
+  "link": "https://www.wsj.com/finance/banking/jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-c609a03c?mod=rss_markets_main",
+  "published": "2026-11-28T00:00:00+00:00",
+  "seen": "2026-11-28T00:30:28+00:00"
+ },
+ {
+  "id": "58048f40dfe7",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
+  "teaser": "Several London-based executives are leaving the bank, and a top risk official is overseeing the cleanup from the trading hub.",
+  "link": "https://www.wsj.com/finance/banking/citigroups-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-71d8afe9?mod=rss_markets_main",
+  "published": "2026-11-28T00:00:00+00:00",
+  "seen": "2026-11-28T00:30:28+00:00"
+ },
+ {
+  "id": "828a19753007",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+  "teaser": "“Given my age, I never make a major new purchase without thinking about the future.”",
+  "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+  "published": "2026-11-28T00:00:00+00:00",
+  "seen": "2026-11-28T00:30:28+00:00"
+ },
+ {
+  "id": "66f15a3b7a68",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+  "teaser": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
+  "published": "2026-11-27T22:29:56+00:00",
+  "seen": "2026-11-28T00:30:28+00:00"
+ },
+ {
+  "id": "f4567f833c45",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+  "teaser": "Barry speaks with Holly MacDonald, CEO of Bessemer Trust. They discuss her time working in Brazil and how investing in emerging markets shapes her investment philosophy. They also discuss the enduring strength of the US dollar, and how Bessemer evolved from a single family…",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
+  "published": "2026-11-27T22:14:41+00:00",
+  "seen": "2026-11-28T00:30:28+00:00"
+ },
+ {
   "id": "a5d38a6c5558",
   "source": "Financial Times",
   "lang": "en",
@@ -119,6 +174,17 @@
   "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
   "published": "2026-11-27T18:18:27+00:00",
   "seen": "2026-11-27T20:30:38+00:00"
+ },
+ {
+  "id": "b1d7f499d7a6",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Can AI crack encryption?",
+  "teaser": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+  "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+  "published": "2026-11-27T18:16:51+00:00",
+  "seen": "2026-11-28T00:30:28+00:00"
  },
  {
   "id": "6d4f53a9b1df",
@@ -3232,71 +3298,5 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-26/lula-sounds-out-bradesco-s-luiz-trabuco-to-join-his-government",
   "published": "2026-11-26T01:07:45+00:00",
   "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "2efd07e64d1c",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Australia Capex Surges by Most Since Mining Boom on Data Centers",
-  "teaser": "Australian business investment surged by the most since the peak of the mining boom in the three months through September, driven by data center-related spending in a bright spot for an otherwise cooling economy.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/australia-capex-surges-by-most-since-mining-boom-on-data-centers",
-  "published": "2026-11-26T01:01:57+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "ad686c94d5c9",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Modi’s Criticism of India Inc. Puts Weak Investment in Focus",
-  "teaser": "Prime Minister Narendra Modi’s sharp criticism of Indian businesses last week exposed an underlying weakness in the economy’s booming growth story.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/modi-s-criticism-of-india-inc-puts-weak-investment-in-focus",
-  "published": "2026-11-26T01:00:00+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "5ff5143f1c0c",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
-  "teaser": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
-  "link": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
-  "published": "2026-11-26T00:45:54+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "4fb96ec4ffd7",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Gold Edges Lower Amid Rate Hike Bets",
-  "teaser": "Gold edged lower in early Asian trade as U.S. inflation data reinforces expectations of further rate increases.",
-  "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
-  "published": "2026-11-26T00:24:00+00:00",
-  "seen": "2026-11-26T00:30:56+00:00"
- },
- {
-  "id": "01b3f6155f01",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Nikkei Rises 1.3%, Led by Chip, Metals Stocks",
-  "teaser": "Japanese stocks were higher, rebounding from Wednesday’s sharp declines, thanks partly to signs of U.S. economic strength.",
-  "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
-  "published": "2026-11-26T00:19:00+00:00",
-  "seen": "2026-11-26T00:23:46+00:00"
- },
- {
-  "id": "d13b953c2793",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
-  "teaser": "Gold edged lower, after rising on Wednesday, as inflation data reinforced bets the Federal Reserve will hike interest rates further.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
-  "published": "2026-11-26T00:18:09+00:00",
-  "seen": "2026-11-26T00:30:56+00:00"
  }
 ]
