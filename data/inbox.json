@@ -1,5 +1,82 @@
 [
  {
+  "id": "fcc949566973",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Americans Have More Riding on the Stock Market Than Ever",
+  "teaser": "Plus, a family feud as big as Texas hangs over Houston’s NFL team, and inside China’s $4 billion secondhand luxury boom.",
+  "link": "https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=rss_markets_main",
+  "published": "2026-11-28T12:02:00+00:00",
+  "seen": "2026-11-28T12:30:38+00:00"
+ },
+ {
+  "id": "0eefb7e97aaf",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "India’s SEBI Weighs Exchange Platform for Pre-IPO Shares",
+  "teaser": "India’s markets regulator is weighing a specialized trading platform as part of efforts to rein in the grey market for shares of companies headed for initial public offerings.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
+  "published": "2026-11-28T11:56:38+00:00",
+  "seen": "2026-11-28T12:30:38+00:00"
+ },
+ {
+  "id": "7b894838f703",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Modi Nears Majority Needed to Increase India’s Parliament Seats",
+  "teaser": "Prime Minister Narendra Modi’s government moved closer to clearing a contentious law to expand the size of India’s parliament after a regional opposition party declared support for the legislation.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-28/modi-nears-majority-needed-to-increase-india-s-parliament-seats",
+  "published": "2026-11-28T10:17:39+00:00",
+  "seen": "2026-11-28T12:30:38+00:00"
+ },
+ {
+  "id": "419616c44472",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Norway’s Wealth Fund Again Votes No to Musk’s Tesla Pay Package",
+  "teaser": "Norway’s $2.2 trillion sovereign wealth fund said it is voting against Elon Musk’s 2025 pay package at Tesla Inc.’s annual meeting next week.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-28/norway-s-wealth-fund-again-votes-no-to-musk-s-tesla-pay-package",
+  "published": "2026-11-28T10:15:53+00:00",
+  "seen": "2026-11-28T12:30:38+00:00"
+ },
+ {
+  "id": "334a3b60a045",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
+  "teaser": "The policies were pitched as a salve for aging Americans worried about care costs. Except many insurers flubbed the math.",
+  "link": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
+  "published": "2026-11-28T10:00:00+00:00",
+  "seen": "2026-11-28T12:30:38+00:00"
+ },
+ {
+  "id": "bf313b1d4694",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Plunging Fuel Prices Bring Relief for Drivers and Central Banks",
+  "teaser": "In a few short weeks, global fuel markets have lurched out of crisis, for now at least.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-28/plunging-fuel-prices-bring-relief-for-drivers-and-central-banks",
+  "published": "2026-11-28T10:00:00+00:00",
+  "seen": "2026-11-28T12:30:38+00:00"
+ },
+ {
+  "id": "b27da26b0ff3",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "Eisenkot Edging Closer to Leading Israel With Talks Progressing",
+  "teaser": "With just over a week to go, Gadi Eisenkot is within striking distance of a coalition breakthrough that could secure him a parliamentary majority and loosen Benjamin Netanyahu’s three-decade grip on Israeli politics.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-28/eisenkot-edging-closer-to-leading-israel-with-talks-progressing",
+  "published": "2026-11-28T09:00:00+00:00",
+  "seen": "2026-11-28T12:30:38+00:00"
+ },
+ {
   "id": "5084671fc64d",
   "source": "European Central Bank",
   "lang": "en",
@@ -42,6 +119,17 @@
   "link": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
   "published": "2026-11-28T05:00:41+00:00",
   "seen": "2026-11-28T05:44:56+00:00"
+ },
+ {
+  "id": "b283e6c61879",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "England’s post-Brexit fishing windfall swept up by Dutch tycoon",
+  "teaser": "Smaller operators initially won a quarter of quotas, but their share dwindled to less than 1 per cent in 2025",
+  "link": "https://www.ft.com/content/13566b4a-e996-4029-829b-94fb89a76841?syn-25a6b1a6=1",
+  "published": "2026-11-28T05:00:41+00:00",
+  "seen": "2026-11-28T12:30:38+00:00"
  },
  {
   "id": "1039773ec9e6",
@@ -3210,93 +3298,5 @@
   "link": "https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1",
   "published": "2026-11-26T05:00:12+00:00",
   "seen": "2026-11-26T05:44:45+00:00"
- },
- {
-  "id": "06a43d604a82",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "How ‘Friendsgiving’ took over in America",
-  "teaser": "Changing demographics mean traditions that were once reserved for relatives are being shared with friends",
-  "link": "https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3",
-  "published": "2026-11-26T05:00:11+00:00",
-  "seen": "2026-11-26T05:44:45+00:00"
- },
- {
-  "id": "f573af37d31b",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Australia Firms See Inflation Holding Over 4% for Next 12 Months",
-  "teaser": "Australian businesses expect inflation will remain well above the top of the Reserve Bank’s 2-3% target band for the next 12 months, even after policymakers delivered five interest-rate hikes this year to try to rein in consumer prices.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
-  "published": "2026-11-26T04:30:00+00:00",
-  "seen": "2026-11-26T05:44:45+00:00"
- },
- {
-  "id": "8b19aff4fbdd",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "China-Backed Pakistan Exchange Prepares to Launch Stock Options",
-  "teaser": "The Pakistani bourse is looking to introduce equity options next year, giving investors another tool to bet on a market that’s tripled over the past three years.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/china-backed-pakistan-exchange-prepares-to-launch-stock-options",
-  "published": "2026-11-26T04:00:15+00:00",
-  "seen": "2026-11-26T05:44:45+00:00"
- },
- {
-  "id": "95194aa61acf",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Adani Firms Plan Public Bond Sale to Raise at Least $220 Million",
-  "teaser": "Two companies controlled by Indian billionaire Gautam Adani are looking to sell public bonds to raise at least 20 billion rupees ($220 million), according to people familiar with the matter, which would boost the nation’s subdued domestic public debt market.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million",
-  "published": "2026-11-26T03:42:25+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "a09b9a83a751",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Japan Life Insurers Complicate Yen Fight With Record Low Hedging",
-  "teaser": "Japan’s concerted push to bolster the yen is running into a major headwind, after the nation’s biggest life insurers slashed their currency hedging to a record low in the fiscal first half.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging",
-  "published": "2026-11-26T03:36:45+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "f0f7d8e31212",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Stocks advance in Asia after volatile US trading over AI risks",
-  "teaser": "Tech shares hit this month by fears over whether an AI boom can be sustained",
-  "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
-  "published": "2026-11-26T03:28:45+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "811fa2112b1f",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash",
-  "teaser": "Normalisation has not only put households on the hunt for returns but given them rapidly growing power to surprise markets",
-  "link": "https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1",
-  "published": "2026-11-26T03:11:09+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "070ff147720c",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
-  "teaser": "Asian stock markets staged a major comeback after a selloff, as investors shrugged off new U.S. tariff proposals and Wall Street recouped most of the sharp losses ahead of the Thanksgiving holiday.",
-  "link": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
-  "published": "2026-11-26T03:09:00+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
  }
 ]
