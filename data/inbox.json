@@ -1,5 +1,27 @@
 [
  {
+  "id": "5084671fc64d",
+  "source": "European Central Bank",
+  "lang": "en",
+  "weight": 8,
+  "title": "Boris Vujčić: Interview with Kurier",
+  "teaser": "",
+  "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+  "published": "2026-11-28T08:00:00+00:00",
+  "seen": "2026-11-28T08:30:38+00:00"
+ },
+ {
+  "id": "fd2fa9204da0",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+  "teaser": "India’s banking regulator is stepping up scrutiny of the nation’s $247 billion gold-loan sector as a sharp drop in bullion prices erodes the collateral that lenders demand from borrowers, according to people familiar with the matter.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
+  "published": "2026-11-28T06:39:08+00:00",
+  "seen": "2026-11-28T08:30:38+00:00"
+ },
+ {
   "id": "a33845f41aaf",
   "source": "Financial Times",
   "lang": "en",
@@ -42,6 +64,28 @@
   "link": "https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1",
   "published": "2026-11-28T05:00:32+00:00",
   "seen": "2026-11-28T05:44:56+00:00"
+ },
+ {
+  "id": "e8c3aadf384f",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "The mathematicians living through an AI revolution",
+  "teaser": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
+  "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+  "published": "2026-11-28T05:00:32+00:00",
+  "seen": "2026-11-28T08:30:38+00:00"
+ },
+ {
+  "id": "aa60d73d786a",
+  "source": "Financial Times",
+  "lang": "en",
+  "weight": 10,
+  "title": "Five US multinationals pay more tax to Ireland than anywhere else",
+  "teaser": "New analysis highlights the extent to which Dublin has become ‘the tax office of corporate America’",
+  "link": "https://www.ft.com/content/ec489542-0968-45d7-9dd7-985ad679f9b2?syn-25a6b1a6=1",
+  "published": "2026-11-28T05:00:15+00:00",
+  "seen": "2026-11-28T08:30:38+00:00"
  },
  {
   "id": "895ea84045eb",
@@ -2145,6 +2189,17 @@
   "seen": "2026-11-26T16:31:02+00:00"
  },
  {
+  "id": "627b8e0ec1df",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Euro Stays Slightly Higher After Europe Picks New ECB Chief",
+  "teaser": "The euro rose slightly against the dollar after confirmation that Spain’s Pablo Hernandez de Cos is to be the next ECB president.",
+  "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+  "published": "2026-11-26T15:12:00+00:00",
+  "seen": "2026-11-28T08:30:38+00:00"
+ },
+ {
   "id": "6c8ca329b52f",
   "source": "Bloomberg",
   "lang": "en",
@@ -3014,6 +3069,17 @@
   "seen": "2026-11-26T08:30:33+00:00"
  },
  {
+  "id": "5bfa4d5f1dbd",
+  "source": "CNBC",
+  "lang": "en",
+  "weight": 6,
+  "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+  "teaser": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+  "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+  "published": "2026-11-26T05:36:01+00:00",
+  "seen": "2026-11-28T08:30:38+00:00"
+ },
+ {
   "id": "e935c4593137",
   "source": "Bloomberg",
   "lang": "en",
@@ -3231,72 +3297,6 @@
   "teaser": "Asian stock markets staged a major comeback after a selloff, as investors shrugged off new U.S. tariff proposals and Wall Street recouped most of the sharp losses ahead of the Thanksgiving holiday.",
   "link": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
   "published": "2026-11-26T03:09:00+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "d53fa44f4886",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Rupee Hits 8-Month High as India November Stock Inflows Reach $14.7 Billion: INR",
-  "teaser": "ANZ Banking Group sees room for the rupee to gain further to 90-91 per dollar.",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/rupee-hits-8-month-high-as-india-november-stock-inflows-reach-14-7-billion",
-  "published": "2026-11-26T02:32:22+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "68a261b4e172",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
-  "teaser": "A hawkish member of the Bank of Japan’s policy board called for early action to keep raising the BOJ’s benchmark rate, supporting market expectations for a rate hike next month.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
-  "published": "2026-11-26T02:28:30+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "29a4517b0de1",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Bank of Korea raises interest rates amid AI chip boom",
-  "teaser": "Third quarter-point increase this year takes benchmark rate to 3.25 per cent",
-  "link": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
-  "published": "2026-11-26T02:27:04+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "09706a476bfa",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "KK Mart Starts $112 Million IPO Delayed by Malaysia Socks Row",
-  "teaser": "KK Mart Retail Bhd., the Malaysian convenience-store chain whose first attempt at an initial public offering was delayed by a religious controversy, is launching a 462 million ringgit ($112 million) share sale as it prepares to add hundreds of outlets across the country.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/kk-mart-starts-112-million-ipo-delayed-by-malaysia-socks-row",
-  "published": "2026-11-26T02:03:11+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "a786dd31861c",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Copper Rebounds From Lowest This Year as Volatility Grips Metals",
-  "teaser": "Copper jumped more than 3% from an 11-month low, tracking gains in tech stocks even as doubts lingered over the durability of the AI boom and related industrial metals demand.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
-  "published": "2026-11-26T02:01:10+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "92c4f1edf909",
-  "source": "The Wall Street Journal",
-  "lang": "en",
-  "weight": 10,
-  "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
-  "teaser": "Nvidia’s sales chief dated a Super Micro executive for years. Now they have married and her former company has been linked to chip smuggling.",
-  "link": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
-  "published": "2026-11-26T02:00:00+00:00",
   "seen": "2026-11-26T04:30:12+00:00"
  }
 ]
