@@ -1,5 +1,55 @@
 [
  {
+  "id": "636640124d90",
+  "source": "The Wall Street Journal",
+  "link": "https://www.wsj.com/finance/investing/private-equity-firms-have-a-surprising-new-source-for-debt-the-nordic-bond-market-24163a71?mod=rss_markets_main",
+  "title_uk": "Фонди прямих інвестицій дедалі частіше позичають на скандинавському ринку облігацій",
+  "summary_uk": "Північноєвропейський ринок облігацій став несподівано привабливою альтернативою американському для фондів прямих інвестицій. Серед переваг — швидке закриття угод і мінімум документів.",
+  "category": "markets",
+  "published": "2026-11-27T15:30:00+00:00",
+  "added": "2026-11-28T00:30:14+00:00"
+ },
+ {
+  "id": "26ee11701418",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+  "title_uk": "Хвиля кібератак і збоїв зачепила установи західних країн",
+  "summary_uk": "Від збоїв постраждали, зокрема, британське Міністерство праці та пенсій, ФІФА і Міністерство фінансів США. Інциденти посилюють занепокоєння загрозою, яку може становити штучний інтелект.",
+  "category": "world",
+  "published": "2026-11-27T16:19:21+00:00",
+  "added": "2026-11-28T00:30:14+00:00"
+ },
+ {
+  "id": "c96034373447",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+  "title_uk": "Акції Anthropic піднялися вище ціни IPO після волатильного першого тижня",
+  "summary_uk": "Акції розробника штучного інтелекту Anthropic завершили перший календарний тиждень торгів на Nasdaq зростанням і перевищили ціну первинного розміщення в $83. Компанія вийшла на біржу з рекордним IPO.",
+  "category": "companies",
+  "published": "2026-11-27T16:49:08+00:00",
+  "added": "2026-11-28T00:30:14+00:00"
+ },
+ {
+  "id": "3b91a12f9658",
+  "source": "Bloomberg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+  "title_uk": "S&P покращило прогноз рейтингу Угорщини до «стабільного»",
+  "summary_uk": "S&P Global Ratings підвищило прогноз за суверенним боргом Угорщини з негативного до стабільного. Агентство послалося на плани уряду Петера Мадяра зменшити бюджетний дефіцит і з часом перейти на євро.",
+  "category": "world",
+  "published": "2026-11-27T21:19:31+00:00",
+  "added": "2026-11-28T00:30:14+00:00"
+ },
+ {
+  "id": "a5d38a6c5558",
+  "source": "Financial Times",
+  "link": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+  "title_uk": "S&P погіршило прогноз рейтингу Франції до «негативного»",
+  "summary_uk": "Рейтингове агентство S&P змінило прогноз за кредитним рейтингом Франції на негативний. За оцінкою агентства, політична нестабільність ускладнить країні скорочення дефіциту державного бюджету.",
+  "category": "world",
+  "published": "2026-11-27T21:34:13+00:00",
+  "added": "2026-11-28T00:30:14+00:00"
+ },
+ {
   "id": "60d3ee50b135",
   "source": "CNBC",
   "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
@@ -1211,76 +1261,5 @@
   "category": "economy",
   "published": "2026-11-24T05:00:00+00:00",
   "added": "2026-11-24T08:30:09+00:00"
- },
- {
-  "id": "980d5b5443bc",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
-  "title_uk": "Британія закупила для України підробну вибухівку C4",
-  "summary_uk": "Як пише FT, провідний британський підрозділ із закупівель заплатив за тонни пластичної вибухівки, у якій не виявили гексогену (RDX) — головного компонента військової C4. Постачальником виявився американський поліцейський, що працював неповний день.",
-  "category": "ukraine",
-  "published": "2026-11-24T05:00:07+00:00",
-  "added": "2026-11-24T08:30:09+00:00"
- },
- {
-  "id": "78345d4ecf71",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33?syn-25a6b1a6=1",
-  "title_uk": "Пентагон затримує відправлення ракет Patriot для України",
-  "summary_uk": "За даними FT, міністр оборони США Піт Геґсет досі не погодив передачу Києву 60 перехоплювачів Patriot, частина з яких мала надійти з європейських запасів. Через це поставки для української ППО відкладаються.",
-  "category": "ukraine",
-  "published": "2026-11-24T05:00:15+00:00",
-  "added": "2026-11-24T08:30:09+00:00"
- },
- {
-  "id": "digest-2026-11-24",
-  "kind": "digest",
-  "category": "digest",
-  "title_uk": "Ранковий дайджест: 24 листопада",
-  "summary_uk": "Три головні події фінансового світу за минулу добу.",
-  "source": "Fuzion Societe",
-  "link": "https://t.me/fuzionsoc",
-  "items": [
-   {
-    "title_uk": "Повернення Дженсена Хуанга в Nvidia підстьобнуло ралі на Волл-стріт",
-    "summary_uk": "Акції в США різко зросли після того, як Nvidia відновила Хуанга на посаді гендиректора, і інвестори знову повірили в тему ШІ.",
-    "source": "The Wall Street Journal",
-    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-jump-as-huang-return-triggers-ai-rally-7c008308?mod=rss_markets_main"
-   },
-   {
-    "title_uk": "Джон Вільямс із ФРС допустив поступове підвищення ставок",
-    "summary_uk": "Впливовий посадовець ФРС вказав, що для боротьби з інфляцією ставки, ймовірно, згодом доведеться підняти, і чекає її наближення до 2% у 2027-му.",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
-   },
-   {
-    "title_uk": "Невеликий НПЗ на півдні Росії зупинився після атаки дронів",
-    "summary_uk": "Завод призупинив роботу після удару безпілотників на тлі взаємних атак Москви та Києва на енергетичну інфраструктуру.",
-    "source": "Bloomberg",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/small-refinery-in-southern-russia-halts-operations-after-attack"
-   }
-  ],
-  "published": "2026-11-24T05:44:40+00:00",
-  "added": "2026-11-24T05:44:40+00:00"
- },
- {
-  "id": "f28a8309d9c8",
-  "source": "Bloomberg",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/us-senate-probes-vance-role-in-vitol-choice-for-venezuela-oil",
-  "title_uk": "Сенат США з'ясовує роль Венса у виборі Vitol для венесуельського нафтового контракту",
-  "summary_uk": "Американський сенатор розслідує, яку роль відіграв віцепрезидент Джей Ді Венс у наданні вигідного контракту на венесуельську нафту. Його отримав політичний донор, що тоді був керівником трейдера сировиною Vitol Group.",
-  "category": "world",
-  "published": "2026-11-24T00:11:51+00:00",
-  "added": "2026-11-24T04:30:30+00:00"
- },
- {
-  "id": "1e66ca783692",
-  "source": "Financial Times",
-  "link": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
-  "title_uk": "FT: Трамп міг заробити до $15 млн на акціях Nvidia після повернення Хуанга",
-  "summary_uk": "За оцінкою Financial Times, прибуток президента США від 30-відсоткового стрибка акцій Nvidia міг сягнути $15 млн. Розрахунок спирається на максимальний обсяг паперів компанії, який Трамп міг мати згідно з останньою декларацією.",
-  "category": "companies",
-  "published": "2026-11-23T22:21:44+00:00",
-  "added": "2026-11-24T04:30:30+00:00"
  }
 ]
