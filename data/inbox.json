@@ -1,5 +1,27 @@
 [
  {
+  "id": "bf549d1c0869",
+  "source": "Bloomberg",
+  "lang": "en",
+  "weight": 10,
+  "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+  "teaser": "China’s import logistics demand contracted further in the first 10 months of the year, extending a slowdown from 9.6% growth in January-February, Xinhua News Agency reported, citing figures from the China Federation of Logistics and Purchasing.",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
+  "published": "2026-11-28T03:01:44+00:00",
+  "seen": "2026-11-28T03:55:09+00:00"
+ },
+ {
+  "id": "d2d6221758a5",
+  "source": "The Wall Street Journal",
+  "lang": "en",
+  "weight": 10,
+  "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+  "teaser": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+  "link": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
+  "published": "2026-11-28T02:00:00+00:00",
+  "seen": "2026-11-28T03:55:09+00:00"
+ },
+ {
   "id": "da84e34885f8",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -3275,28 +3297,6 @@
   "teaser": "Oil rose in early Asian trade amid ongoing tensions in the Middle East, countering expectations of a supply surplus.",
   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-c730426d?mod=rss_markets_main",
   "published": "2026-11-26T01:27:00+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "bd6aca5691ee",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says",
-  "teaser": "Situational Awareness told investors it lost 65% after fees in the third quarter, after highly levered bets on artificial intelligence firms nearly led to the hedge fund’s implosion in July, according to the Wall Street Journal.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
-  "published": "2026-11-26T01:11:41+00:00",
-  "seen": "2026-11-26T04:30:12+00:00"
- },
- {
-  "id": "b25808ef9101",
-  "source": "Bloomberg",
-  "lang": "en",
-  "weight": 10,
-  "title": "Lula Sounds Out Bradesco’s Luiz Trabuco to Join His Government",
-  "teaser": "President Luiz Inácio Lula da Silva has sounded out Bradesco Chairman Luiz Carlos Trabuco Cappi about joining his fourth-term government, according to people familiar with the matter, a move that could help ease investor concerns over Brazil’s deteriorating fiscal outlook.",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/lula-sounds-out-bradesco-s-luiz-trabuco-to-join-his-government",
-  "published": "2026-11-26T01:07:45+00:00",
   "seen": "2026-11-26T04:30:12+00:00"
  }
 ]
