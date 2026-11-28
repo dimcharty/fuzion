@@ -1,5 +1,16 @@
 [
  {
+  "id": "82a337625c7f",
+  "source": "MarketWatch",
+  "lang": "en",
+  "weight": 6,
+  "title": "These tech stocks may let you play defense without giving up on AI",
+  "teaser": "Amphenol, CDW, Sensata Technologies and TE Connectivity stood out when an Evercore analyst did a stress test of the hardware-related stocks he covers.",
+  "link": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
+  "published": "2026-11-28T12:30:00+00:00",
+  "seen": "2026-11-28T13:03:11+00:00"
+ },
+ {
   "id": "fcc949566973",
   "source": "The Wall Street Journal",
   "lang": "en",
@@ -3287,16 +3298,5 @@
   "link": "https://www.ft.com/content/e61e27b6-6501-44f8-b3d2-558f7cf4dcae?syn-25a6b1a6=1",
   "published": "2026-11-26T05:00:19+00:00",
   "seen": "2026-11-26T08:30:33+00:00"
- },
- {
-  "id": "be68390e03fb",
-  "source": "Financial Times",
-  "lang": "en",
-  "weight": 10,
-  "title": "Britain’s 1,000-year-old tax travails",
-  "teaser": "Strained public finances and a reluctance to cut spending have shaped a tax system with comical distortions",
-  "link": "https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1",
-  "published": "2026-11-26T05:00:12+00:00",
-  "seen": "2026-11-26T05:44:45+00:00"
  }
 ]
